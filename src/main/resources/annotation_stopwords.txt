@@ -1,0 +1,573 @@
+) cells	1425
+) compared	1040
+) had	1396
+) has	2037
+) have	1623
+) mice	1405
+, all	1464
+, and its	977
+, compared	1225
+, has	1740
+, have	1562
+, increased	1187
+, it has	1018
+, its	1472
+, many	1042
+According	1060
+Acute	1452
+Based	3193
+Cell	1066
+Cells	1184
+Chronic	1158
+Compared	1593
+Development	1214
+Early	1385
+Functional	1650
+Further	3153
+Further ,	1227
+Increased	1392
+Loss	1019
+Many	2832
+Multiple	1261
+Recent	5773
+Regulation	1376
+Role	1492
+TRUNCATED	1152
+United	1774
+aberrant	2075
+abnormal	4212
+abolished	1835
+absence	8581
+absent	1465
+according	3109
+accumulated	1076
+accumulation	5826
+acidic	1089
+acting	1381
+active	11719
+acts	2989
+acute	11213
+adequate	1388
+adjacent	2135
+adult	6951
+adults	1797
+advanced	4027
+advances	3027
+affinity	4589
+age ,	1018
+age .	1608
+aged	1665
+aggregates	997
+aging	1237
+aimed	2809
+aims	1012
+amount	3381
+amounts	2606
+amplified	1033
+analyze	1825
+animals .	1718
+anterior	2116
+area	3142
+areas	3131
+around	2514
+arrest	1583
+assays .	1330
+associate	3503
+associated	44425
+associates	1217
+asymmetric	936
+attenuated	2750
+atypical	1242
+average	2415
+axis	1758
+back	958
+balance	1875
+base	1783
+based	11995
+bearing	992
+behavior	3072
+behaviour	1056
+bilateral	2092
+bind	4330
+binding	17475
+binding .	1088
+binds	3897
+biological	6094
+block	2845
+blocked	3390
+blocking	1686
+blocks	1563
+bound	3308
+broad	2137
+called	2203
+cell	34574
+cell .	1500
+cells	71540
+cells ,	11199
+cells .	33208
+channels	1649
+chronic	10217
+clear	2606
+close	2511
+cluster	3201
+clusters	1882
+common	15678
+compare	1867
+compared	22043
+comparing	1353
+complex	15734
+complex ,	1205
+complex .	2156
+complexes	4359
+complexes .	1131
+complexity	1177
+composition	2579
+concentration	7167
+concentrations	8123
+concentrations .	1211
+constant	1914
+contact	1574
+content	4671
+continuous	1766
+contractility	2712
+contribution	2376
+core	3720
+cost	1441
+could	20733
+created	968
+cycle	1444
+damage	4713
+damage .	1485
+death	6860
+deaths	1083
+decrease	7924
+decreased	13003
+decreases	2310
+decreasing	1094
+deep	1001
+defective	1852
+degeneration	1308
+degradation	5620
+degradation .	1555
+delay	1272
+delayed	1952
+density	2679
+development	25378
+development ,	2102
+development .	5858
+died	1616
+differentiate	1273
+differentiated	2161
+diffuse	1242
+disease	21875
+disease (	2918
+disease ,	3134
+disease .	10454
+diseases ,	1251
+diseases .	3363
+disrupted	944
+distal	2086
+distinct	9517
+distributed	1585
+distribution	6313
+divided	1923
+docking	970
+does	7509
+dogs	1022
+double	2172
+down	1170
+dysfunction	4738
+dysfunction .	1606
+early	15824
+efficiency	1813
+efficient	3459
+elderly	1724
+element	1707
+elements	2810
+elevated	5728
+elevation	1544
+embryonic	5492
+encode	4897
+encoded	2678
+encodes	3024
+encoding	5110
+enzyme .	1756
+enzymes .	1167
+epithelial	2743
+excretion	1032
+experiments	5624
+exposed	3461
+express	6015
+expressing	4376
+extension	1032
+extraction	948
+fact	1668
+failure	7312
+failure .	2676
+fall	2694
+falls	939
+familial	2994
+fate	1001
+feature	2886
+features	9401
+features .	1249
+female	4686
+females	1219
+field	2942
+find	4132
+finding	3134
+fixed	970
+fluid	1711
+fluorescent	1347
+flux	1072
+focal	1111
+focus	3440
+focused	2244
+focuses	1370
+fold	1747
+folding	972
+force	1432
+formation	13441
+formation ,	1048
+formation .	2535
+found	40500
+found .	1445
+fracture	1026
+fragment	1720
+fragments	1734
+frequencies	1006
+frequency	4252
+frequent	3671
+functional	16573
+further	14849
+fused	1064
+gamma	1328
+germline	1370
+glioma	1189
+great	2251
+growth	15611
+growth .	1740
+guide	1047
+hand ,	1452
+have	90645
+having	2938
+hearing	1579
+hearts	1263
+heavy	2332
+heterogeneity	1831
+hours	2185
+human	48073
+humans	2088
+hydrophobic	1441
+impact	5675
+impaired	4197
+inactive	1679
+incidence	5680
+increase	18939
+increased	31429
+increases	6492
+increasing	4629
+infant	1137
+infants	1400
+injection	2286
+intact	2701
+integrated	1447
+intensity	1619
+interface	1389
+intracranial	1324
+introduced	1468
+labeling	1623
+large	11214
+last	3468
+late	3940
+lateral	1358
+layer	1077
+learning	1161
+left	7435
+length	2841
+light	4444
+linear	1835
+linkage	1871
+liquid	1079
+localization	5150
+located	4832
+location	1760
+loci	1994
+locus	2359
+long	4895
+loss	10832
+loss .	997
+magnetic	1269
+magnitude	1121
+males	1352
+many	13848
+mapped	1262
+mapping	1242
+marked	3422
+matrix	3547
+mature	2586
+mechanism	18214
+mechanism .	1970
+mechanisms	17851
+mechanisms ,	950
+mechanisms .	2105
+memory	1165
+mild	2480
+mimic	978
+minimal	1948
+minor	1643
+mixed	1810
+mobility	1224
+mode	3850
+moderate	2351
+modes	978
+molecules .	1231
+morbidity	2264
+morphology	1891
+multiple	11998
+near	2304
+neoplastic	1054
+nine	1765
+normal	21974
+number	14910
+numbers	1894
+open	2161
+opposite	1099
+organisms	1371
+organization	2352
+organs	1333
+origin	2460
+origin .	987
+overlap	1032
+overlapping	1157
+parallel	1712
+past	2714
+pathological	3645
+pathology	2052
+pathway	12417
+pathway ,	1547
+pathway .	4155
+pathways	7520
+pathways ,	957
+pattern	6583
+patterns	5842
+period	4650
+period .	1854
+peripheral	5443
+phase	5010
+phosphorylation .	1365
+plants	1729
+plants .	1008
+point	2895
+points	1555
+polymorphism	2073
+pool	949
+position	2592
+positions	1083
+posterior	1708
+power	1271
+precise	1533
+precursor	1731
+precursors	1245
+premature	1573
+presence	17450
+present	28315
+presentation	1882
+presented	7133
+presented .	1764
+presenting	2557
+presents	2110
+printing	1120
+process	8675
+process ,	1021
+process .	3022
+processes	4887
+processes .	1626
+processing	2309
+progressive	3602
+proliferation	5457
+proliferation ,	965
+proliferative	1298
+prominent	1701
+proportion	2435
+protect	1421
+protected	1044
+protects	1017
+protein	57351
+protein ,	3921
+protein .	5464
+proteins	33747
+proteins (	1453
+proteins ,	4667
+proteins .	8129
+provide	15348
+provided	4128
+provides	7013
+providing	1673
+proximal	1833
+quality	3601
+quantitative	3784
+raised	1392
+rate	9848
+rates	5171
+ratio	4672
+ratios	1015
+recent	9302
+recorded	1405
+recurrent	3283
+reduce	5414
+reduced	18159
+reduces	2724
+reducing	3028
+reflect	1683
+regard	1317
+regarding	3866
+regeneration	1218
+regulation	15030
+regulation .	2000
+regulatory	8517
+related	15697
+relative	5187
+repeat	1411
+repeated	1581
+resistance	8848
+resistance .	1589
+resistant	3638
+response	19349
+response .	1947
+responses	6314
+responses .	1315
+responsive	977
+rest	979
+resting	1127
+retention	991
+reverse	2603
+reversed	2010
+right	2949
+robust	1420
+role	46564
+roles	8627
+salt	1075
+scaffold	965
+scale	1141
+score	1537
+scores	2026
+secrete	3134
+secreted	3000
+secretion .	1006
+segment	1444
+segments	1089
+selection	3078
+sensitive	4851
+sensitivity	4954
+sets	1055
+setting	1307
+seven	2677
+severe	8968
+shape	1387
+short	3812
+signal	3558
+signaling	14645
+signaling ,	1337
+signaling .	3504
+signalling	2319
+simple	2688
+sister	2413
+size	4496
+slow	1707
+small	12910
+soft	1255
+solid	2105
+soluble	2576
+sought	1192
+source	2660
+sources	1126
+space	1011
+spatial	1812
+specificity	4003
+sporadic	2331
+stained	1112
+start	941
+starting	1023
+step	3008
+steps	1876
+stimulate	2146
+stimulated	4568
+stimulates	1948
+stimulating	1324
+storage	1225
+strain	4995
+strength	1326
+stroke	1890
+strong	4808
+structure	12758
+structure ,	1128
+structure .	1737
+structures	6091
+structures .	1348
+sufficient	3493
+surface	5352
+surgery ,	1004
+surrounding	1429
+susceptibility	3344
+susceptible	1498
+syndrome (	1524
+syndrome ,	1628
+syndrome .	4194
+syndromes	1828
+system	9952
+system ,	1395
+system .	2988
+systems	4043
+systems .	1664
+tail	1017
+technique	3307
+techniques	3375
+techniques .	968
+temperature	1640
+temporal	1629
+test	6770
+tested	6553
+testing	3669
+tests	2843
+time	12476
+time ,	1530
+time .	1874
+times	3030
+tissue	10832
+trait	2104
+traits	1833
+transfection	1228
+transformed	1292
+transforming	2180
+transient	2955
+translation	1485
+transplantation .	1007
+transport	4417
+treat	2579
+treating	2215
+triple	1027
+truncated	1111
+tubular	1175
+unilateral	1022
+unique	6091
+unknown	2933
+unknown .	4117
+validation	1162
+variability	1935
+variable	2546
+variables	1299
+variant	4003
+variants	3899
+velocity	1009
+viability	1461
+vivo ,	1444
+volume	2593
+wall	2020
+weak	1369
+weight	2381
+whole	2506
+wide	3730
+work	5341
+work ,	974
+young	3558

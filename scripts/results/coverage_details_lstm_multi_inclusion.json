@@ -1,0 +1,1402 @@
+[
+  {
+    "gsCount": 19,
+    "question": "Which genes are implicated in short QT syndrome?",
+    "count": 12,
+    "coverageFrac": 0.631578947368421,
+    "id": "52f509232059c6d71c00001f"
+  },
+  {
+    "gsCount": 9,
+    "question": "What do mepolizumab and reslizumab have in common?",
+    "count": 7,
+    "coverageFrac": 0.7777777777777778,
+    "id": "56cf2be73975bb303a000005"
+  },
+  {
+    "gsCount": 26,
+    "question": "Which receptors are targeted by suvorexant?",
+    "count": 20,
+    "coverageFrac": 0.7692307692307693,
+    "id": "54fc9ca16ad7dcbc12000006"
+  },
+  {
+    "gsCount": 2,
+    "question": "What is STARR-seq?",
+    "count": 2,
+    "coverageFrac": 1,
+    "id": "56b8ccc5156496395c000003"
+  },
+  {
+    "gsCount": 17,
+    "question": "Which gene is associated with Muenke syndrome?",
+    "count": 15,
+    "coverageFrac": 0.8823529411764706,
+    "id": "52bf1d2e03868f1b0600000c"
+  },
+  {
+    "gsCount": 15,
+    "question": "What is the function of the yeast protein Aft1?",
+    "count": 8,
+    "coverageFrac": 0.5333333333333333,
+    "id": "51600ca2298dcd4e51000037"
+  },
+  {
+    "gsCount": 11,
+    "question": "Which type of GTPases is required for amino acid-dependent activation of mTORC1?",
+    "count": 1,
+    "coverageFrac": 0.09090909090909091,
+    "id": "56cdf3e55795f9a73e00003c"
+  },
+  {
+    "gsCount": 9,
+    "question": "What is the major adverse effect of adriamycin(doxorubicin)?",
+    "count": 1,
+    "coverageFrac": 0.1111111111111111,
+    "id": "53551206a0726bee57000001"
+  },
+  {
+    "gsCount": 16,
+    "question": "Which disease of the central nervous system is characterized by the presence of Lewy bodies?",
+    "count": 11,
+    "coverageFrac": 0.6875,
+    "id": "550c3754a103b78016000007"
+  },
+  {
+    "gsCount": 11,
+    "question": "Is ospemifene effective for treatment of dyspareunia?",
+    "count": 4,
+    "coverageFrac": 0.36363636363636365,
+    "id": "5335b373d6d3ac6a34000050"
+  },
+  {
+    "gsCount": 6,
+    "question": "What is the most prominent sequence consensus for the polyadenylation site?",
+    "count": 4,
+    "coverageFrac": 0.6666666666666666,
+    "id": "5133b9455274a5fb0700000c"
+  },
+  {
+    "gsCount": 6,
+    "question": "Which drugs are included in TAS-102?",
+    "count": 1,
+    "coverageFrac": 0.16666666666666666,
+    "id": "56c1f000ef6e394741000037"
+  },
+  {
+    "gsCount": 5,
+    "question": "Idarucizumab is an antidote of which drug?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "56c079b1ef6e394741000022"
+  },
+  {
+    "gsCount": 6,
+    "question": "What is the indication of Daonil (Glibenclamide)?",
+    "count": 1,
+    "coverageFrac": 0.16666666666666666,
+    "id": "52b2e1d8f828ad283c00000c"
+  },
+  {
+    "gsCount": 13,
+    "question": "Which genes does thyroid hormone receptor alpha1 regulate in the heart?",
+    "count": 4,
+    "coverageFrac": 0.3076923076923077,
+    "id": "515c4f05298dcd4e51000006"
+  },
+  {
+    "gsCount": 16,
+    "question": "Which are the Yamanaka factors?",
+    "count": 13,
+    "coverageFrac": 0.8125,
+    "id": "53137541e3eabad021000010"
+  },
+  {
+    "gsCount": 5,
+    "question": "Is zolpidem an antibiotic?",
+    "count": 4,
+    "coverageFrac": 0.8,
+    "id": "530cf4fe960c95ad0c00000a"
+  },
+  {
+    "gsCount": 22,
+    "question": "Which human genes are more commonly related to craniosynostosis?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "513ce3c8bee46bd34c000008"
+  },
+  {
+    "gsCount": 10,
+    "question": "Have 5q35 microdeletions been implicated in Sotos syndrome development?",
+    "count": 6,
+    "coverageFrac": 0.6,
+    "id": "571f33f10fd6f91b68000004"
+  },
+  {
+    "gsCount": 17,
+    "question": "Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?",
+    "count": 11,
+    "coverageFrac": 0.6470588235294118,
+    "id": "530cefaaad0bf1360c000001"
+  },
+  {
+    "gsCount": 29,
+    "question": "Which gene test can be used for the X-linked myotubular myopathy?",
+    "count": 24,
+    "coverageFrac": 0.8275862068965517,
+    "id": "51542dabd24251bc0500007d"
+  },
+  {
+    "gsCount": 9,
+    "question": "Does TGF-beta play a role in cardiac regeneration after myocardial infarction?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "52f5083d2059c6d71c00001e"
+  },
+  {
+    "gsCount": 17,
+    "question": "Is muscle lim protein (MLP) involved in cardiomyopathies?",
+    "count": 13,
+    "coverageFrac": 0.7647058823529411,
+    "id": "54f704b630767eb92e000001"
+  },
+  {
+    "gsCount": 6,
+    "question": "How many different mutations have been associated with Muenke syndrome?",
+    "count": 5,
+    "coverageFrac": 0.8333333333333334,
+    "id": "52c7311903868f1b0600001d"
+  },
+  {
+    "gsCount": 21,
+    "question": "Which proteins have been identified as RET ligands?",
+    "count": 16,
+    "coverageFrac": 0.7619047619047619,
+    "id": "551910d3622b194345000008"
+  },
+  {
+    "gsCount": 7,
+    "question": "List disorders that are caused by mutations in the mitochondrial MTND6 gene.",
+    "count": 4,
+    "coverageFrac": 0.5714285714285714,
+    "id": "530c844e970c65fa6b000014"
+  },
+  {
+    "gsCount": 4,
+    "question": "What is the function of TALENs?",
+    "count": 4,
+    "coverageFrac": 1,
+    "id": "515dc691298dcd4e5100001b"
+  },
+  {
+    "gsCount": 9,
+    "question": "What are the outcomes of Renal sympathetic denervation?",
+    "count": 8,
+    "coverageFrac": 0.8888888888888888,
+    "id": "532624ae600967d132000005"
+  },
+  {
+    "gsCount": 7,
+    "question": "Is CHEK2 involved in cell cycle control?",
+    "count": 3,
+    "coverageFrac": 0.42857142857142855,
+    "id": "53175e25b166e2b806000007"
+  },
+  {
+    "gsCount": 5,
+    "question": "Have C12orf65 mutations been associated with axonal neuropathy and optic atrophy?",
+    "count": 3,
+    "coverageFrac": 0.6,
+    "id": "5713c7dd1174fb1755000014"
+  },
+  {
+    "gsCount": 5,
+    "question": "Does triiodothyronine (T3) has cardiac angiogenic effects?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "513f4892bee46bd34c000014"
+  },
+  {
+    "gsCount": 25,
+    "question": "Which syndrome is associated with mutations in the LYST gene?",
+    "count": 19,
+    "coverageFrac": 0.76,
+    "id": "56f564f909dd18d46b000009"
+  },
+  {
+    "gsCount": 35,
+    "question": "Is endostatin a proangiogenic factor?",
+    "count": 25,
+    "coverageFrac": 0.7142857142857143,
+    "id": "53124e84e3eabad02100000c"
+  },
+  {
+    "gsCount": 24,
+    "question": "Is there a relation between ANP and transcapillary albumin escape?",
+    "count": 3,
+    "coverageFrac": 0.125,
+    "id": "5321b8a39b2d7acc7e000009"
+  },
+  {
+    "gsCount": 1,
+    "question": "What is the role of extracellular signal-related kinases 1 and 2 (ERK1/2) proteins in craniosynostosis?",
+    "count": 1,
+    "coverageFrac": 1,
+    "id": "553fa2201d53b76422000005"
+  },
+  {
+    "gsCount": 13,
+    "question": "List five applications of machine learning algorithms in medical diagnosis.",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "52ee065d98d0239505000033"
+  },
+  {
+    "gsCount": 5,
+    "question": "Which compound is a specific inhibitor for Nox1 and Nox4?",
+    "count": 1,
+    "coverageFrac": 0.2,
+    "id": "56c865d25795f9a73e000016"
+  },
+  {
+    "gsCount": 9,
+    "question": "What hand deformities do patients with Apert syndrome present with?",
+    "count": 8,
+    "coverageFrac": 0.8888888888888888,
+    "id": "52bf1cb303868f1b0600000b"
+  },
+  {
+    "gsCount": 9,
+    "question": "Is the Wnt protein modified by notum?",
+    "count": 9,
+    "coverageFrac": 1,
+    "id": "57089865cf1c32585100000c"
+  },
+  {
+    "gsCount": 22,
+    "question": "What is known as Von Hippel\u2013Lindau disease or syndrome?",
+    "count": 4,
+    "coverageFrac": 0.18181818181818182,
+    "id": "552446612c8b63434a00000c"
+  },
+  {
+    "gsCount": 15,
+    "question": "Which phenomenon is described as oncogene addiction?",
+    "count": 14,
+    "coverageFrac": 0.9333333333333333,
+    "id": "55253d7087ecba3764000008"
+  },
+  {
+    "gsCount": 27,
+    "question": "Which are the biotracers used for detection of Alzheimer's disease using PET?",
+    "count": 3,
+    "coverageFrac": 0.1111111111111111,
+    "id": "5311bf53e3eabad021000006"
+  },
+  {
+    "gsCount": 8,
+    "question": "Which peripheral neuropathy has been associated with NDRG1 mutations?",
+    "count": 8,
+    "coverageFrac": 1,
+    "id": "5713c8d71174fb1755000015"
+  },
+  {
+    "gsCount": 33,
+    "question": "Mutation of which gene is implicated in the familial isolated pituitary adenoma?",
+    "count": 14,
+    "coverageFrac": 0.42424242424242425,
+    "id": "551c23bc6b348bb82c00000b"
+  },
+  {
+    "gsCount": 21,
+    "question": "which are the risk factors for sudden cardiac death in patients with hypertrophic cardiomyopathy?",
+    "count": 11,
+    "coverageFrac": 0.5238095238095238,
+    "id": "531375a6e3eabad021000011"
+  },
+  {
+    "gsCount": 2,
+    "question": "Is Alu hypomethylation associated with breast cancer?",
+    "count": 1,
+    "coverageFrac": 0.5,
+    "id": "54db1d580f63c58e6e000005"
+  },
+  {
+    "gsCount": 19,
+    "question": "Are Notch mutations related to T-cell Acute Lymphoblastic Leukemia (T-ALL)?",
+    "count": 13,
+    "coverageFrac": 0.6842105263157895,
+    "id": "5522fadb7b523f2123000001"
+  },
+  {
+    "gsCount": 17,
+    "question": "To the ligand of which receptors does Denosumab (Prolia) bind?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "52bf1d9e03868f1b06000010"
+  },
+  {
+    "gsCount": 5,
+    "question": "Can tetracycline affect tooth formation?",
+    "count": 6,
+    "coverageFrac": 1.2,
+    "id": "530cf4fe960c95ad0c000009"
+  },
+  {
+    "gsCount": 31,
+    "question": "Which genes are affected in ROMANO-WARD syndrome?",
+    "count": 13,
+    "coverageFrac": 0.41935483870967744,
+    "id": "52eea509c8da89891000000d"
+  },
+  {
+    "gsCount": 10,
+    "question": "Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?",
+    "count": 3,
+    "coverageFrac": 0.3,
+    "id": "56c1f03bef6e394741000053"
+  },
+  {
+    "gsCount": 23,
+    "question": "Which is the major symptom of the Doose syndrome?",
+    "count": 16,
+    "coverageFrac": 0.6956521739130435,
+    "id": "550342a8f8aee20f27000002"
+  },
+  {
+    "gsCount": 12,
+    "question": "Which molecule is targeted by Daratumumab?",
+    "count": 9,
+    "coverageFrac": 0.75,
+    "id": "56bc932aac7ad1001900001c"
+  },
+  {
+    "gsCount": 7,
+    "question": "Which drugs are utilized to treat eosinophilic esophagitis?",
+    "count": 2,
+    "coverageFrac": 0.2857142857142857,
+    "id": "518ba4b5310faafe08000005"
+  },
+  {
+    "gsCount": 10,
+    "question": "What is the role of ELMO1 gene in cell migration?",
+    "count": 8,
+    "coverageFrac": 0.8,
+    "id": "56c2fbd91e69116444000001"
+  },
+  {
+    "gsCount": 8,
+    "question": "Which is the gene most commonly mutated in Tay-Sachs disease?",
+    "count": 4,
+    "coverageFrac": 0.5,
+    "id": "536e46f27d100faa09000012"
+  },
+  {
+    "gsCount": 68,
+    "question": "Which enzyme is involved in the maintenance of DNA (cytosine-5-)-methylation?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "51585b28d24251bc0500008d"
+  },
+  {
+    "gsCount": 11,
+    "question": "What is the role of TRH in hypertension?",
+    "count": 5,
+    "coverageFrac": 0.45454545454545453,
+    "id": "51602609298dcd4e5100003a"
+  },
+  {
+    "gsCount": 7,
+    "question": "List two common features of Tay syndrome.",
+    "count": 7,
+    "coverageFrac": 1,
+    "id": "53358cd2d6d3ac6a3400004e"
+  },
+  {
+    "gsCount": 24,
+    "question": "Which enzyme is deficient in Gaucher's disease?",
+    "count": 7,
+    "coverageFrac": 0.2916666666666667,
+    "id": "571f5e740fd6f91b6800000b"
+  },
+  {
+    "gsCount": 18,
+    "question": "Which protein is found to be mutated in Friedreich's ataxia?",
+    "count": 7,
+    "coverageFrac": 0.3888888888888889,
+    "id": "571f5c150fd6f91b68000009"
+  },
+  {
+    "gsCount": 18,
+    "question": "Which are the cardiac manifestations of Marfan syndrome?",
+    "count": 2,
+    "coverageFrac": 0.1111111111111111,
+    "id": "530cf4e0c8a0b4a00c000005"
+  },
+  {
+    "gsCount": 31,
+    "question": "Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?",
+    "count": 27,
+    "coverageFrac": 0.8709677419354839,
+    "id": "5147c088d24251bc05000026"
+  },
+  {
+    "gsCount": 7,
+    "question": "Which is the main calcium binding protein of the sarcoplasmic reticulum?",
+    "count": 2,
+    "coverageFrac": 0.2857142857142857,
+    "id": "54cf45e7f693c3b16b00000a"
+  },
+  {
+    "gsCount": 27,
+    "question": "List programs suitable for protein docking",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "53355befd6d3ac6a34000046"
+  },
+  {
+    "gsCount": 37,
+    "question": "Is Tuberous Sclerosis a genetic disease?",
+    "count": 32,
+    "coverageFrac": 0.8648648648648649,
+    "id": "52b06a68f828ad283c000005"
+  },
+  {
+    "gsCount": 3,
+    "question": "What are the results of loss of the protein Lon1 in the plant Arabidopsis?",
+    "count": 3,
+    "coverageFrac": 1,
+    "id": "52e0141498d023950500000e"
+  },
+  {
+    "gsCount": 23,
+    "question": "Which proteins act as histone-like molecules in prokaryotes?",
+    "count": 2,
+    "coverageFrac": 0.08695652173913043,
+    "id": "52ef7754c8da898910000014"
+  },
+  {
+    "gsCount": 13,
+    "question": "What is the method FASP used for?",
+    "count": 5,
+    "coverageFrac": 0.38461538461538464,
+    "id": "5509f433c2af5d5b70000008"
+  },
+  {
+    "gsCount": 6,
+    "question": "What is the usefulness of ultraconserved elements in phylogeny?",
+    "count": 6,
+    "coverageFrac": 1,
+    "id": "553cf397f321868558000010"
+  },
+  {
+    "gsCount": 3,
+    "question": "What is the molecular pathogenesis of Spinal Muscular Atrophy?",
+    "count": 1,
+    "coverageFrac": 0.3333333333333333,
+    "id": "52f124a12059c6d71c000006"
+  },
+  {
+    "gsCount": 12,
+    "question": "Does splicing occur co-transcriptionally?",
+    "count": 7,
+    "coverageFrac": 0.5833333333333334,
+    "id": "533c3871c45e133714000007"
+  },
+  {
+    "gsCount": 5,
+    "question": "In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?",
+    "count": 4,
+    "coverageFrac": 0.8,
+    "id": "5544de7a5beec11c10000005"
+  },
+  {
+    "gsCount": 2,
+    "question": "Which event results in the acetylation of S6K1?",
+    "count": 2,
+    "coverageFrac": 1,
+    "id": "551173c26a8cde6b72000004"
+  },
+  {
+    "gsCount": 7,
+    "question": "Is the yeast Μac1 transcription factor induced upon copper deficiency?",
+    "count": 5,
+    "coverageFrac": 0.7142857142857143,
+    "id": "56e19eba51531f7e33000012"
+  },
+  {
+    "gsCount": 6,
+    "question": "List mutations that are implicated in the Gray Platelet Syndrome.",
+    "count": 7,
+    "coverageFrac": 1.1666666666666667,
+    "id": "56bcc455d36b5da378000003"
+  },
+  {
+    "gsCount": 25,
+    "question": "Is Growth factor independence 1b (GFI1B) important for hematopoiesis?",
+    "count": 12,
+    "coverageFrac": 0.48,
+    "id": "553bd2f0f321868558000008"
+  },
+  {
+    "gsCount": 20,
+    "question": "Do lincRNAs play a role in human cancer?",
+    "count": 3,
+    "coverageFrac": 0.15,
+    "id": "516e5f33298dcd4e5100007e"
+  },
+  {
+    "gsCount": 24,
+    "question": "Which enzyme is targeted by Evolocumab?",
+    "count": 12,
+    "coverageFrac": 0.5,
+    "id": "54e0d1491388e8454a000014"
+  },
+  {
+    "gsCount": 8,
+    "question": "Which protein kinases have been found to phosphorylate Phospholamban and affect its biological activity?",
+    "count": 10,
+    "coverageFrac": 1.25,
+    "id": "54db7c4ac0bb8dce23000001"
+  },
+  {
+    "gsCount": 6,
+    "question": "Which is the most abundant membrane protein on Earth?",
+    "count": 3,
+    "coverageFrac": 0.5,
+    "id": "5519a7d5622b194345000015"
+  },
+  {
+    "gsCount": 5,
+    "question": "Which disease can be treated with Delamanid?",
+    "count": 3,
+    "coverageFrac": 0.6,
+    "id": "56bc7d71ac7ad10019000018"
+  },
+  {
+    "gsCount": 36,
+    "question": "List the diseases that can be treated using Vedolizumab.",
+    "count": 26,
+    "coverageFrac": 0.7222222222222222,
+    "id": "5508685b4b2a315d4100000a"
+  },
+  {
+    "gsCount": 12,
+    "question": "List the neurotransmitters that are metabolized by MAOA.",
+    "count": 7,
+    "coverageFrac": 0.5833333333333334,
+    "id": "56cf4b623975bb303a00000a"
+  },
+  {
+    "gsCount": 12,
+    "question": "Does replication timing affect the rate of somatic mutations?",
+    "count": 2,
+    "coverageFrac": 0.16666666666666666,
+    "id": "5710dd61cf1c32585100002e"
+  },
+  {
+    "gsCount": 19,
+    "question": "Which fusion protein is involved in the development of Ewing sarcoma?",
+    "count": 12,
+    "coverageFrac": 0.631578947368421,
+    "id": "552fac4fbc4f83e828000006"
+  },
+  {
+    "gsCount": 4,
+    "question": "Name monoclonal antibody against SLAMF7.",
+    "count": 3,
+    "coverageFrac": 0.75,
+    "id": "56c077e9ef6e394741000021"
+  },
+  {
+    "gsCount": 14,
+    "question": "Is protein Fbw7 a SCF type of E3 ubiquitin ligase?",
+    "count": 7,
+    "coverageFrac": 0.5,
+    "id": "550ae16bc2af5d5b70000009"
+  },
+  {
+    "gsCount": 20,
+    "question": "What are the indications for alteplase?",
+    "count": 14,
+    "coverageFrac": 0.7,
+    "id": "52bf209303868f1b0600001a"
+  },
+  {
+    "gsCount": 10,
+    "question": "What is known about Vancomycin dosing in neonates?",
+    "count": 3,
+    "coverageFrac": 0.3,
+    "id": "515d71ee298dcd4e5100000b"
+  },
+  {
+    "gsCount": 22,
+    "question": "Which enzyme is deficient in Krabbe disease?",
+    "count": 20,
+    "coverageFrac": 0.9090909090909091,
+    "id": "5147c8a6d24251bc05000027"
+  },
+  {
+    "gsCount": 8,
+    "question": "Which are the main functions of G3BP1 and G3BP2 proteins?",
+    "count": 6,
+    "coverageFrac": 0.75,
+    "id": "5717ab7ccb4ef8864c00000c"
+  },
+  {
+    "gsCount": 10,
+    "question": "What is the mode of inheritance in Fanconi anemia?",
+    "count": 7,
+    "coverageFrac": 0.7,
+    "id": "54ede95c94afd6150400000a"
+  },
+  {
+    "gsCount": 10,
+    "question": "What molecule is targeted by suvorexant?",
+    "count": 9,
+    "coverageFrac": 0.9,
+    "id": "56c1f003ef6e394741000039"
+  },
+  {
+    "gsCount": 12,
+    "question": "Which is the protein implicated in Spinocerebellar ataxia type 3?",
+    "count": 11,
+    "coverageFrac": 0.9166666666666666,
+    "id": "57138eb21174fb175500000a"
+  },
+  {
+    "gsCount": 8,
+    "question": "What is Tn-seq?",
+    "count": 7,
+    "coverageFrac": 0.875,
+    "id": "56d2ae19f22319765a000006"
+  },
+  {
+    "gsCount": 14,
+    "question": "Is apixaban effective for treatment of acute venous thromboembolism?",
+    "count": 5,
+    "coverageFrac": 0.35714285714285715,
+    "id": "530cefaaad0bf1360c000005"
+  },
+  {
+    "gsCount": 14,
+    "question": "What is the mechanism of viroid replication?",
+    "count": 10,
+    "coverageFrac": 0.7142857142857143,
+    "id": "56f3faed09dd18d46b000002"
+  },
+  {
+    "gsCount": 17,
+    "question": "Tumors of which three organs are classically associated with the multiple endocrine neoplasia type 1 syndrome?",
+    "count": 9,
+    "coverageFrac": 0.5294117647058824,
+    "id": "51477de5d24251bc05000020"
+  },
+  {
+    "gsCount": 22,
+    "question": "What disease is Velcade (bortezomib) mainly used for?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "51631154298dcd4e5100004e"
+  },
+  {
+    "gsCount": 8,
+    "question": "What is Snord116?",
+    "count": 8,
+    "coverageFrac": 1,
+    "id": "52b2f1014003448f5500000a"
+  },
+  {
+    "gsCount": 2,
+    "question": "Which bacteria caused plague?",
+    "count": 2,
+    "coverageFrac": 1,
+    "id": "571cdd227de986d80d00000f"
+  },
+  {
+    "gsCount": 13,
+    "question": "What is the name of Bruton's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "530cf4c54a5037880c000008"
+  },
+  {
+    "gsCount": 28,
+    "question": "Mutations in which gene determine response to both erlotinib and gefitinib?",
+    "count": 15,
+    "coverageFrac": 0.5357142857142857,
+    "id": "51542e44d24251bc05000081"
+  },
+  {
+    "gsCount": 15,
+    "question": "How are CRM (cis-regulatory modules) defined?",
+    "count": 5,
+    "coverageFrac": 0.3333333333333333,
+    "id": "56f3eebd2ac5ed1459000016"
+  },
+  {
+    "gsCount": 12,
+    "question": "Which is the RNA sequence of the canonical polyadenylation signal?",
+    "count": 2,
+    "coverageFrac": 0.16666666666666666,
+    "id": "550739cf3b8a5dc045000002"
+  },
+  {
+    "gsCount": 1,
+    "question": "Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation?",
+    "count": 1,
+    "coverageFrac": 1,
+    "id": "56cafa845795f9a73e00002e"
+  },
+  {
+    "gsCount": 10,
+    "question": "Which mutations in the cardiac isoform of the ryanodine receptor (RyR2) have been found to be related to CPVT?",
+    "count": 7,
+    "coverageFrac": 0.7,
+    "id": "550712739d0faaa527000008"
+  },
+  {
+    "gsCount": 8,
+    "question": "Can RNAPolII function as an RNA-dependent RNA-polymerase?",
+    "count": 7,
+    "coverageFrac": 0.875,
+    "id": "571696d9cb4ef8864c000009"
+  },
+  {
+    "gsCount": 6,
+    "question": "Which forms of cancer is the Tpl2 gene associated with?",
+    "count": 2,
+    "coverageFrac": 0.3333333333333333,
+    "id": "515bf6d6298dcd4e51000004"
+  },
+  {
+    "gsCount": 14,
+    "question": "How is bladder wall thickness measured?",
+    "count": 3,
+    "coverageFrac": 0.21428571428571427,
+    "id": "5324bdba9b2d7acc7e00001a"
+  },
+  {
+    "gsCount": 6,
+    "question": "Mutations in which genes have been associated with Aicardi-Goutieres syndrome?",
+    "count": 5,
+    "coverageFrac": 0.8333333333333334,
+    "id": "56f5692f09dd18d46b00000a"
+  },
+  {
+    "gsCount": 6,
+    "question": "What is known about food intolerance and gluten ?",
+    "count": 6,
+    "coverageFrac": 1,
+    "id": "550300fce9bde6963400000a"
+  },
+  {
+    "gsCount": 11,
+    "question": "Which DNA sequences are more prone for the formation of R-loops?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "56c3327c50c68dd41600000c"
+  },
+  {
+    "gsCount": 4,
+    "question": "Rindopepimut is an analog of which growth factor?",
+    "count": 4,
+    "coverageFrac": 1,
+    "id": "54d8fd334b1fd0d33c000005"
+  },
+  {
+    "gsCount": 16,
+    "question": "List signaling molecules (ligands) that interact with the receptor EGFR?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "55046d5ff8aee20f27000007"
+  },
+  {
+    "gsCount": 4,
+    "question": "Are nucleosomes positioned at DNA replication origins?",
+    "count": 1,
+    "coverageFrac": 0.25,
+    "id": "513596225274a5fb0700000d"
+  },
+  {
+    "gsCount": 8,
+    "question": "How does Foxa transcription factor exhibits its pioneering function?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "57092f9bcf1c32585100001b"
+  },
+  {
+    "gsCount": 5,
+    "question": "Is Crohn's disease (CD) linked to the consumption of refrigerated food?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "56cae40b5795f9a73e000022"
+  },
+  {
+    "gsCount": 27,
+    "question": "What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?",
+    "count": 2,
+    "coverageFrac": 0.07407407407407407,
+    "id": "571e275dbb137a4b0c000005"
+  },
+  {
+    "gsCount": 14,
+    "question": "Which are the methods for in silico prediction of the origin of replication (ori) among bacteria?",
+    "count": 3,
+    "coverageFrac": 0.21428571428571427,
+    "id": "5542644fed966d112c000004"
+  },
+  {
+    "gsCount": 29,
+    "question": "Treprostinil is an analogue for which prostaglandin?",
+    "count": 7,
+    "coverageFrac": 0.2413793103448276,
+    "id": "56c86aa95795f9a73e000018"
+  },
+  {
+    "gsCount": 14,
+    "question": "What is the principle of the PAR-CLIP methodology?",
+    "count": 12,
+    "coverageFrac": 0.8571428571428571,
+    "id": "533c388dc45e133714000008"
+  },
+  {
+    "gsCount": 16,
+    "question": "Which oncogenes are able to induce cellular senescence?",
+    "count": 1,
+    "coverageFrac": 0.0625,
+    "id": "5309f8f5970c65fa6b000001"
+  },
+  {
+    "gsCount": 14,
+    "question": "How are GRBs (Genomic Regulatory Blocks) defined?",
+    "count": 7,
+    "coverageFrac": 0.5,
+    "id": "56eaf4e6107309bc2f000001"
+  },
+  {
+    "gsCount": 30,
+    "question": "Is cardiac magnetic resonance imaging indicated in the pre-participation screening of athletes?",
+    "count": 4,
+    "coverageFrac": 0.13333333333333333,
+    "id": "531d3dc0267d7dd053000005"
+  },
+  {
+    "gsCount": 10,
+    "question": "Which protein complexes contain mitofilin?",
+    "count": 10,
+    "coverageFrac": 1,
+    "id": "53215fca9b2d7acc7e000005"
+  },
+  {
+    "gsCount": 21,
+    "question": "Which are the bioinformatics tools for gene structure prediction?\n",
+    "count": 3,
+    "coverageFrac": 0.14285714285714285,
+    "id": "51740da48ed59a060a000024"
+  },
+  {
+    "gsCount": 3,
+    "question": "Is PLK2 involved in alpha-synuclein phosphorylation in Parkinson disease?",
+    "count": 2,
+    "coverageFrac": 0.6666666666666666,
+    "id": "551910fa622b19434500000b"
+  },
+  {
+    "gsCount": 13,
+    "question": "Which diseases are caused by mutations in Calsequestrin 2 (CASQ2) gene?",
+    "count": 7,
+    "coverageFrac": 0.5384615384615384,
+    "id": "52bf1af803868f1b06000008"
+  },
+  {
+    "gsCount": 9,
+    "question": "List the human genes encoding for the dishevelled proteins?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "5709e4b2cf1c32585100001c"
+  },
+  {
+    "gsCount": 10,
+    "question": "List all reported treatment options for anxiety in autism spectrum disorder.",
+    "count": 8,
+    "coverageFrac": 0.8,
+    "id": "515de993298dcd4e51000024"
+  },
+  {
+    "gsCount": 8,
+    "question": "Is Weaver syndrome similar to Sotos?",
+    "count": 7,
+    "coverageFrac": 0.875,
+    "id": "571f34ac0fd6f91b68000005"
+  },
+  {
+    "gsCount": 19,
+    "question": "What is a P-body (processing body)?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "54d8e59f4b1fd0d33c000001"
+  },
+  {
+    "gsCount": 16,
+    "question": "List features of the DEND syndrome.",
+    "count": 11,
+    "coverageFrac": 0.6875,
+    "id": "56c1f030ef6e39474100004d"
+  },
+  {
+    "gsCount": 11,
+    "question": "During which stage of the cell cycle is cohesin deposited on the yeast genome?",
+    "count": 4,
+    "coverageFrac": 0.36363636363636365,
+    "id": "56e2acfe51531f7e33000014"
+  },
+  {
+    "gsCount": 7,
+    "question": "What type of arrhythmia is known as bidirectional ventricular tachycardia (BDVT)?",
+    "count": 7,
+    "coverageFrac": 1,
+    "id": "5507ea9a0195c16935000008"
+  },
+  {
+    "gsCount": 7,
+    "question": "Which histone modifications are associated with Polycomb group (PcG) proteins?",
+    "count": 4,
+    "coverageFrac": 0.5714285714285714,
+    "id": "531b1e3cb166e2b80600003b"
+  },
+  {
+    "gsCount": 17,
+    "question": "Which compounds exist that are thyroid hormone analogs?",
+    "count": 14,
+    "coverageFrac": 0.8235294117647058,
+    "id": "515993f3d24251bc050000a0"
+  },
+  {
+    "gsCount": 24,
+    "question": "What is the gene mutated in the Gaucher disease?",
+    "count": 19,
+    "coverageFrac": 0.7916666666666666,
+    "id": "532f55fed6d3ac6a34000036"
+  },
+  {
+    "gsCount": 13,
+    "question": "In which types of DNA repair is the UvrAB complex involved?",
+    "count": 13,
+    "coverageFrac": 1,
+    "id": "553f7a71ab98a37113000009"
+  },
+  {
+    "gsCount": 4,
+    "question": "What are the main results of PRKAR1A Knockdown?",
+    "count": 3,
+    "coverageFrac": 0.75,
+    "id": "5322d9339b2d7acc7e000011"
+  },
+  {
+    "gsCount": 13,
+    "question": "Is armodafinil used for treatment of insomnia?",
+    "count": 5,
+    "coverageFrac": 0.38461538461538464,
+    "id": "54f1e781c409818c32000003"
+  },
+  {
+    "gsCount": 2,
+    "question": "What disease in Loxapine prominently used for?",
+    "count": 1,
+    "coverageFrac": 0.5,
+    "id": "52b2e409f828ad283c00000e"
+  },
+  {
+    "gsCount": 19,
+    "question": "Are there any specific antidotes for dabigatran?",
+    "count": 14,
+    "coverageFrac": 0.7368421052631579,
+    "id": "532f08dcd6d3ac6a3400002a"
+  },
+  {
+    "gsCount": 12,
+    "question": "Which genes have been proposed as potential candidates for gene therapy of heart failure?",
+    "count": 7,
+    "coverageFrac": 0.5833333333333334,
+    "id": "54c90dabf693c3b16b000004"
+  },
+  {
+    "gsCount": 6,
+    "question": "List common features of Shapiro syndrome",
+    "count": 5,
+    "coverageFrac": 0.8333333333333334,
+    "id": "5314c7afdae131f84700000a"
+  },
+  {
+    "gsCount": 7,
+    "question": "What is the methyl donor of DNA (cytosine-5)-methyltransferases?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "51404dd723fec90375000002"
+  },
+  {
+    "gsCount": 3,
+    "question": "Which are the major characteristics of cellular senescence?",
+    "count": 2,
+    "coverageFrac": 0.6666666666666666,
+    "id": "53061af558348c0f52000002"
+  },
+  {
+    "gsCount": 11,
+    "question": "Is paramyxovirus involved in human subacute thyroiditis?",
+    "count": 9,
+    "coverageFrac": 0.8181818181818182,
+    "id": "513efe01bee46bd34c00000e"
+  },
+  {
+    "gsCount": 12,
+    "question": "Which post-translational histone modifications are characteristic of constitutive heterochromatin?",
+    "count": 6,
+    "coverageFrac": 0.5,
+    "id": "56c6dd275795f9a73e000008"
+  },
+  {
+    "gsCount": 12,
+    "question": "Which gene harbors the mutation T790M?",
+    "count": 8,
+    "coverageFrac": 0.6666666666666666,
+    "id": "56d1f790f22319765a000001"
+  },
+  {
+    "gsCount": 5,
+    "question": "Which drugs have been found effective for the treatment of chordoma?",
+    "count": 2,
+    "coverageFrac": 0.4,
+    "id": "532b15ecd6d3ac6a34000014"
+  },
+  {
+    "gsCount": 10,
+    "question": "What is targeted by Palbociclib?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "56c1f01cef6e394741000044"
+  },
+  {
+    "gsCount": 1,
+    "question": "Describe what is the usage of the Theatre software tool for genomic analysis.",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "56b8a525156496395c000002"
+  },
+  {
+    "gsCount": 6,
+    "question": "What is the idea behind the fractal globule that has been proposed as a model of chromatin conformation in the nucleus of a cell?",
+    "count": 5,
+    "coverageFrac": 0.8333333333333334,
+    "id": "5544e4635beec11c10000007"
+  },
+  {
+    "gsCount": 24,
+    "question": "Which genes are associated with autosomal dominant Charcot-Marie-Tooth?",
+    "count": 5,
+    "coverageFrac": 0.20833333333333334,
+    "id": "5713bc991174fb1755000010"
+  },
+  {
+    "gsCount": 1,
+    "question": "Do conserved noncoding elements co-occur with matrix-attachment regions?",
+    "count": 1,
+    "coverageFrac": 1,
+    "id": "5544df2a5beec11c10000006"
+  },
+  {
+    "gsCount": 8,
+    "question": "DX-88 is investigational name of which drug?",
+    "count": 5,
+    "coverageFrac": 0.625,
+    "id": "54f1e031c409818c32000001"
+  },
+  {
+    "gsCount": 22,
+    "question": "Inhibition of which enzyme is mechanism of action of alisertib?",
+    "count": 4,
+    "coverageFrac": 0.18181818181818182,
+    "id": "531dd4af267d7dd05300000d"
+  },
+  {
+    "gsCount": 30,
+    "question": "Which micro-RNAs have been associated in the pathogenesis of Rheumatoid Arthritis?",
+    "count": 10,
+    "coverageFrac": 0.3333333333333333,
+    "id": "533c3533c45e133714000004"
+  },
+  {
+    "gsCount": 11,
+    "question": "Which hormone receptor function is altered in patients with Donohue syndrome?",
+    "count": 8,
+    "coverageFrac": 0.7272727272727273,
+    "id": "5314bd7ddae131f847000006"
+  },
+  {
+    "gsCount": 11,
+    "question": "What is the basis of the methodology of \"functional class scoring\" (FCS) for the analysis of gene expression data?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "56f3f2072ac5ed1459000018"
+  },
+  {
+    "gsCount": 7,
+    "question": "Which are the most under-represented oligonucleotides in higher eukaryote genomes?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "52ffbddf2059c6d71c00007d"
+  },
+  {
+    "gsCount": 8,
+    "question": "Which is the main calcium pump of the sarcoplasmic reticulum?",
+    "count": 7,
+    "coverageFrac": 0.875,
+    "id": "54db62a3034aea571d000001"
+  },
+  {
+    "gsCount": 10,
+    "question": "Which enzymes are involved in global genome nucleotide excision repair (GG-NER) in bacteria?",
+    "count": 3,
+    "coverageFrac": 0.3,
+    "id": "5547a7e9f35db75526000006"
+  },
+  {
+    "gsCount": 11,
+    "question": "Which is the main difference between Alu and B1 repeats?",
+    "count": 7,
+    "coverageFrac": 0.6363636363636364,
+    "id": "56ffd805cf1c32585100000a"
+  },
+  {
+    "gsCount": 9,
+    "question": "Which pathway is activated by ficolin-3?",
+    "count": 7,
+    "coverageFrac": 0.7777777777777778,
+    "id": "56c1d856ef6e394741000032"
+  },
+  {
+    "gsCount": 16,
+    "question": "What is the Drosophila melanogaster Groucho protein?",
+    "count": 9,
+    "coverageFrac": 0.5625,
+    "id": "54f608f85f206a0c06000007"
+  },
+  {
+    "gsCount": 15,
+    "question": "What are the main characteristics/symptoms of the \"Brugada\" syndrome",
+    "count": 12,
+    "coverageFrac": 0.8,
+    "id": "54d8efb84b1fd0d33c000003"
+  },
+  {
+    "gsCount": 3,
+    "question": "What are the Topological Domains (TADs)?",
+    "count": 2,
+    "coverageFrac": 0.6666666666666666,
+    "id": "569e6c68ca240fa209000001"
+  },
+  {
+    "gsCount": 1,
+    "question": "Which database is available for the identification of chorion proteins in Lepidopteran proteomes?",
+    "count": 1,
+    "coverageFrac": 1,
+    "id": "554148c23f2354b713000001"
+  },
+  {
+    "gsCount": 3,
+    "question": "What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "52bf19f703868f1b06000002"
+  },
+  {
+    "gsCount": 3,
+    "question": "List available biomedical question answering systems.",
+    "count": 2,
+    "coverageFrac": 0.6666666666666666,
+    "id": "55414c65472cfd8617000001"
+  },
+  {
+    "gsCount": 10,
+    "question": "Which genes are known to be involved in Diamond-Blackfan anemia?",
+    "count": 7,
+    "coverageFrac": 0.7,
+    "id": "550312b4e9bde6963400001c"
+  },
+  {
+    "gsCount": 11,
+    "question": "List Parkin binding partners",
+    "count": 1,
+    "coverageFrac": 0.09090909090909091,
+    "id": "5318380bb166e2b806000013"
+  },
+  {
+    "gsCount": 15,
+    "question": "What are the biological roles proposed for proteins containing the SPRY domain?",
+    "count": 15,
+    "coverageFrac": 1,
+    "id": "533c2230c45e133714000002"
+  },
+  {
+    "gsCount": 1,
+    "question": "Which is the mechanism used for synthesis of a highly functional N-truncated dystrophin isoform that attenuates dystrophinopathy?",
+    "count": 1,
+    "coverageFrac": 1,
+    "id": "57167625cb4ef8864c000006"
+  },
+  {
+    "gsCount": 21,
+    "question": "Which hormone abnormalities are common in Williams syndrome ?",
+    "count": 5,
+    "coverageFrac": 0.23809523809523808,
+    "id": "530cefaaad0bf1360c00000d"
+  },
+  {
+    "gsCount": 7,
+    "question": "Are thyroid hormone receptors implicated in arterial hypertension?",
+    "count": 1,
+    "coverageFrac": 0.14285714285714285,
+    "id": "52f65f372059c6d71c000027"
+  },
+  {
+    "gsCount": 1,
+    "question": "Which packages are used for performing overlap analysis of genomic regions in R/bioconductor?",
+    "count": 1,
+    "coverageFrac": 1,
+    "id": "56a3bf0f496b62f23f00000a"
+  },
+  {
+    "gsCount": 11,
+    "question": "Which proteins are involved in actin bundling and filopodia formation and function?",
+    "count": 11,
+    "coverageFrac": 1,
+    "id": "5358e067f1005d6b5800000b"
+  },
+  {
+    "gsCount": 3,
+    "question": "Which mitochondrial genes are regulated by thyroid hormone?",
+    "count": 3,
+    "coverageFrac": 1,
+    "id": "517539e68ed59a060a000028"
+  },
+  {
+    "gsCount": 23,
+    "question": "Is Fanconi anemia presented as a genetically and clinically heterogeneous disease entity?",
+    "count": 21,
+    "coverageFrac": 0.9130434782608695,
+    "id": "54ede5c394afd61504000006"
+  },
+  {
+    "gsCount": 1,
+    "question": "Which kinase is regulating stress granule biogenesis?",
+    "count": 1,
+    "coverageFrac": 1,
+    "id": "56cdf4675795f9a73e00003f"
+  },
+  {
+    "gsCount": 9,
+    "question": "Which could be some of the possible causes of hypersomnia?",
+    "count": 8,
+    "coverageFrac": 0.8888888888888888,
+    "id": "5720a8da0fd6f91b68000010"
+  },
+  {
+    "gsCount": 8,
+    "question": "What is Cerebral Cavernous Malformation?",
+    "count": 4,
+    "coverageFrac": 0.5,
+    "id": "571f2e8e0fd6f91b68000001"
+  },
+  {
+    "gsCount": 1,
+    "question": "What is the role of the RUNX1-MYEF2 complex?",
+    "count": 1,
+    "coverageFrac": 1,
+    "id": "56ae70050a360a5e4500000f"
+  },
+  {
+    "gsCount": 11,
+    "question": "How does Rif1 regulate DNA replication?",
+    "count": 11,
+    "coverageFrac": 1,
+    "id": "5710ed19a5ed216440000003"
+  },
+  {
+    "gsCount": 6,
+    "question": "Which diseases are associated with Alu element insertion?",
+    "count": 5,
+    "coverageFrac": 0.8333333333333334,
+    "id": "52f129d92059c6d71c000009"
+  },
+  {
+    "gsCount": 11,
+    "question": "Which are the genes responsible for Dyskeratosis Congenita?",
+    "count": 5,
+    "coverageFrac": 0.45454545454545453,
+    "id": "54f431d664850a5854000006"
+  },
+  {
+    "gsCount": 7,
+    "question": "Which antibodies cause Riedel thyroiditis?",
+    "count": 5,
+    "coverageFrac": 0.7142857142857143,
+    "id": "56c1f040ef6e394741000055"
+  },
+  {
+    "gsCount": 9,
+    "question": "Are adenylyl cyclases always transmembrane proteins?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "56e5aeec0c19e5451d000002"
+  },
+  {
+    "gsCount": 14,
+    "question": "Which diseases can be treated with Afamelanotide?",
+    "count": 6,
+    "coverageFrac": 0.42857142857142855,
+    "id": "56c08702ef6e394741000024"
+  },
+  {
+    "gsCount": 2,
+    "question": "What is known about MER41 repeat sequences?",
+    "count": 2,
+    "coverageFrac": 1,
+    "id": "55414e4f472cfd8617000002"
+  },
+  {
+    "gsCount": 8,
+    "question": "Which are the enzymes involved in the addition of 7-methylguanosine in mRNA?",
+    "count": 6,
+    "coverageFrac": 0.75,
+    "id": "52f112bb2059c6d71c000002"
+  },
+  {
+    "gsCount": 5,
+    "question": "What is the RESID database?",
+    "count": 5,
+    "coverageFrac": 1,
+    "id": "5708992ccf1c32585100000d"
+  },
+  {
+    "gsCount": 16,
+    "question": "Mutations in which gene and which protein are associated with Netherton syndrome?",
+    "count": 10,
+    "coverageFrac": 0.625,
+    "id": "56f56a8609dd18d46b00000b"
+  },
+  {
+    "gsCount": 9,
+    "question": "Which disease is treated with Eliglustat?",
+    "count": 6,
+    "coverageFrac": 0.6666666666666666,
+    "id": "56c1f009ef6e39474100003c"
+  },
+  {
+    "gsCount": 3,
+    "question": "Are thyroid hormone receptor alpha1 mutations  implicated in thyroid hormone resistance syndrome?",
+    "count": 0,
+    "coverageFrac": 0,
+    "id": "52ecd56198d023950500002b"
+  }
+]

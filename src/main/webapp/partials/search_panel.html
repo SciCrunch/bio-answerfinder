@@ -1,0 +1,49 @@
+<div>
+    <div>
+        <p>
+            The system tries to find sentences in PubMED abstracts that would likely answer your biomedical questions.
+        </p>
+        <p>Example questions</p>
+        <ol>
+            <li>Is TREM2 associated with Alzheimer's disease in humans?</li>
+            <li>Which mutations of troponin C gene have been found to cause hypertrophic cardiomyopathy?</li>
+            <li>Which miRNAs could be used as potential biomarkers for epithelial ovarian cancer?</li>
+        </ol>
+    </div>
+    <form id="answerSearchPanel" ng-submit="ask()">
+        <div class="form-row">
+            <div class="form-group col-md-8">
+                <input type="text" class="form-control" ng-model="_question" id="questionField" name="questionField"
+                       placeholder="Your biomedical question">
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary"  id="askBut" value="Ask"></input>
+                <span us-spinner></span>
+            </div>
+        </div>
+    </form>
+</div>
+<div ng-if="answerSentences.length > 0">
+    <div class="panel panel-primary">
+        <div class="panel-heading">{{question}}</div>
+        <div class="panel-body">
+            <table st-table="answerSentences" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Answer</th>
+                    <th>Score</th>
+                    <th>PMID</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="answer in answerSentences">
+                    <td>{{answer.s}}</td>
+                    <td>{{answer.score | number:3}}</td>
+                    <td><a ng-href="https://www.ncbi.nlm.nih.gov/pubmed/{{answer.pmid}}?dopt=Abstract"}} target="_blank" >{{answer.pmid}}</a></td>
+                </tr>
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</div>
