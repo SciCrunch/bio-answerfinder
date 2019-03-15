@@ -34,7 +34,8 @@ and `org.bio_answerfinder.util.SRLUtils`
 
 ## Building
 
-   gradle clean war
-
+```bash
+gradle clean war
+```
 
 Then deploy to Tomcat or any Java web app container.
