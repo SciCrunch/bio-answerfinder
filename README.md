@@ -1,5 +1,6 @@
 Bio-AnswerFinder
 ================
+[![DOI](https://zenodo.org/badge/175903425.svg)](https://zenodo.org/badge/latestdoi/175903425)
 
 A question answering system for biomedical literature.
 
