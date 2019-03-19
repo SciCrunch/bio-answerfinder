@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
  */
 public class ManualCheckQAEvaluator {
 
-    public static void showMRR(String qaResultsFile) throws IOException {
+    public static void showMRR(String qaResultsFile, int rankThreshold) throws IOException {
         Pattern rankPattern = Pattern.compile("rank:([\\d,]+)");
         BufferedReader in = null;
         double sum = 0;
@@ -21,6 +21,7 @@ public class ManualCheckQAEvaluator {
         int noManual = 0;
         boolean manualRank = false;
         double manualSum = 0;
+        int noQuestionsBelowRankThreshold = 0;
         try {
             in = FileUtils.newUTF8CharSetReader(qaResultsFile);
             String line;
@@ -45,7 +46,12 @@ public class ManualCheckQAEvaluator {
                             noManual++;
                         }
                         if (rank > 0) {
-                            sum += 1.0 / rank;
+                            if (rankThreshold < 0 || (rank <= rankThreshold)) {
+                                sum += 1.0 / rank;
+                            }
+                            if (rank <= rankThreshold) {
+                                noQuestionsBelowRankThreshold++;
+                            }
                         }
 
                         if (rank > 0 && manualRank) {
@@ -53,6 +59,9 @@ public class ManualCheckQAEvaluator {
                         }
                     }
                 }
+            }
+            if (rankThreshold > 0) {
+                noQuestions = noQuestionsBelowRankThreshold;
             }
             System.out.println("no manual ranks:" + noManual);
             System.out.println("# of questions:" + noQuestions);
@@ -67,7 +76,7 @@ public class ManualCheckQAEvaluator {
     }
 
     @SuppressWarnings("Duplicates")
-    public static void showPrecisionAtOne(String qaResultsFile) throws IOException {
+    public static void showPrecisionAtOne(String qaResultsFile, int rankThreshold) throws IOException {
         Pattern rankPattern = Pattern.compile("rank:([\\d,]+)");
         BufferedReader in = null;
         double sum = 0;
@@ -75,6 +84,7 @@ public class ManualCheckQAEvaluator {
         int noManual = 0;
         boolean manualRank = false;
         double manualSum = 0;
+        int noQuestionsBelowRankThreshold = 0;
         try {
             in = FileUtils.newUTF8CharSetReader(qaResultsFile);
             String line;
@@ -101,9 +111,14 @@ public class ManualCheckQAEvaluator {
                         if (rank == 1) {
                             sum += 1.0;
                         }
-
+                        if (rank > 0 && rank <= rankThreshold) {
+                            noQuestionsBelowRankThreshold++;
+                        }
                     }
                 }
+            }
+            if (rankThreshold > 0) {
+                noQuestions = noQuestionsBelowRankThreshold;
             }
             System.out.println("no manual ranks:" + noManual);
             System.out.println("# of questions:" + noQuestions);
@@ -115,6 +130,7 @@ public class ManualCheckQAEvaluator {
         }
 
     }
+
     public static int extractRank(String rankStr) {
         if (rankStr.indexOf(',') != -1) {
             String[] tokens = rankStr.split(",");
@@ -130,9 +146,9 @@ public class ManualCheckQAEvaluator {
         String homeDir = System.getProperty("user.home");
         String qaResultsFile = homeDir + "/dev/java/bio-answerfinder/data/bioasq/qaengine1/question_results_wmd_defn_focus.txt";
 
-        showMRR(qaResultsFile);
+        showMRR(qaResultsFile, -1);
 
         System.out.println("=============");
-        showPrecisionAtOne(qaResultsFile);
+        showPrecisionAtOne(qaResultsFile, -1);
     }
 }

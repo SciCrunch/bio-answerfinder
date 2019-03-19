@@ -2,9 +2,7 @@ package org.bio_answerfinder.kb;
 
 
 import org.bio_answerfinder.services.OntologyLookupManager;
-import org.bio_answerfinder.util.GenUtils;
-import org.bio_answerfinder.util.SQLiteUtils;
-import org.bio_answerfinder.util.StringUtils;
+import org.bio_answerfinder.util.*;
 
 import java.io.File;
 import java.sql.Connection;
@@ -39,8 +37,11 @@ public class LookupUtils2 extends LookupUtils {
     public void initialize() throws Exception {
         super.initialize();
         List<File> ontologyLTFileList = new ArrayList<File>(2);
-        ontologyLTFileList.add(new File(HOME_DIR + "/data/scigraph_lt/ontology-classes-with-labels-synonyms-parents.json"));
-        ontologyLTFileList.add(new File(HOME_DIR + "/data/scigraph_lt/scr-classes-with-labels-synonyms-parents.json"));
+        Properties props = FileUtils.loadProperties("/bio-answerfinder.properties");
+        String ontologyDir = props.getProperty("ontology.lt_dir");
+        Assertion.assertExistingPath(ontologyDir, ontologyDir);
+        ontologyLTFileList.add(new File(ontologyDir + "/ontology-classes-with-labels-synonyms-parents.json"));
+        ontologyLTFileList.add(new File(ontologyDir + "/scr-classes-with-labels-synonyms-parents.json"));
         ontologyLookupManager.load(ontologyLTFileList);
         Class.forName("org.sqlite.JDBC");
         Connection con = DriverManager.getConnection("jdbc:sqlite:/usr/local/lt/hugo.db");

@@ -1,9 +1,5 @@
 elasticsearch.username=foundry
 elasticsearch.pwd=
-disco.dbURL=jdbc:postgresql://nif-db.crbs.ucsd.edu:5432/disco_crawler
-disco.user=
-disco.password=
-search.result.cache.db=/home/bozyurt/dev/java/bnerkit/cache/es_results_v2.db
-pubmed.search.result.cache.db=/home/bozyurt/dev/java/bnerkit/cache/pmc_results.db
-search.annotation.cache.db=/home/bozyurt/dev/java/bnerkit/cache/annotation_results.db
-annotation.stopwords.file=/home/bozyurt/dev/java/bio-answerfinder/src/main/resources/annotation_stopwords.txt
+ontology.lt_dir=/usr/local/lt/scigraph_lt
+term_vectors.db.file=/data/medline_index/tv.db
+glove.db.file=/data/medline_glove_v2.db
