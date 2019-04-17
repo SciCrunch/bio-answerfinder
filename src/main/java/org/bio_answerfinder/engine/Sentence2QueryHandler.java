@@ -130,8 +130,13 @@ class Sentence2QueryHandler {
                 SpanPOS theSP = find(nounSPList, keyword);
                 if (theSP == null) {
                     SpanPOS keywordSP = find(spList, keyword);
-                    Assertion.assertNotNull(keywordSP);
-                    nounSPList.add(keywordSP);
+                    if (keywordSP == null) {
+                        // could happen for multi sentence questions.
+                        System.out.println("keyword:" + keyword);
+                        System.out.println(spList);
+                    } else {
+                        nounSPList.add(keywordSP);
+                    }
                 }
             }
         }
