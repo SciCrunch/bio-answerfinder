@@ -1,10 +1,10 @@
-<p>This software is Copyright © 2015 The Regents of the University of California. All Rights Reserved.</p>
+<p>This software is Copyright © 2018-2019 The Regents of the University of California. All Rights Reserved.</p>
 
 <p>Permission to copy, modify, and distribute this software and its documentation for educational, research and non-profit purposes, without fee, and without a written agreement is hereby granted, provided that the above copyright notice, this paragraph and the following three paragraphs appear in all copies.</p>
 
 <p>Permission to make commercial use of this software may be obtained by contacting:</p>
 
-Technology Transfer Office <br />
+Office of Innovation and Commercialization <br />
 9500 Gilman Drive, Mail Code 0910 <br />
 University of California <br />
 La Jolla, CA 92093-0910 <br />
@@ -27,3 +27,7 @@ THE SOFTWARE PROVIDED HEREUNDER IS ON AN “AS IS” BASIS,
 AND THE UNIVERSITY OF CALIFORNIA HAS NO OBLIGATIONS TO
 PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR
 MODIFICATIONS.</p>
+
+From the UCSD Office of Innovation & Commercialization (OIC) Copyrights and Patents webpage: https://blink.ucsd.edu/sponsor/oic/copyright.html#UC-Copyright-Notice
+
+Update: April 16, 2019, Updated address for OIC and added webpage link for license source
