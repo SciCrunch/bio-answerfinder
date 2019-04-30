@@ -370,11 +370,11 @@ public class PubmedQueryConstructor2 {
 
                     }
                 }
-                if (added && it.hasNext()) {
+                if (added && it.hasNext() && !sb.toString().trim().endsWith("AND")) {
                     sb.append(" AND ");
                 }
             }
-            if (added && it1.hasNext()) {
+            if (added && it1.hasNext() && !sb.toString().trim().endsWith("AND")) {
                 sb.append(" AND ");
             }
         }
