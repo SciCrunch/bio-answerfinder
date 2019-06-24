@@ -1,0 +1,1472 @@
+Name the factors required for selenoprotein synthesis in eukaryotes
+0    0   1       0        0   1             1         0  1
+Describe the mechanism of action of drisapersen
+0        0   0         0  0      0  1
+What is the biological role of expansins in fungi ?
+0    0  0   0          0    0  1         0  1     0
+What is the generic name of Gliolan ?
+0    0  0   0       0    0  1       0
+Which gene has been implicated in Majeed Syndrome ?
+0     1    0   0    0          0  1      1        0
+Between which probes does the recurrent translocation breakpoint on chromosome 22 of neuroepithelioma lie ?
+0       0     0      0    0   1         1             1          0  1          1  0  1                0   0
+Which variables are included in the SPAN-100 score ?
+0     1         0   0        0  0   1        1     0
+Which syndrome is associated with OATP1B1 and OATP1B3 deficiency ?
+0     1        0  0          0    1       0   1       1          0
+Which are the most widely used computational methods for the identification of CRMs ( cis-regulatory modules ) ?
+0     0   0   0    0      0    1             1       0   0   0              0  1    0 1              1       0 0
+Which are the enzymes involved in the addition of 7-methylguanosine in mRNA ?
+0     0   0   1       0        0  0   1        0  1                 0  1    0
+Which are the most abundant human lincRNA ?
+0     0   0   0    1        1     1       0
+What memory problems are reported in the " Gulf war syndrome " ?
+0    1      1        0   0        0  0   0 1    1   1        0 0
+Have mutations in the ZEB2 gene been found in any human syndrome ?
+0    1         0  0   1    1    0    0     0  0   1     1        0
+Is there an increased risk for cancer in Dyskeratosis Congenita ?
+0  0     0  0         0    0   1      0  1            1         0
+Elaborate on the potential efficacy of gemcitabine for the treatment of recurrent , platinum-resistant epithelial ovarian cancer .
+0         0  0   0         0        0  1           0   0   0         0  0         0 1                  1          1       1      0
+To what extent does HPV vaccination reduce the risk for cervical cancer ?
+0  0    0      0    1   1           0      0   0    0   1        1      0
+Which hormone abnormalities are common in Williams syndrome ?
+0     1       1             0   1      0  1        1        0
+Which clotting factor is inhibited by betrixaban ?
+0     1        1      0  0         0  1          0
+List tele monitoring applications of miniaturised sensors
+0    1    1          1            0  1            1
+What are the pyknons ?
+0    0   0   1       0
+Are immune cells affected in Amyotrophic Lateral Sclerosis ?
+0   1      1     0        0  1           1       1         0
+List sodium glucose co-transporter-2 ( SGLT2 ) inhibitors that have been FDA approved for type 2 diabetes mellitus treatment .
+0    1      1       1                0 1     0 1          0    0    0    1   0        0   1    1 1        1        0         0
+List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease .
+0    1                 1          1          0    0    0    0            0  1        1      0   0         0  1         1       0
+Which are the subunits of the transcription factor NF-kappaB in the canonical pathway activation ?
+0     0   0   1        0  0   1             1      1         0  0   1         1       1          0
+Which type of myeloma is ixazomib being evaluated for ?
+0     0    0  1       0  1        0     0         0   0
+Which enzyme is inhibited by a drug fostamatinib ?
+0     1      0  0         0  0 1    1            0
+Does thyroid hormone receptor beta1 affect insulin secretion ?
+0    1       1       1        0     0      1       1         0
+Is aganglionic megacolon a feature of Down syndrome ?
+0  1           1         0 0       0  1    1        0
+Is TENS machine effective in pain ?
+0  1    1       1         0  1    0
+What is the role of probiotics in gastrointestinal disease ?
+0    0  0   0    0  1          0  1                1       0
+Which disease is included as an additional feature in the Goldberg-Shprintzen syndrome ?
+0     1       0  0        0  0  0          0       0  0   1                   1        0
+What is the synonym of the lubag disease ?
+0    0  0   0       0  0   1     1       0
+Is thyroid hormone therapy indicated in patients with heart failure ?
+0  0       1       1       0         0  0        0    1     1       0
+Which are the most common symptoms in Lambert-Eaton Myasthenic Syndrome ?
+0     0   0   0    0      0        0  1             1          1        0
+What is the evolutionary process described by the " Muller 's ratchet " model ?
+0    0  0   1            1       0         0  0   0 1      1  1       0 1     0
+Which are the main functions of the human HuR ( ELAVL1 ) protein in fibroblasts ?
+0     0   0   0    0         0  0   1     1   0 1      0 1       0  1           0
+What is the average diameter of intermediate filaments ?
+0    0  0   0       1        0  1            1         0
+Which SWI / SNF protein complex subunit has been demonstrated to interact with the FANCA gene product ?
+0     1   1 1   1       1       1       0   0    0            0  0        0    0   1     1    1       0
+Which are the major types of the motor speech disorder dysarthria ?
+0     0   0   1     1     0  0   1     1      1        1          0
+Give an overview of visualizing genomes with oligopaint FISH probes .
+0    0  1        0  1           1       0    1          1    1      0
+Is Calcium homeostasis important in cardiac physiology and pathophysiology ?
+0  1       1           0         0  1       1          0   1               0
+Does Chromatin Immunoprecipitation ( ChIP ) show a bias for highly expressed loci ?
+0    1         1                   0 1    0 0    0 1    0   1      1         1    0
+List adenosine A2A receptor antagonists that are used for Parkinson 's disease treatment .
+0    1         1   1        1           0    0   0    0   1         1  1       0         0
+Which protein is affected by dusp8 activation ?
+0     1       0  0        0  1     1          0
+List the existing methods for genetic manipulation of cells .
+0    0   0        1       0   1       1            0  1     0
+Which are the characteristics of Andersen syndrome ?
+0     0   0   0               0  1        1        0
+What is the common feature in congenital central hypoventilation and Mowat-Wilson syndromes ?
+0    0  0   0      0       0  1          1       1               0   1            1         0
+What is the definitive treatment for low pressure headache ?
+0    0  0   0          1         0   1   1        1        0
+Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome ?
+0     1       1       1           0  0          0  1       1       1          1        0
+What is the disease in which patients are sensitive to DNA crosslinking agents , presenting with a high frequency of chromosomal aberrations ?
+0    0  0   1       0  0     0        0   1         0  1   1            1      0 0          0    0 0    0         0  1           1           0
+Which are the state-of-the-art computational tools for the prediction of gene fusion events ?
+0     0   0   0                1             1     0   0   1          0  1    1      1      0
+Is CD84 genetically associated with arthritis ?
+0  1    0           0          0    1         0
+List clinical trials that have directly compared microsurgical clipping with endovascular coiling for treatment of ruptured brain aneurysms ?
+0    1        1      0    0    0        0        1             1        0    1            1       0   0         0  1        1     1         0
+Can we use prodrug amifostine to protect healthy cell during chemotherapy ?
+0   0  0   0       1          0  0       1       1    0      1            0
+Which R / bioconductor package is used for integrative genomics visualizations ?
+0     1 1 1            0       0  0    0   1           1        1              0
+Which are the cellular targets of imatinib mesylate ?
+0     0   0   1        1       0  1        1        0
+Can valproic acid act as an activator of AMPK ?
+0   1        1    1   0  0  0         0  1    0
+Which type of cell death is known as anoikis ?
+0     0    0  1    1     0  0     0  1       0
+What is the role of eteplirsen in DMD patients ?
+0    0  0   0    0  1          0  1   1        0
+Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation ?
+0     1       1       0  0          1             1               0  1      0  0       1    1             0
+What distinguishes lantibiotics from antibiotics ?
+0    0             1            0    1           0
+PBT2 has been tested for which disorder ?
+1    0   0    0      0   0     1        0
+Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies ?
+0     1       0  0        0   1         1 1           0  0      1        0   1        0
+Which is the histone residue methylated by MLL1 ?
+0     0  0   1       1       1          0  1    0
+For the constructions of which organs has 3D printing been tested ?
+0   0   1             0  0     1      0   1  1        0    0      0
+What disease is small bowel lymphoma commonly associated with
+0    1       0  1     1     1        0        0          0
+Mention the only available genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica
+0       0   0    0         1        0   1             1               1        0   0   1           1          0
+What imaging modalities have been listed as method of choice to diagnose CSF leak ?
+0    1       1          0    0    0      0  0      0  0      0  0        1   1    0
+Which is the cellular localization of the protein Opa1 ?
+0     0  0   1        1            0  0   1       1    0
+Is p100 the precursor protein molecule of the NF-kappaB transcription factor subunit p50 ?
+0  1    0   0         0       0        0  0   1         1             1      1       1   0
+Which hormone abnormalities are common in Williams syndrome
+0     1       1             0   0      0  1        1
+Which brain structures have been investigated as potential targets for deep brain stimulation of patients suffering from major depression ?
+0     1     1          0    0    0            0  0         0       0   1    1     1           0  0        0         0    1     1          0
+Is NOD1 activated in inflammation ?
+0  0    0         0  1            0
+What is the presumed key event in Fanconi anemia pathogenesis ?
+0    0  0   0        0   0     0  1       1      1            0
+List Kartagener Syndrome Triad .
+0    1          1        1     0
+Is there an association between FGFR3 mutation and plagiocephaly ?
+0  0     0  0           0       1     1        0   1             0
+Is EZH2 associated with prostate cancer ?
+0  1    0          0    1        1      0
+Is the abnormal dosage of ultraconserved elements disfavored in cancer cells ?
+0  0   1        1      0  1              1        0          0  1      1     0
+List symptoms of congenital toxoplasmosis triad .
+0    0        0  1          1             1     0
+List medication interfering with purine metabolism that are used for treatment of T-cell prolymphocytic leukemia ?
+0    1          0           0    1      1          0    0   0    0   0         0  1      1              1        0
+Are there interactomes available for POU5F1 and SOX2 ?
+0   0     1            0         0   1      0   1    0
+Where in the cell do we find the protein Cep135 ?
+0     0  0   1    0  0  0    0   1       1      0
+Describe the isolation of transcription factor complexes by in vivo biotinylation tagging and direct binding to streptavidin beads , as applied for the case of the essential hematopoietic transcription factor GATA-1 .
+0        0   0         0  1             1      1         0  1  1    1             1       0   1      1       0  1            1     0 0  0       0   0   0    0  0   0         0             0             0      1      0
+Is protein M3 / 6 a dual specificity phosphatase ?
+0  1       1  1 1 0 1    1           1           0
+Is Alpers disease inherited in an autosomal recessive mode ?
+0  1      1       0         0  0  1         1         1    0
+How is active neurotoxin of Clostridium botulinum detected ?
+0   0  1      1          0  1           1         0        0
+Which syndromes are associated with mutations in the EZH2 gene ?
+0     1         0   0          0    1         0  0   1    1    0
+Which are the main functions of the APOBEC3 family of proteins ?
+0     0   0   0    0         0  0   1       1      0  1        0
+Does the CTCF protein co-localize with cohesin ?
+0    0   1    1       0           0    1       0
+Is Rheumatoid Arthritis more common in men or women ?
+0  1          1         0    1      0  1   0  1     0
+List three major features of the CCFDN syndrome .
+0    0     0     0        0  0   1     1        0
+List fish anti-freeze proteins .
+0    1    1           1        0
+List FDA approved treatments for androgenetic allopecia
+1    1   0        1          0   1            1
+Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2 ?
+0     0  0   1                  1        0          0  1         0  0   1  1      1    1     0
+What are the main clinical characteristics of Pendred syndrome ?
+0    0   0   0    0        0               0  1       1        0
+ROSIER scale is used for which disorder ?
+1      1     0  0    0   0     1        0
+Which species may be used for the biotechnological production of itaconic acid ?
+0     1       0   0  0    0   0   1                1          0  1        1    0
+Are there any specific antidotes for dabigatran ?
+0   0     0   0        1         0   1          0
+Which proteins are the different isoforms of the p38 MAP kinase ?
+0     1        0   0   0         1        0  0   1   1   1      0
+Which is the E3 ubiquitin ligase which ubiquitinates IkB leading to its proteasomal degradation ?
+0     0  0   1  1         1      0     0             1   0       0  0   1           1           0
+What symptoms characterize the Muenke syndrome ?
+0    1        0            0   1      1        0
+In which phase of the cell cycle arrest is impaired in Fanconi anemia ?
+0  0     1     0  0   1    1     1      0  0        0  1       1      0
+How does long-range epigenetic silencing ( LRES ) occur ?
+0   0    1          1          1         0 1    0 0     0
+What is the role of AMPK in diabetic cardiomyopathy ?
+0    0  0   0    0  1    0  1        1              0
+What is the treatment of Riedel disease ( thyroiditis ) ?
+0    0  0   1         0  1      1       0 1           0 0
+Which intraflagellar transport ( IFT ) motor protein has been linked to human skeletal ciliopathies ?
+0     1              1         0 1   0 1     1       0   0    0      0  1     1        1            0
+Which proteins compose the error prevention GO ( 8-oxo-G ) system in Pseudomonas putida ?
+0     0        0       0   1     1          1  0 1       0 1      0  1           0      0
+Do R-loops tend to form at sites of DNA replication ?
+0  1       0    0  0    0  1     0  1   1           0
+Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency ?
+0  0   1        1      0  0   1        1           0    0      1             1          0
+Why does cranberry juice help combat urinary tract infections ?
+0   0    1         1     0    0      1       1     1          0
+What is being measured with an accelerometer in back pain patients
+0    0  0     0        0    0  1             0  1    1    1
+Is PLK2 involved in alpha-synuclein phosphorylation in Parkinson disease ?
+0  1    0        0  1               1               0  1         1       0
+Which are the major transcription factors regulating glycolysis in mammals ?
+0     0   0   0     1             1       0          1          0  1       0
+Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome ?
+0   1       1       1        1      1         0          0  1       1       1          1        0
+Which are the major phycobiliproteins present in cyanobacteria ?
+0     0   0   0     1                 0       0  1             0
+Is corpus callosum involved in the Mowat–Wilson syndrome ?
+0  1      1        0        0  0   1            1        0
+What is the treatment of acute myocarditis ?
+0    0  0   1         0  1     1           0
+Which are the roles of chromatin compartments in the eukaryotic nucleus ?
+0     0   0   0     0  1         1            0  0   1          1       0
+Which transcription factors are involved in E-cadherin repression during EMT ?
+0     1             1       0   0        0  1          1          0      1   0
+What is the function of Neu5Gc ( N-Glycolylneuraminic acid ) ?
+0    0  0   0        0  1      0 1                    1    0 0
+Which are the known human transmembrane nucleoporins ?
+0     0   0   0     1     1             1            0
+What is the functional role of the protein Drp1 ?
+0    0  0   0          0    0  0   1       0    0
+List symptoms of Gradenigo 's syndrome .
+0    0        0  1         0  1        0
+What is the life expectancy of professional athletes in respect to the general population ?
+0    0  0   1    1          0  1            1        0  0       0  0   0       0          0
+Does d-tubocurarine ( d-TC ) induces irreversible inhibition of nicotinic acetylcholine receptor ( nAChR ) at the neuromuscular junction ?
+0    1              0 1    0 0       0            0          0  1         1             1        0 1     0 0  0   1             1        0
+Which database is available for the identification of chorion proteins in Lepidopteran proteomes ?
+0     1        0  0         0   0   0              0  1       1        0  1            1         0
+Is Hirschsprung disease one of the characteristics of the Mowat-Wilson syndrome ?
+0  1            1       0   0  0   0               0  0   1            1        0
+What is the mode of inheritance of Facioscapulohumeral muscular dystrophy ( FSHD ) ?
+0    0  0   1    0  1           0  1                   1        1         0 1    0 0
+What is the enzymatic activity of the breast cancer associated gene BRCA1 ?
+0    0  0   1         1        0  0   1      1      0          1    1     0
+Which signaling pathways have been associated with medulloblastoma formation and growth ?
+0     1         1        0    0    0          0    1               1         0   1      0
+What is the function of the viral KP4 protein ?
+0    0  0   0        0  0   1     1   1       0
+Which are the 3 basic transcription factors that have been used for the direct reprogramming of fibroblasts into cardiomyocytes or cardiomyocyte like-cells ?
+0     0   0   0 0     1             1       0    0    0    0    0   0   0      1             0  1           0    1              0  1             0          0
+List functions that are evaluated with the Full Outline of Unresponsiveness score ?
+0    0         0    0   0         0    0   1    1       0  1                1     0
+Which properties of the mRNA does N6-methyladenosine ( m6A ) affect ?
+0     0          0  0   1    0    1                  0 1   0 0      0
+Which proteins are involved in actin bundling and filopodia formation and function ?
+0     1        0   0        0  1     1        0   1         0         0   0        0
+What is the effect of amitriptyline in the mdx mouse model of Duchenne muscular dystrophy ?
+0    0  0   0      0  1             0  0   1   1     1     0  1        1        1         0
+Which are the supplemental antioxidant in athletes ?
+0     0   0   1            1           0  1        0
+Is there any algorithm for enhancer identification from chromatin state ?
+0  0     0   1         0   1        1              0    1         1     0
+What are the indications for treatment with anti-hepcidin ?
+0    0   0   0           0   1         0    1             0
+Which is the most common CFTR mutation in Caucasians ?
+0     0  0   0    0      1    1        0  1          0
+List fluorescent reporter proteins .
+0    1           1        1        0
+What is the scope of the OMIA database ?
+0    0  0   0     0  0   1    1        0
+Which are the cardiac effects of thyronamines ?
+0     0   0   1       1       0  1            0
+Tumor-treating fields are effective for treatment of which cancers ?
+1              1      0   1         0   0         0  0     1       0
+Which drugs are utilized to treat amiodarone-induced thyroitoxicosis ?
+0     1     0   0        0  0     1                  1               0
+Which are the plant DNA ( cytosine-5 ) methyltransferase families ?
+0     0   0   1     1   0 1          0 1                 0        0
+Which proteins are the different members of the NF-kappaB family of transcription factors ?
+0     1        0   0   0         0       0  0   1         1      0  1             1       0
+Which bacteria caused plague ?
+0     1        0      1      0
+What is a mitochondrial nucleoid ?
+0    0  0 1             1        0
+Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity ?
+0     1       0         0    0   1             1       0  0       1    1        0
+List proteins of lipids droplets
+0    1        0  1      1
+Is there any protein that undergoes both mono-ubiquitination and poly-ubiquitination ?
+0  0     0   1       0    0         0    1                   0   1                   0
+What is CRISPRi ?
+0    0  1       0
+Give examples of next-generation sequencing applications in mutation screening ?
+0    0        0  1               1          1            0  1        1         0
+What is the function of the MTH1 enzyme in cancer cells ?
+0    0  0   0        0  0   1    1      0  1      1     0
+Is Titin the largest single protein molecule found in Nature ?
+0  1     0   1       0      1       0        0     0  0      0
+List all articles on network meta-analysis for smoking cessation
+0    0   0        0  1       1             0   1       1
+For which type of diabetes can empagliflozin be used ?
+0   0     0    0  1        0   1             0  0    0
+Do selenoproteins and selenium play a role in prostate cancer prevention ?
+0  1              0   1        0    0 1    0  1        1      1          0
+Is pesticide exposure associated with polyneuropathy ?
+0  1         1        0          0    1              0
+Which factors are considered in the ABCD2 score ?
+0     1       0   0          0  0   1     1     0
+Are adenylyl cyclases always transmembrane proteins ?
+0   1        1        0      1             1        0
+Which are the clinical characteristics of TSC ?
+0     0   0   1        0               0  1   0
+For the treatment of which conditions can atypical neuroleptic drugs be used ?
+0   0   0         0  0     0          0   1        1           1     0  0    0
+How many tissue kallikrein genes are present in the human genome ?
+0   0    1      1          1     0   0       0  0   1     1      0
+What states the second parity rule ( PR2 ) ?
+0    0      0   1      1      1    0 1   0 0
+What is known about food intolerance and gluten ?
+0    0  0     0     1    1           0   1      0
+Is the protein product of the cylindromatosis gene ( CYLD ) a deubiquitinating enzyme ?
+0  0   1       0       0  0   1               1    0 1    0 0 1                1      0
+In which types of DNA repair is the UvrAB complex involved ?
+0  0     0     0  1   1      0  0   1     1       0        0
+What type of cancers and inherited diseases have been associated to mutations in the Notch pathway ?
+0    0    0  1       0   0         1        0    0    0          0  1         0  0   1     1       0
+What personality traits can be evaluated with the Ten Item Personality Inventory .
+0    1           1      0   0  0         0    0   1   1    1           1         0
+Which genes are associated with autosomal dominant Charcot-Marie-Tooth ?
+0     1     0   0          0    1         1        1                   0
+Mutation of which gene and which chromosome cause Neurofibromatosis type I ?
+1        0  0     1    0   0     1          0     1                 1    1 0
+What are the applications of a Dermaroller ?
+0    0   0   1            0  0 1           0
+Which are the most commonly reported pathological states associated with the formation of DNA G-quadruplexes ?
+0     0   0   0    0        0        1            1      0          0    0   1         0  1   1              0
+Can RNASeq be used for the analysis of nascent transcripts ?
+0   1      0  0    0   0   1        0  1       1           0
+What is the Barr body ?
+0    0  0   1    1    0
+Which forms of cancer is the Tpl2 gene associated with ?
+0     0     0  1      0  0   1    1    0          0    0
+What does the SAGA complex acronym stands for ?
+0    0    0   1    1       0       0      0   0
+Which is the main calcium pump of the sarcoplasmic reticulum ?
+0     0  0   0    1       1    0  0   1            1         0
+What is a disordered protein ?
+0    0  0 1          1       0
+List all reported treatment options for anxiety in autism spectrum disorder .
+0    0   0        1         0       0   1       0  1      1        1        0
+Which proteins participate in the formation of the ryanodine receptor quaternary macromolecular complex ?
+0     1        0           0  0   1         0  0   1         1        1          1              1       0
+Which is the mechanism used for synthesis of a highly functional N-truncated dystrophin isoform that attenuates dystrophinopathy ?
+0     0  0   0         0    0   1         0  0 0      1          1           1          1       0    0          1                0
+What is Sotos syndrome ?
+0    0  1     1        0
+Which agents are included in the FLAMSA chemotherapy regimen ?
+0     0      0   0        0  0   1      1            1       0
+Is there any research that relates the function of Notch Signaling with Alzheimer Disease ?
+0  0     0   0        0    0       0   0        0  1     1         0    1         1       0
+Which intermediate filament ( IF ) protein can be used as a non-specific marker of the neuronal precursor cells of the subventricular zone ?
+0     1            1        0 1  0 1       0   0  0    0  0 0            0      0  0   1        1         1     0  0   1              1    0
+Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis ?
+0  1             1     0    0           0  1           0    1             1            0
+Name triad of Wernicke encephalopathy .
+0    1     0  1        1              0
+Which mitochondrial genes are regulated by thyroid hormone ?
+0     1             1     0   0         0  1       1       0
+Which is the causative agent of malaria ?
+0     0  0   0         1     0  1       0
+Is there a role for the cylindromatosis tumor suppressor ( CYLD ) in lung cancer ?
+0  0     0 0    0   0   1               1     1          0 1    0 0  1    1      0
+How is mTORC1 involved in the regulation of heat stress ?
+0   0  1      0        0  0   0          0  1    1      0
+Are nucleosomes positioned at DNA replication origins ?
+0   1           0          0  1   1           1       0
+Which CDK targets control cytokinesis ?
+0     1   0       1       1           0
+Which types of bacterial microflora are associated with the progression of peri-implantitis ?
+0     0     0  1         1          0   0          0    0   0           0  1                0
+What is the effect of a defective CLN3 gene ?
+0    0  0   0      0  0 1         1    1    0
+Does GC content vary markedly within a given isochore ?
+0    1  1       0    0        0      0 0     1        0
+Where can we find the protein lacritin ?
+0     0   0  0    0   1       1        0
+How are induced pluripotent stem cells used in the study and treatment of cardiovascular diseases ?
+0   0   0       1           1    1     0    0  0   0     0   0         0  1              1        0
+What species is associated with Tetrodotoxin ?
+0    1       0  0          0    1            0
+What is Snord116 ?
+0    0  1        0
+Which is the target protein of the drug nivolumab ?
+0     0  0   1      1       0  0   0    1         0
+Which is the methyl donor of histone methyltransferases ?
+0     0  0   1      1     0  1       1                  0
+What is the main biological function of the CRISPR-CAS9 genome editing system ?
+0    0  0   0    0          0        0  0   1           1      1       1      0
+List interaction partners for the protein GATA1 .
+0    1           1        0   0   1       1     0
+What is the frequency of mutations induced spontaneously through Ethylnitrosourea ( ENU ) mutagenesis ?
+0    0  0   0         0  1         0       0             0       1                0 1   0 1           0
+What causes Katayama Fever ?
+0    0      1        1     0
+Where is the protein Pannexin1 located ?
+0     0  0   1       1         0       0
+Which computational frameworks are available for predicting enhancers ?
+0     1             1          0   0         0   1          1         0
+Which is the defective protein causing the lysosomal storage disease Fabry ?
+0     0  0   1         1       0       0   1         1       1       1     0
+Gene silencing can be achieved by RNA interference ( RNAi ) in eukaryotic organisms . What is the name of the analogous process in prokaryotic organisms ?
+1    1         0   0  0        0  1   1            0 1    0 0  1          1         0 0    0  0   0    0  0   0         0       0  1           1         0
+Is armodafinil used for treatment of insomnia ?
+0  1           0    0   0         0  1        0
+What are the effects of homozygosity of EDNRB mutations in addition to Hirschsprung disease ?
+0    0   0   1       0  1            0  1     1         0  1        0  1            1       0
+What is the biological role of K-48 linked protein ubiquitination ?
+0    0  0   0          0    0  1    1      1       1              0
+Which are the subunits of the IkB protein kinase ( IKK ) ?
+0     0   0   1        0  0   1   1       1      0 1   0 0
+Which disorders are associated to mutated Hepcidin ( HAMP ) ?
+0     1         0   0          0  1       1        0 1    0 0
+Do carmustine wafers improve survival of glioblastoma patients ?
+0  1          1      0       0        0  1            0        0
+What is the idea behind the fractal globule that has been proposed as a model of chromatin conformation in the nucleus of a cell ?
+0    0  0   0    0      0   1       1       0    0   0    0        0  0 0     0  1         1            0  0   1       0  0 1    0
+Is it safe to use Abatacept during pregnancy ?
+0  0  0    0  0   0         0      1         0
+Which genes are involved in patient response to warfarin ?
+0     1     0   0        0  0       0        0  1        0
+How does Rif1 regulate DNA replication ?
+0   0    1    1        1   1           0
+Which hormone deficiency is implicated in the Costello syndrome ?
+0     1       1          0  0          0  0   1        1        0
+Intetumumab has been tested in clinical trials for treatment of which cancers ?
+1           0   0    0      0  1        1      0   0         0  0     1       0
+Which medication should be administered when managing patients with suspected acute opioid overdose ?
+0     1          0      0  0            0    0        0        0    0         1     1      1        0
+What kind of bonds are connecting keratin molecules ?
+0    0    0  1     0   0          1       1         0
+List the three most prevalent pathogenic species of Borrelia in Europe .
+0    0   0     0    0         1          1       0  1        0  1      0
+List BRAF inhibitors that have been tested in clinical trials for treatment of melanoma patients
+0    1    1          0    0    0    0      0  1        1      0   0         0  1        0
+Which are the inhibitors of histone methyltransferases ?
+0     0   0   1          0  1       1                  0
+List the results of mutated casein kinase 1 epsilon .
+0    0   0       0  1       1      1      1 1       0
+What is the function of the enzymes known as dual specificity phoshpatases ( DUSPs ) ?
+0    0  0   0        0  0   1       0     0  1    1           1            0 1     0 0
+Do archaeal genomes contain one or multiple origins of replication ?
+0  1        1       0       0   0  0        1       0  1           0
+Is the Prostate- Specific Antigen ( PSA ) test relevant only for prostate cancer ?
+0  0   1         1        1       0 1   0 1    0        0    0   1        1      0
+What is protein carbamylation ?
+0    0  1       1             0
+Which tumor suppressor is referred to as " the guardian of the genome " ?
+0     1     1          0  0        0  0  0 0   1        1  1   1      0 0
+Are genes symmetrically distributed between leading and lagging DNA strand in bacteria ?
+0   1     0             0           0       0       0   0       1   1      0  1        0
+How many selenoproteins are encoded in the human genome ?
+0   0    1              0   0       0  0   1     1      0
+How is myotonic dystrophy inherited ?
+0   0  1        1         0         0
+What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins ?
+0    0  0   0    0  0   1    1    1       0  0   1  1   0  1     0        0   1              0
+Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema ?
+0     1     0      0   1          0      0   1         0   0         0  1                     1          0
+Is there any link between the aurora B kinase and the polycomb protein ring1B ?
+0  0     0   0    0       0   1      1 1      0   0   1        1       1      0
+Is Weaver syndrome similar to Sotos ?
+0  1      1        0       0  1     0
+Which enzyme does MLN4924 inhibit ?
+0     1      0    1       0       0
+Can we detect DNA strand asymmetries using dinucleotide relative abundance " genomic signatures " ?
+0   0  0      1   1      1           0     1            1        1         0 1       1          0 0
+By which methods can we evaluate the reliability of a phylogenetic tree ?
+0  0     1       0   0  0        0   1           0  0 1            1    0
+The protein neprilysin has an positive effect on Alzheimer disease , how can it be delivered to the brain ?
+0   1       1          0   0  0        0      0  1         1       0 0   0   0  0  0         0  0   1     0
+Which metabolite activates AtxA ?
+0     1          0         1    0
+Is the gene DUX4 epigenetically regulated in somatic cells ?
+0  0   1    1    0              0         0  1       1     0
+Is it safe to take isotretinoin during pregnancy ?
+0  0  0    0  0    1            0      1         0
+Which are the DNA ( cytosine-5-)-methyltransferases inhibitors ?
+0     0   0   1   1 1                               1          0
+Which neuroendocrine tumors are associated with specific tumor syndromes ?
+0     1              1      0   0          0    1        1     1         0
+Does helicobacter pylori infection increase risk for ischemic stroke ?
+0    1            1      1         0        0    0   1        1      0
+Which assays can be used for detecting DNA fragmentation resulting from programmed cell death ( apoptosis ) ?
+0     1      0   0  0    0   0         1   1             0         0    1          1    1     0 1         0 0
+Which enzyme deficiency can cause GM1 gangliosidoses ?
+0     1      0          0   0     1   1              0
+Which are the methods for in silico prediction of the origin of replication ( ori ) among bacteria ?
+0     0   0   1       0   1  1      1          0  0   1      1  1           0 1   0 0     1        0
+List the components of mTOR Complex 2 ( mTORC2 ) .
+0    0   0          0  1    1       1 0 1      0 0
+What is a P-body ( processing body ) ?
+0    0  0 1      0 1          1    0 0
+Which eye condition is managed by the athens protocol ?
+0     1   0         0  0       0  0   1      1        0
+Is TREM2 associated with Alzheimer 's disease ?
+0  1     0          0    1         1  1       0
+Which amino acid residue appears mutated in most of the cases reported with cadasil syndrome ?
+0     1     1    1       0       1       0  0    0  0   0     0        0    1       1        0
+What are the breath test biomarkers of pulmonary tuberculosis
+0    0   0   1      1    1          0  1         1
+Which trinucleotide repeat disorders are affecting the nervous system ?
+0     1             1      1         0   0         0   1       1      0
+Which hormone concentrations are altered in patients with the Allan–Herndon–Dudley syndrome ?
+0     1       1              0   0       0  0        0    0   1                    1        0
+What are the observations regarding telomere integrity and function in Fanconi anemia ?
+0    0   0   0            0         1        1         0   1        0  1       1      0
+What memory problems are reported in the " Gulf war syndrome "
+0    1      0        0   0        0  0   0 1    1   1        0
+What are piggyBAC transposons ?
+0    0   1        1           0
+What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients ?
+0    0   0   0     0  1         1          1        0    0  0    0   0         0  1        1         0        0
+What is the vibrational theory of olfaction ?
+0    0  0   1           1      0  1         0
+Which are the newly identified DNA nucleases that can be used to treat thalassemia ?
+0     0   0   0     0          1   1         0    0   0  0    0  0     1           0
+Can vitamin B1 deficiency cause encephalopathy ?
+0   1       1  1          0     1              0
+Does the 3D structure of the genome remain stable during cell differentiation ?
+0    0   1  1         0  0   1      0      1      0      1    1               0
+List omics technologies comprised in system biology .
+0    1     0            0         0  1      1       0
+Which bone protein is used in archaelogy for dating and species identification ?
+0     1    1       0  0    0  1          0   1      0   1       1              0
+What is the main symptom of Marfan syndrome patients ?
+0    0  0   0    1       0  1      1        0        0
+Which drug is benserazide usually co-administered with ?
+0     1    0  1           0       0               0    0
+Rindopepimut is an analog of which growth factor ?
+1            0  0  0      0  0     1      1      0
+Which proteins in the cerebro-spinal fluid can be used for early diagnosis of Alzheimer 's disease ?
+0     1        0  0   1              1     0   0  0    0   1     1         0  1         1  1       0
+Are there transposon-free regions in mammalian genomes ?
+0   0     1               1       0  1         1       0
+Which is the receptor for the immunosuppressive drug cyclosporin A ( CsA ) ?
+0     0  0   1        0   0   1                 0    1           1 0 1   0 0
+What is the cause of Phthiriasis Palpebrarum ?
+0    0  0   0     0  1           1           0
+List common features of Shapiro syndrome
+0    0      0        0  1       1
+Which enzyme is inhibited by Varespladib ?
+0     1      0  0         0  1           0
+Is macitentan an ET agonist ?
+0  1          0  1  1       0
+Dracorhodin perchlorate was tested for treatment of which cancers ?
+1           1           0   0      0   1         0  0     1       0
+What are the major classes of retrotransposons active in the human genome ?
+0    0   0   0     0       0  1                0      0  0   1     1      0
+List Parkin binding partners
+0    1      1       1
+What family do mDia proteins belong in ?
+0    0      0  1    1        0      0  0
+Which are the main NMD factors in Saccharomyces cerevisiae ?
+0     0   0   0    1   1       0  1             1          0
+What are cancer driver genes ?
+0    0   1      1      1     0
+What are the skeletal muscle satellite cells ?
+0    0   0   1        1      1         1     0
+What is the role of venous angioplasty in multiple sclerosis ?
+0    0  0   0    0  1      1           0  1        1         0
+Which type of genes are modulated by SATB1 ?
+0     0    0  1     0   1         0  1     0
+Is glycyl-tRNA synthetase gene involved in the development of Charcot-Marie-Tooth disease ?
+0  1           1          1    0        0  0   0           0  1                   1       0
+List two chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma
+0    0   1                0      0    0   0    0   0         0  1            1     1    1
+Describe the involvement of conserved noncoding sequences in the regulation of Hox genes .
+0        0   0           0  1         1         1         0  0   1          0  1   1     0
+What does isradipine do to L-type channels ?
+0    0    1          0  0  1      1        0
+What is TFBSshape ?
+0    0  1         0
+How are CRM ( cis-regulatory modules ) defined ?
+0   0   1   0 1              1       0 0       0
+What disease is mirtazapine predominantly used for ?
+0    1       0  1           0             0    0   0
+Are Drosophila ultraconserved elements candidate ncRNAs ?
+0   1          1              1        0         1      0
+Which is the subcellular localization of ERAP2 ?
+0     0  0   1           0            0  1     0
+Which virus is Cidofovir ( Vistide ) indicated for ?
+0     1     0  1         0 1       0 0         0   0
+Which cellular processes are regulated by Nanog ?
+0     1        1         0   0         0  1     0
+Mutation of which gene is associated with McLeod syndrome ?
+1        0  0     1    0  0          0    1      1        0
+What is the lipid droplet used for in the cell ?
+0    0  0   1     1       0    0   0  0   1    0
+For which diseases members of the 2-aminobenzamide class of histone deacetylase ( HDAC ) inhibitors show promise as therapeutics ?
+0   0     1        0       0  0   1                1     0  1       1           0 1    0 1          0    0       0  0            0
+What tyrosine kinase , involved in a Philadelphia- chromosome positive chronic myelogenous leukemia , is the target of Imatinib ( Gleevec ) ?
+0    1        1      0 0        0  0 1             1          1        1       1           1        0 0  0   0      0  1        0 1       0 0
+Is the long non- coding RNA malat-1 up or downregulated in cancer ?
+0  0   1    1    1      1   1       0  0  1             0  1      0
+Which could be some of the possible causes of hypersomnia ?
+0     0     0  0    0  0   0        0      0  1           0
+Does triiodothyronine stimulate red blood cell sodium potassium pump ?
+0    1                0         1   1     1    1      1         1    0
+Which histone modifications are associated with Polycomb group ( PcG ) proteins ?
+0     1       1             0   0          0    1        1     0 1   0 1        0
+Which is the database of molecular recognition features in membrane proteins ?
+0     0  0   1        0  1         1           1        0  1        1        0
+What is needed for MMP proteins to be functional ?
+0    0  0      0   1   1        0  0  1          0
+Is the Miller-Fisher syndrome considered to be a variant of Guillain-Barré ?
+0  0   1             1        0          0  0  0 0       0  1              0
+LY450139 is investigational name of which drug ?
+1        0  0               0    0  0     1    0
+Which are the different homologs or family members of the hedgehog proteins in mammals ?
+0     0   0   0         1        0  0      0       0  0   1        0        0  1       0
+List algorithms suitable for predicting protein complexes
+0    1          1        0   0          1       1
+Which disorder is rated by Palmini classification ?
+0     1        0  0     0  1       1              0
+List side effects of SGLT2 inhibitors ?
+0    1    1       0  1     1          0
+In which genomic positions is the histone variant macroH2A enriched ?
+0  0     1       1         0  0   1       1       1        0        0
+Are there any specific antidotes for rivaroxaban ?
+0   0     0   0        1         0   1           0
+Which is the most well-accepted method for Down syndrome non-invasive prenatal diagnosis ?
+0     0  0   0    0             0      0   1    1        1            1        1         0
+Does triiodothyronine play a regulatory role in insulin secretion from pancreas ?
+0    1                0    0 0          0    0  1       1         0    1        0
+How many different subtypes of thyroid cancer exist ?
+0   0    0         1        0  1       1      0     0
+Does the histidine-rich Ca-binding protein ( HRC ) interact with triadin ?
+0    0   1              1          1       0 1   0 1        0    1       0
+List human proteins that are subject to a dimer-to-tetramer transition .
+0    1     1        0    0   0       0  0 1                 1          0
+List variants of the MC1R gene .
+0    1        0  0   1    1    0
+Which enzyme is inhibited by Orteronel ?
+0     1      0  1         0  1         0
+Which are the genes thought to be regulated by EWS / FLI ?
+0     0   0   1     0       0  0  0         0  1   1 1   0
+Which translocation is the hallmark of Ewing sarcoma ?
+0     1             0  0   0        0  0     1       0
+Which gene is responsible for the development of Sotos syndrome ?
+0     1    0  1           0   0   0           0  1     1        0
+What medication were compared in the ROCKET AF Trial ?
+0    1          0    0        0  0   1      1  1     0
+Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract ?
+0     1       0  0             0  1          1       0  1         1        1     0  0   1                1     0
+Which substances are dangerous to g6PD deficient individuals ?
+0     1          0   1         0  1    1         0           0
+What is DNAshape ?
+0    0  1        0
+Do all archaea possess multiple origins of DNA replication ?
+0  0   1       0       1        1       0  1   1           0
+Which is the target of the drug Denosumab ?
+0     0  0   1      0  0   1    1         0
+Which deiodinases are present in skeletal muscle ?
+0     1           0   0       0  1        1      0
+Is Fanconi anemia presented as a genetically and clinically heterogeneous disease entity ?
+0  1       1      0         0  0 0           0   0          1             1       0      0
+Which post-translational histone modifications are characteristic of facultative heterochromatin ?
+0     1                  1       1             0   0              0  1           1               0
+What are the mobile applications fields of use for patients ?
+0    0   0   1      1            0      0  0   0   1        0
+Which SLC family is FLVCR1 a member of ?
+0     1   0      0  1      0 0      0  0
+What are the pregnancy outcomes in rheumatoid arthritis ?
+0    0   0   1         1        0  1          1         0
+Is acid alpha-glucosidase the enzyme that causes Pompe disease when mutant ?
+0  1    1                 0   1      0    0      1     1       0    0      0
+What is the biological role of SERCA2 SUMOylation in cardiac physiology and pathophysiology , such as in heart failure ?
+0    0  0   0          0    0  1      1           0  0       0          0   0               0 0    0  0  1     1       0
+List the components of a Replisome Progression Complex ( RPC ) .
+0    0   1          0  0 1         1           1       0 1   0 0
+Which genes are regulated by MEF-2 in the heart ?
+0     1     0   0         0  1     0  0   1     0
+Is the gene MAOA epigenetically modified by methylation ?
+0  0   1    1    1              0        0  1           0
+List Genes associated with adolescent idiopathic scoliosis
+0    1     0          0    1          1          1
+Which genes have been associated with Cerebral Cavernous Malformation ?
+0     1     0    0    0          0    1        1         1            0
+Does MicroRNA-21 ( miR-21 ) contribute to cardiovascular disease ?
+0    1           0 1      0 0          0  1              1       0
+List bacteria that may be useful in uranium bioremediation .
+0    1        0    0   0  0      0  1       1              0
+Which is the E3 ubiquitin ligase of Hsp90 ?
+0     0  0   1  1         1      0  1     0
+Which histone modifications are associated with constitutive heterochromatin ?
+0     1       1             0   0          0    1            1               0
+Which transcription factors ( TFs ) participate in the formation of the interferon-beta ( IFN-b ) enhanceosome ?
+0     1             1       0 1   0 0           0  0   0         0  0   1               0 1     0 1            0
+Which kinase is inhibited by Tripolin A ?
+0     1      0  0         0  1        1 0
+Which are the main histone modifications associated with enhancers ?
+0     0   0   0    1       1             0          0    1         0
+Which domain allowing self-association do exist in TDP-43 and FUS proteins ?
+0     1      1        1                0  0     0  1      0   1   1        0
+Which mutation is associated with PLMS ( periodic limb movements in sleep ) ?
+0     1        0  0          0    1    0 1        1    1         0  1     0 0
+List genes that have been found mutated in CMT1A ( Charcot-Marie-Tooth disease type 1 A ) .
+0    1     0    0    0    0     1       0  1     0 1                   1       1    1 1 0 0
+What is the mechanism of action of eprotirome ?
+0    0  0   1         0  1      0  1          0
+Do A-type lamins bind euchromatin or heterochromatin ?
+0  1      1      0    1           0  1               0
+Which histone modification is primarily linked to elongating transcription ?
+0     1       1            0  0         0      0  1          1             0
+Which packages are used for performing overlap analysis of genomic regions in R / bioconductor ?
+0     1        0   0    0   0          1       1        0  1       1       0  1 1 1            0
+Is the H3K4me3 histone mark related to transcriptional initiation or elongation ?
+0  0   1       1       1    0       0  1               1          0  1          0
+List non-surgical treatment modalities that are included in the Stupp protocol .
+0    1            1         1          0    0   0        0  0   1     1        0
+What is FINDbase ?
+0    0  1        0
+Inhibition of which transporter is the mechanism of action of drug Canagliflozin ?
+1          0  0     1           0  0   0         0  0      0  1    1             0
+Is there a genome-wide technique for the detection of R-loop formation ?
+0  0     0 1           1         0   0   1         0  1      1         0
+What is the mode of inheritance of Facioscapulohumeral muscular
+0    0  0   1    0  1           0  1                   1
+What is enCHIP ?
+0    0  1      0
+What is the association of spermidine with α-synuclein neurotoxicity ?
+0    0  0   0           0  1          0    1           1             0
+What is the substrate of the microbial enzyme inulinase ?
+0    0  0   1         0  0   1         1      1         0
+Which cyclin- dependent kinase inhibitor is regulated by Bmi-1 ?
+0     1       1         1      1         0  0         0  1     0
+Which phenomenon is known as the " calcium paradox " in the isolated perfused heart ?
+0     0          0  0     0  0   0 1       1       0 0  0   1        1        1     0
+Which microRNAs are involved in exercise adaptation ?
+0     1         0   0        0  1        1          0
+Which are the smallest known subviral pathogens of plants ?
+0     0   0   0        0     1        1         0  1      0
+Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease ?
+0  0         0   0   0  1           1           0  0        0  0    0   1        1      1       0
+What is ChiRP-seq ( Chromatin Isolation by RNA Purification sequencing ) ?
+0    0  1         0 1         1         0  1   1            1          0 0
+Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome ?
+0     0     0  1      1            1         0  0   0  0   1         0   1         0   1    1        0
+Does dronedarone affect T3 and T4 levels ?
+0    1           0      1  0   0  1      0
+What are the biological roles proposed for proteins containing the SPRY domain ?
+0    0   0   0          0     0        0   1        0          0   1    1      0
+Which hormone receptor function is altered in patients with Donohue syndrome ?
+0     1       1        0        0  0       0  0        0    1       1        0
+What are the main results of PRKAR1A Knockdown ?
+0    0   0   0    0       0  1       1         0
+What is the action of molindone ?
+0    0  0   0      0  1         0
+Which currently known mitochondrial diseases have been attributed to POLG mutations ?
+0     0         0     1             1        0    0    0          0  1    1         0
+Which is the major phytoalexin in alfalfa ( Medicago sativa L . ) ?
+0     0  0   0     1           0  1       0 1        1      1 0 0 0
+Which pathway is activated by ficolin-3 ?
+0     1       0  0         0  1         0
+What kind of chromatography is HILIC ?
+0    0    0  1              0  1     0
+Which gene is associated with the Mitchell-Riley syndrome ?
+0     1    0  0          0    0   1              1        0
+List drugs included in the DHAP-R chemotherapy regiment .
+0    1     0        0  0   1      1            1        0
+What is the role of the Tsix gene during X chromosome inactivation ?
+0    0  0   0    0  0   1    1    0      1 1          1            0
+Which are the thyroid hormone analogs utilized in human studies ?
+0     0   0   1       1       1       0        0  1     1       0
+Which proteins cause cytoplasmic sequestration of NF-kB ?
+0     0        0     1           1             0  1     0
+Which gene is involved in the development of Barth syndrome ?
+0     1    0  0        0  0   0           0  1     1        0
+The CXCR2 receptor is targeted in cancer . Name five antagonists .
+0   1     1        0  0        0  1      0 0    0    1           0
+which mutations of phospholamban gene have been found to cause hypertrophic cardiomyopathy ?
+0     1         0  1             1    0    0    0     0  0     1            1              0
+What is the association between GERD and gluten ?
+0    0  0   0           0       1    0   1      0
+Are chromomethylases present in animal genomes ?
+0   1                0       0  1      1       0
+Is insulin-like growth factor-I ( IGF-I ) able to affect tendon protein synthesis in classic Ehlers-Danlos syndrome patients ?
+0  1            1      1        0 1     0 1    0  0      1      1       1         0  0       1             1        0        0
+How can DUF families be deciphered ?
+0   0   1   1        0  1          0
+Which proteins act as factors that promote transcription-coupled repair in bacteria ?
+0     0        0   0  1       0    0       1                     1      0  1        0
+Which genes are regulated by TRalpha2 in the heart ?
+0     1     0   0         0  1        0  0   1     0
+Are CpG islands located close to housekeeping genes ?
+0   1   1       0       0     0  1            1     0
+Is PER3 required for CHK2 activation in human cells ?
+0  1    0        0   1    1          0  1     1     0
+Synostosis of which cranial structures are characteristic to the Mercedes Benz syndrome ?
+1          0  0     1       1          0   1              0  0   1        1    1        0
+What is the suggested therapy for Mycobacterium avium infection ?
+0    0  0   0         1       0   1             1     1         0
+Are the Fanconi anemia genes a part of the same signalling pathway ?
+0   0   1       1      1     0 0    0  0   0    1          1       0
+Name synonym of Acrokeratosis paraneoplastica .
+0    0       0  1             1               0
+What is known as the cause of subacute thyroiditis ?
+0    0  0     0  0   0     0  1        1           0
+Are EDNRB mutations involved in the development of Hirschsprung disease ?
+0   1     1         0        0  0   0           0  1            1       0
+What is the outcome of TAF10 interacting with the GATA1 transcription factor ?
+0    0  0   0       0  1     0           0    0   1     1             1      0
+Which miRNAs could be used as potential biomarkers for epithelial ovarian cancer ?
+0     1      0     0  0    0  0         1          0   1          1       1      0
+Which gene has been found to be mutant in Lesch-Nyhan Disease patients ?
+0     1    0   0    0     0  0  1      0  1           1       0        0
+What is the role of AMPK kinase in myocardial remodeling after myocardial infarction
+0    0  0   0    0  1    1      0  1          1          0     1          1
+Simpson grading is used to describe resection of which brain tumor ?
+1       1       0  0    0  0        0         0  0     1     1     0
+List symptoms of 4H leukodystrophy .
+0    1        0  1  1              0
+What is the molecular function of psoralen photobinding on DNA ?
+0    0  0   0         0        0  1        1            0  1   0
+What are the effects of depleting protein km23-1 ( DYNLRB1 ) in a cell ?
+0    0   0   0       0  0         1       0      0 1       0 0  0 1    0
+What is the main component of the Lewy bodies ?
+0    0  0   0    1         0  0   1    1      0
+List mouse models for autism spectrum disorder ( ASD ) .
+0    1     1      0   1      1        1        0 1   0 0
+Which genes are known to be involved in Diamond-Blackfan anemia ?
+0     1     0   0     0  0  0        0  1                1      0
+What is the mechanism of action of decitabine ?
+0    0  0   0         0  1      0  1          0
+How many and which are the different isoforms for the ryanodine receptor ?
+0   0    0   0     0   0   0         1        0   0   1         1        0
+Which pharmacogenetic test is available for abacavir ?
+0     1               1    0  1         0   1        0
+Is muscle regeneration possible in mdx mice with the use of induced mesenchymal stem cells ?
+0  1      1            1        0  1   1    0    0   0   0  1       1           1    1     0
+Which proteins participate in the formation of the Notch transcriptional activation complex ?
+0     1        0           0  0   1         0  0   1     1               1          1       0
+DX-88 is investigational name of which drug ?
+1     0  1               0    0  0     1    0
+Are long non coding RNAs as conserved in sequence as protein coding genes ?
+0   1    1   1      1    0  0         0  0        0  1       1      1     0
+What are the symptoms of Rotor syndrome ?
+0    0   0   1        0  1     1        0
+Which drug is considered as the first line treatment of fibromyalgia ?
+0     1    0  0          0  0   0     0    0         0  1            0
+Which is the main regulatory molecule of SERCA2A function in the cardiac muscle ?
+0     0  0   0    0          0        0  1       1        0  0   1       1      0
+How does Foxa transcription factor exhibits its pioneering function ?
+0   0    1    1             1      0        0   0          0        0
+Is phospholamban a regulatory / inhibitory protein of the Ca ATPase SERCA ?
+0  1             0 0          0 0          0       0  0   1  1      1     0
+Is cardiac magnetic resonance imaging indicated in the pre-participation screening of athletes ?
+0  1       1        1         1       0         0  0   0                 1         0  1        0
+Which hormone abnormalities are characteristic to Pendred syndrome ?
+0     1       1             0   1              0  1       1        0
+Describe the usefulness of the SPIKE database in human signaling pathways
+0        0   0          0  0   1     1        0  1     1         1
+Is SLC22A3 expressed in the brain ?
+0  1       0         0  0   1     0
+What is situs inversus ?
+0    0  1     1        0
+Which is the branch site consensus sequence in U12-dependent introns ?
+0     0  0   1      1    1         1        0  1             1       0
+Is there any link between conserved noncoding elements and alternative splicing in vertebrates ?
+0  0     0   1    0       1         1         1        0   1           1        0  1           0
+What is the mechanism of action of geldanamycin ?
+0    0  0   0         0  0      0  1            0
+What is the effect of resveratrol on mTOR activity ?
+0    0  0   0      0  1           0  1    0        0
+What is the inheritance pattern of Emery-Dreifuss muscular dystrophy ?
+0    0  0   1           1       0  1              1        1         0
+What is the the Menzerath-Altmann law ?
+0    0  0   0   1                 1   0
+Which is the main function of " RNA sponges " ?
+0     0  0   0    0        0  0 1   0       0 0
+List markers for autophagy .
+0    1       0   1         0
+Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease ?
+0     1    0  0       0  0 0       0  1              1     1           1              0     0  1     1       0
+During which stage of the cell cycle is cohesin deposited on the yeast genome ?
+0      0     1     0  0   1    1     0  1       0         0  0   1     1      0
+Which mutations in the cardiac isoform of the ryanodine receptor ( RyR2 ) have been found to be related to CPVT ?
+0     1         0  0   1       1       0  0   1         1        0 1    0 0    0    0     0  0  0       0  1    0
+What is the effect induced by sympathetic nervous system on pupil size ?
+0    0  0   0      0       0  1           1       1      0  1     1    0
+List angiocrine factors
+0    1          1
+Does physical activity influence gut hormones ?
+0    1        1        0         1   1        0
+What is the name for anorexia in gymnasts ?
+0    0  0   0    0   1        0  1        0
+Which enzymes are involved in global genome nucleotide excision repair ( GG-NER ) in bacteria ?
+0     1       0   0        0  1      1      1          1        1      0 1      0 0  1        0
+What is the " Proteomic ruler " ?
+0    0  0   0 1         1     0 0
+What is the function of caspases ?
+0    0  0   0        0  1        0
+Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia
+0     1     0   0    0          0        0  1       1         0  1       1           1
+RTS S AS01 vaccine was developed to prevent which disease ?
+1   1 1    1       0   0         0  0       0     1       0
+What is Cerebral Cavernous Malformation ?
+0    0  1        1         1            0
+How is OCT3 associated with serotonin ?
+0   0  1    0          0    1         0
+Magnetic beads has been used in numerous applications . List some coatings used .
+1        1     0   0    0    0  0        0            0 0    0    1        0    0
+Is STAT3 involved in EIF2AK2-dependent suppression of autophagy ?
+0  1     0        0  1                 1           0  1         0
+Which signaling pathway is activating the dishevelled proteins ?
+0     1         1       0  0          0   1           1        0
+Describe what is the usage of the Theatre software tool for genomic analysis .
+1        0    0  0   0     0  0   1       1        1    0   1       1        0
+Which is the most common type of pediatric cerebellar tumor ?
+0     0  0   0    0      0    0  1         1          1     0
+What is the effect that EZH2 has on chromatin ?
+0    0  0   0      0    1    0   0  1         0
+Which is the genetic basis of Spinal Muscular Atrophy ( SMA ) ?
+0     0  0   1       0     0  1      1        1       0 1   0 0
+What is the systemic nickel allergy syndrome ?
+0    0  0   1        1      1       1        0
+What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia ( CPVT ) caused by RYR2 mutations ?
+0    0  0   1           0       0  1                 1           1           1           0 1    0 0      0  1    1         0
+Which are the clinical characteristics of Tuberous Sclerosis ?
+0     0   0   0        0               0  1        1         0
+What is the typical rash associated with gluten ?
+0    0  0   0       1    0          0    1      0
+Which transcription factors are known as the four ( 4 ) " Yamanaka factors " that have been used to create induced pluripotent stem cells ( iPSCs ) ?
+0     1             1       0   0     0  0   0    0 0 0 0 1        1       0 0    0    0    0    0  0      0       1           1    1     0 1     0 0
+Which calcium / calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors ( Nuclear Factors of Activated T cells ) ?
+0     1       1 1          1         1       1           0  0        0  0   1          0  0   0      0  1    1             1       0 1       1       0  1         1 1     0 0
+List available databases containing information about conserved noncoding elements .
+0    0         1         0          0           0     1         1         1        0
+Which diseases can be treated with Afamelanotide ?
+0     1        0   0  0       0    1             0
+Which factors activate zygotic gene expression during the maternal-to-zygotic transition in zebrafish ?
+0     0       0        1       1    1          0      0   1                   1          0  1         0
+List inflammatory caspase proteins ?
+0    1            1       1        0
+Does fibronectin constitute a serum biomarker for Duchenne muscular dystrophy ?
+0    1           0          0 0     1         0   1        1        1         0
+Are there enhancer RNAs ( eRNAs ) ?
+0   0     0        1    0 1     0 0
+List all clinical trials of the polypill .
+0    0   1        1      0  0   1        0
+What is the definition and the biological role of epithelial-mesenchymal transition ( EMT )
+0    0  0   0          0   0   0          0    0  1                      1          0 1   0
+Which is the main difference between Alu and B1 repeats ?
+0     0  0   0    0          0       1   0   1  1       0
+What is the application of the Bimolecular Fluorescence Complementation ( BiFC ) assay in Drosophila embryos ?
+0    0  0   0           0  0   1           1            1               0 1    0 1     0  1          1       0
+Can botulism poisoning of a pregnant woman harm her fetus ?
+0   0        1         0  0 1        0     0    0   1     0
+How early during pregnancy does non-invasive cffDNA testing allow sex determination of the fetus ?
+0   0     0      1         0    1            1      1       0     1   1             0  0   1     0
+What are ' vildagliptin ' , ' sitagliptin ' , ' saxagliptin ' , ' alogliptin ' , ' linagliptin ' , and ' dutogliptin ' ?
+0    0   0 1            0 0 0 1           0 0 0 1           0 0 0 1          0 0 0 1           0 0 0   0 1           0 0
+Which are the Atg8 homologs in human ?
+0     0   0   1    1        0  1     0
+Which protein is the E3-ubiquitin ligase that targets the tumor suppressor p53 for proteasomal degradation ?
+0     1       0  0   1            1      0    0       0   1     1          1   0   1           1           0
+What is the link between Nonidet-40 ( NP-40 ) and biotinylation ?
+0    0  0   0    0       1          0 1     0 0   1             0
+Which gene is responsible for the development of the Mowat-Wilson syndrome ?
+0     1    0  1           0   0   0           0  0   1            1        0
+What are the main characteristics / symptoms of the " Brugada " syndrome
+0    0   0   0    0               0 0        0  0   0 1       0 1
+Which components of the stress granules are known to be related to motor neuron degeneration in Amyotrophic Lateral Sclerosis ?
+0     0          0  0   1      1        0   0     0  0  0       0  1     1      1            0  1           1       1         0
+Where can we find the protein dermcidin ?
+0     0   0  0    0   1       1         0
+Does thyroid hormone affect cardiac remodeling ?
+0    1       1       0      1       1          0
+List the off-label use of SSRIs
+0    0   1         1   0  1
+Mutations in which genes have been associated with Aicardi-Goutieres syndrome ?
+1         0  0     1     0    0    0          0    1                 1        0
+What is ATAC-seq ?
+0    0  1        0
+List inhibtors targeting the mitochondrial permeability transition pore .
+0    1         0         0   1             1            1          1    0
+What is the minimal genome build ?
+0    0  0   1       1      1     0
+What is the methodological principle of ChIA-PET ?
+0    0  0   0              0         0  1        0
+Name five programs for transcript quantification from RNASeq experiments
+0    0    1        0   1          1              0    1      1
+Which antibodies cause Riedel thyroiditis ?
+0     1          0     1      1           0
+What are the main characteristics of Catecholaminergic Polymorphic Ventricular Tachycardia ( CPVT ) ?
+0    0   0   1    1               0  1                 1           1           1           0 1    0 0
+Do plant genomes contain CpG islands ?
+0  1     1       0       1   1       0
+Can RNAPolII function as an RNA-dependent RNA-polymerase ?
+0   1        0        0  0  1             1              0
+What is the function of the AIRE gene at the embryonic stage ?
+0    0  0   0        0  0   1    1    0  0   1         1     0
+Which disease is treated with Eliglustat ?
+0     1       0  0       0    1          0
+List symptoms of Hakim Triad .
+1    1        0  1     1     0
+From which sequence does the Alu repeat originate from ?
+0    0     1        0    0   1   1      0         0    0
+Which gene fusion is the result of the " philadelphia translocation " or the " philadelphia chromosome " mutation ?
+0     1    1      0  0   0      0  0   0 1            1             0 0  0   0 1            1          0 1        0
+Which ones are the ESKAPE organisms ?
+0     0    0   0   1      1         0
+Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis ?
+0   1      1        0        0  0   1            0  1           1       1         0
+What is the Drosophila melanogaster Groucho protein ?
+0    0  0   1          1            1       1       0
+Which molecule is targeted by a monoclonal antibody Secukinumab ?
+0     1        0  0        0  0 1          1        1           0
+What is the effect of methotrexate in treating uveitis due to juvenile idiopathic arthritis ?
+0    0  0   0      0  1            0  0        1       0   0  1        1          1         0
+Which are the different members / isoforms of the Ras oncogenes ?
+0     0   0   0         1       0 1        0  0   1   1         0
+What is GRO-seq ?
+0    0  1       0
+What is the name of Bruton 's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia ?
+0    0  0   0    0  1      1  1        1      1         0    0   0  0    0   0         0  1       1           1        0
+Elaborate on the TREAT-NMD initiative for DMD patients
+0         0  0   1         1          0   1   0
+What is the genetic basis of tuberous sclerosis ?
+0    0  0   1       0     0  1        1         0
+Which DNA sequences are more prone for the formation of R-loops ?
+0     1   1         0   0    1     0   0   1         0  1       0
+Is Bladder training an effective method to treat urge incontinence ?
+0  1       1        0  0         0      0  0     1    1            0
+Is COL5A2 gene associated to ischemic heart disease ?
+0  1      1    0          0  1        1     1       0
+In which proteins is the chromodomain present ?
+0  0     1        0  0   1            0       0
+Is paramyxovirus involved in human subacute thyroiditis ?
+0  1             0        0  1     1        1           0
+What can Nothobranchius furzeri be used as a model system for ?
+0    0   1              1       0  0    0  0 1     1      0   0
+Which gene mutations are responsible for isolated Non-compaction cardiomyopathy ?
+0     1    1         0   0           0   1        1              1              0
+Mutations of which genes have been associated with Catecholaminergic Polymorphic Ventricular Tachycardia ( CPVT ) ?
+1         0  0     1     0    0    0          0    1                 1           1           1           0 1    0 0
+What is the aim of the Human Chromosome-centric Proteome Project ( C-HPP ) ?
+0    0  0   0   0  0   1     1                  1        1       0 1     0 0
+Which oncogenes are able to induce cellular senescence ?
+0     1         0   1    0  0      1        1          0
+What is known about prostate cancer screening in the UK
+0    0  0     0     1        1      1         0  0   1
+What is DeepCAGE ?
+0    0  1        0
+Which is the RNA sequence of the canonical polyadenylation signal ?
+0     0  0   1   1        0  0   1         1               1      0
+Does a selective sweep increase genetic variation ?
+0    0 1         1     1        1       1         0
+Which is the execution time ( complexity ) of the Smith-Waterman algorithm for the alignment of two sequences
+0     0  0   0         0    0 0          0 0  0   1              1         0   0   1         0  0   0
+Do proton pump inhibitors affect thyroxine absorption ?
+0  1      1    1          0      1         1          0
+Which gene is involved in Giant Axonal Neuropathy ?
+0     1    0  0        0  1     1      1          0
+Is stop codon bypass possible ?
+0  1    1     1      0        0
+List diseases where protein citrullination plays an important role .
+1    1        0     1       1              0     0  1         1    0
+How does thyroid hormone regulate mitochondrial biogenesis in the myocardium ?
+0   0    1       1       0        1             1          0  0   1          0
+Treprostinil is an analogue for which prostaglandin ?
+1            0  0  1        0   0     1             0
+How do HBS1L-MYB intergenic variants regulate fetal hemoglobin ?
+0   0  1         1          1        0        1     1          0
+Which is the primary distinction between the Reverse Warburg effect and the conventional Warburg effect ?
+0     0  0   0       0           0       0   1       1       1      0   0   1            1       1      0
+Neurostimulation of which nucleus is used for treatment of dystonia ?
+1                0  0     1       0  0    0   0         0  1        0
+Does Rad9 interact with Aft1 in S.cerevisiae ?
+0    1    0        0    1    0  1            0
+What is smFISH ?
+0    0  1      0
+List all approved indications for Glivec
+0    0   0        0           0   1
+What is the general function of H3K79 methylation ?
+0    0  0   0       0        0  1     1           0
+List co-morbidities that may occur together with " Stiff man Syndrome "
+0    1              0    0   0     0        0    0 1     1   1        0
+Which tool is used for promoterome mining using CAGE data ?
+0     0    0  0    0   1           1      0     1    1    0
+Which cell type has the protein Chromogranin A as marker ?
+0     1    1    0   0   1       1            1 0  0      0
+Which is the most known bacterium responsible for botulism ( sausage-poisoning ) ?
+0     0  0   0    0     1         0           0   1        0 1                 0 0
+Which is the most widely used model for the study of multiple sclerosis ( MS ) ?
+0     0  0   0    0      0    1     0   0   0     0  1        1         0 1  0 0
+Which genes are thought to be involved in medulloblastoma development ?
+0     1     0   0       0  0  0        0  1               1           0
+Which are the characteristics of the Meier-Gorlin syndrome ?
+0     0   0   0               0  0   1            1        0
+What is the characteristic domain of histone methyltransferases ?
+0    0  0   1              1      0  1       1                  0
+Which mutations of alpha-myosin heavy chain gene are implicated in hypertrophic cardiomyopathy ?
+0     1         0  1            1     1     1    0   0          0  1            1              0
+Is K-63 linked protein ubiquitination related to proteasomal degradation ?
+0  1    1      1       1              0       0  1           1           0
+Which kinase is regulating stress granule biogenesis ?
+0     1      0  0          1      1       1          0
+How is bladder wall thickness measured ?
+0   0  1       1    1         1        0
+Which growth factors are known to be involved in the induction of EMT ?
+0     1      1       0   0     0  0  0        0  0   1         0  1   0
+In which cells are gasdermins expressed ?
+0  0     1     0   1          0         0
+Which histone modifications distinguish between promoters and enhancers ?
+0     1       1             0           0       1         0   1         0
+What is the role of Caenorhabditis elegans Heterochromatin protein 1 ( HPL-2 ) in development ?
+0    0  0   0    0  1              1       1               1       1 0 1     0 0  1           0
+What is the suggested clinical management of Fanconi anemia ?
+0    0  0   0         1        1          0  1       1      0
+Which is the most common measure of differences between dinucleotide relative abundance " genomic signatures "
+0     0  0   0    0      0       0  0           0       1            1        1         0 1       1          0
+List features of the DEND syndrome .
+0    0        0  0   1    1        0
+List autoimmune disorders associated with GAD65 autoantibodies .
+0    1          1         0          0    1     1              0
+Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis ?
+0     1                    1          0   0    0   0         0  1          1      0
+Which are the most widely reported side-effects in the treatment of Crohn 's disease ?
+0     0   0   0    0      0        1            0  0   1         0  1     1  1       0
+Which is the vector of Louping ill virus ?
+0     0  0   1      0  1       1   1     0
+Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes ?
+0     1     0    0   0   1     1       0  0   1   1          1   0  0    1          0
+Has silicon been used in treatment of incontinence ?
+0   1       0    0    0  1         0  1            0
+List available biomedical question answering systems .
+0    0         1          1        1         1       0
+Which interleukin is blocked by Siltuximab ?
+0     1           0  0       0  1          0
+What is GDF10 ?
+0    0  1     0
+List clinical trials for prevention of sarcopenia
+1    1        1      0   0          0  1
+List sclerostin interaction partners .
+0    1          1           1        0
+List causative genes for autosomal recessive forms of monogenic Parkinson 's disease
+0    0         1     0   1         1         0     0  1         1         1  1
+In which condition was protein S100A7 originally identified ?
+0  0     0         0   1       1      0          0          0
+The protein NONO forms heterodimers . With which proteins ?
+0   1       1    0     1            0 0    0     1        0
+Describe Heyde syndrome .
+0        1     1        0
+Does PU.1 ( SPI1 ) affect NF-kB binding ?
+0    1    0 1    0 0      1     1       0
+What are the reported adverse effects of topical minoxidil ?
+0    0   0   0        1       1       0  1       1         0
+Oxantel is used for periodontitis treatment . How does it work ?
+1       0  0    0   1             1         0 0   0    0  0    0
+Is there a role for transcription factories in genome organization ?
+0  0     0 0    0   1             1         0  1      1            0
+What are the computational tools for the prediction of beta-barrel transmembrane proteins ?
+0    0   0   1             1     0   0   1          0  1           1             1        0
+What is the treatment of neuropathic pain in children ?
+0    0  0   1         0  1           1    0  1        0
+Is clathrin involved in E-cadherin endocytosis ?
+0  1        0        0  1          1           0
+What is the RESID database ?
+0    0  0   1     1        0
+What is a Caveolae ?
+0    0  0 1        0
+Which kinases does baricitinib inhibit ?
+0     1       0    1           1       0
+How are GRBs ( Genomic Regulatory Blocks ) defined ?
+0   0   1    0 1       1          1      0 0       0
+List signaling molecules ( ligands ) that interact with the receptor EGFR ?
+0    1         1         0 1       0 0    1        0    0   1        1    0
+List packages for transcription factor binding sites' ( TFBS ) analysis available in R / Bioconductor
+0    0        0   1             1      1       1      0 1    0 1        0         0  1 1 0
+Matuzumab has been tested for treatment of which cancers ?
+1         0   0    0      0   0         0  0     1       0
+What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients ?
+0    0  0   0    0  1           1         1       0  0   0         0  1        0        0
+List available genetic multicolor cell labeling techiniques in Drosophila
+0    0         1       1          1    1        0           0  1
+Which is the substrate of the haspin kinase during mitosis ?
+0     0  0   1         0  0   1      1      0      1       0
+What is the mechanism of drug-induced gingival overgrowth ?
+0    0  0   0         0  1            1        1          0
+Is GAGA associated with nucleosome-free regions ( NFR ) ?
+0  1    0          0    1               1       0 1   0 0
+Which genes were found to be methylated in bladder cancer cells ?
+0     1     0    0     0  0  1          0  1       1      1     0
+Which is the definition of pyknons in DNA ?
+0     0  0   0          0  1       0  1   0
+Which genes / proteins have been found to inhibit cyclin dependent kinase 4 ( CDK4 ) ?
+0     1     0 1        0    0    0     0  0       1      1         1      1 0 1    0 0
+Which are the classes of anti-arrhythmic drugs according to Vaughan-Williams classification ?
+0     0   0   0       0  1               1     0         0  1                1              0
+How does phospholamban affect the biological activity of the calcium ATPase SERCA ?
+0   0    1             0      0   0          0        0  0   1       1      1     0
+What types of DNA mutations are induced by 2-hydroxy-dATP ( 2-OH-dATP ) ?
+0    0     0  1   1         0   0       0  1              0 1         0 0
+Is PLK2 involved in alpha-synuclein phosphorylation in the nervous system ?
+0  1    0        0  1               1               0  0   1       1      0
+What is the incidence of Edwards syndrom in the european population ?
+0    0  0   0         0  1       1       0  0   1        1          0
+What is the mode of inheritance of Romano Ward long QT syndrome ?
+0    0  0   1    0  1           0  1      1    1    1  1        0
+Which are the mammalian orthologs of Drosophila Yki ?
+0     0   0   1         1         0  1          1   0
+Name the major classes of small non coding RNAs in mammalians ?
+0    0   0     0       0  1     1   1      1    0  1          0
+Which gene(s ) should be genotyped in order to prescribe the drug Cetuximab ( anti-EGFR ) ?
+0     1      0 0      0  1         0  1     0  0         0   0    1         0 1         0 0
+Abnormalities in which chromosomes were linked to the Moyamoya disease ?
+0             0  0     1           0    0      0  0   1        1       0
+Which are the different proteins / isoforms encoded but the ASPH ( aspartate beta-hydroxylase ) gene in humans ?
+0     0   0   0         1        0 1        0       0   0   1    0 1         1                0 1    0  1      0
+Which are the subtypes of Pfeiffer syndrome ?
+0     0   0   0        0  1        1        0
+What is the treatment of choice for gastric lymphoma ?
+0    0  0   1         0  0      0   1       1        0
+The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies . Which protein are they targeting ?
+0   1          1       0   1      0    0     0         0       0  0        0            0 0     1       0   0    0         0
+What is the mode of inheritance of Wilson 's disease ?
+0    0  0   1    0  1           0  1      1  1       0
+Is there any role for long noncoding RNAs in adipogenesis ?
+0  0     0   0    0   1    1         1    0  1            0
+Which molecule is targeted by the drug Gevokizumab ?
+0     1        0  0        0  0   1    1           0
+Are conserved noncoding elements associated with the evolution of animal body plans ?
+0   1         1         1        0          0    0   1         0  1      1    1     0
+Inhibition of which enzyme is mechanism of action of alisertib ?
+0          0  0     1      0  1         0  1      0  1         0
+Which histone modifications are correlated with transcription elongation ?
+0     1       1             0   0          0    1             1          0
+In which kingdom do microsporidia belong , according to their current classification scheme ?
+0  0     1       0  1             0      0 0         0  0     1       1              1      0
+What is the characteristic feature of the Dyke-Davidoff-Masson syndrome .
+0    0  0   0              0       0  0   1                    1        0
+Can desvenlafaxine be used at a dose of 50mg / day ?
+0   1              0  0    0  0 1    0  1    1 1   0
+Is metabolic syndrome related with cardiovascular disease ?
+0  1         1        0       0    1              1       0
+What is the mode of inheritance of long QT Jervell and Lange-Nielsen syndrome ?
+0    0  0   1    0  1           0  1    1  1       0   1             1        0
+What are the computational methods for the prediction of beta-barrel transmembrane proteins ?
+0    0   0   1             1       0   0   1          0  1           1             1        0
+Are seizures among the neurological symptoms of incontinentia pigmenti ?
+0   1        0     0   1            1        0  1             1        0
+Which is the gene mutated in type 1 neurofibromatosis ?
+0     0  0   1    1       0  1    1 1                 0
+Which disease has been associated to a disruptive ALX1 protein ?
+0     1       0   0    0          0  0 1          1    1       0
+What is the mechanism of cementogenesis in pulp regeneration ?
+0    0  0   0         0  1              0  1    1            0
+Is the HRC Ser96Ala variant associated with sudden cardiac death in patients with dilated cardiomyopathy ?
+0  0   1   1        1       0          0    1      1       1     0  0        0    1       1              0
+What is known about the economic cost of urinary incontinence ?
+0    0  0     0     0   1        1    0  1       1            0
+List processes which are under the control of the YAP protein .
+0    1         0     0   0     0   0       0  0   1   1       0
+Where is the angiogenin binding element located ?
+0     0  0   1          1       1       0       0
+Can NXY-059 be used for treatment of acute ischemic stroke patients ?
+0   1       0  0    0   1         0  1     1        1      1        0
+In which diseases have electronic patient diaries been applied ?
+0  0     1        0    1          1       1       0    0       0
+Which genes are associated with Ehlers-Danlos syndrome type I / II ?
+0     1     0   0          0    1             1        1    1 1 1  0
+Which syndrome is NHE6 associated with ?
+0     1        0  1    0          0    0
+How does Hst5 ( histatin 5 ) affect infections by Candida glabrata ?
+0   0    1    0 1        1 0 0      0          0  1       1        0
+Which compounds exist that are thyroid hormone analogs ?
+0     0         0     0    0   1       1       1       0
+What is Piebaldism ?
+0    0  1          0
+What is known about prostate cancer screening in the UK ?
+0    0  0     0     1        1      1         0  0   1  0
+Against which organisms has reverse vaccinology been used ?
+0       0     1         0   1       1           0    0    0
+Which diseases are associated with Alu element insertion ?
+0     1        0   0          0    1   1       1         0
+Which MAP kinase phosphorylates the transcription factor c-jun ?
+0     1   1      0              0   1             1      1     0
+What is the role of the RUNX1-MYEF2 complex ?
+0    0  0   0    0  0   1           1       0
+Which is the enzyme that degrades decapped mRNAs ?
+0     0  0   1      0    0        1        1     0
+Global quantitative phosphoproteomic analyses are emerging . List the preferred technologies for the enrichment for phosphorylated peptides ?
+1      1            1                1        0   0        0 0    0   1         1            0   0   1          0   1              1        0
+GV1001 vaccine targets which enzyme ?
+1      1       0       0     1      0
+The secreted frizzled-related protein 3 ( sFPR3 ) is altered in human cancers .
+0   1        1                1       1 0 1     0 0  0       0  1     1       0
+How many genes are imprinted in the human genome ?
+0   0    1     0   1         0  0   1     1      0
+Pridopidine has been tested for treatment of which disorder ?
+1           0   0    0      0   0         0  0     1        0
+Which gene strand is targeted by transcription-coupled repair ( TCR ) ?
+0     1    1      0  0        0  1                     1      0 1   0 0
+What are the properties of super-enhancers ?
+0    0   0   0          0  1               0
+Is it possible to detect survivin protein expression in normal human adult tissues ?
+0  0  0        0  0      1        1       1          0  0      1     1     1       0
+What is the Genomic Regions Enrichment of Annotations Tool ( GREAT ) ?
+0    0  0   1       1       1          0  1           1    0 1     0 0
+Could transcription factors act as cell-cell signalling molecules ?
+0     1             1       0   0  1         1          1         0
+Does prudent diet reduce cardiovascular risk ?
+0    1       1    0      1              1    0
+Are epigenetic modifications implicated in cardiovascular development and disease ?
+0   1          1             0          0  1              1           0   1       0
+Which pituitary adenoma is common cause of infertility is women ?
+0     1         1       0  0      0     0  1           0  1     0
+Which enzyme is targeted by the drug Imetelstat ?
+0     1      0  0        0  0   0    1          0
+Which molecule is targeted by a monoclonal antibody Mepolizumab ?
+0     0        0  1        0  0 1          1        1           0
+Proteomic analyses have revealed proteins associated with the triple-negative breast cancers . List some proposed proteins .
+1         1        0    0        0        0          0    0   1               1      1       0 1    0    0        1        0
+Which treatment leads to an increase in neutrophil counts in severe congenital neutropenia ?
+0     1         0     0  0  0        0  1          1      0  1      1          1           0
+Which disease is associated with the ectopic expression of the protein encoded by the gene DUX4 ?
+0     1       0  0          0    0   1       1          0  0   0       0       0  0   0    0    0
+What does mTOR stands for ?
+0    0    1    0      0   0
+what is the role of MEF-2 in cardiomyocyte differentiation ?
+0    0  0   0    0  1     0  1             1               0
+Which protein complexes contain mitofilin ?
+0     1       1         0       1         0
+Patients of which disease could be treated by utilizing knowledge obtained from experiments suppressing TDP-43 toxicity in yeast ?
+0        0  0     1       0     0  0       0  0         0         0        0    1           0           1      1        0  1     0
+Which myosin isozymes are located within the pericuticular necklace of the hair cell ?
+0     1      1        0   0       0      0   1             1        0  0   1    1    0
+Which is the protein ( antigen ) targeted by anti-Vel antibodies in the Vel blood group ?
+0     0  0   1       0 1       0 0        0  1        1          0  0   1   1     1     0
+What was the purpose of the FANTOM5 project ?
+0    0   0   0       0  0   1       1       0
+Which are the musculoskeletal manifestations of Marfan syndrome ?
+0     0   0   1               0              0  1      1        0
+Can chronological age be predicted by measuring telomere length ?
+0   1             1   0  0         0  0         1        1      0
+What are the functions of the ESCRT machinery ?
+0    0   0   0         0  0   1     1         0
+Which is the receptor for substrates of Chaperone Mediated Autophagy ?
+0     0  0   1        0   0          0  1         1        1         0
+Which drugs have been found effective for the treatment of chordoma ?
+0     1     0    0    0     0         0   0   0         0  1        0
+Have thyronamines effects on fat tissue ?
+0    1            0       0  1   1      0
+List the diseases for which there are point-of-care breath tests
+0    0   1        0   0     0     0   1             1      1
+Which are the families of mammalian DNA- ( cytosine-5)-methyltransferases ?
+0     0   0   0        0  1         1    1 1                              0
+What is the mechanism of DNA replication termination in vertebrates ?
+0    0  0   0         0  1   1           1           0  1           0
+Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers ?
+1              0   1             1        0    0        0  0            1            0
+Which deiodinase polymorphisms are implicated in arterial hypertension ?
+0     1          1             0   0          0  1        1            0
+What is the methyl donor of DNA ( cytosine-5)-methyltransferases ?
+0    0  0   1      1     0  1   1 1                              0
+Which protein phosphatases have been found to dephosphorylate phospholamban ?
+0     1       1            0    0    0     0  0               1             0
+How many periods of regulatory innovation led to the evolution of vertebrates ?
+0   0    0       0  1          1          0   0  0   1         0  1           0
+Which JAK ( Janus kinase ) inhibitor is approved for treatment of rheumatoid arthritis ?
+0     1   0 1     1      0 1         0  0        0   0         0  1          1         0
+Which is the most common disease attributed to malfunction or absence of primary cilia ?
+0     0  0   0    0      1       0          0  1           0  1       0  1       1     0
+Which proteins constitute the methyl-directed mismatch repair system ( MMR ) in bacteria ?
+0     1        0          0   1               1        1      1      0 1   0 0  1        0
+What histone trimethylation has been associated to RNA splicing ?
+0    1       1              0   0    0          0  1   1        0
+Mutations in which gene and which protein are associated with Netherton syndrome ?
+1         0  0     1    0   0     1       0   0          0    1         1        0
+Which are the available biomedical text mining tools for the detection of protein-protein interactions ?
+0     0   0   0         0          1    1      1     0   0   1         0  1               1            0
+Which diseases can Oncotype DX be used for ?
+0     1        0   1        1  0  0    0   0
+Which proteins induce inhibition of LINE-1 and Alu retrotransposition ?
+0     0        0      1          0  1      0   1   1                  0
+Which calcium channels does ethosuximide target ?
+0     1       1        0    1            1      0
+What is ISMARA ?
+0    0  1      0
+Which receptor(s ) recognize lysosomal hydrolases in trans-Golgi network ( TGN ) ?
+0     1          0 0         1         1          0  1           1       0 1   0 0
+Which protein does empagliflozin inhibit ?
+0     1       0    1             0       0
+Which are the clinical characteristics of isolated Non-compaction cardiomyopathy ?
+0     0   0   0        0               0  1        1              1              0
+What is the relationship between TailorX and Oncotype ?
+0    0  0   0            0       1       0   1        0
+Against which protein is the antibody used for immonostaining of Lewy bodies raised ?
+0       0     1       0  0   1        0    0   1              0  1    1      0      0
+Which biomarker is widely used in the diagnosis of Ewing sarcoma ?
+0     1         0  0      0    0  0   1         0  1     1       0
+What type of enzyme is peroxiredoxin 2 ( PRDX2 ) ?
+0    0    0  1      0  1             1 0 1     0 0
+What is the incidence of cystic fibrosis in the caucasian population ?
+0    0  0   0         0  1      1        0  0   1         1          0
+What are the Topological Domains ( TADs ) ?
+0    0   0   1           1       0 1    0 0
+Which is the most common cause of sudden cardiac death in young athletes ?
+0     0  0   0    0      1     0  1      1       1     0  1     1        0
+How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS ?
+0   0    1     0       0  0   1   1     0    0    0           0          0  1          1         0       1    0
+Which factors play a role in promoter proximal pausing of RNA polymerase II ?
+0     1       0    0 0    0  1        1        1       0  1   1          1  0
+What is the genetic basis of propionic acidemia ?
+0    0  0   1       0     0  1         1        0
+Which are the major characteristics of cellular senescence ?
+0     0   0   0     0               0  1        1          0
+Are ACTA1 ( alpha actin ) and NEB ( nebulin ) genes related to nemaline myopathy ?
+0   1     0 1     1     0 0   1   0 1       0 1     0       0  1        1        0
+Which gene harbors the mutation T790M ?
+0     1    0       0   1        1     0
+What is apelin ?
+0    0  1      0
+Is Crohn 's disease ( CD ) linked to the consumption of refrigerated food ?
+0  1     1  1       0 1  0 0      0  0   0           0  1            1    0
+Which are the common symptoms of Cushing 's syndrome ?
+0     0   0   0      0        0  1       1  1        0
+In which genomic regions are Alu enriched ?
+0  0     1       1       0   1   0        0
+Are people with blood group O protected against severe Malaria ?
+0   0      0    1     1     1 0         0       0      1       0
+What genes are related to breast cancer ?
+0    1     0   0       0  1      1      0
+What are the reported adverse effects of gabapentin used in children ?
+0    0   0   0        1       1       0  1          0    0  1        0
+What is the role of 5hmC ( 5 hydroxy-methyl-Cytocine ) in differentiation ?
+0    0  0   0    0  1    0 1 1                       0 0  1               0
+What is the application of the ASSET algorithm in C.elegans ?
+0    0  0   0           0  0   1     1         0  1         0
+Which are the enzymes involved in the control of tubulin acetylation ?
+0     0   0   1       0        0  0   0       0  1       1           0
+How many genes does the human hoxD cluster contain ?
+0   0    1     0    0   1     1    1       0       0
+Which diseases are caused by mutations in Calsequestrin 2 ( CASQ2 ) gene ?
+0     1        0   0      0  1         0  1             1 0 1     0 1    0
+Which are the main causes of fetal echogenic bowel ?
+0     0   0   0    0      0  1     1         1     0
+What is targeted by Palbociclib ?
+0    0  0        0  1           0
+List bacterial species identified in the iceman tissues .
+0    1         1       0          0  0   1      1       0
+Which genes have been found to be associated with restless leg syndrome
+0     1     0    0    0     0  0  0          0    1        1   1
+Which major signaling pathways are regulated by RIP1 ?
+0     0     1         1        0   0         0  1    0
+Abnormality in which vertebral region is important in the Bertolotti 's syndrome ?
+1           0  0     1         1      0  0         0  0   1          1  1        0

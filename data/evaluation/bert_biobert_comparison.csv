@@ -1,0 +1,101 @@
+question_id,question,bert_rank,biobert_rank
+20,Do lincRNAs play a role in human cancer?,1,1
+21,What is the usefulness of ultraconserved elements in phylogeny?,1,2
+22,Which proteins act as histone-like molecules in prokaryotes?,N/A,N/A
+23,What is Tn-seq?,1,1
+24,How many different mutations have been associated with Muenke syndrome?,1,1
+25,Which syndrome is associated with mutations in the LYST gene?,1,1
+26,Is the yeast Μac1 transcription factor induced upon copper deficiency?,N/A,N/A
+27,What is STARR-seq?,1,1
+28,Is muscle lim protein (MLP) involved in cardiomyopathies?,2,1
+29,Is Alu hypomethylation associated with breast cancer?,1,1
+840,What are the indications for alteplase,1,1
+841,List mutations that are implicated in the Gray Platelet Syndrome.,1,1
+842,Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?,1,1
+843,"Which are the biotracers used for detection of Alzheimer's disease using PET?",2,1
+844,Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?,1,1
+845,What molecule is targeted by suvorexant?,1,6
+846,Have 5q35 microdeletions been implicated in Sotos syndrome development?,1,2
+847,Which peripheral neuropathy has been associated with NDRG1 mutations?,1,1
+848,Is there a relation between ANP and transcapillary albumin escape?,1,1
+849,What is the mechanism of viroid replication?,N/A,1
+1730,Have C12orf65 mutations been associated with axonal neuropathy and optic atrophy?,1,1
+1731,Is apixaban effective for treatment of acute venous thromboembolism?,3,2
+1732,In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?,2,N/A
+1733,Which event results in the acetylation of S6K1?,7,6
+1734,Which gene test can be used for the X-linked myotubular myopathy?,1,1
+1735,What is known as Von Hippel–Lindau disease or syndrome?,1,1
+1736,Which genes does thyroid hormone receptor alpha1 regulate in the heart?,N/A,N/A
+1737,Which is the main calcium binding protein of the sarcoplasmic reticulum?,1,1
+1738,What is the function of TALENs?,1,1
+1739,What do mepolizumab and reslizumab have in common,1,2
+2690,What hand deformities do patients with Apert syndrome present with?,3,1
+2691,Which disease of the central nervous system is characterized by the presence of Lewy bodies?,3,2
+2692,Is Growth factor independence 1b (GFI1B) important for hematopoiesis,2,5
+2693,List disorders that are caused by mutations in the mitochondrial MTND6 gene.,N/A,N/A
+2694,Which human genes are more commonly related to craniosynostosis?,2,2
+2695,List two common features of Tay syndrome.,1,1
+2696,Which compound is a specific inhibitor for Nox1 and Nox4?,4,3
+2697,Which type of GTPases is required for amino acid-dependent activation of mTORC1?,1,1
+2698,Does replication timing affect the rate of somatic mutations?,2,N/A
+2699,Which are the cardiac manifestations of Marfan syndrome?,3,9
+3520,Is endostatin a proangiogenic factor?,1,1
+3521,List the diseases that can be treated using Vedolizumab.,2,1
+3522,What is the function of the yeast protein Aft1?,2,1
+3523,What is known about Vancomycin dosing in neonates?,6,1
+3524,What is the most prominent sequence consensus for the polyadenylation site?,3,7
+3525,Which is the protein implicated in Spinocerebellar ataxia type 3?,1,1
+3526,Which genes are implicated in short QT syndrome?,1,1
+3527,Which molecule is targeted by Daratumumab?,1,1
+3528,Is ospemifene effective for treatment of dyspareunia?,1,1
+3529,Which drugs are utilized to treat eosinophilic esophagitis?,3,2
+4390,Name monoclonal antibody against SLAMF7.,1,1
+4391,Is Tuberous Sclerosis a genetic disease?,1,1
+4392,What are the outcomes of Renal sympathetic denervation?,4,6
+4393,Is CHEK2 involved in cell cycle control?,1,1
+4394,Does splicing occur co-transcriptionally?,1,3
+4395,List the neurotransmitters that are metabolized by MAOA.,1,1
+4396,Which enzyme is involved in the maintenance of DNA (cytosine-5-)-methylation?,1,1
+4397,What is the indication of Daonil (Glibenclamide)?,1,1
+4398,What is the major adverse effect of adriamycin(doxorubicin)?,2,13
+4399,Which is the most abundant membrane protein on Earth?,1,1
+5330,Does triiodothyronine (T3) has cardiac angiogenic effects?,1,1
+5331,Can tetracycline affect tooth formation?,10,2
+5332,Does TGF-beta play a role in cardiac regeneration after myocardial infarction?,N/A,N/A
+5333,To the ligand of which receptors does Denosumab (Prolia) bind?,1,3
+5334,Which phenomenon is described as oncogene addiction?,1,3
+5335,Which enzyme is targeted by Evolocumab?,1,1
+5336,Which is the major symptom of the Doose syndrome?,1,1
+5337,What is the mode of inheritance in Fanconi anemia?,1,1
+5338,Which protein is found to be mutated in Friedreich's ataxia?,2,2
+5339,Is zolpidem an antibiotic?,1,1
+6330,Which receptors are targeted by suvorexant?,1,3
+6331,What is the role of extracellular signal-related kinases 1 and 2 (ERK1/2) proteins in craniosynostosis?,5,3
+6332,Idarucizumab is an antidote of which drug?,1,1
+6333,Which enzyme is deficient in Krabbe disease?,1,2
+6334,Which protein kinases have been found to phosphorylate Phospholamban and affect its biological activity?,6,1
+6335,Which genes are affected in ROMANO-WARD syndrome?,1,1
+6336,Is protein Fbw7 a SCF type of E3 ubiquitin ligase?,2,2
+6337,Which drugs are included in TAS-102?,1,2
+6338,List programs suitable for protein docking,1,1
+6339,which are the risk factors for sudden cardiac death in patients with hypertrophic cardiomyopathy?,1,1
+7260,Which is the gene most commonly mutated in Tay-Sachs disease?,1,1
+7261,Which disease can be treated with Delamanid?,1,1
+7262,Are Notch mutations related to T-cell Acute Lymphoblastic Leukemia (T-ALL)?,1,1
+7263,Which are the main functions of G3BP1 and G3BP2 proteins?,1,1
+7264,Which enzyme is deficient in Gaucher's disease?,1,2
+7265,Which are the Yamanaka factors?,1,1
+7266,What are the results of loss of the protein Lon1 in the plant Arabidopsis?,7,1
+7267,Is the Wnt protein modified by notum?,2,1
+7268,What disease is Velcade (bortezomib) mainly used for?,1,1
+7269,Tumors of which three organs are classically associated with the multiple endocrine neoplasia type 1 syndrome?,3,1
+8130,What is the role of ELMO1 gene in cell migration?,N/A,N/A
+8131,Which gene is associated with Muenke syndrome?,1,1
+8132,Mutation of which gene is implicated in the familial isolated pituitary adenoma?,1,1
+8133,List five applications of machine learning algorithms in medical diagnosis.,N/A,N/A
+8134,Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?,4,1
+8135,Which proteins have been identified as RET ligands?,1,1
+8136,Which fusion protein is involved in the development of Ewing sarcoma?,1,1
+8137,What is the molecular pathogenesis of Spinal Muscular Atrophy?,1,5
+8138,What is the role of TRH in hypertension?,3,3
+8139,What is the method FASP used for?,3,5

@@ -1,0 +1,1472 @@
+Name the factors required for selenoprotein synthesis in eukaryotes
+VB DT NNS VBN IN NN NN IN NNS
+Describe the mechanism of action of drisapersen
+IN DT NN IN NN IN NN
+What is the biological role of expansins in fungi ?
+WP VBZ DT JJ NN IN NNS IN NN .
+What is the generic name of Gliolan ?
+WP VBZ DT JJ NN IN NNP .
+Which gene has been implicated in Majeed Syndrome ?
+WDT NN VBZ VBN VBN IN NNP NNP .
+Between which probes does the recurrent translocation breakpoint on chromosome 22 of neuroepithelioma lie ?
+IN WDT NNS VBZ DT JJ NN NN IN NN CD IN NN NN .
+Which variables are included in the SPAN-100 score ?
+WDT NNS VBP VBN IN DT JJ NN .
+Which syndrome is associated with OATP1B1 and OATP1B3 deficiency ?
+WDT NN VBZ VBN IN NNP CC NNP NN .
+Which are the most widely used computational methods for the identification of CRMs ( cis-regulatory modules ) ?
+WDT VBP DT RBS RB VBN JJ NNS IN DT NN IN NNP -LRB- JJ NNS -RRB- .
+Which are the enzymes involved in the addition of 7-methylguanosine in mRNA ?
+WDT VBP DT NNS VBN IN DT NN IN JJ IN NN .
+Which are the most abundant human lincRNA ?
+WDT VBP DT RBS JJ JJ NN .
+What memory problems are reported in the " Gulf war syndrome " ?
+WP NN NNS VBP VBN IN DT `` NNP NNP NN '' .
+Have mutations in the ZEB2 gene been found in any human syndrome ?
+VBP NNS IN DT NNP NN VBN VBN IN DT JJ NN .
+Is there an increased risk for cancer in Dyskeratosis Congenita ?
+VBZ EX DT VBN NN IN NN IN NNP NNP .
+Elaborate on the potential efficacy of gemcitabine for the treatment of recurrent , platinum-resistant epithelial ovarian cancer .
+NNP IN DT JJ NN IN NN IN DT NN IN JJ , JJ NN NN NN .
+To what extent does HPV vaccination reduce the risk for cervical cancer ?
+TO WP NN VBZ NNP NN VBP DT NN IN JJ NN .
+Which hormone abnormalities are common in Williams syndrome ?
+WDT NN NNS VBP JJ IN NNP NN .
+Which clotting factor is inhibited by betrixaban ?
+WDT NN NN VBZ VBN IN NN .
+List tele monitoring applications of miniaturised sensors
+NN NN NN NNS IN JJ NNS
+What are the pyknons ?
+WP VBP DT NNS .
+Are immune cells affected in Amyotrophic Lateral Sclerosis ?
+VBP JJ NNS VBN IN JJ JJ NN .
+List sodium glucose co-transporter-2 ( SGLT2 ) inhibitors that have been FDA approved for type 2 diabetes mellitus treatment .
+NN NN NN NN -LRB- NN -RRB- NNS WDT VBP VBN NNP VBD IN NN CD NN NN NN .
+List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease .
+VB JJ JJ NNS WDT VBP VBN VBN IN JJ NNS IN NN IN NNP NN .
+Which are the subunits of the transcription factor NF-kappaB in the canonical pathway activation ?
+WDT VBP DT NNS IN DT NN NN NNP IN DT JJ NN NN .
+Which type of myeloma is ixazomib being evaluated for ?
+WDT NN IN NN VBZ IN VBG VBN IN .
+Which enzyme is inhibited by a drug fostamatinib ?
+WDT NN VBZ VBN IN DT NN NN .
+Does thyroid hormone receptor beta1 affect insulin secretion ?
+VBZ DT NN NN VBD VB NN NN .
+Is aganglionic megacolon a feature of Down syndrome ?
+VBZ JJ NN DT NN IN NNP NN .
+Is TENS machine effective in pain ?
+VBZ NNS NN JJ IN NN .
+What is the role of probiotics in gastrointestinal disease ?
+WP VBZ DT NN IN NNS IN JJ NN .
+Which disease is included as an additional feature in the Goldberg-Shprintzen syndrome ?
+WDT NN VBZ VBN IN DT JJ NN IN DT NNP NN .
+What is the synonym of the lubag disease ?
+WP VBZ DT NN IN DT NN NN .
+Is thyroid hormone therapy indicated in patients with heart failure ?
+VBZ DT NN NN VBD IN NNS IN NN NN .
+Which are the most common symptoms in Lambert-Eaton Myasthenic Syndrome ?
+WDT VBP DT RBS JJ NNS IN NNP NNP NNP .
+What is the evolutionary process described by the " Muller 's ratchet " model ?
+WP VBZ DT JJ NN VBN IN DT `` NNP POS NN '' NN .
+Which are the main functions of the human HuR ( ELAVL1 ) protein in fibroblasts ?
+WDT VBP DT JJ NNS IN DT JJ NNP -LRB- NN -RRB- NN IN NNS .
+What is the average diameter of intermediate filaments ?
+WP VBZ DT JJ NN IN JJ NNS .
+Which SWI / SNF protein complex subunit has been demonstrated to interact with the FANCA gene product ?
+WDT NNP NNP NNP NN NN NN VBZ VBN VBN TO VB IN DT NNP NN NN .
+Which are the major types of the motor speech disorder dysarthria ?
+WDT VBP DT JJ NNS IN DT NN NN NN NNS .
+Give an overview of visualizing genomes with oligopaint FISH probes .
+VB DT NN IN VBG NNS IN JJ NNP NNS .
+Is Calcium homeostasis important in cardiac physiology and pathophysiology ?
+VBZ NNP NN JJ IN JJ NN CC NN .
+Does Chromatin Immunoprecipitation ( ChIP ) show a bias for highly expressed loci ?
+VBZ NNP NNP -LRB- NN -RRB- VBP DT NN IN RB VBN NNS .
+List adenosine A2A receptor antagonists that are used for Parkinson 's disease treatment .
+NN NN IN NN NNS WDT VBP VBN IN NNP POS NN NN .
+Which protein is affected by dusp8 activation ?
+WDT NN VBZ VBN IN NNS NN .
+List the existing methods for genetic manipulation of cells .
+VB DT VBG NNS IN JJ NN IN NNS .
+Which are the characteristics of Andersen syndrome ?
+WDT VBP DT NNS IN NNP NN .
+What is the common feature in congenital central hypoventilation and Mowat-Wilson syndromes ?
+WP VBZ DT JJ NN IN JJ JJ NN CC NNP NNS .
+What is the definitive treatment for low pressure headache ?
+WP VBZ DT JJ NN IN JJ NN NN .
+Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome ?
+WDT VBD NN NN VBZ VBN IN DT NN NN NN .
+What is the disease in which patients are sensitive to DNA crosslinking agents , presenting with a high frequency of chromosomal aberrations ?
+WP VBZ DT NN IN WDT NNS VBP JJ TO NNP VBG NNS , VBG IN DT JJ NN IN NN NNS .
+Which are the state-of-the-art computational tools for the prediction of gene fusion events ?
+WDT VBP DT JJ JJ NNS IN DT NN IN NN NN NNS .
+Is CD84 genetically associated with arthritis ?
+VBZ NNP RB VBN IN NN .
+List clinical trials that have directly compared microsurgical clipping with endovascular coiling for treatment of ruptured brain aneurysms ?
+JJ JJ NNS WDT VBP RB VBN JJ NN IN JJ NN IN NN IN JJ NN NNS .
+Can we use prodrug amifostine to protect healthy cell during chemotherapy ?
+MD PRP VB NN JJ TO VB JJ NN IN NN .
+Which R / bioconductor package is used for integrative genomics visualizations ?
+WDT NN NN NN NN VBZ VBN IN JJ NNS NNS .
+Which are the cellular targets of imatinib mesylate ?
+WDT VBP DT JJ NNS IN NN NN .
+Can valproic acid act as an activator of AMPK ?
+MD JJ JJ NN IN DT NN IN NNP .
+Which type of cell death is known as anoikis ?
+WDT NN IN NN NN VBZ VBN IN NNS .
+What is the role of eteplirsen in DMD patients ?
+WP VBZ DT NN IN NN IN NNP NNS .
+Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation ?
+WDT NN NN VBZ VBG JJ NN IN NNP TO VB NN NN .
+What distinguishes lantibiotics from antibiotics ?
+WP VBZ NNS IN NNS .
+PBT2 has been tested for which disorder ?
+NNP VBZ VBN VBN IN WDT NN .
+Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies ?
+WDT NN VBZ VBN IN NNP CD NN TO VB NNS CC NNS .
+Which is the histone residue methylated by MLL1 ?
+WDT VBZ DT NN NN VBN IN NNP .
+For the constructions of which organs has 3D printing been tested ?
+IN DT NNS IN WDT NNS VBZ CD NN VBN VBN .
+What disease is small bowel lymphoma commonly associated with
+WP NN VBZ JJ NN NN RB VBN IN
+Mention the only available genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica
+NNP DT RB JJ NNS CC JJ NNS NN IN DT NN NNP .
+What imaging modalities have been listed as method of choice to diagnose CSF leak ?
+WP VBG NNS VBP VBN VBN IN NN IN NN TO VB NNP NN .
+Which is the cellular localization of the protein Opa1 ?
+WDT VBZ DT JJ NN IN DT NN . .
+Is p100 the precursor protein molecule of the NF-kappaB transcription factor subunit p50 ?
+VBZ VB DT JJ NN NN IN DT NNP NN NN NN NN .
+Which hormone abnormalities are common in Williams syndrome
+WDT NN NNS VBP JJ IN NNP NN
+Which brain structures have been investigated as potential targets for deep brain stimulation of patients suffering from major depression ?
+WDT NN NNS VBP VBN VBN IN JJ NNS IN JJ NN NN IN NNS VBG IN JJ NN .
+Is NOD1 activated in inflammation ?
+VBZ DT VBN IN NN .
+What is the presumed key event in Fanconi anemia pathogenesis ?
+WP VBZ DT JJ JJ NN IN NNP NN NN .
+List Kartagener Syndrome Triad .
+NN NNP NNP NNP .
+Is there an association between FGFR3 mutation and plagiocephaly ?
+VBZ EX DT NN IN DT NN CC NN .
+Is EZH2 associated with prostate cancer ?
+VBZ NN VBN IN NN NN .
+Is the abnormal dosage of ultraconserved elements disfavored in cancer cells ?
+VBZ DT JJ NN IN JJ NNS VBN IN NN NNS .
+List symptoms of congenital toxoplasmosis triad .
+NN NNS IN NN NN NN .
+List medication interfering with purine metabolism that are used for treatment of T-cell prolymphocytic leukemia ?
+JJ NN NN IN NN NN WDT VBP VBN IN NN IN DT JJ NN .
+Are there interactomes available for POU5F1 and SOX2 ?
+VBP EX VBZ JJ IN NNP CC NNP .
+Where in the cell do we find the protein Cep135 ?
+WRB IN DT NN VBP PRP VB DT NN . .
+Describe the isolation of transcription factor complexes by in vivo biotinylation tagging and direct binding to streptavidin beads , as applied for the case of the essential hematopoietic transcription factor GATA-1 .
+NNP DT NN IN NN NN NNS IN IN JJ NN NN CC JJ NN TO VB NNS , IN VBN IN DT NN IN DT JJ JJ NN NN NN .
+Is protein M3 / 6 a dual specificity phosphatase ?
+VBZ NN IN NNP CD DT JJ NN NN .
+Is Alpers disease inherited in an autosomal recessive mode ?
+VBZ NNP NN VBD IN DT JJ JJ NN .
+How is active neurotoxin of Clostridium botulinum detected ?
+WRB VBZ JJ NN IN NNP NN VBD .
+Which syndromes are associated with mutations in the EZH2 gene ?
+WDT NNS VBP VBN IN NNS IN DT NNP NN .
+Which are the main functions of the APOBEC3 family of proteins ?
+WDT VBP DT JJ NNS IN DT NNP NN IN NNS .
+Does the CTCF protein co-localize with cohesin ?
+VBZ DT NNP NN NN IN NN .
+Is Rheumatoid Arthritis more common in men or women ?
+VBZ NNP NNP RBR JJ IN NNS CC NNS .
+List three major features of the CCFDN syndrome .
+VB CD JJ NNS IN DT NNP NN .
+List fish anti-freeze proteins .
+VB NN JJ NNS .
+List FDA approved treatments for androgenetic allopecia
+JJ NNP VBD NNS IN JJ CC
+Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2 ?
+WDT VBZ DT JJ NN VBN TO NNS IN DT NNS VBN NN NN .
+What are the main clinical characteristics of Pendred syndrome ?
+WP VBP DT JJ JJ NNS IN NNP NN .
+ROSIER scale is used for which disorder ?
+NNP NN VBZ VBN IN WDT NN .
+Which species may be used for the biotechnological production of itaconic acid ?
+WDT NNS MD VB VBN IN DT JJ NN IN JJ NN .
+Are there any specific antidotes for dabigatran ?
+VBP EX DT JJ NNS IN NN .
+Which proteins are the different isoforms of the p38 MAP kinase ?
+WDT NNS VBP DT JJ NNS IN DT NNS NNP NN .
+Which is the E3 ubiquitin ligase which ubiquitinates IkB leading to its proteasomal degradation ?
+WDT VBZ DT JJ NN NN WDT VBZ NNP VBG TO PRP$ NN NN .
+What symptoms characterize the Muenke syndrome ?
+WP NNS VBP DT NNP NN .
+In which phase of the cell cycle arrest is impaired in Fanconi anemia ?
+IN WDT NN IN DT NN NN NN VBZ VBN IN NNP NN .
+How does long-range epigenetic silencing ( LRES ) occur ?
+WRB VBZ JJ JJ NN -LRB- NNP -RRB- VBP .
+What is the role of AMPK in diabetic cardiomyopathy ?
+WP VBZ DT NN IN NNP IN NN NN .
+What is the treatment of Riedel disease ( thyroiditis ) ?
+WP VBZ DT NN IN NNP NN -LRB- NN -RRB- .
+Which intraflagellar transport ( IFT ) motor protein has been linked to human skeletal ciliopathies ?
+WDT NN NN -LRB- NN -RRB- NN NN VBZ VBN VBN TO JJ NN NNS .
+Which proteins compose the error prevention GO ( 8-oxo-G ) system in Pseudomonas putida ?
+WDT VBZ NN DT NN NN NNP -LRB- JJ -RRB- NN IN NNP . .
+Do R-loops tend to form at sites of DNA replication ?
+VB NNS VB TO VB IN NNS IN NNP NN .
+Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency ?
+VB DT NNP NNP CC DT NN NNS VBP JJR NN NN .
+Why does cranberry juice help combat urinary tract infections ?
+WRB VBZ NN NN NN NN JJ NN NNS .
+What is being measured with an accelerometer in back pain patients
+WP VBZ VBG VBN IN DT NN IN JJ NN NNS
+Is PLK2 involved in alpha-synuclein phosphorylation in Parkinson disease ?
+VBZ NNP VBN IN NN NN IN NNP NN .
+Which are the major transcription factors regulating glycolysis in mammals ?
+WDT VBP DT JJ NN NNS VBG NN IN NNS .
+Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome ?
+VBP DT NN NN IN NNS VBN IN DT NN NN NN .
+Which are the major phycobiliproteins present in cyanobacteria ?
+WDT VBP DT JJ NNS VBP IN NNS .
+Is corpus callosum involved in the Mowat–Wilson syndrome ?
+VBZ JJ NN VBN IN DT NNP NN .
+What is the treatment of acute myocarditis ?
+WP VBZ DT NN IN JJ NN .
+Which are the roles of chromatin compartments in the eukaryotic nucleus ?
+WDT VBP DT NNS IN NN NNS IN DT JJ NN .
+Which transcription factors are involved in E-cadherin repression during EMT ?
+WDT NN NNS VBP VBN IN NNP NN IN NNP .
+What is the function of Neu5Gc ( N-Glycolylneuraminic acid ) ?
+WP VBZ DT NN IN JJ -LRB- JJ NN -RRB- .
+Which are the known human transmembrane nucleoporins ?
+WDT VBP DT VBN NN NN NNS .
+What is the functional role of the protein Drp1 ?
+WP VBZ DT JJ NN IN DT NN . .
+List symptoms of Gradenigo 's syndrome .
+NN NNS IN NNP POS NN .
+What is the life expectancy of professional athletes in respect to the general population ?
+WP VBZ DT NN NN IN JJ NNS IN NN TO DT JJ NN .
+Does d-tubocurarine ( d-TC ) induces irreversible inhibition of nicotinic acetylcholine receptor ( nAChR ) at the neuromuscular junction ?
+VBZ JJ -LRB- JJ -RRB- VBZ JJ NN IN JJ NN NN -LRB- NN -RRB- IN DT JJ NN .
+Which database is available for the identification of chorion proteins in Lepidopteran proteomes ?
+WDT NN VBZ JJ IN DT NN IN JJ NNS IN NNP NNS .
+Is Hirschsprung disease one of the characteristics of the Mowat-Wilson syndrome ?
+VBZ NNP NN CD IN DT NNS IN DT NNP NN .
+What is the mode of inheritance of Facioscapulohumeral muscular dystrophy ( FSHD ) ?
+WP VBZ DT NN IN NN IN NNP JJ NN -LRB- NN -RRB- .
+What is the enzymatic activity of the breast cancer associated gene BRCA1 ?
+WP VBZ DT JJ NN IN DT NN NN VBN NN NN .
+Which signaling pathways have been associated with medulloblastoma formation and growth ?
+WDT VBG NNS VBP VBN VBN IN NN NN CC NN .
+What is the function of the viral KP4 protein ?
+WP VBZ DT NN IN DT JJ NNP NN .
+Which are the 3 basic transcription factors that have been used for the direct reprogramming of fibroblasts into cardiomyocytes or cardiomyocyte like-cells ?
+WDT VBP DT CD JJ NN NNS WDT VBP VBN VBN IN DT JJ NN IN NNS IN NNS CC NN . .
+List functions that are evaluated with the Full Outline of Unresponsiveness score ?
+VB NNS WDT VBP VBN IN DT NNP NNP IN NNP NN .
+Which properties of the mRNA does N6-methyladenosine ( m6A ) affect ?
+WDT NNS IN DT NN VBZ FW -LRB- NN -RRB- VBP .
+Which proteins are involved in actin bundling and filopodia formation and function ?
+WDT NNS VBP VBN IN NN NN CC NN NN CC NN .
+What is the effect of amitriptyline in the mdx mouse model of Duchenne muscular dystrophy ?
+WP VBZ DT NN IN NN IN DT JJ NN NN IN NNP JJ NN .
+Which are the supplemental antioxidant in athletes ?
+WDT VBP DT JJ NN IN NNS .
+Is there any algorithm for enhancer identification from chromatin state ?
+VBZ EX DT NN IN NN NN IN NN NN .
+What are the indications for treatment with anti-hepcidin ?
+WP VBP DT NNS IN NN IN JJ .
+Which is the most common CFTR mutation in Caucasians ?
+WDT VBZ DT RBS JJ NNP NN IN NNS .
+List fluorescent reporter proteins .
+VB JJ NN NNS .
+What is the scope of the OMIA database ?
+WP VBZ DT NN IN DT NNP NN .
+Which are the cardiac effects of thyronamines ?
+WDT VBP DT JJ NNS IN NNS .
+Tumor-treating fields are effective for treatment of which cancers ?
+JJ NNS VBP JJ IN NN IN WDT NNS .
+Which drugs are utilized to treat amiodarone-induced thyroitoxicosis ?
+WDT NNS VBP VBN TO VB JJ NN .
+Which are the plant DNA ( cytosine-5 ) methyltransferase families ?
+WDT VBP DT NN NN -LRB- CD -RRB- NN NNS .
+Which proteins are the different members of the NF-kappaB family of transcription factors ?
+WDT NNS VBP DT JJ NNS IN DT NNP NN IN NN NNS .
+Which bacteria caused plague ?
+WDT NNS VBD NN .
+What is a mitochondrial nucleoid ?
+WP VBZ DT JJ JJ .
+Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity ?
+WDT NN NNS IN DT NNP NNP TO VB JJ NN .
+List proteins of lipids droplets
+JJ NNS IN NNS NNS
+Is there any protein that undergoes both mono-ubiquitination and poly-ubiquitination ?
+VBZ EX DT NN WDT VBZ DT NN CC NN .
+What is CRISPRi ?
+WP VBZ NNP .
+Give examples of next-generation sequencing applications in mutation screening ?
+VB NNS IN JJ NN NNS IN NN NN .
+What is the function of the MTH1 enzyme in cancer cells ?
+WP VBZ DT NN IN DT NNP NN IN NN NNS .
+Is Titin the largest single protein molecule found in Nature ?
+VBZ NNP DT JJS JJ NN NN VBD IN NN .
+List all articles on network meta-analysis for smoking cessation
+VB DT NNS IN NN NN IN NN NN
+For which type of diabetes can empagliflozin be used ?
+IN WDT NN IN NN MD RB VB VBN .
+Do selenoproteins and selenium play a role in prostate cancer prevention ?
+VB NNS CC NN VBP DT NN IN NN NN NN .
+Is pesticide exposure associated with polyneuropathy ?
+VBZ NN NN VBN IN NN .
+Which factors are considered in the ABCD2 score ?
+WDT NNS VBP VBN IN DT NNP NN .
+Are adenylyl cyclases always transmembrane proteins ?
+VBP JJ NNS RB JJ NNS .
+Which are the clinical characteristics of TSC ?
+WDT VBP DT JJ NNS IN NNP .
+For the treatment of which conditions can atypical neuroleptic drugs be used ?
+IN DT NN IN WDT NNS MD VB JJ NNS VB VBN .
+How many tissue kallikrein genes are present in the human genome ?
+WRB JJ NN NN NNS VBP JJ IN DT JJ NN .
+What states the second parity rule ( PR2 ) ?
+WP VBZ DT JJ NN NN -LRB- NN -RRB- .
+What is known about food intolerance and gluten ?
+WP VBZ VBN IN NN NN CC NN .
+Is the protein product of the cylindromatosis gene ( CYLD ) a deubiquitinating enzyme ?
+VBZ DT NN NN IN DT NN NN -LRB- NN -RRB- DT VBG NN .
+In which types of DNA repair is the UvrAB complex involved ?
+IN WDT NNS IN NN NN VBZ DT NNP NN VBN .
+What type of cancers and inherited diseases have been associated to mutations in the Notch pathway ?
+WP NN IN NNS CC VBD NNS VBP VBN VBN TO NNS IN DT NN NN .
+What personality traits can be evaluated with the Ten Item Personality Inventory .
+WP NN NNS MD VB VBN IN DT CD NNP NNP NNP .
+Which genes are associated with autosomal dominant Charcot-Marie-Tooth ?
+WDT NNS VBP VBN IN JJ JJ NNP .
+Mutation of which gene and which chromosome cause Neurofibromatosis type I ?
+NN IN WDT NN CC WDT NN NN NN NN PRP .
+What are the applications of a Dermaroller ?
+WP VBP DT NNS IN DT NNP .
+Which are the most commonly reported pathological states associated with the formation of DNA G-quadruplexes ?
+WDT VBP DT RBS RB VBN JJ NNS VBN IN DT NN IN NNP NNP .
+Can RNASeq be used for the analysis of nascent transcripts ?
+MD NNP VB VBN IN DT NN IN JJ NNS .
+What is the Barr body ?
+WP VBZ DT NNP NN .
+Which forms of cancer is the Tpl2 gene associated with ?
+WDT NNS IN NN VBZ DT NNP NN VBN IN .
+What does the SAGA complex acronym stands for ?
+WP VBZ DT NNP NN IN NNS IN .
+Which is the main calcium pump of the sarcoplasmic reticulum ?
+WDT VBZ DT JJ NN NN IN DT JJ NN .
+What is a disordered protein ?
+WP VBZ DT JJ NN .
+List all reported treatment options for anxiety in autism spectrum disorder .
+VB DT VBN NN NNS IN NN IN NN NN NN .
+Which proteins participate in the formation of the ryanodine receptor quaternary macromolecular complex ?
+WDT VBZ VB IN DT NN IN DT NN NN JJ JJ NN .
+Which is the mechanism used for synthesis of a highly functional N-truncated dystrophin isoform that attenuates dystrophinopathy ?
+WDT VBZ DT NN VBN IN NN IN DT RB JJ JJ NN NN WDT VBZ NN .
+What is Sotos syndrome ?
+WP VBZ NNP NN .
+Which agents are included in the FLAMSA chemotherapy regimen ?
+WDT NNS VBP VBN IN DT NNP NN NNS .
+Is there any research that relates the function of Notch Signaling with Alzheimer Disease ?
+VBZ EX DT NN IN NNS DT NN IN NN VBG IN NNP NNP .
+Which intermediate filament ( IF ) protein can be used as a non-specific marker of the neuronal precursor cells of the subventricular zone ?
+WDT JJ NN -LRB- IN -RRB- NN MD VB VBN IN DT JJ NN IN DT JJ NN NNS IN DT JJ NN .
+Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis ?
+VBZ NNP NN RBR JJ TO NNS IN NNP NN .
+Name triad of Wernicke encephalopathy .
+VB NN IN NNP NN .
+Which mitochondrial genes are regulated by thyroid hormone ?
+WDT JJ NNS VBP VBN IN DT NN .
+Which is the causative agent of malaria ?
+WDT VBZ DT JJ NN IN NN .
+Is there a role for the cylindromatosis tumor suppressor ( CYLD ) in lung cancer ?
+VBZ EX DT NN IN DT NN NN NN -LRB- NN -RRB- IN NN NN .
+How is mTORC1 involved in the regulation of heat stress ?
+WRB VBZ JJ VBN IN DT NN IN NN NN .
+Are nucleosomes positioned at DNA replication origins ?
+VBP NNS VBN IN NNP NN NNS .
+Which CDK targets control cytokinesis ?
+WDT NNP VBZ NN NN .
+Which types of bacterial microflora are associated with the progression of peri-implantitis ?
+WDT NNS IN JJ NN VBP VBN IN DT NN IN NN .
+What is the effect of a defective CLN3 gene ?
+WP VBZ DT NN IN DT JJ NN NN .
+Does GC content vary markedly within a given isochore ?
+VBZ JJ NN VBP RB IN DT VBN NN .
+Where can we find the protein lacritin ?
+WRB MD PRP VB DT NN NN .
+How are induced pluripotent stem cells used in the study and treatment of cardiovascular diseases ?
+WRB VBP VBN JJ NN NNS VBN IN DT NN CC NN IN JJ NNS .
+What species is associated with Tetrodotoxin ?
+WP NN VBZ VBN IN NN .
+What is Snord116 ?
+WP VBZ NNP .
+Which is the target protein of the drug nivolumab ?
+WDT VBZ DT NN NN IN DT NN NN .
+Which is the methyl donor of histone methyltransferases ?
+WDT VBZ DT NN NN IN NN NNS .
+What is the main biological function of the CRISPR-CAS9 genome editing system ?
+WP VBZ DT JJ JJ NN IN DT NNP NN NN NN .
+List interaction partners for the protein GATA1 .
+VB NN NNS IN DT NN NNP .
+What is the frequency of mutations induced spontaneously through Ethylnitrosourea ( ENU ) mutagenesis ?
+WP VBZ DT NN IN NNS VBN RB IN NNP -LRB- NNP -RRB- NN .
+What causes Katayama Fever ?
+WP VBZ NNP NNP .
+Where is the protein Pannexin1 located ?
+WRB VBZ DT NN NNP VBD .
+Which computational frameworks are available for predicting enhancers ?
+WDT JJ NNS VBP JJ IN VBG NNS .
+Which is the defective protein causing the lysosomal storage disease Fabry ?
+WDT VBZ DT JJ NN VBG DT NN NN NN NNP .
+Gene silencing can be achieved by RNA interference ( RNAi ) in eukaryotic organisms . What is the name of the analogous process in prokaryotic organisms ?
+NNP NN MD VB VBN IN NNP NN -LRB- NNP -RRB- IN JJ NNS . WP VBZ DT NN IN DT JJ NN IN JJ NNS .
+Is armodafinil used for treatment of insomnia ?
+VBZ NN VBN IN NN IN NN .
+What are the effects of homozygosity of EDNRB mutations in addition to Hirschsprung disease ?
+WP VBP DT NNS IN NN IN NNP NNS IN NN TO NNP NN .
+What is the biological role of K-48 linked protein ubiquitination ?
+WP VBZ DT JJ NN IN DT VBN NN NN .
+Which are the subunits of the IkB protein kinase ( IKK ) ?
+WDT VBP DT NNS IN DT NNP NN NN -LRB- NN -RRB- .
+Which disorders are associated to mutated Hepcidin ( HAMP ) ?
+WDT NNS VBP VBN TO JJ NNP -LRB- NNP -RRB- .
+Do carmustine wafers improve survival of glioblastoma patients ?
+VBP JJ NNS VBP NN IN NN NNS .
+What is the idea behind the fractal globule that has been proposed as a model of chromatin conformation in the nucleus of a cell ?
+WP VBZ DT NN IN DT JJ NN WDT VBZ VBN VBN IN DT NN IN NN NN IN DT NN IN DT NN .
+Is it safe to use Abatacept during pregnancy ?
+VBZ PRP JJ TO VB VB IN NN .
+Which genes are involved in patient response to warfarin ?
+WDT NNS VBP VBN IN JJ NN TO NN .
+How does Rif1 regulate DNA replication ?
+WRB VBZ NNP VB NNP NN .
+Which hormone deficiency is implicated in the Costello syndrome ?
+WDT NN NN VBZ VBN IN DT NNP NN .
+Intetumumab has been tested in clinical trials for treatment of which cancers ?
+NNP VBZ VBN VBN IN JJ NNS IN NN IN WDT NNS .
+Which medication should be administered when managing patients with suspected acute opioid overdose ?
+WDT NN MD VB VBN WRB VBG NNS IN JJ JJ JJ NN .
+What kind of bonds are connecting keratin molecules ?
+WDT NN IN NNS VBP VBG NN NNS .
+List the three most prevalent pathogenic species of Borrelia in Europe .
+VB DT CD RBS JJ JJ NNS IN NNP IN NNP .
+List BRAF inhibitors that have been tested in clinical trials for treatment of melanoma patients
+VB NNP NNS WDT VBP VBN VBN IN JJ NNS IN NN IN NN NNS
+Which are the inhibitors of histone methyltransferases ?
+WDT VBP DT NNS IN NN NNS .
+List the results of mutated casein kinase 1 epsilon .
+VB DT NNS IN JJ NN NN CD NN .
+What is the function of the enzymes known as dual specificity phoshpatases ( DUSPs ) ?
+WP VBZ DT NN IN DT NNS VBN IN JJ NN NNS -LRB- NNS -RRB- .
+Do archaeal genomes contain one or multiple origins of replication ?
+VBP JJ NNS VBP CD CC JJ NNS IN NN .
+Is the Prostate- Specific Antigen ( PSA ) test relevant only for prostate cancer ?
+VBZ DT NNP NNP NNP -LRB- NN -RRB- NN JJ RB IN NN NN .
+What is protein carbamylation ?
+WP VBZ NN NN .
+Which tumor suppressor is referred to as " the guardian of the genome " ?
+WDT NN NN VBZ VBN TO IN `` DT NN IN DT NN '' .
+Are genes symmetrically distributed between leading and lagging DNA strand in bacteria ?
+VBP NNS RB VBN IN VBG CC VBG NNP NN IN NNS .
+How many selenoproteins are encoded in the human genome ?
+WRB JJ NNS VBP VBN IN DT JJ NN .
+How is myotonic dystrophy inherited ?
+WRB VBZ JJ NN VBN .
+What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins ?
+WP VBZ DT NN IN DT NN NN NN IN DT JJ NN IN NNS VBG IN NNS .
+Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema ?
+WDT NNS VBG IN NN NN VBP JJ IN NN IN JJ NN .
+Is there any link between the aurora B kinase and the polycomb protein ring1B ?
+VBZ EX DT NN IN DT NN NNP NN CC DT NN NN NN .
+Is Weaver syndrome similar to Sotos ?
+VBZ NNP NN JJ TO NNP .
+Which enzyme does MLN4924 inhibit ?
+WDT NN VBZ NNP VB .
+Can we detect DNA strand asymmetries using dinucleotide relative abundance " genomic signatures " ?
+MD PRP VB NN NN NNS VBG NN JJ NN '' JJ NNS '' .
+By which methods can we evaluate the reliability of a phylogenetic tree ?
+IN WDT NNS MD PRP VB DT NN IN DT JJ NN .
+The protein neprilysin has an positive effect on Alzheimer disease , how can it be delivered to the brain ?
+DT NN NN VBZ DT JJ NN IN NNP NN , WRB MD PRP VB VBN TO DT NN .
+Which metabolite activates AtxA ?
+WDT NN NNS . .
+Is the gene DUX4 epigenetically regulated in somatic cells ?
+VBZ DT NN IN RB VBN IN JJ NNS .
+Is it safe to take isotretinoin during pregnancy ?
+VBZ PRP JJ TO VB VB IN NN .
+Which are the DNA ( cytosine-5-)-methyltransferases inhibitors ?
+WDT VBP DT NN -LRB- JJ NNS .
+Which neuroendocrine tumors are associated with specific tumor syndromes ?
+WDT NN NNS VBP VBN IN JJ NN NNS .
+Does helicobacter pylori infection increase risk for ischemic stroke ?
+VBZ NN NN NN NN NN IN JJ NN .
+Which assays can be used for detecting DNA fragmentation resulting from programmed cell death ( apoptosis ) ?
+WDT VBZ MD VB VBN IN VBG NNP NN VBG IN DT NN NN -LRB- NN -RRB- .
+Which enzyme deficiency can cause GM1 gangliosidoses ?
+WDT NN NN MD VB DT NNS .
+Which are the methods for in silico prediction of the origin of replication ( ori ) among bacteria ?
+WDT VBP DT NNS IN IN NN NN IN DT NN IN NN -LRB- FW -RRB- IN NNS .
+List the components of mTOR Complex 2 ( mTORC2 ) .
+VB DT NNS IN JJ NN CD -LRB- NN -RRB- .
+What is a P-body ( processing body ) ?
+WP VBZ DT NN -LRB- NN NN -RRB- .
+Which eye condition is managed by the athens protocol ?
+WDT NN NN VBZ VBN IN DT NNS NN .
+Is TREM2 associated with Alzheimer 's disease ?
+VBZ NN VBN IN NNP POS NN .
+Which amino acid residue appears mutated in most of the cases reported with cadasil syndrome ?
+WDT VBP NN NN VBZ VBN IN JJS IN DT NNS VBD IN NN NN .
+What are the breath test biomarkers of pulmonary tuberculosis
+WP VBP DT NN NN NNS IN NN NN
+Which trinucleotide repeat disorders are affecting the nervous system ?
+WDT NN NN NNS VBP VBG DT JJ NN .
+Which hormone concentrations are altered in patients with the Allan–Herndon–Dudley syndrome ?
+WDT NN NNS VBP VBN IN NNS IN DT NNP NN .
+What are the observations regarding telomere integrity and function in Fanconi anemia ?
+WP VBP DT NNS VBG JJ NN CC NN IN NNP NN .
+What memory problems are reported in the " Gulf war syndrome "
+WP NN NNS VBP VBN IN DT `` NNP NNP NN ''
+What are piggyBAC transposons ?
+WP VBP JJ NNS .
+What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients ?
+WP VBP DT NNS IN DT JJ NN WDT VBZ VBN IN NN IN JJ NN NNS .
+What is the vibrational theory of olfaction ?
+WP VBZ DT JJ NN IN NN .
+Which are the newly identified DNA nucleases that can be used to treat thalassemia ?
+WDT VBP DT RB VBN NNP NNS WDT MD VB VBN TO VB NN .
+Can vitamin B1 deficiency cause encephalopathy ?
+MD JJ NNP NN NN NN .
+Does the 3D structure of the genome remain stable during cell differentiation ?
+VBZ DT JJ NN IN DT NN VBP JJ IN NN NN .
+List omics technologies comprised in system biology .
+VB NNS NNS VBN IN NN NN .
+Which bone protein is used in archaelogy for dating and species identification ?
+WDT NN NN VBZ VBN IN NN IN VBG CC NNS NN .
+What is the main symptom of Marfan syndrome patients ?
+WP VBZ DT JJ NN IN NNP NN NNS .
+Which drug is benserazide usually co-administered with ?
+WDT NN VBZ IN RB VBN IN .
+Rindopepimut is an analog of which growth factor ?
+NNP VBZ DT NN IN WDT NN NN .
+Which proteins in the cerebro-spinal fluid can be used for early diagnosis of Alzheimer 's disease ?
+WDT VBZ IN DT JJ NN MD VB VBN IN JJ NN IN NNP POS NN .
+Are there transposon-free regions in mammalian genomes ?
+VBP RB JJ NNS IN JJ NNS .
+Which is the receptor for the immunosuppressive drug cyclosporin A ( CsA ) ?
+WDT VBZ DT NN IN DT JJ NN NN DT -LRB- NN -RRB- .
+What is the cause of Phthiriasis Palpebrarum ?
+WP VBZ DT NN IN NNP NNP .
+List common features of Shapiro syndrome
+VB JJ NNS IN NNP NN
+Which enzyme is inhibited by Varespladib ?
+WDT NN VBZ VBN IN NNP .
+Is macitentan an ET agonist ?
+VBZ NN DT NNP NN .
+Dracorhodin perchlorate was tested for treatment of which cancers ?
+NNP NN VBD VBN IN NN IN WDT NNS .
+What are the major classes of retrotransposons active in the human genome ?
+WP VBP DT JJ NNS IN NNS JJ IN DT JJ NN .
+List Parkin binding partners
+NN NNP NN NNS
+What family do mDia proteins belong in ?
+WP NN VBP NNS NNS VBP IN .
+Which are the main NMD factors in Saccharomyces cerevisiae ?
+WDT VBP DT JJ NN NNS IN NNP NN .
+What are cancer driver genes ?
+WP VBP NN NN NNS .
+What are the skeletal muscle satellite cells ?
+WP VBP DT JJ NN NN NNS .
+What is the role of venous angioplasty in multiple sclerosis ?
+WP VBZ DT NN IN JJ JJ IN JJ NN .
+Which type of genes are modulated by SATB1 ?
+WDT NN IN NNS VBP VBN IN NNP .
+Is glycyl-tRNA synthetase gene involved in the development of Charcot-Marie-Tooth disease ?
+VBZ NN NN NN VBN IN DT NN IN NNP NN .
+List two chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma
+VB CD JJ NNS WDT VBP VBN IN NN IN JJ NNP NNP NNP
+Describe the involvement of conserved noncoding sequences in the regulation of Hox genes .
+NNP DT NN IN JJ JJ NNS IN DT NN IN NNP NNS .
+What does isradipine do to L-type channels ?
+WP VBZ NN VBP TO NNP NNS .
+What is TFBSshape ?
+WP VBZ NN .
+How are CRM ( cis-regulatory modules ) defined ?
+WRB VBP JJ -LRB- JJ NNS -RRB- VBN .
+What disease is mirtazapine predominantly used for ?
+WP NN VBZ JJ RB VBN IN .
+Are Drosophila ultraconserved elements candidate ncRNAs ?
+VBP NNP JJ NNS NN NN .
+Which is the subcellular localization of ERAP2 ?
+WDT VBZ DT JJ NN IN NNP .
+Which virus is Cidofovir ( Vistide ) indicated for ?
+WDT NN VBZ NNP -LRB- NNP -RRB- VBD IN .
+Which cellular processes are regulated by Nanog ?
+WDT JJ NNS VBP VBN IN NNP .
+Mutation of which gene is associated with McLeod syndrome ?
+NN IN WDT NN VBZ VBN IN NNP NN .
+What is the lipid droplet used for in the cell ?
+WP VBZ DT JJ NN VBN IN IN DT NN .
+For which diseases members of the 2-aminobenzamide class of histone deacetylase ( HDAC ) inhibitors show promise as therapeutics ?
+IN WDT NNS NNS IN DT JJ NN IN NN NN -LRB- NNP -RRB- NNS VBP NN IN NNS .
+What tyrosine kinase , involved in a Philadelphia- chromosome positive chronic myelogenous leukemia , is the target of Imatinib ( Gleevec ) ?
+WP FW NN , VBN IN DT NNP NN JJ NN JJ NN , VBZ DT NN IN NNP -LRB- NNP -RRB- .
+Is the long non- coding RNA malat-1 up or downregulated in cancer ?
+VBZ DT JJ NNS VBG NNP NN IN CC JJ IN NN .
+Which could be some of the possible causes of hypersomnia ?
+WDT MD VB DT IN DT JJ NNS IN NN .
+Does triiodothyronine stimulate red blood cell sodium potassium pump ?
+VBZ VB VB JJ NN NN NN NN NN .
+Which histone modifications are associated with Polycomb group ( PcG ) proteins ?
+WDT NN NNS VBP VBN IN NN NN -LRB- NNP -RRB- VBZ .
+Which is the database of molecular recognition features in membrane proteins ?
+WDT VBZ DT NN IN JJ NN NNS IN NN NNS .
+What is needed for MMP proteins to be functional ?
+WP VBZ VBN IN NNP VBZ TO VB JJ .
+Is the Miller-Fisher syndrome considered to be a variant of Guillain-Barré ?
+VBZ DT NNP NN VBN TO VB DT NN IN NNP .
+LY450139 is investigational name of which drug ?
+NNP VBZ JJ NN IN WDT NN .
+Which are the different homologs or family members of the hedgehog proteins in mammals ?
+WDT VBP DT JJ NNS CC NN NNS IN DT NN VBZ IN NNS .
+List algorithms suitable for predicting protein complexes
+NN NNS JJ IN VBG NN NNS
+Which disorder is rated by Palmini classification ?
+WDT NN VBZ VBN IN NNP NN .
+List side effects of SGLT2 inhibitors ?
+VB NN NNS IN NNP NNS .
+In which genomic positions is the histone variant macroH2A enriched ?
+IN WDT JJ NNS VBZ DT NN JJ NN VBD .
+Are there any specific antidotes for rivaroxaban ?
+VBP EX DT JJ NNS IN NN .
+Which is the most well-accepted method for Down syndrome non-invasive prenatal diagnosis ?
+WDT VBZ DT RBS JJ NN IN NNP NN JJ JJ NN .
+Does triiodothyronine play a regulatory role in insulin secretion from pancreas ?
+VBZ NN VB DT JJ NN IN NN NN IN NNS .
+How many different subtypes of thyroid cancer exist ?
+WRB JJ JJ NNS IN NN NN VBP .
+Does the histidine-rich Ca-binding protein ( HRC ) interact with triadin ?
+VBZ DT JJ JJ NN -LRB- NNP -RRB- NN IN NN .
+List human proteins that are subject to a dimer-to-tetramer transition .
+VB JJ NNS WDT VBP JJ TO DT JJ NN .
+List variants of the MC1R gene .
+VB NNS IN DT NNP NN .
+Which enzyme is inhibited by Orteronel ?
+WDT NN VBZ VBN IN NNP .
+Which are the genes thought to be regulated by EWS / FLI ?
+WDT VBP DT NNS VBD TO VB VBN IN NNP NNP NNP .
+Which translocation is the hallmark of Ewing sarcoma ?
+WDT NN VBZ DT NN IN VBG NN .
+Which gene is responsible for the development of Sotos syndrome ?
+WDT NN VBZ JJ IN DT NN IN NNP NN .
+What medication were compared in the ROCKET AF Trial ?
+WP NN VBD VBN IN DT NNP NNS NN .
+Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract ?
+WDT NN VBZ VBN IN JJ NN IN JJ NN NNS IN DT JJ NN .
+Which substances are dangerous to g6PD deficient individuals ?
+WDT NNS VBP JJ TO VB JJ NNS .
+What is DNAshape ?
+WP VBZ NN .
+Do all archaea possess multiple origins of DNA replication ?
+VB DT NN VBP JJ NNS IN NNP NN .
+Which is the target of the drug Denosumab ?
+WDT VBZ DT NN IN DT NN NNP .
+Which deiodinases are present in skeletal muscle ?
+WDT NNS VBP JJ IN JJ NN .
+Is Fanconi anemia presented as a genetically and clinically heterogeneous disease entity ?
+VBZ NNP NN VBD IN DT RB CC RB JJ NN NN .
+Which post-translational histone modifications are characteristic of facultative heterochromatin ?
+WDT JJ NN NNS VBP JJ IN JJ NN .
+What are the mobile applications fields of use for patients ?
+WP VBP DT JJ NNS NNS IN NN IN NNS .
+Which SLC family is FLVCR1 a member of ?
+WDT NNP NN VBZ IN DT NN IN .
+What are the pregnancy outcomes in rheumatoid arthritis ?
+WP VBP DT NN NNS IN NN NN .
+Is acid alpha-glucosidase the enzyme that causes Pompe disease when mutant ?
+VBZ NN NN DT NN WDT VBZ NNP NN WRB JJ .
+What is the biological role of SERCA2 SUMOylation in cardiac physiology and pathophysiology , such as in heart failure ?
+WP VBZ DT JJ NN IN NNP NNP IN JJ NN CC NN , JJ IN IN NN NN .
+List the components of a Replisome Progression Complex ( RPC ) .
+VB DT NNS IN DT NNP NN NNP -LRB- NN -RRB- .
+Which genes are regulated by MEF-2 in the heart ?
+WDT NNS VBP VBN IN NNP IN DT NN .
+Is the gene MAOA epigenetically modified by methylation ?
+VBZ DT NN NN RB VBN IN NN .
+List Genes associated with adolescent idiopathic scoliosis
+NNP NNP VBN IN JJ JJ NN
+Which genes have been associated with Cerebral Cavernous Malformation ?
+WDT NNS VBP VBN VBN IN NNP NNP NNP .
+Does MicroRNA-21 ( miR-21 ) contribute to cardiovascular disease ?
+VBZ NNP -LRB- NN -RRB- VBP TO JJ NN .
+List bacteria that may be useful in uranium bioremediation .
+VB NNS WDT MD VB JJ IN NN NN .
+Which is the E3 ubiquitin ligase of Hsp90 ?
+WDT VBZ DT JJ NN NN IN CD .
+Which histone modifications are associated with constitutive heterochromatin ?
+WDT NN NNS VBP VBN IN JJ NN .
+Which transcription factors ( TFs ) participate in the formation of the interferon-beta ( IFN-b ) enhanceosome ?
+WDT NN NNS -LRB- NNS -RRB- VBP RP DT NN IN DT JJ -LRB- NN -RRB- . .
+Which kinase is inhibited by Tripolin A ?
+WDT NN VBZ VBN IN NNP NNP .
+Which are the main histone modifications associated with enhancers ?
+WDT VBP DT JJ NN NNS VBN IN NNS .
+Which domain allowing self-association do exist in TDP-43 and FUS proteins ?
+WDT NN VBG NN VBP VB IN JJ CC JJ NNS .
+Which mutation is associated with PLMS ( periodic limb movements in sleep ) ?
+WDT NN VBZ VBN IN NNP -LRB- JJ NN NNS IN NN -RRB- .
+List genes that have been found mutated in CMT1A ( Charcot-Marie-Tooth disease type 1 A ) .
+NN NNS WDT VBP VBN VBN JJ IN NNP -LRB- NNP NN NN CD NNP -RRB- .
+What is the mechanism of action of eprotirome ?
+WP VBZ DT NN IN NN IN NN .
+Do A-type lamins bind euchromatin or heterochromatin ?
+VB JJ NNS VBP NN CC NN .
+Which histone modification is primarily linked to elongating transcription ?
+WDT NN NN VBZ RB VBN TO VBG NN .
+Which packages are used for performing overlap analysis of genomic regions in R / bioconductor ?
+WDT NNS VBP VBN IN VBG JJ NN IN JJ NNS IN NN NN NN .
+Is the H3K4me3 histone mark related to transcriptional initiation or elongation ?
+VBZ DT JJ NN NN VBN TO JJ NN CC NN .
+List non-surgical treatment modalities that are included in the Stupp protocol .
+VB JJ NN NNS WDT VBP VBN IN DT NNP NN .
+What is FINDbase ?
+WP VBZ NNP .
+Inhibition of which transporter is the mechanism of action of drug Canagliflozin ?
+NN IN WDT NN VBZ DT NN IN NN IN NN NNP .
+Is there a genome-wide technique for the detection of R-loop formation ?
+VBZ EX DT JJ NN IN DT NN IN NN NN .
+What is the mode of inheritance of Facioscapulohumeral muscular
+WP VBZ DT NN IN NN IN NNP JJ
+What is enCHIP ?
+WP VBZ NN .
+What is the association of spermidine with α-synuclein neurotoxicity ?
+WP VBZ DT NN IN NN IN NNP NN .
+What is the substrate of the microbial enzyme inulinase ?
+WP VBZ DT NN IN DT JJ NN NN .
+Which cyclin- dependent kinase inhibitor is regulated by Bmi-1 ?
+WDT NNS JJ NN NN VBZ VBN IN NN .
+Which phenomenon is known as the " calcium paradox " in the isolated perfused heart ?
+WDT NN VBZ VBN IN DT `` NN NN '' IN DT JJ JJ NN .
+Which microRNAs are involved in exercise adaptation ?
+WDT NNS VBP VBN IN NN NN .
+Which are the smallest known subviral pathogens of plants ?
+WDT VBP DT JJS JJ NN NNS IN NNS .
+Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease ?
+VBZ VBD DT NN IN JJ NNS IN NNS IN NN IN JJ NN NN .
+What is ChiRP-seq ( Chromatin Isolation by RNA Purification sequencing ) ?
+WP VBZ JJ -LRB- NNP NNP IN NNP NNP NN -RRB- .
+Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome ?
+WDT NN IN JJ NN NN VBZ VBN IN DT NN IN JJ IN NNP NNP .
+Does dronedarone affect T3 and T4 levels ?
+VBZ NN VB JJ CC DT NNS .
+What are the biological roles proposed for proteins containing the SPRY domain ?
+WP VBP DT JJ NNS VBN IN NNS VBG DT NNP NN .
+Which hormone receptor function is altered in patients with Donohue syndrome ?
+WDT NN NN NN VBZ VBN IN NNS IN NNP NN .
+What are the main results of PRKAR1A Knockdown ?
+WP VBP DT JJ NNS IN NNP NNP .
+What is the action of molindone ?
+WP VBZ DT NN IN NN .
+Which currently known mitochondrial diseases have been attributed to POLG mutations ?
+WDT RB VBN JJ NNS VBP VBN VBN TO NNP NNS .
+Which is the major phytoalexin in alfalfa ( Medicago sativa L . ) ?
+WDT VBZ DT JJ NN IN NN -LRB- NNP NN NNP . -RRB- .
+Which pathway is activated by ficolin-3 ?
+WDT NN VBZ VBN IN NN .
+What kind of chromatography is HILIC ?
+WDT NN IN NN VBZ NNP .
+Which gene is associated with the Mitchell-Riley syndrome ?
+WDT NN VBZ VBN IN DT NNP NN .
+List drugs included in the DHAP-R chemotherapy regiment .
+NN NNS VBD IN DT NNP NN NN .
+What is the role of the Tsix gene during X chromosome inactivation ?
+WP VBZ DT NN IN DT NNP NN IN NNP NN NN .
+Which are the thyroid hormone analogs utilized in human studies ?
+WDT VBP DT NN NN NNS VBN IN JJ NNS .
+Which proteins cause cytoplasmic sequestration of NF-kB ?
+WDT VBZ NN JJ NN IN NNP .
+Which gene is involved in the development of Barth syndrome ?
+WDT NN VBZ VBN IN DT NN IN NNP NN .
+The CXCR2 receptor is targeted in cancer . Name five antagonists .
+DT NN NN VBZ VBN IN NN . VB CD NNS .
+which mutations of phospholamban gene have been found to cause hypertrophic cardiomyopathy ?
+WDT NNS IN JJ NN VBP VBN VBN TO VB JJ NN .
+What is the association between GERD and gluten ?
+WP VBZ DT NN IN NNP CC VB .
+Are chromomethylases present in animal genomes ?
+VBP NNS JJ IN NN NNS .
+Is insulin-like growth factor-I ( IGF-I ) able to affect tendon protein synthesis in classic Ehlers-Danlos syndrome patients ?
+VBZ JJ NN NN -LRB- NNP -RRB- JJ TO VB JJ NN NN IN JJ NNP NN NNS .
+How can DUF families be deciphered ?
+WRB MD VB NNS VB VBN .
+Which proteins act as factors that promote transcription-coupled repair in bacteria ?
+WDT VBZ NN IN NNS WDT VBP JJ NN IN NNS .
+Which genes are regulated by TRalpha2 in the heart ?
+WDT NNS VBP VBN IN NNP IN DT NN .
+Are CpG islands located close to housekeeping genes ?
+VBP JJ NNS VBN RB TO NN NNS .
+Is PER3 required for CHK2 activation in human cells ?
+VBZ NN VBN IN NNP NN IN JJ NNS .
+Synostosis of which cranial structures are characteristic to the Mercedes Benz syndrome ?
+NNP IN WDT JJ NNS VBP JJ TO DT NNP NNP NN .
+What is the suggested therapy for Mycobacterium avium infection ?
+WP VBZ DT JJ NN IN NNP NN NN .
+Are the Fanconi anemia genes a part of the same signalling pathway ?
+VBP DT NNP NN NNS DT NN IN DT JJ NN NN .
+Name synonym of Acrokeratosis paraneoplastica .
+VB NN IN NNP NN .
+What is known as the cause of subacute thyroiditis ?
+WP VBZ VBN IN DT NN IN JJ NN .
+Are EDNRB mutations involved in the development of Hirschsprung disease ?
+VBP NNP NNS VBN IN DT NN IN NNP NN .
+What is the outcome of TAF10 interacting with the GATA1 transcription factor ?
+WP VBZ DT NN IN JJ NN IN DT NNP NN NN .
+Which miRNAs could be used as potential biomarkers for epithelial ovarian cancer ?
+WDT NN MD VB VBN IN JJ NNS IN NN NN NN .
+Which gene has been found to be mutant in Lesch-Nyhan Disease patients ?
+WDT NN VBZ VBN VBN TO VB JJ IN NNP NNP NNS .
+What is the role of AMPK kinase in myocardial remodeling after myocardial infarction
+WP VBZ DT NN IN NNP NN IN JJ NN IN JJ NN
+Simpson grading is used to describe resection of which brain tumor ?
+NNP NN VBZ VBN TO VB NN IN WDT NN NN .
+List symptoms of 4H leukodystrophy .
+NN NNS IN NNP NN .
+What is the molecular function of psoralen photobinding on DNA ?
+WP VBZ DT JJ NN IN JJ NN IN NNP .
+What are the effects of depleting protein km23-1 ( DYNLRB1 ) in a cell ?
+WP VBP DT NNS IN VBG NN FW -LRB- NN -RRB- IN DT NN .
+What is the main component of the Lewy bodies ?
+WP VBZ DT JJ NN IN DT NNP NNS .
+List mouse models for autism spectrum disorder ( ASD ) .
+NN NN NNS IN NN NN NN -LRB- NN -RRB- .
+Which genes are known to be involved in Diamond-Blackfan anemia ?
+WDT NNS VBP VBN TO VB VBN IN NNP NN .
+What is the mechanism of action of decitabine ?
+WP VBZ DT NN IN NN IN NN .
+How many and which are the different isoforms for the ryanodine receptor ?
+WRB JJ CC WDT VBP DT JJ NNS IN DT NN NN .
+Which pharmacogenetic test is available for abacavir ?
+WDT JJ NN VBZ JJ IN NN .
+Is muscle regeneration possible in mdx mice with the use of induced mesenchymal stem cells ?
+VBZ NN NN JJ IN NN NNS IN DT NN IN JJ JJ NN NNS .
+Which proteins participate in the formation of the Notch transcriptional activation complex ?
+WDT VBZ VB IN DT NN IN DT NN JJ NN NN .
+DX-88 is investigational name of which drug ?
+DT VBZ JJ NN IN WDT NN .
+Are long non coding RNAs as conserved in sequence as protein coding genes ?
+VBP RB JJ NN NNS IN VBN IN NN IN NN NN NNS .
+What are the symptoms of Rotor syndrome ?
+WP VBP DT NNS IN NNP NN .
+Which drug is considered as the first line treatment of fibromyalgia ?
+WDT NN VBZ VBN IN DT JJ NN NN IN NN .
+Which is the main regulatory molecule of SERCA2A function in the cardiac muscle ?
+WDT VBZ DT JJ JJ NN IN NNP NN IN DT JJ NN .
+How does Foxa transcription factor exhibits its pioneering function ?
+WRB VBZ NNP NN NN VBZ PRP$ NN NN .
+Is phospholamban a regulatory / inhibitory protein of the Ca ATPase SERCA ?
+VBZ NN DT JJ NN JJ NN IN DT JJ NNP NN .
+Is cardiac magnetic resonance imaging indicated in the pre-participation screening of athletes ?
+VBZ JJ JJ NN VBG VBN IN DT JJ NN IN NNS .
+Which hormone abnormalities are characteristic to Pendred syndrome ?
+WDT NN NNS VBP JJ TO NNP NN .
+Describe the usefulness of the SPIKE database in human signaling pathways
+VBG DT NN IN DT NNP NN IN JJ NN NNS
+Is SLC22A3 expressed in the brain ?
+VBZ JJ VBN IN DT NN .
+What is situs inversus ?
+WP VBZ NN NN .
+Which is the branch site consensus sequence in U12-dependent introns ?
+WDT VBZ DT NN NN NN NN IN JJ NNS .
+Is there any link between conserved noncoding elements and alternative splicing in vertebrates ?
+VBZ EX DT NN IN JJ JJ NNS CC NN NN IN NNS .
+What is the mechanism of action of geldanamycin ?
+WP VBZ DT NN IN NN IN NN .
+What is the effect of resveratrol on mTOR activity ?
+WP VBZ DT NN IN NN IN NN NN .
+What is the inheritance pattern of Emery-Dreifuss muscular dystrophy ?
+WP VBZ DT NN NN IN NNP JJ NN .
+What is the the Menzerath-Altmann law ?
+WP VBZ DT DT NNP NN .
+Which is the main function of " RNA sponges " ?
+WDT VBZ DT JJ NN IN `` NNP VBZ '' .
+List markers for autophagy .
+NN NNS IN NN .
+Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease ?
+WDT NN VBZ VBN IN DT NN IN JJ JJ JJ NN VBN IN NNP NN .
+During which stage of the cell cycle is cohesin deposited on the yeast genome ?
+IN WDT NN IN DT NN NN VBZ IN VBN IN DT NN NN .
+Which mutations in the cardiac isoform of the ryanodine receptor ( RyR2 ) have been found to be related to CPVT ?
+WDT NNS IN DT JJ NN IN DT NN NN -LRB- NN -RRB- VBP VBN VBN TO VB VBN TO NNP .
+What is the effect induced by sympathetic nervous system on pupil size ?
+WP VBZ DT NN VBN IN JJ JJ NN IN NN NN .
+List angiocrine factors
+NN NN NNS
+Does physical activity influence gut hormones ?
+VBZ JJ NN NN NN NNS .
+What is the name for anorexia in gymnasts ?
+WP VBZ DT NN IN DT IN NNS .
+Which enzymes are involved in global genome nucleotide excision repair ( GG-NER ) in bacteria ?
+WDT NNS VBP VBN IN JJ NN JJ NN NN -LRB- NN -RRB- IN NNS .
+What is the " Proteomic ruler " ?
+WP VBZ DT `` JJ NN '' .
+What is the function of caspases ?
+WP VBZ DT NN IN NNS .
+Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia
+WDT NNS VBP RBR RB VBN IN JJ NNS IN NNP NNP NNP
+RTS S AS01 vaccine was developed to prevent which disease ?
+NNP NNP NNP NN VBD VBN TO VB WDT NN .
+What is Cerebral Cavernous Malformation ?
+WP VBZ JJ JJ NN .
+How is OCT3 associated with serotonin ?
+WRB VBZ NNP VBN IN NN .
+Magnetic beads has been used in numerous applications . List some coatings used .
+JJ NNS VBZ VBN VBN IN JJ NNS . VB DT NNS VBN .
+Is STAT3 involved in EIF2AK2-dependent suppression of autophagy ?
+VBZ NNS VBN IN JJ NN IN NN .
+Which signaling pathway is activating the dishevelled proteins ?
+WDT VBG NN VBZ VBG DT JJ NNS .
+Describe what is the usage of the Theatre software tool for genomic analysis .
+NNP WP VBZ DT NN IN DT NNP NN NN IN JJ NN .
+Which is the most common type of pediatric cerebellar tumor ?
+WDT VBZ DT RBS JJ NN IN JJ NN NN .
+What is the effect that EZH2 has on chromatin ?
+WP VBZ DT NN IN NNP VBZ IN NN .
+Which is the genetic basis of Spinal Muscular Atrophy ( SMA ) ?
+WDT VBZ DT JJ NN IN JJ JJ NNP -LRB- NNP -RRB- .
+What is the systemic nickel allergy syndrome ?
+WP VBZ DT JJ NN NN NN .
+What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia ( CPVT ) caused by RYR2 mutations ?
+WP VBZ DT NN NN IN NNP NNP NNP NNP -LRB- NN -RRB- VBN IN NNP NNS .
+Which are the clinical characteristics of Tuberous Sclerosis ?
+WDT VBP DT JJ NNS IN JJ NN .
+What is the typical rash associated with gluten ?
+WP VBZ DT JJ NN VBN IN NN .
+Which transcription factors are known as the four ( 4 ) " Yamanaka factors " that have been used to create induced pluripotent stem cells ( iPSCs ) ?
+WDT NN NNS VBP VBN IN DT CD -LRB- CD -RRB- `` NNP NNS `` WDT VBP VBN VBN TO VB VBN JJ NN NNS -LRB- NNS -RRB- .
+Which calcium / calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors ( Nuclear Factors of Activated T cells ) ?
+WDT NN NN NN JJ NN NN VBZ VBN IN DT NN IN DT NN IN NNP NN NNS -LRB- NNP NNP IN NNP NNP NNS -RRB- .
+List available databases containing information about conserved noncoding elements .
+NN JJ NNS VBG NN IN VBN JJ NNS .
+Which diseases can be treated with Afamelanotide ?
+WDT NNS MD VB VBN IN NNP .
+Which factors activate zygotic gene expression during the maternal-to-zygotic transition in zebrafish ?
+WDT NNS VBP JJ NN NN IN DT JJ NN IN NN .
+List inflammatory caspase proteins ?
+VB JJ JJ NNS .
+Does fibronectin constitute a serum biomarker for Duchenne muscular dystrophy ?
+VBZ NNS VB DT NN NN IN NNP JJ NN .
+Are there enhancer RNAs ( eRNAs ) ?
+VBP RB VB NNP -LRB- NN -RRB- .
+List all clinical trials of the polypill .
+VB DT JJ NNS IN DT NN .
+What is the definition and the biological role of epithelial-mesenchymal transition ( EMT )
+WP VBZ DT NN CC DT JJ NN IN JJ NN -LRB- NN -RRB-
+Which is the main difference between Alu and B1 repeats ?
+WDT VBZ DT JJ NN IN NNP CC NNP NNS .
+What is the application of the Bimolecular Fluorescence Complementation ( BiFC ) assay in Drosophila embryos ?
+WP VBZ DT NN IN DT NNP NNP NNP -LRB- NNP -RRB- NN IN NNP NNS .
+Can botulism poisoning of a pregnant woman harm her fetus ?
+MD VB NN IN DT JJ NN VB PRP NN .
+How early during pregnancy does non-invasive cffDNA testing allow sex determination of the fetus ?
+WRB RB IN NN VBZ JJ NN NN VBP NN NN IN DT NN .
+What are ' vildagliptin ' , ' sitagliptin ' , ' saxagliptin ' , ' alogliptin ' , ' linagliptin ' , and ' dutogliptin ' ?
+WP VBP '' NN '' , '' VBG '' , '' NN '' , '' IN '' , '' NN '' , CC POS NN '' .
+Which are the Atg8 homologs in human ?
+WDT VBP DT NNS NNS IN NN .
+Which protein is the E3-ubiquitin ligase that targets the tumor suppressor p53 for proteasomal degradation ?
+WDT NN VBZ DT JJ NN WDT VBZ DT NN NN NN IN NN NN .
+What is the link between Nonidet-40 ( NP-40 ) and biotinylation ?
+WP VBZ DT NN IN FW -LRB- NN -RRB- CC NN .
+Which gene is responsible for the development of the Mowat-Wilson syndrome ?
+WDT NN VBZ JJ IN DT NN IN DT NNP NN .
+What are the main characteristics / symptoms of the " Brugada " syndrome
+WP VBP DT JJ NNS IN NNS IN DT `` NNP '' NN
+Which components of the stress granules are known to be related to motor neuron degeneration in Amyotrophic Lateral Sclerosis ?
+WDT NNS IN DT NN NNS VBP VBN TO VB VBN TO NN NN NN IN JJ JJ NN .
+Where can we find the protein dermcidin ?
+WRB MD PRP VB DT NN NN .
+Does thyroid hormone affect cardiac remodeling ?
+VBZ DT NN VB JJ NN .
+List the off-label use of SSRIs
+VB DT JJ NN IN NNS
+Mutations in which genes have been associated with Aicardi-Goutieres syndrome ?
+NNS IN WDT NNS VBP VBN VBN IN NNP NN .
+What is ATAC-seq ?
+WP VBZ NNP .
+List inhibtors targeting the mitochondrial permeability transition pore .
+NN NNS VBG DT JJ NN NN NN .
+What is the minimal genome build ?
+WP VBZ DT JJ JJ NN .
+What is the methodological principle of ChIA-PET ?
+WP VBZ DT JJ NN IN NNP .
+Name five programs for transcript quantification from RNASeq experiments
+VB CD NNS IN NN NN IN JJ NNS
+Which antibodies cause Riedel thyroiditis ?
+WDT NNS VBP NNP NN .
+What are the main characteristics of Catecholaminergic Polymorphic Ventricular Tachycardia ( CPVT ) ?
+WP VBP DT JJ NNS IN NNP NNP NNP NNP -LRB- NN -RRB- .
+Do plant genomes contain CpG islands ?
+VBP NN NNS VBP NNP NNS .
+Can RNAPolII function as an RNA-dependent RNA-polymerase ?
+MD JJ NN IN DT JJ NN .
+What is the function of the AIRE gene at the embryonic stage ?
+WP VBZ DT NN IN DT NNP NN IN DT JJ NN .
+Which disease is treated with Eliglustat ?
+WDT NN VBZ VBN IN NNP .
+List symptoms of Hakim Triad .
+NN NNS IN NNP NNP .
+From which sequence does the Alu repeat originate from ?
+IN WDT NN VBZ DT NNP NN VBP IN .
+Which gene fusion is the result of the " philadelphia translocation " or the " philadelphia chromosome " mutation ?
+WDT NN NN VBZ DT NN IN DT `` NN NN '' CC DT `` NN NN '' NN .
+Which ones are the ESKAPE organisms ?
+WDT NNS VBP DT NNP NNS .
+Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis ?
+VBP NN NNS VBN IN DT NN IN JJ JJ NN .
+What is the Drosophila melanogaster Groucho protein ?
+WP VBZ DT NNP NN NNP NN .
+Which molecule is targeted by a monoclonal antibody Secukinumab ?
+WDT NN VBZ VBN IN DT JJ NN NNP .
+What is the effect of methotrexate in treating uveitis due to juvenile idiopathic arthritis ?
+WP VBZ DT NN IN NN IN VBG NN JJ TO VB JJ NN .
+Which are the different members / isoforms of the Ras oncogenes ?
+WDT VBP DT JJ NNS IN NNS IN DT NNP NNS .
+What is GRO-seq ?
+WP VBZ NNP .
+What is the name of Bruton 's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia ?
+WP VBZ DT NN IN NNP POS NN NN NN WDT MD VB VBN IN NN IN JJ JJ NN .
+Elaborate on the TREAT-NMD initiative for DMD patients
+NNP IN DT NNP NN IN NN NNS
+What is the genetic basis of tuberous sclerosis ?
+WP VBZ DT JJ NN IN JJ NN .
+Which DNA sequences are more prone for the formation of R-loops ?
+WDT NN NNS VBP RBR JJ IN DT NN IN NNP .
+Is Bladder training an effective method to treat urge incontinence ?
+VBZ NNP VBG DT JJ NN TO VB NN NN .
+Is COL5A2 gene associated to ischemic heart disease ?
+VBZ NNP NN VBN TO JJ NN NN .
+In which proteins is the chromodomain present ?
+IN WDT NNS VBZ DT NN NN .
+Is paramyxovirus involved in human subacute thyroiditis ?
+VBZ NN VBN IN JJ NN NN .
+What can Nothobranchius furzeri be used as a model system for ?
+WP MD RB RB VB VBN IN DT NN NN IN .
+Which gene mutations are responsible for isolated Non-compaction cardiomyopathy ?
+WDT NN NNS VBP JJ IN JJ NN NN .
+Mutations of which genes have been associated with Catecholaminergic Polymorphic Ventricular Tachycardia ( CPVT ) ?
+NNS IN WDT NNS VBP VBN VBN IN NNP NNP NNP NNP -LRB- NN -RRB- .
+What is the aim of the Human Chromosome-centric Proteome Project ( C-HPP ) ?
+WP VBZ DT NN IN DT NNP NNP NNP NNP -LRB- NN -RRB- .
+Which oncogenes are able to induce cellular senescence ?
+WDT NNS VBP JJ TO VB JJ NN .
+What is known about prostate cancer screening in the UK
+WP VBZ VBN IN NN NN NN IN DT NN
+What is DeepCAGE ?
+WP VBZ NNP .
+Which is the RNA sequence of the canonical polyadenylation signal ?
+WDT VBZ DT NNP NN IN DT NN NN NN .
+Does a selective sweep increase genetic variation ?
+VBZ DT JJ NN NN JJ NN .
+Which is the execution time ( complexity ) of the Smith-Waterman algorithm for the alignment of two sequences
+WDT VBZ DT NN NN -LRB- NN -RRB- IN DT NNP NN IN DT NN IN CD NNS
+Do proton pump inhibitors affect thyroxine absorption ?
+VB NN NN NNS VBP JJ NN .
+Which gene is involved in Giant Axonal Neuropathy ?
+WDT NN VBZ VBN IN NNP NNP NNP .
+Is stop codon bypass possible ?
+VBZ NN NN IN JJ .
+List diseases where protein citrullination plays an important role .
+NN NNS WRB NN NN VBZ DT JJ NN .
+How does thyroid hormone regulate mitochondrial biogenesis in the myocardium ?
+WRB VBZ VB NN VB JJ NN IN DT NN .
+Treprostinil is an analogue for which prostaglandin ?
+NNP VBZ DT NN IN WDT NN .
+How do HBS1L-MYB intergenic variants regulate fetal hemoglobin ?
+WRB VBP JJ JJ NNS VB NN NN .
+Which is the primary distinction between the Reverse Warburg effect and the conventional Warburg effect ?
+WDT VBZ DT JJ NN IN DT NN NNP NN CC DT JJ NNP NN .
+Neurostimulation of which nucleus is used for treatment of dystonia ?
+NN IN WDT NN VBZ VBN IN NN IN NN .
+Does Rad9 interact with Aft1 in S.cerevisiae ?
+VBZ DT NN IN NNP IN NNP .
+What is smFISH ?
+WP VBZ JJ .
+List all approved indications for Glivec
+VB DT VBN NNS IN NNP
+What is the general function of H3K79 methylation ?
+WP VBZ DT JJ NN IN CD NN .
+List co-morbidities that may occur together with " Stiff man Syndrome "
+NN NNS WDT MD VB RB IN `` JJ NN NNP ''
+Which tool is used for promoterome mining using CAGE data ?
+WDT NN VBZ VBN IN NN NN VBG NNP NNS .
+Which cell type has the protein Chromogranin A as marker ?
+WDT NN NN VBZ DT NN NNP NNP IN NN .
+Which is the most known bacterium responsible for botulism ( sausage-poisoning ) ?
+WDT VBZ DT RBS VBN NN JJ IN NN -LRB- NN -RRB- .
+Which is the most widely used model for the study of multiple sclerosis ( MS ) ?
+WDT VBZ DT RBS RB VBN NN IN DT NN IN JJ NN -LRB- NNP -RRB- .
+Which genes are thought to be involved in medulloblastoma development ?
+WDT NNS VBP VBN TO VB VBN IN NN NN .
+Which are the characteristics of the Meier-Gorlin syndrome ?
+WDT VBP DT NNS IN DT NNP NN .
+What is the characteristic domain of histone methyltransferases ?
+WP VBZ DT JJ NN IN NN NNS .
+Which mutations of alpha-myosin heavy chain gene are implicated in hypertrophic cardiomyopathy ?
+WDT NNS IN DT JJ NN NN VBP VBN IN JJ NN .
+Is K-63 linked protein ubiquitination related to proteasomal degradation ?
+VBZ DT VBN NN NN VBN TO VB NN .
+Which kinase is regulating stress granule biogenesis ?
+WDT NN VBZ JJ NN NN NN .
+How is bladder wall thickness measured ?
+WRB VBZ JJ NN NN VBN .
+Which growth factors are known to be involved in the induction of EMT ?
+WDT NN NNS VBP VBN TO VB VBN IN DT NN IN NNP .
+In which cells are gasdermins expressed ?
+IN WDT NNS VBP NNS VBN .
+Which histone modifications distinguish between promoters and enhancers ?
+WDT NN NNS VB IN NNS CC NNS .
+What is the role of Caenorhabditis elegans Heterochromatin protein 1 ( HPL-2 ) in development ?
+WP VBZ DT NN IN NNP NNS NNP NN CD -LRB- NN -RRB- IN NN .
+What is the suggested clinical management of Fanconi anemia ?
+WP VBZ DT JJ JJ NN IN NNP NN .
+Which is the most common measure of differences between dinucleotide relative abundance " genomic signatures "
+WDT VBZ DT RBS JJ NN IN NNS IN NN JJ NN '' JJ NNS ''
+List features of the DEND syndrome .
+NN NNS IN DT NNP NN .
+List autoimmune disorders associated with GAD65 autoantibodies .
+VB JJ NNS VBN IN NNP NNS .
+Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis ?
+WDT NN NNS VBP VBN IN NN IN NN NN .
+Which are the most widely reported side-effects in the treatment of Crohn 's disease ?
+WDT VBP DT RBS RB VBN NNS IN DT NN IN NNP POS NN .
+Which is the vector of Louping ill virus ?
+WDT VBZ DT NN IN VBG JJ NN .
+Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes ?
+WDT NNS NN IN DT NN NN IN DT NNP NN NNP IN RBS NNS .
+Has silicon been used in treatment of incontinence ?
+VBZ NN VBN VBN IN NN IN NN .
+List available biomedical question answering systems .
+NN JJ JJ NN VBG NNS .
+Which interleukin is blocked by Siltuximab ?
+WDT NN VBZ VBN IN NNP .
+What is GDF10 ?
+WP VBZ NNP .
+List clinical trials for prevention of sarcopenia
+JJ JJ NNS IN NN IN NN
+List sclerostin interaction partners .
+VB VBG NN NNS .
+List causative genes for autosomal recessive forms of monogenic Parkinson 's disease
+VB JJ NNS IN JJ JJ NNS IN JJ NNP POS NN
+In which condition was protein S100A7 originally identified ?
+IN WDT NN VBD NN JJ RB VBN .
+The protein NONO forms heterodimers . With which proteins ?
+DT NN RB VBZ NNS . IN WDT NNS .
+Describe Heyde syndrome .
+NNP NNP NN .
+Does PU.1 ( SPI1 ) affect NF-kB binding ?
+VBZ DT -LRB- JJ -RRB- VB NNP NN .
+What are the reported adverse effects of topical minoxidil ?
+WP VBP DT JJ JJ NNS IN JJ NN .
+Oxantel is used for periodontitis treatment . How does it work ?
+NNP VBZ VBN IN NN NN . WRB VBZ PRP VB .
+Is there a role for transcription factories in genome organization ?
+VBZ EX DT NN IN NN NNS IN NN NN .
+What are the computational tools for the prediction of beta-barrel transmembrane proteins ?
+WP VBP DT JJ NNS IN DT NN IN JJ JJ NNS .
+What is the treatment of neuropathic pain in children ?
+WP VBZ DT NN IN JJ NN IN NNS .
+Is clathrin involved in E-cadherin endocytosis ?
+VBZ NN VBN IN NNP NN .
+What is the RESID database ?
+WP VBZ DT NNP NN .
+What is a Caveolae ?
+WP VBZ DT NNP .
+Which kinases does baricitinib inhibit ?
+WDT NNS VBZ VBG VB .
+How are GRBs ( Genomic Regulatory Blocks ) defined ?
+WRB VBP NNP -LRB- NNP NNP NNS -RRB- VBN .
+List signaling molecules ( ligands ) that interact with the receptor EGFR ?
+VB VBG NNS -LRB- NNS -RRB- IN NN IN DT NN NN .
+List packages for transcription factor binding sites' ( TFBS ) analysis available in R / Bioconductor
+NN NNS IN NN NN NN NNS -LRB- NNP -RRB- NN JJ IN NN NN CC
+Matuzumab has been tested for treatment of which cancers ?
+NNP VBZ VBN VBN IN NN IN WDT NNS .
+What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients ?
+WP VBZ DT NN IN NNP NNP NNP IN DT NN IN NN NNS .
+List available genetic multicolor cell labeling techiniques in Drosophila
+VB JJ JJ NN NN NN NNS IN NNP
+Which is the substrate of the haspin kinase during mitosis ?
+WDT VBZ DT NN IN DT NN NN IN NN .
+What is the mechanism of drug-induced gingival overgrowth ?
+WP VBZ DT NN IN JJ NN NN .
+Is GAGA associated with nucleosome-free regions ( NFR ) ?
+VBZ NNP VBN IN JJ NNS -LRB- NN -RRB- .
+Which genes were found to be methylated in bladder cancer cells ?
+WDT NNS VBD VBN TO VB VBN IN NN NN NNS .
+Which is the definition of pyknons in DNA ?
+WDT VBZ DT NN IN NNS IN NNP .
+Which genes / proteins have been found to inhibit cyclin dependent kinase 4 ( CDK4 ) ?
+WDT NNS VBP NNS VBP VBN VBN TO VB NN JJ NN CD -LRB- NN -RRB- .
+Which are the classes of anti-arrhythmic drugs according to Vaughan-Williams classification ?
+WDT VBP DT NNS IN JJ NNS VBG TO NNP NN .
+How does phospholamban affect the biological activity of the calcium ATPase SERCA ?
+WRB VBZ VB VB DT JJ NN IN DT NN NNP NNP .
+What types of DNA mutations are induced by 2-hydroxy-dATP ( 2-OH-dATP ) ?
+WP NNS IN NNP NNS VBP VBN IN JJ -LRB- JJ -RRB- .
+Is PLK2 involved in alpha-synuclein phosphorylation in the nervous system ?
+VBZ NNP VBN IN NN NN IN DT JJ NN .
+What is the incidence of Edwards syndrom in the european population ?
+WP VBZ DT NN IN NNP NN IN DT JJ NN .
+What is the mode of inheritance of Romano Ward long QT syndrome ?
+WP VBZ DT NN IN NN IN NNP NNP JJ NNP NN .
+Which are the mammalian orthologs of Drosophila Yki ?
+WDT VBP DT JJ NNS IN NNP NNP .
+Name the major classes of small non coding RNAs in mammalians ?
+VB DT JJ NNS IN JJ JJ NN NNS IN NNS .
+Which gene(s ) should be genotyped in order to prescribe the drug Cetuximab ( anti-EGFR ) ?
+WDT NN -RRB- MD VB VBN IN NN TO VB DT NN NNP -LRB- NN -RRB- .
+Abnormalities in which chromosomes were linked to the Moyamoya disease ?
+NNS IN WDT NNS VBD VBN TO DT NNP NN .
+Which are the different proteins / isoforms encoded but the ASPH ( aspartate beta-hydroxylase ) gene in humans ?
+WDT VBP DT JJ NNS IN NNS VBN CC DT NNP -LRB- NN NN -RRB- NN IN NNS .
+Which are the subtypes of Pfeiffer syndrome ?
+WDT VBP DT NNS IN NNP NN .
+What is the treatment of choice for gastric lymphoma ?
+WP VBZ DT NN IN NN IN JJ NN .
+The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies . Which protein are they targeting ?
+DT NNS : CC NNP VBP VBN JJ NNS IN VBG NNS . WDT NN VBP PRP VBG .
+What is the mode of inheritance of Wilson 's disease ?
+WP VBZ DT NN IN NN IN NNP POS NN .
+Is there any role for long noncoding RNAs in adipogenesis ?
+VBZ EX DT NN IN JJ JJ NNS IN NN .
+Which molecule is targeted by the drug Gevokizumab ?
+WDT NN VBZ VBN IN DT NN NNP .
+Are conserved noncoding elements associated with the evolution of animal body plans ?
+VBP VBN JJ NNS VBN IN DT NN IN JJ NN NNS .
+Inhibition of which enzyme is mechanism of action of alisertib ?
+NN IN WDT NN VBZ NN IN NN IN NN .
+Which histone modifications are correlated with transcription elongation ?
+WDT NN NNS VBP VBN IN NN NN .
+In which kingdom do microsporidia belong , according to their current classification scheme ?
+IN WDT NN VBP NNS VBP , VBG TO PRP$ JJ NN NN .
+What is the characteristic feature of the Dyke-Davidoff-Masson syndrome .
+WP VBZ DT JJ NN IN DT NNP NN .
+Can desvenlafaxine be used at a dose of 50mg / day ?
+MD JJ VB VBN IN DT NN IN JJ JJ NN .
+Is metabolic syndrome related with cardiovascular disease ?
+VBZ JJ NN VBN IN JJ NN .
+What is the mode of inheritance of long QT Jervell and Lange-Nielsen syndrome ?
+WP VBZ DT NN IN NN IN JJ NNP NNP CC NNP NN .
+What are the computational methods for the prediction of beta-barrel transmembrane proteins ?
+WP VBP DT JJ NNS IN DT NN IN JJ JJ NNS .
+Are seizures among the neurological symptoms of incontinentia pigmenti ?
+VBP NNS IN DT JJ NNS IN NN NNS .
+Which is the gene mutated in type 1 neurofibromatosis ?
+WDT VBZ DT NN VBN IN NN CD NN .
+Which disease has been associated to a disruptive ALX1 protein ?
+WDT NN VBZ VBN VBN TO DT JJ NNP NN .
+What is the mechanism of cementogenesis in pulp regeneration ?
+WP VBZ DT NN IN NN IN NN NN .
+Is the HRC Ser96Ala variant associated with sudden cardiac death in patients with dilated cardiomyopathy ?
+VBZ DT NNP NNP NN VBN IN JJ JJ NN IN NNS IN JJ NN .
+What is known about the economic cost of urinary incontinence ?
+WP VBZ VBN IN DT JJ NN IN JJ NN .
+List processes which are under the control of the YAP protein .
+NN NNS WDT VBP IN DT NN IN DT NNP NN .
+Where is the angiogenin binding element located ?
+WRB VBZ DT NN JJ NN VBN .
+Can NXY-059 be used for treatment of acute ischemic stroke patients ?
+MD NNP VB VBN IN NN IN JJ JJ NN NNS .
+In which diseases have electronic patient diaries been applied ?
+IN WDT NNS VBP JJ NN NNS VBN VBN .
+Which genes are associated with Ehlers-Danlos syndrome type I / II ?
+WDT NNS VBP VBN IN NNP NN NN PRP RB NNP .
+Which syndrome is NHE6 associated with ?
+WDT NN VBZ NNP VBN IN .
+How does Hst5 ( histatin 5 ) affect infections by Candida glabrata ?
+WRB VBZ PRP -LRB- NN CD -RRB- VB NNS IN NNP NNP .
+Which compounds exist that are thyroid hormone analogs ?
+WDT NNS VBP IN VBP DT NN NNS .
+What is Piebaldism ?
+WP VBZ NNP .
+What is known about prostate cancer screening in the UK ?
+WP VBZ VBN IN NN NN NN IN DT NNP .
+Against which organisms has reverse vaccinology been used ?
+IN WDT NNS VBZ NN NN VBN VBN .
+Which diseases are associated with Alu element insertion ?
+WDT NNS VBP VBN IN NNP NN NN .
+Which MAP kinase phosphorylates the transcription factor c-jun ?
+WDT NNP NN VBZ DT NN NN NN .
+What is the role of the RUNX1-MYEF2 complex ?
+WP VBZ DT NN IN DT NNP NN .
+Which is the enzyme that degrades decapped mRNAs ?
+WDT VBZ DT NN IN NNS VBD NNS .
+Global quantitative phosphoproteomic analyses are emerging . List the preferred technologies for the enrichment for phosphorylated peptides ?
+JJ JJ JJ NNS VBP VBG . VB DT JJ NNS IN DT NN IN JJ NNS .
+GV1001 vaccine targets which enzyme ?
+JJ NN NNS WDT NN .
+The secreted frizzled-related protein 3 ( sFPR3 ) is altered in human cancers .
+DT JJ JJ NN CD -LRB- NN -RRB- VBZ VBN IN JJ NNS .
+How many genes are imprinted in the human genome ?
+WRB JJ NNS VBP VBN IN DT JJ NN .
+Pridopidine has been tested for treatment of which disorder ?
+NNP VBZ VBN VBN IN NN IN WDT NN .
+Which gene strand is targeted by transcription-coupled repair ( TCR ) ?
+WDT NN NN VBZ VBN IN JJ NN -LRB- NN -RRB- .
+What are the properties of super-enhancers ?
+WP VBP DT NNS IN NNS .
+Is it possible to detect survivin protein expression in normal human adult tissues ?
+VBZ PRP JJ TO VB NN NN NN IN JJ JJ NN NNS .
+What is the Genomic Regions Enrichment of Annotations Tool ( GREAT ) ?
+WP VBZ DT NNP NNP NNP IN NNP NNP -LRB- NN -RRB- .
+Could transcription factors act as cell-cell signalling molecules ?
+MD NN NNS VBP IN NN NN NNS .
+Does prudent diet reduce cardiovascular risk ?
+VBZ JJ NN VB JJ NN .
+Are epigenetic modifications implicated in cardiovascular development and disease ?
+VBP JJ NNS VBN IN JJ NN CC NN .
+Which pituitary adenoma is common cause of infertility is women ?
+WDT NN NN VBZ JJ NN IN NN VBZ NNS .
+Which enzyme is targeted by the drug Imetelstat ?
+WDT NN VBZ VBN IN DT NN NNP .
+Which molecule is targeted by a monoclonal antibody Mepolizumab ?
+WDT NN VBZ VBN IN DT JJ NN NNP .
+Proteomic analyses have revealed proteins associated with the triple-negative breast cancers . List some proposed proteins .
+JJ NNS VBP VBN NNS VBN IN DT JJ NN NNS . NN DT JJ NNS .
+Which treatment leads to an increase in neutrophil counts in severe congenital neutropenia ?
+WDT NN VBZ TO DT NN IN JJ NNS IN JJ NN NN .
+Which disease is associated with the ectopic expression of the protein encoded by the gene DUX4 ?
+WDT NN VBZ VBN IN DT JJ NN IN DT NN VBN IN DT NN . .
+What does mTOR stands for ?
+WP VBZ NN NNS IN .
+what is the role of MEF-2 in cardiomyocyte differentiation ?
+WP VBZ DT NN IN NNP IN NN NN .
+Which protein complexes contain mitofilin ?
+WDT NN NNS VBP NN .
+Patients of which disease could be treated by utilizing knowledge obtained from experiments suppressing TDP-43 toxicity in yeast ?
+NNS IN WDT NN MD VB VBN IN VBG NN VBN IN NNS VBG JJ NN IN NN .
+Which myosin isozymes are located within the pericuticular necklace of the hair cell ?
+WDT NN NNS VBP VBN IN DT JJ NN IN DT NN NN .
+Which is the protein ( antigen ) targeted by anti-Vel antibodies in the Vel blood group ?
+WDT VBZ DT NN -LRB- NN -RRB- VBN IN JJ NNS IN DT NNP NN NN .
+What was the purpose of the FANTOM5 project ?
+WP VBD DT NN IN DT NNP NN .
+Which are the musculoskeletal manifestations of Marfan syndrome ?
+WDT VBP DT NN NNS IN NNP NN .
+Can chronological age be predicted by measuring telomere length ?
+MD JJ NN VB VBN IN VBG JJ NN .
+What are the functions of the ESCRT machinery ?
+WP VBP DT NNS IN DT NNP NN .
+Which is the receptor for substrates of Chaperone Mediated Autophagy ?
+WDT VBZ DT NN IN NNS IN NNP NNP NNP .
+Which drugs have been found effective for the treatment of chordoma ?
+WDT NNS VBP VBN VBN JJ IN DT NN IN NN .
+Have thyronamines effects on fat tissue ?
+VBP NNS NNS IN JJ NN .
+List the diseases for which there are point-of-care breath tests
+VB DT NNS IN WDT EX VBP JJ NN NNS
+Which are the families of mammalian DNA- ( cytosine-5)-methyltransferases ?
+WDT VBP DT NNS IN JJ NNP -LRB- NNS .
+What is the mechanism of DNA replication termination in vertebrates ?
+WP VBZ DT NN IN NNP NN NN IN NNS .
+Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers ?
+NNP CC JJ NNS VBP JJ CC JJ NNS .
+Which deiodinase polymorphisms are implicated in arterial hypertension ?
+WDT NN NNS VBP VBN IN NN NN .
+What is the methyl donor of DNA ( cytosine-5)-methyltransferases ?
+WP VBZ DT NN NN IN NNP -LRB- NNS .
+Which protein phosphatases have been found to dephosphorylate phospholamban ?
+WDT NN NNS VBP VBN VBN TO VB NN .
+How many periods of regulatory innovation led to the evolution of vertebrates ?
+WRB JJ NNS IN JJ NN VBD TO DT NN IN NNS .
+Which JAK ( Janus kinase ) inhibitor is approved for treatment of rheumatoid arthritis ?
+WDT NNP -LRB- NNP NN -RRB- NN VBZ VBN IN NN IN NN NN .
+Which is the most common disease attributed to malfunction or absence of primary cilia ?
+WDT VBZ DT RBS JJ NN VBN TO NN CC NN IN JJ NNS .
+Which proteins constitute the methyl-directed mismatch repair system ( MMR ) in bacteria ?
+WDT NNS VBP DT JJ NN NN NN -LRB- NNP -RRB- IN NNS .
+What histone trimethylation has been associated to RNA splicing ?
+WP NN NN VBZ VBN VBN TO NNP NN .
+Mutations in which gene and which protein are associated with Netherton syndrome ?
+NNS IN WDT NN CC WDT NN VBP VBN IN NNP NN .
+Which are the available biomedical text mining tools for the detection of protein-protein interactions ?
+WDT VBP DT JJ JJ NN NN NNS IN DT NN IN NN NNS .
+Which diseases can Oncotype DX be used for ?
+WDT NNS MD RB RB VB VBN IN .
+Which proteins induce inhibition of LINE-1 and Alu retrotransposition ?
+WDT VBZ VB NN IN NNP CC NNP NN .
+Which calcium channels does ethosuximide target ?
+WDT NN NNS VBZ JJ NN .
+What is ISMARA ?
+WP VBZ NNP .
+Which receptor(s ) recognize lysosomal hydrolases in trans-Golgi network ( TGN ) ?
+WDT NN -RRB- VBP JJ NNS IN JJ NN -LRB- NN -RRB- .
+Which protein does empagliflozin inhibit ?
+WDT NN VBZ RB VB .
+Which are the clinical characteristics of isolated Non-compaction cardiomyopathy ?
+WDT VBP DT JJ NNS IN VBN NN NN .
+What is the relationship between TailorX and Oncotype ?
+WP VBZ DT NN IN NNP CC NNP .
+Against which protein is the antibody used for immonostaining of Lewy bodies raised ?
+IN WDT NN VBZ DT NN VBD IN NN IN JJ NNS VBN .
+Which biomarker is widely used in the diagnosis of Ewing sarcoma ?
+WDT NN VBZ RB VBN IN DT NN IN VBG NN .
+What type of enzyme is peroxiredoxin 2 ( PRDX2 ) ?
+WP NN IN NN VBZ NN CD -LRB- NN -RRB- .
+What is the incidence of cystic fibrosis in the caucasian population ?
+WP VBZ DT NN IN JJ NN IN DT JJ NN .
+What are the Topological Domains ( TADs ) ?
+WP VBP DT JJ NNS -LRB- NNS -RRB- .
+Which is the most common cause of sudden cardiac death in young athletes ?
+WDT VBZ DT RBS JJ NN IN JJ JJ NN IN JJ NNS .
+How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS ?
+WRB JJ NNS IN IN DT NNP NN VBP VBN RB VBN TO NNP NNP IN NNP .
+Which factors play a role in promoter proximal pausing of RNA polymerase II ?
+WDT NNS VBP DT NN IN NN JJ NN IN NNP NN NNP .
+What is the genetic basis of propionic acidemia ?
+WP VBZ DT JJ NN IN JJ NN .
+Which are the major characteristics of cellular senescence ?
+WDT VBP DT JJ NNS IN JJ NN .
+Are ACTA1 ( alpha actin ) and NEB ( nebulin ) genes related to nemaline myopathy ?
+VBP NNP -LRB- NN NN -RRB- CC NNP -LRB- NN -RRB- NNS VBN TO NN NN .
+Which gene harbors the mutation T790M ?
+WDT NN VBZ DT NN . .
+What is apelin ?
+WP VBZ NN .
+Is Crohn 's disease ( CD ) linked to the consumption of refrigerated food ?
+VBZ NNP POS NN -LRB- NN -RRB- VBN TO DT NN IN JJ NN .
+Which are the common symptoms of Cushing 's syndrome ?
+WDT VBP DT JJ NNS IN NNP POS NN .
+In which genomic regions are Alu enriched ?
+IN WDT JJ NNS VBP NNP VBD .
+Are people with blood group O protected against severe Malaria ?
+VBP NNS IN NN NN NNP VBD IN JJ NNP .
+What genes are related to breast cancer ?
+WP NNS VBP VBN TO NN NN .
+What are the reported adverse effects of gabapentin used in children ?
+WP VBP DT JJ JJ NNS IN NN VBN IN NNS .
+What is the role of 5hmC ( 5 hydroxy-methyl-Cytocine ) in differentiation ?
+WP VBZ DT NN IN FW -LRB- CD NN -RRB- IN NN .
+What is the application of the ASSET algorithm in C.elegans ?
+WP VBZ DT NN IN DT NNP NN IN NNS .
+Which are the enzymes involved in the control of tubulin acetylation ?
+WDT VBP DT NNS VBN IN DT NN IN NN NN .
+How many genes does the human hoxD cluster contain ?
+WRB JJ NNS VBZ DT NN NN NN VBP .
+Which diseases are caused by mutations in Calsequestrin 2 ( CASQ2 ) gene ?
+WDT NNS VBP VBN IN NNS IN NNP CD -LRB- NN -RRB- NN .
+Which are the main causes of fetal echogenic bowel ?
+WDT VBP DT JJ NNS IN NN JJ NN .
+What is targeted by Palbociclib ?
+WP VBZ VBN IN NNP .
+List bacterial species identified in the iceman tissues .
+NN JJ NNS VBN IN DT NN NNS .
+Which genes have been found to be associated with restless leg syndrome
+WDT NNS VBP VBN VBN TO VB VBN IN JJ NN NN
+Which major signaling pathways are regulated by RIP1 ?
+WDT JJ NN NNS VBP VBN IN NNP .
+Abnormality in which vertebral region is important in the Bertolotti 's syndrome ?
+NN IN WDT JJ NN VBZ JJ IN DT NNP POS NN .

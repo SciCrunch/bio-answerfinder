@@ -283,7 +283,7 @@ def show_performance(i, data, true_labels, predictions, counter, verbose=True):
 def main():
 
     home = expanduser("~")
-    data_dir = home + "/dev/java/bnerkit/data/bioasq/bioasq_manual_100/qsc"
+    data_dir = home + "/dev/java/bio-answerfinder/data/bioasq/bioasq_manual_100/qsc"
     train_file = data_dir + "/qsc_set_train.txt"
     test_file = data_dir + "/qsc_set_test.txt"
 
