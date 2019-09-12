@@ -15,6 +15,7 @@ import utils
 
 
 random.seed(1337841)
+np.random.seed(1337841)
 
 
 def prep_data(data, max_length, glove_handler, gv_dim=100):
@@ -156,10 +157,6 @@ def train(data_map, db_file, recurrent=True):
         train_X = train_X.reshape(len(train_data), max_length, gv_dim)
         dev_X = dev_X.reshape(len(dev_data), max_length, gv_dim)
 
-    # train_X = train_X.reshape(len(train_data), gv_dim, max_length)
-    # dev_X = dev_X.reshape(len(dev_data), gv_dim, max_length)
-    # train_X = np.swapaxes(train_X, 1, 2)
-    # dev_X = np.swapaxes(dev_X, 1, 2)
 
     print("train_X:", train_X.shape)
     glove_handler.close()
@@ -187,6 +184,7 @@ def train(data_map, db_file, recurrent=True):
     recall = no_correct / float(no_correct + no_fn) * 100
     f1 = 2 * precision * recall / (precision + recall)
     print("Overall P:{:.1f} R:{:.1f} F1:{:.1f}".format(precision, recall, f1))
+    print("Accuracy:{:.2f}".format(counter["no_accurate"]/float(counter["no_tokens"])* 100))
 
 
 def build_model(gv_dim=100, max_length=40):
@@ -213,13 +211,17 @@ def build_lstm_model(gv_dim=100, max_length=40):
     # model.add(Bidirectional(LSTM(max_length, return_sequences=True)))
     # model.add(LSTM(max_length, return_sequences=True,
     #               input_shape=(max_length, gv_dim)))
-    model.add(LSTM(max_length, dropout=0.2,
-                   recurrent_dropout=0.2, 
+
+    #model.add(LSTM(max_length, dropout=0.2,
+    #               recurrent_dropout=0.2, 
+    #               return_sequences=True,
+    #               input_shape=(max_length, gv_dim)))
+    model.add(LSTM(40, dropout=0.21,
+                   recurrent_dropout=0.29,
                    return_sequences=True,
                    input_shape=(max_length, gv_dim)))
     model.add(Flatten())
     model.add(Dense(max_length, activation='sigmoid'))
-    # model.add(Dropout(0.1))
     model.summary()
 
     model.compile(loss='binary_crossentropy', optimizer="rmsprop",
@@ -253,12 +255,14 @@ def show_performance(i, data, true_labels, predictions, counter, verbose=True):
     if verbose:
         print(question)
     for i, token in enumerate(tokens):
+        counter["no_tokens"] += 1
         if predictions[i] >= 0.5:
             if true_labels[i] == 1:
                 no_correct += 1
                 counter["no_correct"] += 1
                 gs_correct += 1
                 results.append(token)
+                counter["no_accurate"] += 1
             else:
                 no_fp += 1
                 counter["no_fp"] += 1
@@ -269,6 +273,9 @@ def show_performance(i, data, true_labels, predictions, counter, verbose=True):
                 no_fn += 1
                 counter["no_fn"] += 1
                 results.append('[' + token + ']')
+            else:
+                counter["no_accurate"] += 1
+
     precision = no_correct / float(no_correct + no_fp) if (no_correct + no_fp) > 0 else 0
     recall = no_correct / float(no_correct + no_fn) if (no_correct + no_fn) > 0 else 0
     f1 = 0
@@ -287,6 +294,10 @@ def main():
     train_file = data_dir + "/qsc_set_train.txt"
     test_file = data_dir + "/qsc_set_test.txt"
 
+    data_dir = home + "/dev/java/bio-answerfinder/data/rank_test"
+    train_file = data_dir + "/rank_train_data.dat"
+    test_file = data_dir + "/rank_test_data.dat"
+
     db_file = home + "/medline_glove_v2.db"
     train_data, train_labels = utils.load_qsc_data(train_file)
     test_data, test_labels = utils.load_qsc_data(test_file)
@@ -294,9 +305,10 @@ def main():
     data_map = {'dev_data': test_data, 'dev_labels': test_labels,
                 'train_data': train_data,
                 'train_labels': train_labels}
-    # train(data_map, db_file, recurrent=True)
+    train(data_map, db_file, recurrent=True)
     # train_cv(data_map, db_file, recurrent=False, convNet=True)
-    train_full(data_map, db_file, recurrent=True)
+    # train_full(data_map, db_file, recurrent=True)
+    # train_cv(data_map, db_file, recurrent=True, convNet=False)
 
 
 if __name__ == '__main__':

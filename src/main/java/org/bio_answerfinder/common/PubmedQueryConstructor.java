@@ -135,7 +135,7 @@ public class PubmedQueryConstructor {
         terms.add("mutation");
         System.out.println(PQCUtils.getLongestCommonPrefix(terms));
 
-        System.out.println(PQCUtils.prepTerm(new SearchTerm("most likely protein", true)));
+        System.out.println(PQCUtils.prepTerm(new SearchTerm("most likely protein", true, "NP")));
 
     }
 }

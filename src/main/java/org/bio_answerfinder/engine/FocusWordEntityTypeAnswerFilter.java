@@ -54,7 +54,7 @@ public class FocusWordEntityTypeAnswerFilter {
     public List<ResultDoc> filter(QuestionFocusDetector.QuestionFocus questionFocus, List<PubMedDoc> results) throws Exception {
         List<ResultDoc> filtered = new ArrayList<>();
         String focus = questionFocus.getFocusWord();
-        List<String> entityTypes = lookupUtils.getEntityType(focus);
+        List<String> entityTypes = lookupUtils.getFocusEntityType(focus);
         Assertion.assertTrue(!entityTypes.isEmpty());
         Set<String> refEntityTypeSet = new HashSet<>(entityTypes);
         if (refEntityTypeSet.size() > 1) {
@@ -89,7 +89,7 @@ public class FocusWordEntityTypeAnswerFilter {
         Map<String, List<String>> queryEntitiesMap = findEntities(sq);
         List<ResultDoc> filtered = new ArrayList<>();
         String focus = questionFocus.getFocusWord();
-        List<String> entityTypes = lookupUtils.getEntityType(focus);
+        List<String> entityTypes = lookupUtils.getFocusEntityType(focus);
         Assertion.assertTrue(!entityTypes.isEmpty());
         Set<String> refEntityTypeSet = new HashSet<>(entityTypes);
         for (PubMedDoc pmd : results) {

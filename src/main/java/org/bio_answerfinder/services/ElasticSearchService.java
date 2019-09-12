@@ -1,5 +1,14 @@
 package org.bio_answerfinder.services;
 
+import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Properties;
+
 import org.apache.http.HttpResponse;
 import org.apache.http.auth.AuthScope;
 import org.apache.http.auth.UsernamePasswordCredentials;
@@ -17,16 +26,11 @@ import org.bio_answerfinder.common.SearchQuery.Connective;
 import org.bio_answerfinder.common.SearchQuery.QueryPart;
 import org.bio_answerfinder.common.SearchQuery.SearchTerm;
 import org.bio_answerfinder.util.Assertion;
+import org.bio_answerfinder.util.ElasticSearchUtils;
 import org.bio_answerfinder.util.FileUtils;
+import org.bio_answerfinder.util.GenUtils;
 import org.json.JSONArray;
 import org.json.JSONObject;
-
-import java.io.IOException;
-import java.net.URI;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Properties;
 
 /**
  * Created by bozyurt on 7/18/17.
@@ -40,13 +44,12 @@ public class ElasticSearchService {
     SearchResultCache cache;
 
     public ElasticSearchService() throws IOException {
-        this.props = FileUtils.loadProperties("/bio-answerfinder.properties");
+        this.props = FileUtils.loadProperties("bio-answerfinder.properties");
     }
 
     public void setVerbose(boolean verbose) {
         this.verbose = verbose;
     }
-
 
     public boolean isUseCache() {
         return useCache;
@@ -64,23 +67,28 @@ public class ElasticSearchService {
     }
 
     public PubMedDoc retrieveDocumentbyPMID(String pmid) throws Exception {
+        String esIndexUrl = props.getProperty("elasticsearch.url");
         String username = props.getProperty("elasticsearch.username");
         String pwd = props.getProperty("elasticsearch.pwd");
-        URIBuilder builder = new URIBuilder(serverURL);
-        builder.setPort(port).setPath("/pubmed/literature/_search");
+        URIBuilder builder;
+        if (!GenUtils.isEmpty(esIndexUrl)) {
+            String[] urlParts = splitServerURLAndPath(esIndexUrl);
+            String indexPath = urlParts[1];
+            serverURL = urlParts[0];
+            builder = new URIBuilder(serverURL);
+            builder.setPath(indexPath + "/_search");
+        } else {
+            builder = new URIBuilder(serverURL);
+            builder.setPort(port).setPath("/pubmed/literature/_search");
+        }
+
         URI uri = builder.build();
-        CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
-        credentialsProvider.setCredentials(AuthScope.ANY,
-                new UsernamePasswordCredentials(username, pwd));
-        // DefaultHttpClient client = new DefaultHttpClient();
-        CloseableHttpClient client = HttpClientBuilder.create()
-                .setDefaultCredentialsProvider(credentialsProvider).build();
+        CloseableHttpClient client = getCloseableHttpClient(username, pwd);
         String body = buildPMIDQuery(pmid).toString(2);
         try {
-            // client.getCredentialsProvider().setCredentials(AuthScope.ANY,
-            //         new UsernamePasswordCredentials(username, pwd));
             HttpPost httpPost = new HttpPost(uri);
-            httpPost.addHeader("Content-Type", "application/octet-stream");
+            // httpPost.addHeader("Content-Type", "application/octet-stream"); //orig
+            httpPost.addHeader("Content-Type", "application/json");
             StringEntity entity = new StringEntity(body, "UTF-8");
             httpPost.setEntity(entity);
             HttpResponse response = client.execute(httpPost);
@@ -97,7 +105,6 @@ public class ElasticSearchService {
             }
         } finally {
             client.close();
-            // client.getConnectionManager().shutdown();
         }
         return null;
     }
@@ -109,27 +116,30 @@ public class ElasticSearchService {
                 return results;
             }
         }
+        String esIndexUrl = props.getProperty("elasticsearch.url");
         String username = props.getProperty("elasticsearch.username");
         String pwd = props.getProperty("elasticsearch.pwd");
-        URIBuilder builder = new URIBuilder(serverURL);
-        builder.setPort(port).setPath("/pubmed/literature/_search");
+        URIBuilder builder;
+        if (!GenUtils.isEmpty(esIndexUrl)) {
+            String[] urlParts = splitServerURLAndPath(esIndexUrl);
+            String indexPath = urlParts[1];
+            serverURL = urlParts[0];
+            builder = new URIBuilder(serverURL);
+            builder.setPath(indexPath + "/_search");
+        } else {
+            builder = new URIBuilder(serverURL);
+            builder.setPort(port).setPath("/pubmed/literature/_search");
+        }
 
         URI uri = builder.build();
-        CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
-        credentialsProvider.setCredentials(AuthScope.ANY,
-                new UsernamePasswordCredentials(username, pwd));
-        CloseableHttpClient client = HttpClientBuilder.create()
-                .setDefaultCredentialsProvider(credentialsProvider).build();
-        // DefaultHttpClient client = new DefaultHttpClient();
-        // JSONObject bodyJson = buildQueryBody(searchQuery, size);
+        CloseableHttpClient client = getCloseableHttpClient(username, pwd);
         JSONObject bodyJson = buildQueryStringBody(keywordQuery, size);
         String body = bodyJson.toString(2);
         System.out.println(body);
         try {
-            //client.getCredentialsProvider().setCredentials(AuthScope.ANY,
-            //        new UsernamePasswordCredentials(username, pwd));
             HttpPost httpPost = new HttpPost(uri);
-            httpPost.addHeader("Content-Type", "application/octet-stream");
+            // httpPost.addHeader("Content-Type", "application/octet-stream");
+            httpPost.addHeader("Content-Type", "application/json");
             StringEntity entity = new StringEntity(body, "UTF-8");
             httpPost.setEntity(entity);
             HttpResponse response = client.execute(httpPost);
@@ -156,7 +166,6 @@ public class ElasticSearchService {
                 return pmdList;
             }
         } finally {
-            //client.getConnectionManager().shutdown();
             client.close();
         }
         return Collections.emptyList();
@@ -171,27 +180,30 @@ public class ElasticSearchService {
             }
         }
 
+        String esIndexUrl = props.getProperty("elasticsearch.url");
         String username = props.getProperty("elasticsearch.username");
         String pwd = props.getProperty("elasticsearch.pwd");
-        URIBuilder builder = new URIBuilder(serverURL);
-        builder.setPort(port).setPath("/pubmed/literature/_search");
+        URIBuilder builder;
+        if (!GenUtils.isEmpty(esIndexUrl)) {
+            String[] urlParts = splitServerURLAndPath(esIndexUrl);
+            String indexPath = urlParts[1];
+            serverURL = urlParts[0];
+            builder = new URIBuilder(serverURL);
+            builder.setPath(indexPath + "/_search");
+        } else {
+            builder = new URIBuilder(serverURL);
+            builder.setPort(port).setPath("/pubmed/literature/_search");
+        }
 
         URI uri = builder.build();
-        CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
-        credentialsProvider.setCredentials(AuthScope.ANY,
-                new UsernamePasswordCredentials(username, pwd));
-        CloseableHttpClient client = HttpClientBuilder.create()
-                .setDefaultCredentialsProvider(credentialsProvider).build();
-        // DefaultHttpClient client = new DefaultHttpClient();
-        // JSONObject bodyJson = buildQueryBody(searchQuery, size);
+        CloseableHttpClient client = getCloseableHttpClient(username, pwd);
         JSONObject bodyJson = buildQueryStringBody(searchQuery, size);
         String body = bodyJson.toString(2);
         System.out.println(body);
         try {
-            // client.getCredentialsProvider().setCredentials(AuthScope.ANY,
-            //         new UsernamePasswordCredentials(username, pwd));
             HttpPost httpPost = new HttpPost(uri);
-            httpPost.addHeader("Content-Type", "application/octet-stream");
+            // httpPost.addHeader("Content-Type", "application/octet-stream");
+            httpPost.addHeader("Content-Type", "application/json");
             StringEntity entity = new StringEntity(body, "UTF-8");
             httpPost.setEntity(entity);
             HttpResponse response = client.execute(httpPost);
@@ -223,9 +235,76 @@ public class ElasticSearchService {
             }
         } finally {
             client.close();
-            //client.getConnectionManager().shutdown();
         }
         return Collections.emptyList();
+    }
+
+    public int retrieveDocumentCount(String keywordQuery) throws Exception {
+        if (useCache) {
+            List<PubMedDoc> results = cache.getResults(keywordQuery);
+            if (results != null) {
+                return results.size();
+            }
+        }
+        String esIndexUrl = props.getProperty("elasticsearch.url");
+        String username = props.getProperty("elasticsearch.username");
+        String pwd = props.getProperty("elasticsearch.pwd");
+        URIBuilder builder;
+        if (!GenUtils.isEmpty(esIndexUrl)) {
+            String[] urlParts = ElasticSearchUtils.splitServerURLAndPath(esIndexUrl);
+            String indexPath = urlParts[1];
+            String serverURL = urlParts[0];
+            builder = new URIBuilder(serverURL);
+            builder.setPath(indexPath + "/_search");
+        } else {
+            builder = new URIBuilder(serverURL);
+            builder.setPort(port).setPath("/pubmed/literature/_search");
+        }
+
+        URI uri = builder.build();
+        CloseableHttpClient client;
+        client = getCloseableHttpClient(username, pwd);
+        JSONObject bodyJson = buildQueryStringBody4Count(keywordQuery);
+        String body = bodyJson.toString(2);
+        System.out.println(body);
+        try {
+            HttpPost httpPost = new HttpPost(uri);
+            // httpPost.addHeader("Content-Type", "application/octet-stream");
+            httpPost.addHeader("Content-Type", "application/json");
+            StringEntity entity = new StringEntity(body, "UTF-8");
+            httpPost.setEntity(entity);
+            HttpResponse response = client.execute(httpPost);
+            if (response.getStatusLine().getStatusCode() == 200) {
+                String responseBody = EntityUtils.toString(response.getEntity());
+                JSONObject json = new JSONObject(responseBody);
+                if (verbose) {
+                    System.out.println(json.toString(2));
+                }
+                if (!json.has("hits")) {
+                    return 0;
+                }
+                int total = json.getJSONObject("hits").getInt("total");
+                if (useCache && total == 0) {
+                    cache.put(keywordQuery, Collections.emptyList());
+                }
+                return total;
+            }
+        } finally {
+            client.close();
+        }
+        return 0;
+    }
+
+    private CloseableHttpClient getCloseableHttpClient(String username, String pwd) {
+        CloseableHttpClient client;
+        if (!GenUtils.isEmpty(username) && !GenUtils.isEmpty(pwd)) {
+            CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
+            credentialsProvider.setCredentials(AuthScope.ANY, new UsernamePasswordCredentials(username, pwd));
+            client = HttpClientBuilder.create().setDefaultCredentialsProvider(credentialsProvider).build();
+        } else {
+            client = HttpClientBuilder.create().build();
+        }
+        return client;
     }
 
     public static List<PubMedDoc> loadResults(String esResultsJsonFile) throws IOException {
@@ -243,6 +322,17 @@ public class ElasticSearchService {
         return pmdList;
     }
 
+    public static String[] splitServerURLAndPath(String urlStr) throws MalformedURLException {
+        URL url = new URL(urlStr);
+        String[] toks = new String[2];
+        String path = url.getPath();
+        int idx = urlStr.indexOf(path);
+        Assertion.assertTrue(idx != -1);
+        toks[0] = urlStr.substring(0, idx);
+        toks[1] = path;
+        return toks;
+    }
+
     JSONObject buildPMIDQuery(String pmid) {
         JSONObject json = new JSONObject();
         JSONObject query = new JSONObject();
@@ -250,6 +340,20 @@ public class ElasticSearchService {
         term.put("dc.identifier", pmid);
         query.put("term", term);
         json.put("query", query);
+        return json;
+    }
+
+    JSONObject buildQueryStringBody4Count(String keywordQuery) {
+        JSONObject json = new JSONObject();
+        JSONObject query = new JSONObject();
+        json.put("query", query);
+        JSONObject qsJSON = new JSONObject();
+        qsJSON.put("query", keywordQuery);
+        JSONArray jsArr = new JSONArray();
+        jsArr.put("dc.description");
+        jsArr.put("dc.title");
+        qsJSON.put("fields", jsArr);
+        query.put("query_string", qsJSON);
         return json;
     }
 
@@ -318,7 +422,8 @@ public class ElasticSearchService {
         boolJson.put("should", shouldArr);
         JSONArray mustArr = new JSONArray();
 
-        // Assumption all query parts are ORed together. Within each query part there can be binary AND.
+        // Assumption all query parts are ORed together. Within each query part there
+        // can be binary AND.
         for (QueryPart qp : searchQuery.getQueryParts()) {
             if (qp.getSearchTerms().size() == 2 && qp.getSearchTerms().get(0).getConnective() == Connective.AND) {
                 for (SearchTerm st : qp.getSearchTerms()) {
@@ -349,7 +454,6 @@ public class ElasticSearchService {
         return json;
     }
 
-
     public static void testPMIDBasedRetrieval() throws Exception {
         ElasticSearchService ess = new ElasticSearchService();
         PubMedDoc pubMedDoc = ess.retrieveDocumentbyPMID("19255803");
@@ -357,14 +461,13 @@ public class ElasticSearchService {
         System.out.println(pubMedDoc);
     }
 
-
     static void testDriver() throws Exception {
         ElasticSearchService ess = new ElasticSearchService();
 
         SearchQuery sq = new SearchQuery();
-        QueryPart qp1 = new QueryPart(new SearchTerm("Hirschsprung", false));
-        qp1.addSearchTerm(new SearchTerm("mendelian", false), Connective.OR);
-        qp1.addSearchTerm(new SearchTerm("multifactorial", false), Connective.OR);
+        QueryPart qp1 = new QueryPart(new SearchTerm("Hirschsprung", false, "N"));
+        qp1.addSearchTerm(new SearchTerm("mendelian", false, "N"), Connective.OR);
+        qp1.addSearchTerm(new SearchTerm("multifactorial", false, "N"), Connective.OR);
 
         sq.addQueryPart(qp1, Connective.NONE);
 

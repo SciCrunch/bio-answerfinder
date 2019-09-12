@@ -6,9 +6,12 @@ import org.bio_answerfinder.util.NumberUtils;
 import java.io.Serializable;
 import java.util.*;
 
+
 /**
  * Created by bozyurt on 6/27/17.
  */
+
+
 public class SearchQuery implements Serializable {
     static final long serialVersionUID = 1;
     List<QueryPart> queryParts = new ArrayList<>(2);
@@ -16,6 +19,7 @@ public class SearchQuery implements Serializable {
     public SearchQuery() {
     }
 
+    @Deprecated
     public static SearchQuery buildFromQueryString(String queryStr) {
         char[] carr = queryStr.toCharArray();
         boolean inPhrase = false;
@@ -56,7 +60,7 @@ public class SearchQuery implements Serializable {
                 if (i + 1 < tokens.size()) {
                     con = tokens.get(i + 1).equalsIgnoreCase("and") ? Connective.AND : Connective.OR;
                 }
-                sq.addQueryPart(new QueryPart(new SearchTerm(token, token.indexOf(' ') != -1)), con);
+                sq.addQueryPart(new QueryPart(new SearchTerm(token, token.indexOf(' ') != -1, null)), con);
             }
         }
         return sq;
@@ -89,6 +93,7 @@ public class SearchQuery implements Serializable {
             }
         }
     }
+
     public void rewriteByWeights(TObjectFloatHashMap<String> weightedVocabulary) {
         double minWeight = Double.MAX_VALUE;
         for (QueryPart qp : queryParts) {
@@ -139,7 +144,6 @@ public class SearchQuery implements Serializable {
 
     }
 
-
     public boolean hasTerm(String term, boolean caseSensitive) {
         for (QueryPart qp : queryParts) {
             for (SearchTerm st : qp.getSearchTerms()) {
@@ -173,6 +177,59 @@ public class SearchQuery implements Serializable {
         return sb.toString();
     }
 
+
+    public String buildAndQuery() {
+        if (queryParts.size() == 1) {
+            return queryParts.get(0).build();
+        }
+        StringBuilder sb = new StringBuilder();
+        for (Iterator<QueryPart> it = queryParts.iterator(); it.hasNext(); ) {
+            QueryPart qp = it.next();
+            sb.append(qp.build());
+            if (qp.next != null) {
+                sb.append(" AND ");
+            }
+        }
+
+        return sb.toString();
+    }
+
+    public String buildAfterFilter() {
+        if (queryParts.size() == 1) {
+            return queryParts.get(0).build();
+        }
+        StringBuilder sb = new StringBuilder();
+        if (queryParts.size() > 2) {
+            for (Iterator<QueryPart> it = queryParts.iterator(); it.hasNext(); ) {
+                QueryPart qp = it.next();
+                if (qp.getSearchTerms().get(0).getWeight() < 1.1) {
+                    continue;
+                } else {
+                    sb.append(qp.build());
+                    if (qp.next != null) {
+                        sb.append(qp.connective == Connective.AND ? " AND " : " OR ");
+                    }
+                }
+            }
+            String s = sb.toString().trim();
+            if (s.endsWith(" OR")) {
+                return s.substring(0, s.length() - 3);
+            } else if (s.endsWith(" AND")) {
+                return s.substring(0, s.length() - 4);
+            }
+            return s;
+        } else {
+            for (Iterator<QueryPart> it = queryParts.iterator(); it.hasNext(); ) {
+                QueryPart qp = it.next();
+                sb.append(qp.build());
+                if (qp.next != null) {
+                    sb.append(qp.connective == Connective.AND ? " AND " : " OR ");
+                }
+            }
+            return sb.toString();
+        }
+
+    }
 
     public static class QueryPart implements Serializable {
         static final long serialVersionUID = 1;
@@ -339,7 +396,6 @@ public class SearchQuery implements Serializable {
             this.searchTerms = newSearchTerms;
         }
 
-        @SuppressWarnings("Duplicates")
         public void calculateWeight(TObjectFloatHashMap<String> weightedVocabulary) {
             double sum = 0;
             int count = 0;
@@ -349,21 +405,28 @@ public class SearchQuery implements Serializable {
                     if (weightedVocabulary.containsKey(st.getTerm())) {
                         sum += weightedVocabulary.get(st.getTerm());
                     } else {
-                        String[] tokens = st.getTerm().split("\\s+");
-                        double localSum = 0;
-                        double min = 1.0;
-                        for (String token : tokens) {
-                            if (weightedVocabulary.containsKey(token)) {
-                                double w = weightedVocabulary.get(token);
-                                if (min > w) {
-                                    min = w;
-                                }
+                        if (st.isHyphenWord()) {
+                            String hyphenWord = st.getTerm().replaceAll("\\s+", "-");
+                            if (weightedVocabulary.containsKey(hyphenWord)) {
+                                sum += weightedVocabulary.get(hyphenWord);
                             } else {
-                                localSum += 1;
+                                sum += 1.0;
                             }
+                        } else {
+                            String[] tokens = st.getTerm().split("\\s+");
+                            double min = 1.0;
+                            for (String token : tokens) {
+                                if (weightedVocabulary.containsKey(token)) {
+                                    double w = weightedVocabulary.get(token);
+                                    if (min > w) {
+                                        min = w;
+                                    }
+                                } else {
+                                    // no-op
+                                }
+                            }
+                            sum += min;
                         }
-                        //sum += localSum / tokens.length;
-                        sum += min;
                     }
                     count++;
                 } else {
@@ -380,14 +443,14 @@ public class SearchQuery implements Serializable {
 
         public static boolean containsAnyKeyword(String phrase, Set<String> keywordSet) {
             String[] tokens = phrase.split("\\s+");
-            for(String token : tokens) {
+            for (String token : tokens) {
                 if (keywordSet.contains(token)) {
                     return true;
                 }
             }
             return false;
         }
-        @SuppressWarnings("Duplicates")
+
         public void calculateWeight(TObjectFloatHashMap<String> weightedVocabulary, Set<String> keywordSet,
                                     double boostFactor) {
             double sum = 0;
@@ -422,7 +485,7 @@ public class SearchQuery implements Serializable {
                     count++;
                 } else {
                     if (weightedVocabulary.containsKey(st.getTerm())) {
-                        double weight =  weightedVocabulary.get(st.getTerm());
+                        double weight = weightedVocabulary.get(st.getTerm());
                         if (keywordSet.contains(st.getTerm())) {
                             weight *= boostFactor;
                         } else {
@@ -441,25 +504,41 @@ public class SearchQuery implements Serializable {
             }
             this.weight = sum / count;
         }
-    }
 
+        public void removeAllMatching(String term) {
+            for (Iterator<SearchTerm> it = searchTerms.iterator(); it.hasNext(); ) {
+                SearchTerm st = it.next();
+                if (st.term.equals(term)) {
+                    it.remove();
+                }
+            }
+        }
+    }
 
     public static class SearchTerm implements Serializable {
         static final long serialVersionUID = 1;
         String term;
         boolean phrase = false;
+        boolean hyphenWord = false;
         Connective connective = Connective.NONE;
         SearchTerm next;
         double weight = -1;
         List<String> entityTypes;
+        String posTag;
 
-        public SearchTerm(String term, boolean phrase) {
+        public SearchTerm(String term, boolean phrase, String posTag, boolean hyphenWord) {
             this.term = term;
             this.phrase = phrase;
+            this.posTag = posTag;
+            this.hyphenWord = hyphenWord;
             // for PubMedServices
             if (this.term.indexOf('/') != -1) {
                 this.phrase = true;
             }
+        }
+
+        public SearchTerm(String term, boolean phrase, String posTag) {
+            this(term, phrase, posTag, false);
         }
 
         public SearchTerm(SearchTerm other) {
@@ -468,7 +547,6 @@ public class SearchQuery implements Serializable {
             this.connective = other.connective;
             this.weight = other.weight;
         }
-
 
         public double getWeight() {
             return weight;
@@ -480,6 +558,10 @@ public class SearchQuery implements Serializable {
 
         public boolean isPhrase() {
             return phrase;
+        }
+
+        public boolean isHyphenWord() {
+            return hyphenWord;
         }
 
         public String getTerm() {
@@ -516,6 +598,18 @@ public class SearchQuery implements Serializable {
             }
         }
 
+        public boolean hasEntityTypes() {
+            return (entityTypes != null && !entityTypes.isEmpty());
+        }
+
+        public String getPosTag() {
+            return posTag;
+        }
+
+        public void setPosTag(String posTag) {
+            this.posTag = posTag;
+        }
+
         public String build() {
             StringBuilder sb = new StringBuilder();
             if (!phrase) {
@@ -535,3 +629,6 @@ public class SearchQuery implements Serializable {
         NONE, AND, OR
     }
 }
+
+
+

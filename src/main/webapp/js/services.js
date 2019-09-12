@@ -31,12 +31,14 @@ app.factory("transformRequestAsFormPost", function () {
 
 bioqaServices.service('dataService', ['$rootScope', '$http', 'transformRequestAsFormPost',
     function ($rootScope, $http, transformRequestAsFormPost) {
-        this.ask = function (question) {
+        this.ask = function (question, resultSize, doRerank) {
             return $http({
                     method: 'post', url: '/bio-answerfinder/api/bioqa/ask',
                     transformRequest: transformRequestAsFormPost,
                     data: {
-                        query: question
+                        query: question,
+                        resultSize: resultSize,
+                        useReranking: doRerank
                     }, headers: {
                         'Accept': 'application/json',
                         'Content-Type': 'application/x-www-form-urlencoded'

@@ -51,7 +51,7 @@ public class GLUEFormatTrainingDataPreparer {
             trainQuestionNoWSSet.add(question);
         }
 
-        //POSTaggerME posTaggerME = Utils.initializePOSTagger();
+        //POSTaggerME posTaggerME = EngineUtils.initializePOSTagger();
         BufferedReader in = null;
         int noQuestions = 0;
         List<Pair<String, String>> remainingList = new ArrayList<>();
@@ -589,10 +589,11 @@ public class GLUEFormatTrainingDataPreparer {
     }
 
     public static void main(String[] args) throws Exception {
-        //testDriver();
+        testDriver();
 
         // prepBERTCVData();
-        prepareFullSplits();
+        //prepareFullSplits();
+
     }
 
     static void testDriver() throws Exception {
@@ -610,7 +611,13 @@ public class GLUEFormatTrainingDataPreparer {
 
         String qscSetTrainFile = homeDir + "/dev/java/bnerkit/data/bioasq/bioasq_manual_100/qsc/qsc_set_train.txt";
         String qscSetTestFile = homeDir + "/dev/java/bnerkit/data/bioasq/bioasq_manual_100/qsc/qsc_set_test.txt";
-        prepareQuestionPOSTrainingDataSet(qscSetTrainFile, "/tmp/qsc_set_pos_tags_train.txt");
-        prepareQuestionPOSTrainingDataSet(qscSetTestFile, "/tmp/qsc_set_pos_tags_test.txt");
+
+        qscSetTrainFile = homeDir + "/dev/java/bio-answerfinder/data/rank_test/rank_train_data.dat";
+        qscSetTestFile = homeDir + "/dev/java/bio-answerfinder/data/rank_test/rank_test_data.dat";
+
+        //prepareQuestionPOSTrainingDataSet(qscSetTrainFile, "/tmp/qsc_set_pos_tags_train.txt");
+        // prepareQuestionPOSTrainingDataSet(qscSetTestFile, "/tmp/qsc_set_pos_tags_test.txt");
+        prepareQuestionPOSTrainingDataSet(qscSetTrainFile, "/tmp/rank_train_pos_data.dat");
+        prepareQuestionPOSTrainingDataSet(qscSetTestFile, "/tmp/rank_test_pos_data.dat");
     }
 }

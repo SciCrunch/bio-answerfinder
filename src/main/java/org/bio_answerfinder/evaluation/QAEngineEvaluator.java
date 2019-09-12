@@ -38,10 +38,12 @@ public class QAEngineEvaluator {
         if (qaEngine instanceof Logger) {
             ((Logger) qaEngine).startLogging("/tmp/question_results.txt");
         }
+        Map<String,String> options = new HashMap<>(7);
+
         for (String question : questionMap.keySet()) {
             List<AnswerSentence> gsaList = questionMap.get(question);
             profiler.start("answerQuestion");
-            List<AnswerSentence> asList = qaEngine.answerQuestion(question, topN);
+            List<AnswerSentence> asList = qaEngine.answerQuestion(question, topN, options);
             profiler.stop("answerQuestion");
             profiler.showStats();
             int rank = getRank4Question(asList, gsaList);

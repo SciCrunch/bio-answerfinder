@@ -41,6 +41,7 @@ public class QAParserRetrieverHandler extends QAParserRetrieverHandlerBase {
         cache = new SearchResultAnnotationCache();
     }
 
+    @SuppressWarnings("Duplicates")
     @Override
     public List<PubMedDoc> retrieveResults(SearchQuery searchQuery, int maxNumOfDocs2Retrieve) throws Exception {
 

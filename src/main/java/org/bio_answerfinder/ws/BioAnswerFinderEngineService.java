@@ -1,10 +1,10 @@
 package org.bio_answerfinder.ws;
 
-import org.bio_answerfinder.engine.AnswerSentence;
-import org.bio_answerfinder.engine.QAEngine1;
-import org.bio_answerfinder.engine.QAEngineDL;
-
 import java.util.List;
+import java.util.Map;
+
+import org.bio_answerfinder.engine.AnswerSentence;
+import org.bio_answerfinder.engine.QAEngineDL;
 
 /**
  * Created by bozyurt on 3/12/19.
@@ -24,16 +24,21 @@ public class BioAnswerFinderEngineService {
         return instance;
     }
 
+    public QAEngineDL getEngine() {
+        return engine;
+    }
+
     public void initialize() throws Exception {
         engine.initialize();
     }
 
-    public List<AnswerSentence> answerQuestion(String question, int topN) throws Exception {
-        return engine.answerQuestion(question, topN);
+    public List<AnswerSentence> answerQuestion(String question, int topN,
+                                               Map<String, String> options) throws Exception {
+        return engine.answerQuestion(question, topN, options);
     }
 
 
-    public void shutdown()  {
+    public void shutdown() {
         engine.shutdown();
     }
 }

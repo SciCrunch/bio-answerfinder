@@ -1,0 +1,101 @@
+question,baseline_rank,method_1_rank,method_2_rank,method_3_rank,method_4_rank,method_5_rank,method_6_rank
+What is the association between GERD and gluten ?,NA,NA                                                                                            ,NA,NA,NA,NA,NA
+Are genes symmetrically distributed between leading and lagging DNA strand in bacteria ?,NA,NA                                                                                            ,NA,NA,NA,NA,NA
+Is there any link between conserved noncoding elements and alternative splicing in vertebrates ?,NA,NA                                                                                            ,NA,NA,NA,NA,NA
+Which molecule is targeted by the drug Gevokizumab ?,NA,NA                                                                                            ,NA,0,0,NA,0
+Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation ?,0,0,0,0,0,0,0
+List FDA approved treatments for androgenetic allopecia,0,0,0,0,1,NA,0
+List fluorescent reporter proteins .,NA,NA,NA,NA,NA,4,NA
+Which protein is affected by dusp8 activation ?,NA,NA,NA,NA,NA,NA,NA
+Is the long non- coding RNA malat-1 up or downregulated in cancer ?,NA,NA,NA,NA,NA,NA,NA
+In which cells are gasdermins expressed ?,0,0,NA,NA,NA,NA,NA
+Which proteins act as factors that promote transcription-coupled repair in bacteria ?,2,2,0,0,0,NA,0
+In which diseases have electronic patient diaries been applied ?,1,1,2,0,0,0,0
+Is COL5A2 gene associated to ischemic heart disease ?,NA,NA,NA,NA,NA,NA,NA
+Does thyroid hormone receptor beta1 affect insulin secretion ?,NA,NA,NA,NA,NA,NA,NA
+What are the mobile applications fields of use for patients ?,1,1,NA,NA,1,1,2
+What types of DNA mutations are induced by 2-hydroxy-dATP ( 2-OH-dATP ) ?,NA,NA,1,1,1,3,1
+Can botulism poisoning of a pregnant woman harm her fetus ?,NA,0,NA,NA,2,NA,1
+Has silicon been used in treatment of incontinence ?,NA,NA,NA,NA,NA,NA,NA
+List human proteins that are subject to a dimer-to-tetramer transition .,NA,NA,1,1,NA,NA,1
+What is the incidence of Edwards syndrom in the european population ?,NA,NA,NA,NA,NA,NA,NA
+Which genes are regulated by MEF-2 in the heart ?,NA,NA,NA,NA,NA,3,NA
+List clinical trials for prevention of sarcopenia,3,3,NA,NA,0,NA,NA
+Are there interactomes available for POU5F1 and SOX2 ?,0,0,NA,NA,0,9,NA
+Give an overview of visualizing genomes with oligopaint FISH probes .,NA,NA,NA,2,1,1,2
+Which gene has been implicated in Majeed Syndrome ?,NA,NA,NA,0,0,NA,0
+What histone trimethylation has been associated to RNA splicing ?,NA,NA,0,0,1,NA,0
+Which is the main regulatory molecule of SERCA2A function in the cardiac muscle ?,NA,NA,NA,NA,NA,NA,NA
+Are thyroid hormone receptors implicated in arterial hypertension ?,0,0,NA,3,0,NA,3
+What type of cancers and inherited diseases have been associated to mutations in the Notch pathway ?,NA,NA,0,0,1,NA,0
+Against which organisms has reverse vaccinology been used ?,NA,NA,NA,NA,NA,0,NA
+Which mitochondrial genes are regulated by thyroid hormone ?,1,1,NA,NA,0,NA,NA
+Is Alpers disease inherited in an autosomal recessive mode ?,0,0,0,0,0,NA,NA
+Which packages are used for performing overlap analysis of genomic regions in R / bioconductor ?,NA,NA,NA,NA,NA,NA,NA
+What are the reported adverse effects of topical minoxidil ?,6,6,1,NA,6,NA,1
+Which cellular processes are regulated by Nanog ?,NA,NA,1,4,1,1,1
+What is the treatment of Riedel disease ( thyroiditis ) ?,NA,NA,NA,NA,NA,NA,NA
+Which post-translational histone modifications are characteristic of facultative heterochromatin ?,NA,NA,7,7,NA,7,7
+Which cyclin- dependent kinase inhibitor is regulated by Bmi-1 ?,NA,3,0,0,NA,0,0
+Can RNAPolII function as an RNA-dependent RNA-polymerase ?,NA,NA,NA,NA,NA,NA,NA
+List proteins of lipids droplets,NA,NA,5,0,0,NA,3
+Is Calcium homeostasis important in cardiac physiology and pathophysiology ?,5,5,3,2,1,0,2
+Do proton pump inhibitors affect thyroxine absorption?,0,0,0,0,0,NA,0
+Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome?,0,0,NA,NA,NA,NA,NA
+The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies. Which protein are they targeting?,NA,NA,0,0,0,8,0
+From which sequence does the Alu repeat originate from?,NA,0,NA,7,7,NA,7
+How is mTORC1 involved in the regulation of heat stress?,NA,NA,3,5,0,NA,3
+Which myosin isozymes are located within the pericuticular necklace of the hair cell?,NA,NA,1,0,2,NA,1
+Are nucleosomes positioned at DNA replication origins?,1,1,0,0,0,NA,0
+Name five programs for transcript quantification from RNASeq experiments,NA,NA,3,3,5,NA,3
+Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?,NA,NA,NA,0,NA,NA,0
+What are the Topological Domains (TADs)?,NA,NA,2,2,NA,NA,2
+Which molecule is targeted by a monoclonal antibody Secukinumab?,NA,NA,0,0,NA,NA,0
+DX-88 is investigational name of which drug?,NA,NA,NA,NA,NA,NA,NA
+Which are the main histone modifications associated with enhancers ?,0,0,0,0,0,NA,0
+What is the enzymatic activity of the breast cancer associated gene BRCA1 ?,NA,6,8,8,5,NA,8
+Is there any link between the aurora B kinase and the polycomb protein ring1B ?,NA,NA,0,0,0,NA,0
+Is insulin-like growth factor-I ( IGF-I ) able to affect tendon protein synthesis in classic Ehlers-Danlos syndrome patients ?,NA,NA,3,3,NA,NA,3
+To what extent does HPV vaccination reduce the risk for cervical cancer ?,NA,NA,NA,NA,NA,NA,NA
+Tumor-treating fields are effective for treatment of which cancers ?,1,1,0,0,0,NA,1
+What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients ?,NA,NA,0,6,7,NA,1
+Is Crohn 's disease ( CD ) linked to the consumption of refrigerated food ?,NA,NA,NA,NA,NA,NA,NA
+What is needed for MMP proteins to be functional ?,NA,NA,0,0,1,7,0
+What are the skeletal muscle satellite cells ?,NA,NA,0,0,5,NA,0
+Which is the execution time ( complexity ) of the Smith-Waterman algorithm for the alignment of two sequences,NA,NA,NA,0,0,2,0
+Are adenylyl cyclases always transmembrane proteins ?,NA,NA,2,2,2,NA,2
+How does thyroid hormone regulate mitochondrial biogenesis in the myocardium ?,NA,NA,NA,NA,NA,NA,NA
+What is the mechanism of cementogenesis in pulp regeneration ?,7,7,NA,NA,NA,NA,NA
+Which are the subunits of the transcription factor NF-kappaB in the canonical pathway activation ?,NA,NA,1,1,1,NA,1
+Which are the genes thought to be regulated by EWS / FLI ?,6,6,0,0,NA,NA,0
+Which are the enzymes involved in the addition of 7-methylguanosine in mRNA ?,NA,NA,0,0,1,NA,0
+List all articles on network meta-analysis for smoking cessation,0,0,1,1,0,NA,1
+Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity ?,NA,1,4,4,2,NA,4
+How many periods of regulatory innovation led to the evolution of vertebrates ?,NA,NA,0,NA,3,NA,0
+Which are the state-of-the-art computational tools for the prediction of gene fusion events ?,NA,NA,NA,2,NA,9,2
+Which is the definition of pyknons in DNA ?,0,0,5,5,5,NA,5
+Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome ?,NA,NA,NA,NA,NA,NA,NA
+Which molecule is targeted by a monoclonal antibody Mepolizumab ?,NA,NA,0,0,9,2,0
+Which kinase is inhibited by Tripolin A ?,NA,NA,0,0,0,NA,0
+Which are the different proteins / isoforms encoded but the ASPH ( aspartate beta-hydroxylase ) gene in humans ?,NA,NA,NA,NA,NA,NA,NA
+What is known as the cause of subacute thyroiditis ?,7,7,5,5,7,NA,5
+"The protein neprilysin has an positive effect on Alzheimer disease , how can it be delivered to the brain ?",8,8,NA,NA,9,NA,NA
+Which are the bioinformatics tools for gene structure prediction ?,NA,NA,NA,NA,7,NA,NA
+How is myotonic dystrophy inherited ?,0,0,0,0,0,5,0
+Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies ?,NA,NA,5,5,NA,NA,5
+Which are the newly identified DNA nucleases that can be used to treat thalassemia ?,NA,NA,0,NA,9,NA,2
+Which diseases are associated with Alu element insertion ?,0,0,0,0,0,NA,0
+Which is the defective protein causing the lysosomal storage disease Fabry ?,NA,NA,7,7,0,0,7
+List packages for transcription factor binding sites' ( TFBS ) analysis available in R / Bioconductor,9,9,NA,NA,NA,NA,NA
+What are the effects of depleting protein km23-1 ( DYNLRB1 ) in a cell ?,8,8,0,0,6,NA,0
+Is the gene DUX4 epigenetically regulated in somatic cells ?,NA,NA,NA,NA,NA,NA,NA
+Which are the clinical characteristics of isolated Non-compaction cardiomyopathy ?,3,3,1,1,3,2,1
+Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema ?,3,3,NA,NA,5,0,NA
+Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes ?,NA,NA,NA,NA,NA,9,NA
+Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease ?,NA,NA,NA,NA,NA,1,NA
+What is the role of the RUNX1-MYEF2 complex ?,NA,NA,1,1,NA,NA,1
+Gene silencing can be achieved by RNA interference ( RNAi ) in eukaryotic organisms . What is the name of the analogous process in prokaryotic organisms ?,NA,NA,0,0,4,NA,0
+List drugs included in the DHAP-R chemotherapy regiment .,NA,NA,0,0,0,NA,0
+What is the relationship between TailorX and Oncotype ?,NA,NA,NA,NA,NA,NA,NA
+ROSIER scale is used for which disorder ?,NA,NA,NA,NA,NA,NA,NA
+What is known about MER41 repeat sequences ?,NA,NA,NA,NA,NA,NA,NA

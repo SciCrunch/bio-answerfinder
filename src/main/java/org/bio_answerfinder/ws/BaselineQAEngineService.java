@@ -4,7 +4,9 @@ package org.bio_answerfinder.ws;
 import org.bio_answerfinder.engine.AnswerSentence;
 import org.bio_answerfinder.engine.QAEngine1;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by bozyurt on 9/21/17.
@@ -29,7 +31,8 @@ public class BaselineQAEngineService {
     }
 
     public List<AnswerSentence> answerQuestion(String question, int topN) throws Exception {
-        return engine.answerQuestion(question, topN);
+        Map<String,String> options = new HashMap<>();
+        return engine.answerQuestion(question, topN, options);
     }
 
 

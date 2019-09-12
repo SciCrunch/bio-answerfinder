@@ -2,20 +2,23 @@ package org.bio_answerfinder.common;
 
 import gnu.trove.map.hash.TObjectFloatHashMap;
 import org.bio_answerfinder.DataRecord;
-import org.bio_answerfinder.services.NominalizationService;
 import org.bio_answerfinder.common.SearchQuery.QueryPart;
 import org.bio_answerfinder.common.SearchQuery.SearchTerm;
 import org.bio_answerfinder.engine.QuestionParser;
 import org.bio_answerfinder.engine.SearchQueryGenErrorAnalyzer;
-import org.bio_answerfinder.engine.SearchQueryGenerator;
+import org.bio_answerfinder.engine.query.SearchQueryGenerator;
 import org.bio_answerfinder.kb.LookupUtils2;
 import org.bio_answerfinder.nlp.morph.ILemmanizer;
 import org.bio_answerfinder.nlp.morph.MorphException;
 import org.bio_answerfinder.nlp.morph.TermMorphRecord;
+import org.bio_answerfinder.services.NominalizationService;
 import org.bio_answerfinder.util.GenUtils;
 import org.bio_answerfinder.util.SRLUtils;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Created by bozyurt on 12/16/17.
@@ -26,8 +29,9 @@ public class PubmedQueryConstructor2 {
     List<List<QueryPart>> qpList;
     List<List<QueryPart>> currentList = new ArrayList<>(5);
     LookupUtils2 lookupUtils;
-    public static Set<String> entityStopWords = new HashSet<>(Arrays.asList("gene", "genes", "disease", "disorder", "enzyme", "protein", "proteins",
-            "syndrome", "syndromes", "disorders", "enzymes"));
+    public static Set<String> entityStopWords = new HashSet<>(Arrays.asList("gene", "genes", "disease", "disorder",
+            "enzyme", "protein", "proteins",
+            "syndrome", "syndromes", "disorders", "enzymes", "neurotransmitter", "neurotransmitters"));
 
 
     public PubmedQueryConstructor2(SearchQuery searchQuery, ILemmanizer lemmanizer, LookupUtils2 lookupUtils) {
@@ -37,7 +41,7 @@ public class PubmedQueryConstructor2 {
         qpList = new ArrayList<>();
 
         if (lookupUtils != null) {
-            findEntities(searchQuery);
+            findEntities(searchQuery, lookupUtils);
         }
         Map<QueryPart, String> verbMap = new HashMap<>();
         QueryPart max = Collections.max(searchQuery.getQueryParts(), (o1, o2) -> Double.compare(o1.getWeight(), o2.getWeight()));
@@ -153,7 +157,7 @@ public class PubmedQueryConstructor2 {
         return maxWeight;
     }
 
-    void findEntities(SearchQuery searchQuery) {
+    public static void findEntities(SearchQuery searchQuery, LookupUtils2 lookupUtils) {
         Set<String> diseaseSet = new HashSet<>();
         Set<String> proteinSet = new HashSet<>();
         Set<String> geneSet = new HashSet<>();
@@ -209,9 +213,11 @@ public class PubmedQueryConstructor2 {
         for (ListIterator<QueryPart> it = eqList.listIterator(eqList.size()); it.hasPrevious(); ) {
             QueryPart qp = it.previous();
             int len = qp.getSearchTerms().size();
+            boolean hasEntityType = hasAnyEntityType(qp);
             for (int i = len - 1; i >= 0; i--) {
-                SearchTerm st = qp.getSearchTerms().get(i);
-                if (st.getEntityTypes() == null) {
+              //  SearchTerm st = qp.getSearchTerms().get(i);
+              //  if (st.getEntityTypes() == null) {
+                if (!hasEntityType) {
                     qp.getSearchTerms().remove(i);
                     if (qp.getSearchTerms().isEmpty()) {
                         it.remove();
@@ -221,6 +227,30 @@ public class PubmedQueryConstructor2 {
             }
         }
         return false;
+    }
+
+    boolean hasAnyEntityType(SearchQuery.QueryPart qp) {
+        for (SearchQuery.SearchTerm st : qp.getSearchTerms()) {
+            if (st.getEntityTypes() != null && !st.getEntityTypes().isEmpty()) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public boolean removeTermFromQuery(String term) {
+        boolean removed = false;
+        for (Iterator<List<QueryPart>> it = currentList.iterator(); it.hasNext(); ) {
+            List<QueryPart> eqList = it.next();
+            for (Iterator<QueryPart> it2 = eqList.iterator(); it2.hasNext(); ) {
+                QueryPart qp = it2.next();
+                if (qp.matchesAny(term)) {
+                    qp.removeAllMatching(term);
+                    removed = true;
+                }
+            }
+        }
+        return removed;
     }
 
     public boolean adjustQueryWithEntities() {
@@ -260,6 +290,7 @@ public class PubmedQueryConstructor2 {
     }
 
 
+    @Deprecated
     public boolean adjustQuery() {
         boolean found = false;
         for (ListIterator<List<QueryPart>> it = currentList.listIterator(currentList.size()); it.hasPrevious(); ) {
@@ -286,6 +317,7 @@ public class PubmedQueryConstructor2 {
         return false;
     }
 
+    @Deprecated
     public boolean adjustQuery2() {
         for (ListIterator<List<QueryPart>> it = currentList.listIterator(currentList.size()); it.hasPrevious(); ) {
             List<QueryPart> eqList = it.previous();
@@ -308,6 +340,7 @@ public class PubmedQueryConstructor2 {
     }
 
 
+    @Deprecated
     public String buildQuery() {
         return buildQuery(currentList);
     }
@@ -385,7 +418,71 @@ public class PubmedQueryConstructor2 {
         return q;
     }
 
+    public JSONObject buildJSON() {
+        return buildJSON(currentList);
+    }
 
+    public JSONObject buildJSON(List<List<QueryPart>> queryParts) {
+        JSONObject json = new JSONObject();
+        JSONArray qpJsonArr = new JSONArray();
+        json.put("queryParts", qpJsonArr);
+        for (Iterator<List<QueryPart>> it1 = queryParts.iterator(); it1.hasNext(); ) {
+            List<QueryPart> eqList = it1.next();
+            for (Iterator<QueryPart> it = eqList.iterator(); it.hasNext(); ) {
+                QueryPart qp = it.next();
+                JSONObject qpJSON = new JSONObject();
+                if (qp.getSearchTerms().size() == 2 && qp.getSearchTerms().get(0).getConnective() == SearchQuery.Connective.AND) {
+                    qpJSON.put("op", "AND");
+                    JSONArray jsArr = new JSONArray();
+                    qpJSON.put("stList", jsArr);
+                    jsArr.put(toJSON(qp.getSearchTerms().get(0)));
+                    jsArr.put(toJSON(qp.getSearchTerms().get(1)));
+                } else {
+                    if (qp.getSearchTerms().size() == 1) {
+                        if (PQCUtils.isEligible(qp.getSearchTerms().get(0))) {
+                            JSONArray jsArr = new JSONArray();
+                            qpJSON.put("stList", jsArr);
+                            jsArr.put(toJSON(qp.getSearchTerms().get(0)));
+                        } else {
+                            continue;
+                        }
+                    } else {
+                        List<SearchTerm> stList = qp.getSearchTerms().stream().filter(PQCUtils::isEligible).collect(Collectors.toList());
+                        if (!stList.isEmpty()) {
+                            qpJSON.put("op", "OR");
+                            JSONArray jsArr = new JSONArray();
+                            qpJSON.put("stList", jsArr);
+                            stList.forEach((SearchTerm st) -> jsArr.put(toJSON(st)));
+                        } else {
+                            continue;
+                        }
+                    }
+                }
+                if (qpJSON.has("stList")) {
+                    qpJsonArr.put(qpJSON);
+                }
+            }
+        }
+        return json;
+    }
+
+    private static JSONObject toJSON(SearchTerm st) {
+        JSONObject json = new JSONObject();
+        json.put("term", st.getTerm());
+        json.put("phrase", st.isPhrase());
+        json.put("posTag", st.getPosTag());
+        json.put("weight", st.getWeight());
+        JSONArray entityTypes;
+        if (st.getEntityTypes() != null && !st.getEntityTypes().isEmpty()) {
+            entityTypes = new JSONArray(st.getEntityTypes());
+        } else {
+            entityTypes = new JSONArray();
+        }
+        json.put("entityTypes", entityTypes);
+        return json;
+    }
+
+    @Deprecated
     public String buildQuery(List<List<QueryPart>> queryParts) {
         StringBuilder sb = new StringBuilder();
         for (Iterator<List<QueryPart>> it1 = queryParts.iterator(); it1.hasNext(); ) {

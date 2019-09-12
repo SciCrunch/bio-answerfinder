@@ -1,14 +1,12 @@
 package org.bio_answerfinder.util;
 
+import java.util.List;
+import java.util.Properties;
+
 import org.bio_answerfinder.common.POSTagSet;
 import org.bio_answerfinder.common.PTB2SyntacticLabelSet;
 import org.bio_answerfinder.common.types.Node;
 import org.bio_answerfinder.nlp.morph.Lemmanizer;
-
-import java.util.Collection;
-import java.util.List;
-import java.util.Properties;
-import java.util.regex.Pattern;
 
 /**
  * Created by bozyurt on 2/25/19.
@@ -36,7 +34,7 @@ public class SRLUtils {
      * @throws Exception
      */
     public static Lemmanizer prepLemmanizer() throws Exception {
-        Properties props = FileUtils.loadProperties("/bio-answerfinder.properties");
+        Properties props = FileUtils.loadProperties("bio-answerfinder.properties");
         String jdbcURL = props.getProperty("jdbc.url");
         String dbUser = props.getProperty("jdbc.user");
         String pwd = props.getProperty("jdbc.pwd");

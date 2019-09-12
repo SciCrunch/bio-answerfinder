@@ -1,19 +1,23 @@
 package org.bio_answerfinder.engine;
 
 
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.util.*;
+import java.util.stream.Collectors;
+
+import net.didion.jwnl.data.Exc;
 import org.bio_answerfinder.DataRecord;
+import org.bio_answerfinder.RankSearchQueryGenerator;
+import org.bio_answerfinder.SimpleSearchQueryGenerator;
 import org.bio_answerfinder.common.*;
-import org.bio_answerfinder.common.types.ParseTreeManagerException;
 import org.bio_answerfinder.engine.BERTRerankerServiceClient.RankedSentence;
+import org.bio_answerfinder.engine.query.*;
 import org.bio_answerfinder.kb.LookupUtils2;
 import org.bio_answerfinder.nlp.morph.ILemmanizer;
 import org.bio_answerfinder.services.ElasticSearchService;
 import org.bio_answerfinder.services.PubMedDoc;
 import org.bio_answerfinder.util.*;
-
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.util.*;
 
 /**
  * Created by bozyurt on 1/8/19.
@@ -27,7 +31,9 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
     QuestionResultStatsCollector collector;
     BufferedWriter logOut;
     QAEngine1.QuestionResult current;
-
+    QuestionResultCache questionResultCache;
+    PubmedDBRetriever retriever;
+    ILogCollector logCollector = new NoOpLogCollector();
 
     public QAEngineDL() throws Exception {
         super();
@@ -36,22 +42,43 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
         collector = new QuestionResultStatsCollector();
     }
 
+    public ILogCollector getLogCollector() {
+        return logCollector;
+    }
+
+    public void setLogCollector(ILogCollector logCollector) {
+        this.logCollector = logCollector;
+    }
+
     @Override
     public void initialize() throws Exception {
         super.initialize();
-        Properties props = FileUtils.loadProperties("/bio-answerfinder.properties");
+        Properties props = FileUtils.loadProperties("bio-answerfinder.properties");
         String dbFile = FileUtils.adjustPath(props.getProperty("glove.db.file"));
-        // String HOME_DIR = System.getProperty("user.home");
-        // String dbFile = HOME_DIR + "/medline_glove_v2.db";
         this.ess = new ElasticSearchService();
         ess.setUseCache(false);
         lookupUtils.initialize();
         gloveMan = GloveDBLookup.getInstance(dbFile);
+        questionResultCache = QuestionResultCache.getInstance();
+        Thread thread = new Thread(new QuestionResultCacheCleanupWorker());
+        thread.setDaemon(true);
+        thread.start();
+        System.out.println("started QuestionResultCacheCleanupWorker");
     }
 
     @Override
     @SuppressWarnings("Duplicates")
-    public List<AnswerSentence> answerQuestion(String query, int topN) throws Exception {
+    public List<AnswerSentence> answerQuestion(String query, int topN, Map<String, String> options) throws Exception {
+        boolean useReranking = getBoolOptionValue("useReranking", options, true);
+        boolean useAnswerCache = getBoolOptionValue("useAnswerCache", options, true);
+        String retrievalMode = getStringOptionValue("retrievalMode", options, "baseline");
+
+        List<AnswerSentence> answers = questionResultCache.getAnswers(query + ":" + String.valueOf(useReranking));
+        if (useAnswerCache) {
+            if (answers != null && answers.size() >= topN) {
+                return answers;
+            }
+        }
         List<AnswerSentence> answerSentences;
         List<DataRecord> dataRecords = questionParser.parseQuestion("user_query", query);
         List<String> qpList = DefinitionQuestionDetector.isDefinitionQuestion(dataRecords);
@@ -59,7 +86,24 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
         QuestionFocusDetector detector = new QuestionFocusDetector();
         QuestionFocusDetector.QuestionFocus questionFocus = detector.detectFocus(dataRecords);
         List<String> focusEntityTypes = getFocusEntityTypes(questionFocus);
-        List<PubMedDoc> pubMedDocs = retrieveDocuments(query, dataRecords);
+        List<PubMedDoc> pubMedDocs;
+        if (retrievalMode.equals("baseline")) {
+            pubMedDocs = retrieveDocuments(query, dataRecords, false, false);
+        } else if (retrievalMode.equals("baseline-kw")) {
+            pubMedDocs = retrieveDocuments(query, dataRecords, true, false);
+        } else if (retrievalMode.equals("rank")) {
+            pubMedDocs = retrieveDocumentsViaKeywordRanking(query, dataRecords, false, false);
+        } else if (retrievalMode.equals("keyword")) {
+            pubMedDocs = retrieveDocumentsQSCIterative(query, dataRecords, false);
+        } else if (retrievalMode.equals("ensemble")) {
+            pubMedDocs = retrieveDocumentsEnsemble(query, dataRecords);
+        } else if (retrievalMode.equals("ensemble2")) {
+            pubMedDocs = retrieveDocumentsEnsemble2(query, dataRecords);
+        } else if (retrievalMode.equals("aknn")) {
+            pubMedDocs = retrieveDocumentsAKNN(query, 100);
+        } else {
+            throw new RuntimeException("Not a recognized retrieval mode:" + retrievalMode);
+        }
         String method = "wmd";
         if (definitionQuestion) {
             answerSentences = handleDefinitionAnswer(qpList, pubMedDocs);
@@ -67,15 +111,16 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
                 showAnswers(query, answerSentences, topN);
                 method = "definition";
             } else {
-                answerSentences = handleViaWMD(dataRecords, pubMedDocs);
+                answerSentences = handleViaWMD(dataRecords, pubMedDocs, useReranking);
                 showAnswers(query, answerSentences, topN);
             }
         } else if (!focusEntityTypes.isEmpty()) {
-            answerSentences = handleQuestionWithFocusEntity(dataRecords, questionFocus, pubMedDocs);
+            answerSentences = handleQuestionWithFocusEntity(dataRecords, questionFocus,
+                    pubMedDocs, useReranking);
             showAnswers(query, answerSentences, topN);
             method = "focus";
         } else {
-            answerSentences = handleViaWMD(dataRecords, pubMedDocs);
+            answerSentences = handleViaWMD(dataRecords, pubMedDocs, useReranking);
             showAnswers(query, answerSentences, topN);
         }
         if (this.logOut != null) {
@@ -83,20 +128,40 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
         }
 
         normalizeAnswers(answerSentences);
+        if (useAnswerCache) {
+            questionResultCache.cacheAnswers(query + ":" + String.valueOf(useReranking), answerSentences);
+        }
         return answerSentences;
     }
 
+    public static boolean getBoolOptionValue(String optionName, Map<String, String> options,
+                                             boolean defaultValue) {
+        if (options == null || !options.containsKey(optionName)) {
+            return defaultValue;
+        }
+        return options.get(optionName).equalsIgnoreCase("true");
+    }
+
+    public static String getStringOptionValue(String optionName, Map<String, String> options,
+                                              String defaultValue) {
+        if (options == null || !options.containsKey(optionName)) {
+            return defaultValue;
+        }
+        return options.get(optionName);
+    }
+
     public static void normalizeAnswers(List<AnswerSentence> asList) {
-        for(AnswerSentence as : asList) {
-            String normalized =  as.getSentence().replaceAll("_", " ");
+        for (AnswerSentence as : asList) {
+            String normalized = as.getSentence().replaceAll("_", " ");
             if (!normalized.equals(as.getSentence())) {
-               as.setSentence(normalized);
+                as.setSentence(normalized);
             }
         }
     }
 
     @SuppressWarnings("Duplicates")
-    List<AnswerSentence> handleViaWMD(List<DataRecord> questionRecords, List<PubMedDoc> pubMedDocs) throws Exception {
+    List<AnswerSentence> handleViaWMD(List<DataRecord> questionRecords,
+                                      List<PubMedDoc> pubMedDocs, boolean useReranking) throws Exception {
         List<AnswerSentence> asList = new ArrayList<>();
         String questionContent = prepareQuestion4Glove(questionRecords);
         Map<String, WordVector> questionMap = prepareWordVectorMap(questionContent);
@@ -113,14 +178,38 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
             }
         }
         Collections.sort(asList, (o1, o2) -> Float.compare(o2.getScore(), o1.getScore()));
+        asList = unique(asList);
+        if (useReranking) {
+            // rerank
+            asList = rerankViaBERT(extractQuestion(questionRecords), asList);
+        }
+        return asList;
+    }
 
-        // rerank
-        asList = rerankViaBERT(extractQuestion(questionRecords), asList);
+    public static List<AnswerSentence> unique(List<AnswerSentence> asList) {
+        Set<String> seenSet = new HashSet<>();
+        for (Iterator<AnswerSentence> iter = asList.iterator(); iter.hasNext(); ) {
+            AnswerSentence answerSentence = iter.next();
+            String key = StringUtils.stripWS(answerSentence.getSentence());
+            if (seenSet.contains(key)) {
+                iter.remove();
+            } else {
+                // also remove very short sentences
+                if (answerSentence.getSentence().length() < 40) {
+                    iter.remove();
+                }
+                seenSet.add(key);
+
+            }
+        }
         return asList;
     }
 
     List<AnswerSentence> rerankViaBERT(String question, List<AnswerSentence> asList) {
-        // only re-rank upto first 100 due to CPU cost
+        if (asList.isEmpty()) {
+            return asList;
+        }
+        // only re-rank upto first 100 due to CPU/GPU cost
         BERTRerankerServiceClient client = new BERTRerankerServiceClient();
         try {
             Map<String, AnswerSentence> map = new LinkedHashMap<>();
@@ -135,6 +224,7 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
             for (int i = 0; i < len; i++) {
                 RankedSentence rs = rerankedList.get(i);
                 AnswerSentence as = map.get(rs.getSentence());
+                System.out.println(rs.score + ") " + rs.getSentence());
                 Assertion.assertNotNull(as);
                 asList.set(i, as);
             }
@@ -168,38 +258,47 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
     @SuppressWarnings("Duplicates")
     List<AnswerSentence> handleQuestionWithFocusEntity(List<DataRecord> questionRecords,
                                                        QuestionFocusDetector.QuestionFocus questionFocus,
-                                                       List<PubMedDoc> pubMedDocs) throws Exception {
+                                                       List<PubMedDoc> pubMedDocs,
+                                                       boolean useReranking) throws Exception {
         FocusWordEntityTypeAnswerFilter filter = new FocusWordEntityTypeAnswerFilter(this.lookupUtils, this.sentencePipeline);
         SearchQueryGenerator sqGen = new SearchQueryGenerator(questionRecords, nominalizationService, null, null);
         SearchQuery searchQuery = sqGen.generatePubmedQuery(vocabulary);
         List<ResultDoc> resultDocs = filter.filter(searchQuery, questionFocus, pubMedDocs);
 
-        return rankSentences(questionRecords, resultDocs);
+        return rankSentences(questionRecords, resultDocs, useReranking);
     }
 
     /**
      * @param query
      * @param dataRecords
+     * @param useKeywordClassifier
+     * @param ensembleMode
      * @return
      * @throws Exception
      */
     @SuppressWarnings("Duplicates")
-    List<PubMedDoc> retrieveDocuments(String query, List<DataRecord> dataRecords) throws Exception {
+    List<PubMedDoc> retrieveDocuments(String query, List<DataRecord> dataRecords, boolean useKeywordClassifier,
+                                      boolean ensembleMode) throws Exception {
         SearchQueryGenerator sqGen = new SearchQueryGenerator(dataRecords, nominalizationService, null, null);
         SearchQuery sq;
         QuestionKeywordSelectionServiceClient client = new QuestionKeywordSelectionServiceClient();
         StringBuilder questionBuf = new StringBuilder();
         StringBuilder posTagsBuf = new StringBuilder();
-        prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
-        List<String> selectedQueryTerms = client.getSelectedQueryTerms(questionBuf.toString().trim(),
-                posTagsBuf.toString().trim());
-        if (selectedQueryTerms != null && !selectedQueryTerms.isEmpty()) {
-            sq = sqGen.generatePubmedQuery(vocabulary, selectedQueryTerms, SearchQueryOptions.ENSURE_INCLUSION);
+        if (useKeywordClassifier) {
+            EngineUtils.prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
+            List<String> selectedQueryTerms = client.getSelectedQueryTerms(questionBuf.toString().trim(),
+                    posTagsBuf.toString().trim());
+            if (selectedQueryTerms != null && !selectedQueryTerms.isEmpty()) {
+                sq = sqGen.generatePubmedQuery(vocabulary, selectedQueryTerms, SearchQueryOptions.ENSURE_INCLUSION);
+            } else {
+                sq = sqGen.generatePubmedQuery(vocabulary);
+            }
         } else {
             sq = sqGen.generatePubmedQuery(vocabulary);
         }
         PubmedQueryConstructor2 pqc = new PubmedQueryConstructor2(sq, lemmanizer, lookupUtils);
         String keywordQuery = pqc.buildESQuery();
+        logCollector.log("ES Query:" + keywordQuery);
         System.out.println("ES Query:" + keywordQuery);
         List<PubMedDoc> pubMedDocs = ess.retrieveDocuments(keywordQuery, noDocs2Retrieve);
         List<PubMedDoc> prevPMDList = null;
@@ -212,6 +311,7 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
             while (pqc.adjustQueryWithEntities()) {
                 keywordQuery = pqc.buildESQuery();
                 System.out.println("ES Query:" + keywordQuery);
+                logCollector.log("ES Query:" + keywordQuery);
                 pubMedDocs = ess.retrieveDocuments(keywordQuery, noDocs2Retrieve);
                 if (pubMedDocs != null && !pubMedDocs.isEmpty()) {
                     if (pubMedDocs.size() < 40) {
@@ -229,6 +329,7 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
         if (pubMedDocs == null || (pubMedDocs.size() > 1000 && prevPMDList != null && prevPMDList.size() > 10)) {
             if (prevKeywordQuery != null && !prevPMDList.isEmpty()) {
                 System.out.println("using previous query with results " + prevKeywordQuery);
+                logCollector.log("using previous query with results " + prevKeywordQuery);
                 pubMedDocs = prevPMDList;
                 keywordQuery = prevKeywordQuery;
             } else {
@@ -237,9 +338,10 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
                 }
             }
         }
-        if (pubMedDocs.isEmpty()) {
+        if (pubMedDocs.isEmpty() && !ensembleMode) {
             sq = sqGen.generatePubmedQuery(vocabulary);
             System.out.println("OR Query:" + sq.build());
+            logCollector.log("OR Query:" + sq.build());
             pubMedDocs = ess.retrieveDocuments(sq, noDocs2Retrieve);
             if (pubMedDocs == null) {
                 pubMedDocs = new ArrayList<>(0);
@@ -249,20 +351,168 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
         return pubMedDocs;
     }
 
-    private void prepareQuestion4Prediction(List<DataRecord> dataRecords, StringBuilder questionBuf, StringBuilder posTagsBuf) throws ParseTreeManagerException {
-        for (DataRecord dr : dataRecords) {
-            DataRecord.ParsedSentence ps = dr.getSentences().get(0);
-            List<String> posTags = ps.getPosTags();
-            List<SpanPOS> spList = Utils.tokenizeWithPOS(ps.getSentence(), posTags);
-            for (SpanPOS sp : spList) {
-                questionBuf.append(sp.getToken()).append(' ');
-                posTagsBuf.append(sp.getPosTag()).append(' ');
+
+    List<PubMedDoc> retrieveDocumentsEnsemble(String query, List<DataRecord> dataRecords) throws Exception {
+        List<PubMedDoc> pmdList1 = retrieveDocuments(query, dataRecords, false, true);
+        List<PubMedDoc> pmdList2 = retrieveDocumentsViaKeywordRanking(query, dataRecords, false, true);
+        List<PubMedDoc> pmdList3 = retrieveDocumentsQSCIterative(query, dataRecords, true);
+        System.out.println(String.format("pmdList1: %d pmdList2: %d pmdList3: %d", pmdList1.size(), pmdList2.size(),
+                pmdList3.size()));
+        logCollector.log(String.format("pmdList1: %d pmdList2: %d pmdList3: %d", pmdList1.size(), pmdList2.size(),
+                pmdList3.size()));
+        //  combine all unique results
+        final Set<String> pmidSet = pmdList1.stream().map(PubMedDoc::getPmid).collect(Collectors.toSet());
+        pmdList1.addAll(pmdList2.stream().filter(pmd -> !pmidSet.contains(pmd.getPmid())).collect(Collectors.toList()));
+        Set<String> pmidSet2 = pmdList1.stream().map(PubMedDoc::getPmid).collect(Collectors.toSet());
+        pmdList1.addAll(pmdList3.stream().filter(pmd -> !pmidSet2.contains(pmd.getPmid())).collect(Collectors.toList()));
+
+        System.out.println("combined list:" + pmdList1.size());
+        logCollector.log("combined list:" + pmdList1.size());
+        return pmdList1;
+    }
+
+    List<PubMedDoc> retrieveDocumentsEnsemble2(String query, List<DataRecord> dataRecords) throws Exception {
+        List<PubMedDoc> pmdList1 = retrieveDocumentsViaKeywordRanking(query, dataRecords, false, true);
+        List<PubMedDoc> pmdList2 = retrieveDocumentsQSCIterative(query, dataRecords, true);
+        System.out.println(String.format("pmdList1: %d pmdList2: %d", pmdList1.size(), pmdList2.size()));
+        logCollector.log(String.format("pmdList1: %d pmdList2: %d", pmdList1.size(), pmdList2.size()));
+        //  combine all unique results
+        final Set<String> pmidSet = pmdList1.stream().map(PubMedDoc::getPmid).collect(Collectors.toSet());
+        pmdList1.addAll(pmdList2.stream().filter(pmd -> !pmidSet.contains(pmd.getPmid())).collect(Collectors.toList()));
+
+        System.out.println("combined list:" + pmdList1.size());
+        logCollector.log("combined list:" + pmdList1.size());
+        return pmdList1;
+    }
+
+    public List<PubMedDoc> retrieveDocumentsAKNN(String question, int k) throws Exception {
+        if (retriever == null) {
+            Properties props = FileUtils.loadProperties("bio-answerfinder.properties");
+            String abstractsDbFile = props.getProperty("pubmed.abstracts.db");
+            retriever = new PubmedDBRetriever(abstractsDbFile);
+            retriever.initialize();
+        }
+        return retriever.retrieve(question, vocabulary, gloveMan, k);
+    }
+
+
+    @SuppressWarnings("Duplicates")
+    List<PubMedDoc> retrieveDocumentsViaKeywordRanking(String query, List<DataRecord> dataRecords, boolean useWeights,
+                                                       boolean ensembleMode) throws Exception {
+        QuestionKeywordSelectionServiceClient client = new QuestionKeywordSelectionServiceClient();
+        StringBuilder questionBuf = new StringBuilder();
+        StringBuilder posTagsBuf = new StringBuilder();
+        EngineUtils.prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
+        List<String> selectedQueryTerms = client.getSelectedQueryTerms(questionBuf.toString().trim(),
+                posTagsBuf.toString().trim());
+        List<String> rankedKeywords = selectedQueryTerms;
+        if (selectedQueryTerms.size() > 0) {
+            QuestionQueryRankingServiceClient keywordRanker = new QuestionQueryRankingServiceClient(this.gloveMan);
+            List<String> terms = Arrays.asList(questionBuf.toString().trim().split("\\s+"));
+            rankedKeywords = keywordRanker.rankKeywords(terms, selectedQueryTerms);
+        }
+
+        RankSearchQueryGenerator sqGen2 = new RankSearchQueryGenerator(dataRecords);
+
+        SearchQuery sq2;
+        if (useWeights) {
+            sq2 = sqGen2.generatePubmedQuery(vocabulary, rankedKeywords);
+        } else {
+            sq2 = sqGen2.generatePubmedQuery(null, rankedKeywords);
+        }
+        RankedESQueryConstructor queryConstructor = new RankedESQueryConstructor(sq2);
+        String keywordQuery = queryConstructor.buildESQuery(BooleanQueryType.AND, useWeights);
+        System.out.println("ES Query:" + keywordQuery);
+        logCollector.log("ES Query:" + keywordQuery);
+        List<PubMedDoc> pubMedDocs = new ArrayList<>();
+        int docCount = ess.retrieveDocumentCount(keywordQuery);
+        if (docCount <= 0) {
+            while (queryConstructor.findAndRemove()) {
+                keywordQuery = queryConstructor.buildESQuery(BooleanQueryType.AND, useWeights);
+                System.out.println("ES Query:" + keywordQuery);
+                logCollector.log("ES Query:" + keywordQuery);
+                docCount = ess.retrieveDocumentCount(keywordQuery);
+                if (docCount > 0) {
+                    break;
+                }
+                if (keywordQuery.trim().length() == 0) {
+                    break;
+                }
             }
         }
+        if (docCount == 0 && !ensembleMode) {
+            if (useWeights) {
+                sq2 = sqGen2.generatePubmedQuery(vocabulary, rankedKeywords);
+            } else {
+                sq2 = sqGen2.generatePubmedQuery(null, rankedKeywords);
+            }
+            queryConstructor = new RankedESQueryConstructor(sq2);
+            String orQuery = queryConstructor.buildESQuery(BooleanQueryType.OR, useWeights);
+            System.out.println("OR Query:" + orQuery);
+            logCollector.log("OR Query:" + orQuery);
+            pubMedDocs = ess.retrieveDocuments(keywordQuery, noDocs2Retrieve);
+            docCount = pubMedDocs.size();
+        } else {
+            if (docCount > 0 && pubMedDocs.size() != docCount) {
+                pubMedDocs = ess.retrieveDocuments(keywordQuery, noDocs2Retrieve);
+            }
+        }
+        collector.setQid("").setQuestion(query).setQuery(keywordQuery).setNumCandidateResults(docCount);
+        return pubMedDocs;
     }
 
     @SuppressWarnings("Duplicates")
-    List<AnswerSentence> rankSentences(List<DataRecord> questionRecords, List<ResultDoc> filtered) throws Exception {
+    List<PubMedDoc> retrieveDocumentsQSCIterative(String query, List<DataRecord> dataRecords, boolean ensembleMode) throws Exception {
+        QuestionKeywordSelectionServiceClient client = new QuestionKeywordSelectionServiceClient();
+        StringBuilder questionBuf = new StringBuilder();
+        StringBuilder posTagsBuf = new StringBuilder();
+        EngineUtils.prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
+        List<String> selectedQueryTerms = client.getSelectedQueryTerms(questionBuf.toString().trim(),
+                posTagsBuf.toString().trim());
+        SimpleSearchQueryGenerator sqGen2 = new SimpleSearchQueryGenerator(dataRecords);
+
+        SearchQuery sq2 = sqGen2.generatePubmedQuery(vocabulary, selectedQueryTerms);
+        SimpleESQueryConstructor queryConstructor = new SimpleESQueryConstructor(sq2, lookupUtils);
+        String keywordQuery = queryConstructor.buildESQuery(BooleanQueryType.AND);
+        System.out.println("ES Query:" + keywordQuery);
+        logCollector.log("ES Query:" + keywordQuery);
+        List<PubMedDoc> pubMedDocs = new ArrayList<>();
+        int docCount = ess.retrieveDocumentCount(keywordQuery);
+        if (docCount <= 0) {
+            while (queryConstructor.findAndRemove()) {
+                keywordQuery = queryConstructor.buildESQuery(BooleanQueryType.AND);
+                System.out.println("ES Query:" + keywordQuery);
+                logCollector.log("ES Query:" + keywordQuery);
+                docCount = ess.retrieveDocumentCount(keywordQuery);
+                if (docCount > 0) {
+                    break;
+                }
+                if (keywordQuery.trim().length() == 0) {
+                    break;
+                }
+            }
+
+        }
+        if (docCount == 0 && !ensembleMode) {
+            sq2 = sqGen2.generatePubmedQuery(vocabulary, selectedQueryTerms);
+            queryConstructor = new SimpleESQueryConstructor(sq2, lookupUtils);
+            String orQuery = queryConstructor.buildESQuery(BooleanQueryType.OR);
+            System.out.println("OR Query:" + orQuery);
+            logCollector.log("OR Query:" + orQuery);
+            pubMedDocs = ess.retrieveDocuments(keywordQuery, noDocs2Retrieve);
+            docCount = pubMedDocs.size();
+        } else {
+            if (docCount > 0 && pubMedDocs.size() != docCount) {
+                pubMedDocs = ess.retrieveDocuments(keywordQuery, noDocs2Retrieve);
+            }
+        }
+        collector.setQid("").setQuestion(query).setQuery(keywordQuery).setNumCandidateResults(docCount);
+        return pubMedDocs;
+    }
+
+    @SuppressWarnings("Duplicates")
+    List<AnswerSentence> rankSentences(List<DataRecord> questionRecords, List<ResultDoc> filtered,
+                                       boolean useReranking) throws Exception {
         List<AnswerSentence> asList = new ArrayList<>();
         String questionContent = prepareQuestion4Glove(questionRecords);
         Map<String, WordVector> questionMap = prepareWordVectorMap(questionContent);
@@ -291,8 +541,11 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
             }
         }
         Collections.sort(asList, (o1, o2) -> Float.compare(o2.getScore(), o1.getScore()));
-        // rerank
-        asList = rerankViaBERT(extractQuestion(questionRecords), asList);
+        asList = unique(asList);
+        if (useReranking) {
+            // rerank
+            asList = rerankViaBERT(extractQuestion(questionRecords), asList);
+        }
         return asList;
     }
 
@@ -389,7 +642,7 @@ public class QAEngineDL extends QAEngineBase implements IQAEngine, Interceptor, 
             return Collections.emptyList();
         }
         String focus = questionFocus.getFocusWord();
-        return lookupUtils.getEntityType(focus);
+        return lookupUtils.getFocusEntityType(focus);
     }
 
     @Override

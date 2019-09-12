@@ -2,9 +2,12 @@ package org.bio_answerfinder.common;
 
 import opennlp.tools.postag.POSModel;
 import opennlp.tools.postag.POSTaggerME;
+import org.atteo.evo.inflector.English;
 import org.bio_answerfinder.common.dependency.DependencyTreeFactory;
+import org.bio_answerfinder.common.dependency.DependencyTreeFactory.TriState;
 import org.bio_answerfinder.util.Assertion;
 import org.bio_answerfinder.util.FileUtils;
+import org.bio_answerfinder.util.SRLUtils;
 import org.bio_answerfinder.util.StringUtils;
 
 import java.io.IOException;
@@ -16,6 +19,30 @@ import java.util.List;
  * Created by bozyurt on 6/12/17.
  */
 public class Utils {
+
+    public static boolean isHypenWord(SpanPOS sp) {
+        int idx = sp.getToken().indexOf('-');
+        return idx > 0;
+    }
+
+
+    public static boolean isCommonNoun(SpanPOS spanPOS) {
+        return SRLUtils.isCommonNoun(spanPOS.getPosTag());
+    }
+
+    public static String getPluralIfAny(SpanPOS spanPOS) {
+        TriState singular = DependencyTreeFactory.isSingularNoun(spanPOS.getToken().toLowerCase());
+        if (singular == TriState.YES) {
+            String pluralNoun = English.plural(spanPOS.getToken());
+            if (!pluralNoun.equals(spanPOS.getToken())) {
+                TriState plural = DependencyTreeFactory.isPluralNoun(pluralNoun.toLowerCase());
+                if (plural == TriState.YES) {
+                    return pluralNoun;
+                }
+            }
+        }
+        return null;
+    }
 
     public static List<SpanPOS> tokenizeWithPOS(String sentence, List<String> posTags) {
         List<Span> spanList = tokenize(sentence);

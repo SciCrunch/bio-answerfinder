@@ -2,6 +2,7 @@ package org.bio_answerfinder.engine;
 
 
 import org.bio_answerfinder.DataRecord;
+import org.bio_answerfinder.engine.query.SearchQueryGenerator;
 import org.bio_answerfinder.services.ElasticSearchService;
 import org.bio_answerfinder.services.PubMedDoc;
 import org.bio_answerfinder.common.*;
@@ -60,7 +61,7 @@ public class QAEngine1 extends QAEngineBase implements IQAEngine, Interceptor, L
     }
 
     @Override
-    public List<AnswerSentence> answerQuestion(String query, int topN) throws Exception {
+    public List<AnswerSentence> answerQuestion(String query, int topN, Map<String, String> options) throws Exception {
         List<AnswerSentence> answerSentences;
         List<DataRecord> dataRecords = questionParser.parseQuestion("user_query", query);
         List<String> qpList = DefinitionQuestionDetector.isDefinitionQuestion(dataRecords);

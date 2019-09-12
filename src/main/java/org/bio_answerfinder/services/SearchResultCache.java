@@ -23,7 +23,7 @@ public class SearchResultCache {
     HTreeMap<String, String> cache;
 
     public SearchResultCache() throws IOException {
-        Properties props = FileUtils.loadProperties("/bio-answerfinder.properties");
+        Properties props = FileUtils.loadProperties("bio-answerfinder.properties");
         String dbFile = props.getProperty("search.result.cache.db");
         Assertion.assertNotNull(dbFile);
         this.db = DBMaker.fileDB(dbFile).closeOnJvmShutdown().make();

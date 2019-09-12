@@ -1,0 +1,1072 @@
+What is the association between GERD and gluten ?
+0) It is important to emphasize the clinical and social importance of gastroenterological diseases in childhood
+1) The nomenclature of digestive diseases in children was supplemented by the new diseases of esophagus gastroesophageal reflux disease GERD Barrett 's esophagus Zenker 's diverticulum of stomach and duodenum gastroduodenitis peptic ulcer disease polyps ectopic pancreas in the stomach wall of the intestine jejunitis ileocolitis Crohn 's disease celiac disease bacterial overgrowth syndrome in the small intestine of biliary tract cholelithiasis gallbladder cholesterosis anomalies of the biliary tract of pancreas acute and chronic pancreatitis annular pancreas 2
+2) PEDIATRIC GASTROENTEROLOGY ORIGINS PROBLEMS AND PROSPECTS OF THE RESEARCH
+3) Reflux symptoms RS are common in patients with celiac disease CD a chronic enteropathy that affects primarily the small intestine
+4) Axiomatic is that the origins of many diseases of the digestive organs in adults lie in childhood
+5) Early manifestation of certain diseases such as peptic ulcer disease gluten enteropathy Crohn 's disease and others significantly impact the quality of life of sick children and their parents
+6) Tight junction TJ mRNA proteins expression for zonula occludens-1 ZO-1 and claudin-2 and claudin-3 CLDN-2 CLDN-3 was determined using qRT-PCR
+7) It is worth to emphasize high costs of medical and prophylactic tertiary prevention activities using the drugs of latest generations
+8) All this causes problems in both applied and scientific pediatric gastroenterology
+9) Altered Esophageal Mucosal Structure in Patients with Celiac Disease
+--------------------
+Are genes symmetrically distributed between leading and lagging DNA strand in bacteria ?
+0) For example , Pol e and Pol delta may function as distinct leading and lagging strand polymerases in eukaryotes , and PolC and DnaE may function as distinct leading and lagging strand polymerases in low GC content Gram-positive bacteria .
+1) A fundamental biological question is what forces shape the guanine plus cytosine ( GC ) content of genomes .
+2) These results suggest that , based on the experimentally determined mutational rates and specificities , a bacterial genome lacking the relevant DNA repair systems could , as a consequence of these underlying mutational biases , very rapidly reduce its GC content .
+3) However , the triplet sequences previously identified as mutagenic in laboratory experiments ( CCG , GCG , and CAC ) do not have an elevated rate of SNP accumulation and are not depleted from the genome .
+4) SSB recruitment of Exonuclease I aborts template-switching in Escherichia coli .
+--------------------
+Is there any link between conserved noncoding elements and alternative splicing in vertebrates ?
+0) In vertebrates conserved noncoding elements CNEs are functionally constrained sequences that can show striking conservation over 400 million years of evolutionary distance and frequently are located megabases away from target developmental genes
+1) We also identified more than 1,000 long ncRNAs and most of those long ncRNAs contain conserved elements across either 46 vertebrates or 33 placental mammals or 10 primates
+2) Several conserved noncoding elements CNEs which are putative cis-regulatory elements and miRNA binding sites were identified in the elephant shark and human Runx gene loci
+3) The intron that splits the 5 noncoding region of the Drosophila MHC gene contains no major conserved elements relative to other Drosophila contractile protein genes
+4) The origins evolution and functional potential of alternative splicing in vertebrates
+5) The putative ATP binding domain encoded in the fourth exon of the Drosophila MHC gene is highly conserved relative to vertebrate invertebrate and non-muscle MHC genes suggesting that each of these myosins bind ATP by the same mechanism
+6) We describe here the cloning and characterization of Runx1 Runx2 Runx3 and Runxb genes in the elephant shark Callorhinchus milii a member of Chondrichthyes the oldest living group of jawed vertebrates
+7) Recently we identified a large number of ultraconserved uc sequences in noncoding regions of human mouse and rat genomes that appear to be essential for vertebrate and amniote ontogeny
+8) Some of the most highly conserved sequences occur in genes encoding RNA binding proteins particularly the RNA splicing-associated SR genes
+9) The most deeply conserved noncoding sequences in plants serve similar functions to those in vertebrates despite large differences in evolutionary rates
+--------------------
+Which molecule is targeted by the drug Gevokizumab ?
+0) Different agents targeting various cytokines and their receptors or cell surface molecules have been studied : the IL-1 receptor has been targeted by anakinra , the IL-1 by canakinumab and gevokizumab , the IL-6 receptor by tocilizumab , the IL12/23 receptor by ustekinumab , and the B-lymphocyte antigen CD-20 by rituximab .
+1) Growing experience with anakinra , canakinumab and gevokizumab is discussed in this review , highlighting the relative efficacy of each drug upon the protean BD clinical manifestations .
+2) Treatment has been revolutionized by the progressed knowledge in the pathogenetic mechanisms of BD , involving dysfunction and oversecretion of multiple proinflammatory molecules , chiefly tumor necrosis factor - ( TNF - ) α , interleukin - ( IL - ) 1β , and IL-6 .
+3) In-depth analysis of BD pathogenetic mechanisms , involving dysfunction of multiple proinflammatory molecules , has opened new modalities of treatment : different agents targeting interleukin-1 have been studied in recent years to manage the most difficult and multi-resistant cases of BD .
+4) Safety and tolerability of interleukin-1 antagonists in different doses have been confirmed by numerous observational studies on both large and small cohorts of patients with BD .
+5) In particular , the potential for Mycobacterium tuberculosis reactivation and tuberculosis development appears to be significantly lower with interleukin-1 blockers compared to tumor necrosis factor-α inhibitors , thus increasing the beneficial profile of this approach .
+6) Effectiveness and tuberculosis-related safety profile of interleukin-1 blocking agents in the management of Behçet 's disease .
+--------------------
+Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation ?
+0) The mTOR pathway controls cell proliferation by regulating the FoxO3a transcription factor via SGK1 kinase
+1) These results suggest that mTORC1 in coordination with mTORC2 controls cell proliferation by regulating FoxO3a gene expression and SGK1-mediated phosphorylation of FoxO3a at Ser314
+2) Here we show that the FoxO3a transcription factor is coordinately regulated by mTORC1 and mTORC2 and plays a crucial role in controlling cell proliferation
+3) The mechanistic target of rapamycin mTOR functions as a component of two large complexes mTORC1 and mTORC2 which play crucial roles in regulating cell growth and homeostasis
+4) Consistently mTORC1 inactivation induced downregulation of serum and glucocorticoid-inducible kinase 1 SGK1 the kinase responsible for Ser314 phosphorylation
+5) Although Akt was activated by mTORC1 inactivation FoxO3a was upregulated via an epigenetic mechanism and hypophosphorylated at Ser314 which resulted in its nuclear accumulation
+6) SGK1 overexpression suppressed CDKI expression in p18-deficient cells whereas SGK1 knockdown induced CDKI expression in wild-type cells resulting in the suppression of cell proliferation
+7) mTORC1 inactivation caused a marked retardation of cell proliferation which was associated with upregulation of cyclin-dependent kinase inhibitors CDKIs
+8) However the molecular mechanisms by which mTOR controls cell proliferation remain elusive
+9) Expression of FoxO3a mutated at Ser314 suppressed cell proliferation by inducing CDKI expression
+--------------------
+List FDA approved treatments for androgenetic allopecia
+0) Currently topical minoxidil and finasteride are the only treatments that have been FDA approved for the treatment of female pattern hair loss and androgenetic alopecia
+1) Topical minoxidil is the only topical drug approved by the US Food and Drug Administration FDA for the treatment of androgenetic alopecia
+2) Finasteride a type 2-selective 5alpha-reductase inhibitor was approved in 1997 as the first oral pharmacologic therapy for the treatment of men with androgenetic alopecia AGA male pattern hair loss
+3) Topical minoxidil is the only US FDA approved OTC drug for the treatment of androgenetic alopecia AGA
+4) Originally approved for the treatment of benign prostatic hypertrophy in 1992 its approval was expanded in 1997 to include the treatment of androgenetic alopecia AGA in men at a dose of 1 mg/day
+5) Finasteride is a steroid 5-alpha-reductase inhibitor approved for the treatment of androgenetic alopecia AGA and benign prostate hyperplasia
+6) 23.8 of products were FDA-approved treatments for androgenetic alopecia
+7) Topical minoxidil Rogaine has recently been approved by the Food and Drug Administration for treatment of androgenetic alopecia
+8) Two percent topical minoxidil is the only US Food and Drug Administration-approved drug for the treatment of female androgenetic alopecia AGA
+9) It was approved by the United States Food and Drug Administration for the treatment of androgenetic alopecia in 1988
+--------------------
+List fluorescent reporter proteins .
+0) Staining of transcription factors ( TFs ) together with retention of fluorescent reporter proteins is hindered by loss of fluorescence using current available methods .
+1) The process for transfection of cells with expression and gene-trap vectors expressing fluorescent reporter proteins is described .
+2) Currently , the use of fluorescent reporter proteins is replacing the use of viability indicator dyes .
+--------------------
+Which protein is affected by dusp8 activation ?
+0) The propensity of S100A8/A9 to bind the cytosolic phox proteins , and the effects of S100A8/A9 on the kinetics of oxidase activation , suggest that S100A8/A9 might be a scaffold protein for the cytosolic phox proteins or might help to deliver arachidonic acid to the oxidase , thus favoring the productive interaction of the cytosolic phox proteins with the membrane-bound flavocytochrome b.
+1) Membrane receptors that activate G proteins can be considered as such , but other cytosolic , membranal or amphitropic proteins can accelerate the rate of G protein exchange or even activate this process in the absence of receptor-mediated activation .
+2) The most rapid are of growth in recent years has been the realization that signaling through both G-protein coupled receptors and adhesion receptors is dependent on tyrosine kinase activation , recruitment of complexes of SH2 , SH3 , and proline-rich signaling molecules to appropriate locations in the cell , and on activation of members of the Ras superfamily of proteins .
+3) Inhibition of methylation of rap1 proteins as well as inhibition of platelet activation by AFC suggests that methylation and consequently translocation of rap1 proteins to plasma membrane may be important for agonist-induced signal transduction in human platelets .
+4) Using an Epstein Barr virus latent membrane protein ( LMP1 ) mutant , the transcriptional effects of which are canonical NFκB-dependent , we identified 155 proteins significantly and substantially important for NFκB activation in HEK293 cells .
+5) Recently developed tools effective in suppressing the expression of β-arrestins will help define whether they are essential for small G protein activation .
+6) To ask whether an RGS protein can also regulate cellular responses mediated by G proteins in the Gq/11 family , we compared activation of mitogen-activated protein kinase ( MAPK ) by a Gq/11-coupled receptor , the bombesin receptor ( BR ) , and a Gi-coupled receptor , the D2 dopamine receptor , transiently co-expressed with or without recombinant RGS4 in COS-7 cells .
+7) How OAS proteins are regulated by viral or cellular RNAs is not fully understood but several recent studies have provided important new insights into the molecular mechanisms of OAS activation by dsRNA .
+8) Any protein conformational process , such as protein fluctuations , invoked to explain the solvent accessibility must be of low activation energy and attenuated by ethanol and other co-solvents ( Woodward , C. K. , Ellis , L. M. , and Rosenberg , A. ( 1974 ) J. Biol .
+9) For the stabilization of proteins against the irreversible denaturation coupled with the unfolded state , a kinetic stabilization is important , that is , the activation free energy for the unfolding should be increased .
+--------------------
+Is the long non- coding RNA malat-1 up or downregulated in cancer ?
+0) Colon cancer-associated transcript 1 CCAT1 a long non-coding RNA lncRNA is upregulated and has a vital role in the pathogenesis of numerous cancers
+1) Long non‑coding RNA RP1‑163G9 .1 is downregulated in gastric adenocarcinoma and is associated with a poor prognosis
+2) In this study we found that long non-coding RNA TP73 antisense RNA 1 TP73-AS1 was upregulated in VM positive TNBC tissues
+3) Recent evidence indicates that long non-coding RNAs play important roles in tumorigenesis and cancer progression.-activated non-protein coding RNA is a novel and potential regulator of cancer cell proliferation and migration
+4) The long non‑coding RNA lncRNA PVT1 plays vital roles in the tumorigenesis and development of various types of cancer
+5) The long coding RNA AFAP1-AS1 promotes tumor cell growth and invasion in pancreatic cancer through upregulating the IGF1R oncogene via sequestration of miR-133a
+6) Here we found a long noncoding RNA termed SchLAH seven chromosome locus associated with HCC also called BC035072 was generally downregulated in HCC
+7) In mechanism we found that SNHG15 acted as a competing endogenous RNA to sponge miR-211-3p which was downregulated in breast cancers and inhibited cell proliferation and migration
+8) Our microarray results first indicated long intergenic non-protein coding RNA 994 LINC00994 as an upregulated long non-coding RNA lncRNA and miR-765-3p as a downregulated microRNA miRNA in pancreatic cancer tissues Fold change 2 and P 0.05 three paired samples
+9) Increasing evidence has indicated that long non‑coding RNAs lncRNAs were aberrantly expressed and acted as key regulators in various types of disease including cancer
+--------------------
+In which cells are gasdermins expressed ?
+0) The identity of cell types that direct positive selection bears directly on mechanistic models of the process , including the idea that thymic epithelial cell MHC molecules uniquely present specialized peptides that mediate positive selection , and the notion that thymic epithelial cells express unique differentiation-inducing cell surface molecules .
+1) These results suggest that the cell surface-expressed GPI-IL-12 can be effective in inducing antitumor immune response , and GPI-anchored cytokines expressed on the tumor cell surface may be a novel approach to deliver cytokines at the immunization site during vaccination against cancer .
+2) In this study , we identify an immunoglobulin gene superfamily member , neural cell adhesion molecule ( NCAM ) , that is expressed on the cell surface of human dermal microvascular endothelial celis but not on umbilical vein , pulmonary vein , aorta , or pulmonary artery derived endothelial cells .
+3) Two peripheral myelin components , galactocerebroside ( GalC ) and myelin-associated glycoprotein ( MAG ) , are known to be expressed early in Schwann cell differentiation , prior to the formation of definitive myelin segments containing compacted membrane .
+4) Freshly isolated BEC , as well as each cell line , expressed cytokeratin-19 ( CK-19 ) , epithelial cell adhesion molecule ( EPCAM ) and cystic fibrosis transmembrane conductance regulator ( CFTR ) .
+5) In an effort to identify novel genes expressed in the external cell epithelium we performed an in situ hybridisation screen and found both collectin sub-family member 12 , a transmembrane C-type lectin , and Seraf , an EGF-like repeat autocrine factor .
+6) Human proteinase inhibitor-9 ( PI-9 ) / serpinB9 is an intracellular ovalbumin-family serpin with nucleocytoplasmic distribution which is expressed in certain normal cell types and cancer cells of different origin .
+7) A population of cells that express mast cell markers , including the membrane protein p161 , but that lack expression of the high affinity IgE receptor , Fc epsilon RI , can be routinely grown from bone marrow .
+8) In a survey of the expression on cultured mouse cells of the cell surface antigen known as nervous system antigen-3 ( NS-3 ) , it was found that RAG , a renal adenocarcinoma line , expressed that antigen .
+9) The Ia marker ( s ) is expressed on the cell membrane of at least one of the two T cell subsets that collaborate in the development of T effector cells to H-2-associated alloantigens , i.e. precursors and helpers .
+--------------------
+Which proteins act as factors that promote transcription-coupled repair in bacteria ?
+0) Our findings indicate that the transcription-repair coupling factor Mfd , which is an ATP-dependent superfamily 2 helicase that binds to RNAP , continues to translocate along DNA after RNAP has been displaced until a lesion in the template strand is located .
+1) Current models for TCR suppose that a lesion must cause RNA polymerase ( RNAP ) to stall if it is to be a substrate for accelerated repair .
+--------------------
+In which diseases have electronic patient diaries been applied ?
+0) The primary objective is to determine whether the use of an electronic diary with a portable spirometer can be performed by COPD patients with a moderate to severe disease .
+1) The recall diary of a severe acute respiratory syndrome ( SARS ) - infected intern working in Hoping Hospital in Taiwan during the 2003 SARS epidemic is presented and used to assist in understanding one patient 's spiritual activities when personally confronted with this newly emerging infectious disease .
+2) As a multi-disciplinary team , we conducted focus group research with individuals living with COPD who were participating in a longitudinal study to use an electronic `` diary '' to monitor , record , and transmit their own health status , plus receiving regular nurse visits .
+3) Methods We applied N = 1 statistical analysis to a 326-migraine-patient database from a study in which patients used paper-based diaries for 90 days to track 33 factors ( potential triggers or premonitory symptoms ) associated with their migraine attacks .
+4) A detailed review of hospital records , physician 's notes , diaries , letters , and autopsy reports offers sufficient clinical grounds to establish that Eugene O'Neill developed adrenal insufficiency , secondary to tuberculosis , in later life -- a fact hitherto unknown -- the condition not becoming manifest until after he had abdominal surgery in 1936 .
+5) From the diary of the shooting of La Belle et la Bête , the author studies the skin disease from which Jean Cocteau had to suffer , and the various treatments which were proposed to him .
+6) In this study , we describe the outcome of 12 PD patients with PD related complications started on LCIG , with respect to their quality of life measured by a disease specific validated scale-the PDQ39 , together with diaries recording time spent `` On , '' `` Off , '' `` Dyskinetic , '' or `` Asleep . ''
+7) They used electronic diaries to record allergy symptoms and medication use during the pollen season .
+8) The present study used electronic diaries to examine how parent responses to their child 's pain predict daily adjustment of children with juvenile idiopathic arthritis ( JIA ) .
+9) The aim of this study was to evaluate the construct validity and feasibility of a multidimensional electronic pain diary ( e-Ouch ( c ) ) in adolescents with juvenile idiopathic arthritis ( JIA ) .
+--------------------
+Is COL5A2 gene associated to ischemic heart disease ?
+--------------------
+Does thyroid hormone receptor beta1 affect insulin secretion ?
+0) Insulin-like growth factor binding protein-3 ( IGFBP-3 ) , the major IGFBP in the circulation , is synthesized by the vascular endothelium in vivo and has been shown to be an important modulator of the physiological effects of IGF .
+1) Included are genes that are implicated in the eel 's somatic growth ( insulin-like growth factor 1 and thyroid hormone receptor beta ) , osmoregulation ( Na + / K + - ATPase beta1 and aquaporin 3 ) , and hematopoiesis ( hemoglobin alpha-chain ) .
+2) To understand whether the transcriptional activity of thyroid hormone nuclear receptors ( TRs ) is modulated by cell-type specific factors , full length TR subtype alpha1 ( TRalpha1 ) and beta1 ( TRbeta1 ) cDNAs were cloned from human hepatoma cell lines : HA22T , SK-Hep-1 and HepG2 .
+3) In order to determine if and which growth factors could modulate the increase in thyroid epithelial cell proliferation in late stages of CTNs and HTNs we investigated epidermal growth factor ( EGF ) , transforming growth factor-alpha ( TGF-alpha ) , and TGF-beta1 concentrations by enzyme-linked immunosorbant assay ( ELISA ) in CTNs ( n = 7 ) , HTNs ( n = 9 ) , and their normal surrounding tissue ( ST ) .
+4) The low EGF , TGF-alpha , and IGF-1 concentrations in HTNs irrespective of their clonal origin or the presence or absence of activating mutations argue for increased cAMP as the primary cause for thyroid epithelial cell proliferation in established HTNs .
+5) Induction of apoptosis in porcine thyroid follicles by transforming growth factor beta1 and epidermal growth factor .
+6) TGF-beta1 prevented resting cells to enter in the cell cycle when stimulated with growing medium ( newborn calf serum plus a mixture of five hormones ) but not when TSH ( thyroid stimulating hormone ) plus IGF-1 ( Insulin-like growth factor I ) were used as mitogens .
+7) Thyroid hormone receptor beta1 acts as a potent suppressor of tumor invasiveness and metastasis .
+8) The CPs appear to be source of CSF-borne hormones and growth factors , including insulin-like growth factor II ( IGF II ) , vasopressin ( VP ) and transforming growth factor beta1 ( TGF-beta1 ) .
+9) As EGF enhances TGF-beta1 mRNA and protein in thyroid follicular cells , the induction of apoptosis by EGF might also be due to TGF-beta1 .
+--------------------
+What are the mobile applications fields of use for patients ?
+0) The increasing availability of mobile devices and corresponding applications both for providers and patients often leads to speculation that mHealth as the combination of mobile devices and health services is often called would revolutionize the use of information technology IT in healthcare
+1) Introduction Mobile applications are now increasingly used by trainee and practising physicians due to the wide range of applications available in the field of healthcare and their ease of use
+2) New generation cellular phones or personal digital assistants have overcome limitations of image quality seen in older devices and with dermatology being a visual profession mobile teledermatology is perhaps the most recent development in this field
+3) The mental health field has seen a trend in recent years of the increased use of information technology including mobile phones tablets and laptop computers to facilitate clinical treatment delivery to individual patients and for record keeping
+4) Developing a mobile application to better inform patients and enable effective consultation in implant dentistry
+5) Another 21st century key technology area is mobile applications Vital Art and Science and connected devices SmartPill Pop Test Devices which are increasingly finding their way into the drug delivery field to enable for example closed loop monitoring of drug dosing in trials and of patients with their care providers
+6) One such technology is mobile heath applications mhealth apps which have exploded in number and variety in recent years and offer great promise in the ability to collect and monitor patient health data
+7) Short messaging service SMS a.k.a. text messaging is a fast low cost and popular mode of communication among young people and these advantages can be used in a variety of ways in the field of sexual health
+8) Use of mobile applications by interns at Ibn-Rochd University Hospital in Casablanca Morocco
+9) The purpose of this study is to develop a mobile application with an effective user interface design to support the dentist-patient interaction by providing the patient with illustrative descriptions of the procedures and the end result
+--------------------
+What types of DNA mutations are induced by 2-hydroxy-dATP ( 2-OH-dATP ) ?
+0) The mutation induced by 2-OH-dATP but not that induced by 8-OH-dGTP occurred less frequently in the dinB strain than in the wild-type wt strain suggesting the involvement of pol IV in the mutagenesis by 2-OH-dATP
+1) Results indicate that DNA polymerase eta incorporates 2-hydroxy-dATP opposite template G in addition to template T and 8-hydroxy-dGTP opposite A in addition to C respectively
+2) To elucidate the behavior of DNA polymerase eta against the oxidized purine nucleotides we determined the utilization efficiency of 2-hydroxy-dATP and 8-hydroxy-dGTP by the recombinant yeast DNA polymerase eta using the primer extension assay with the synthetic oligonucleotide template-primers and compared those by DNA polymerase alpha
+3) To reveal the roles of Y family DNA polymerases in the mutagenesis induced by oxidatively damaged DNA precursors 2-hydroxy-dATP 2-OH-dATP and 8-hydroxy-dGTP 8-OH-dGTP were introduced into Escherichia coli strains deficient in the Y family polymerases DNA polymerase IV pol IV encoded by the dinB gene and DNA polymerase V pol V encoded by the umuDC locus
+4) These results indicate that the misinsertion specificity of 2-OH-dATP differs between replicative and repair-type DNA polymerases and provide a biochemical basis for the mutations induced by 2-OH-dATP in E. coli
+5) These results indicate that 2-OH-dATP is mutagenic and that its mutagenicity is suppressed by the MTH1 protein in mammalian cells
+6) These results suggest that the E. coli pol IV was involved in mutagenesis by 2-OH-dATP and that the umuDC gene products play suppressive role s in the mutagenesis by damaged nucleotides
+7) This result agrees with our previous observation that mammalian DNA polymerase alpha misincorporates the oxidized nucleotide opposite C but is in contrast to the finding that 2-OH-dATP elicits G.C T.A transversions in Escherichia coli
+8) Mutagenic effects of 2-hydroxy-dATP on replication in a HeLa extract induction of substitution and deletion mutations
+9) Interestingly the mutagenicity of 2-OH-dATP was enhanced in the presence of 2-hydroxydeoxyadenosine 5 diphosphate an inhibitor of the MTH1 protein suggesting that this protein functions in the hydrolysis of 2-OH-dATP in the replication reaction mixture and probably in living cells
+--------------------
+Can botulism poisoning of a pregnant woman harm her fetus ?
+0) We describe a case of foodborne botulism in an 8-month old infant caused by ingestion of an improperly prepared home-canned homogenized turkey meal representing the youngest fatal case reported in medical literature
+1) We review what is known about the maternal and fetal effects of seven biological threats Bacillus anthracis anthrax variola virus smallpox Clostridium botulinum toxin botulism Burkholderia mallei glanders and Burkholderia pseudomallei melioidosis Yersinia pestis plague Francisella tularensis tularemia and Rickettsia prowazekii typhus
+2) The only product approved by the FDA for the treatment of photodamage fine wrinkles mottled hyperpigmentation and skin roughness topical tretinoin emollient cream may help prevent additional photoaging when it is used to treat existing photoaging
+3) Our recent findings suggest that treatment with the adsorptive column TR350 can be a feasible option for botulism which is a rare but potentially lethal disease
+4) Recently we have successfully treated a 64 year old woman with the illness with IMMUSORBA TR350 Asahi Medical Tokyo Japan an extracorporeal adsorptive column containing polyvinylalcohol-tryptophan as an adsorptive agent which has been widely used in Japan to treat myasthenia gravis and Guillain-Barre syndrome
+5) Historical and laboratory evidence indicated that the substance was pyridostigmine bromide a low-molecular-weight drug with which the patient had been treated after her disease was misdiagnosed as myasthenia gravis
+6) A 45-year-old woman was diagnosed as having the unclassified form of botulism
+7) We encountered a 12-year-old girl who had contracted food-borne botulism and subsequently suffered from obstinate constipation for more than half a year
+8) Botulism is a paralytic disease caused by a toxin produced by the bacterium Clostridium botulinum
+9) It is a chronic condition that can cause complications including telangiectasia conjunctivitis and blepharitis
+--------------------
+Has silicon been used in treatment of incontinence ?
+0) Therefore we developed a radiological technique of imaging the anorectal fistulous track , `` drain fistulography '' .
+--------------------
+List human proteins that are subject to a dimer-to-tetramer transition .
+0) Given its central role in serine metabolism , serine hydroxymethyltransferase ( SHMT ) , a pyridoxal 5 ' - phosphate ( PLP ) - dependent enzyme , is an attractive target for tumour chemotherapy .
+1) The fact that eukaryotic SHMTs are tetrameric proteins while bacterial SHMTs function as dimers may suggest that the quaternary assembly in eukaryotes provides an advantage to fine-tune SHMT function and differentially regulate intertwined metabolic fluxes , and may provide a tool to address the specificity problem .
+2) In humans , the cytosolic isoform ( SHMT1 ) and the mitochondrial isoform ( SHMT2 ) have distinct cellular roles , but high sequence identity and comparable catalytic properties , which may complicate development of successful therapeutic strategies .
+3) We determined the crystal structure of SHMT2 , and compared it to the apo-enzyme structure , showing that PLP binding triggers a disorder-to-order transition accompanied by a large rigid-body movement of the two cofactor-binding domains .
+4) Moreover , we demonstrated that SHMT1 exists in solution as a tetramer , both in the absence and presence of PLP , while SHMT2 undergoes a dimer-to-tetramer transition upon PLP binding .
+5) How pyridoxal 5 ' - phosphate differentially regulates human cytosolic and mitochondrial serine hydroxymethyltransferase oligomeric state .
+6) These findings indicate an unexpected structural difference between the two human SHMT isoforms , which opens new perspectives for understanding their differing behaviours , roles or regulation mechanisms in response to PLP availability in vivo .
+7) Here , we investigated how binding of the cofactor PLP controls the oligomeric state of the human isoforms .
+--------------------
+What is the incidence of Edwards syndrom in the european population ?
+0) The awaited results of the randomised PARTNER II trial with the Edwards XT valve and of the SURTAVI trial with the Medtronic CoreValve will bring an evidence-based comparison of TAVI versus SAVR in this patient population
+1) The mission of Cardiology in the Young is to be a premier global journal for paediatric and congenital cardiac care an essential journal that spans the domains of patient care research education and advocacy and also spans geographical temporal and subspeciality boundaries
+2) Aedes koreicus Edwards is an invasive mosquito species like Aedes albopictus Skuse and Aedes japonicus japonicus Theobald that has already colonized a large part of northeastern Italy and other European countries
+3) The 2013 Grete Lundbeck European Brain Research Prize was awarded to Ernst Bamberg Edward Boyden Karl Deisseroth Peter Hegemann Gero Miesenböck and Georg Nagel for their invention and refinement of optogenetics
+4) The hydrostatic function of the lungs has been repeatedly rediscovered by Emery 1869 in the frog by Marcacci 1895 in frogs toads and salamanders by Whipple 1906b in a newt by Willem 1920 1931 in frogs and Xenopus laevis by Speer 1942 in several anurans and urodeles and finally by de Jongh 1972 in Xenopus laevis
+5) This foundation would serve as a cornerstone for surgeons trained by Harvey Cushing including Howard Naffziger Carl Rand and Edward Towne who would arrive in California early in the 20th century and would define the specialty of neurosurgery
+6) Space Shuttle Endeavour with an international crew of seven lifted off from Kennedy Space Center in Florida on 19 April for an 11-day mission which included the delivery of the European-developed Raffaello logistics module to the Station and the attachment of the Station 's new 17-metre Canadian Robotic Arm
+7) The authors present a case of the nineteenth-century vivisection controversy brought about by the publication of the Handbook for the Physiological Laboratory in 1873 in which John Burdon-Sanderson Emanuel Edward Klein Michael Foster and Thomas Lauder Brunton described a series of vivisection experiments they performed on animals for research purposes
+8) Terms which are no longer in use include idiosyncrasy this will now become hypersensitivity pseudo-allergy non-allergic hypersensitivity extrinsic intrinsic endogenous and exogenous asthma allergic possibly IgE-mediated and non-allergic asthma atopic eczema atopic eczema/dermatitis syndrome allergic possibly EgE-mediated or non-allergic intrinsic and cryptogenic variants of eczema non-allergic atopic eczema/dermatitis syndrom food intolerance non-allergic food hypersensitivity and anaphylactoid reaction non-allergic anaphylaxis
+9) The end of the present millennium marks the centennial of Harvey Cushing 's European study year after the completion of his surgical residency under William Stewart Halsted at the Johns Hopkins Hospital and just before beginning his surgical practice in Baltimore Maryland
+--------------------
+Which genes are regulated by MEF-2 in the heart ?
+0) Recently , various transcription factors ( TF ) , among them GATA-4 , Nkx-2 .5 / Csx , MEF-2 and the HAND family ( eHAND and dHAND ) , and their role in embryonic cardiac development have been described .
+1) We started by characterizing the scHUCBs before grafting and we found that they express precardiogenic genes including Nkx2 .5 , GATA4 , MEF-2 , and SERCA2a together with undifferentiation markers as CD34 or c-kit .
+2) To study the transcriptional regulation of the rat cardiac troponin T ( cTnT ) gene , chimeric genes composed of the upstream region ( -757 to +193 base pairs ( bp ) relative to the transcription initiation site ) of the cTnT gene and the bacterial chloramphenicol acetyltransferase ( CAT ) gene were constructed and transfected into primary cultures of neonatal cardiomyocytes and cardiac fibroblasts .
+3) Among the predicted factors are known regulators such as CLOCKratioBMAL1 , DBP , HLF , E4BP4 , CREB , RORalpha and the recently described regulators HSF1 , STAT3 , SP1 and HNF-4alpha .
+4) Only unloaded ( NR ) exercise induced an increase in heart mass , whereas only loaded ( LR and HR ) exercise training induced an increase in skeletal ( soleus ) muscle mass .
+5) We report here the isolation , mapping , and genomic organization of the human NDUFA1 gene , which is a component of NADH : ubiquinone oxidoreductase ( complex I ) .
+6) Moreover , GC-rich motifs ( SP1 , EGR , ZF5 , AP-2 , WT1 , NRF-1 ) and AT-rich motifs ( MEF-2 , HMGIY , HNF-1 , OCT-1 ) are significantly overrepresented in promoter regions of CCGs .
+7) Putative tissue-specific binding sites such as HNF-3 for liver , NKX2 .5 for heart or Myogenin for skeletal muscle were found .
+8) Divergent TEF ( DTEF ) -1 is a unique member of the TEF-1 multigene family with abundant transcripts in the heart but not in skeletal muscle .
+9) The 5 ' region of the NDUFA1 gene ( approximately 450-bp fragment ) lacks conventional TATA and CAAT boxes , but it contains several potential binding sites for transcription factors including SP-1 , AP-2 , NF1 , NRF2-like , APRRE , CRE , MyoD1 , CArG , MEF-2 , and BRE .
+--------------------
+List clinical trials for prevention of sarcopenia
+0) Sarcopenia is a good example for which geriatricians neurologists physiologists nutritionists and epidemiologists need to find a consensual definition and diagnostic tool as well as guidelines for the management of clinical trials and possible treatments
+1) Although a clinical trial of anti-myostatin antibody MYO-029 failed to achieve a significant outcome in patients with muscular dystrophies various distinct approaches have been taken to establish anti-myostatin therapy including myostatin decoy receptor ACE-031 small-molecule inhibitors against the myostatin receptor and myostatin short intertering RNA with collagen-derived carrier particles
+2) This review summarizes the epidemiological and clinical trial evidence establishing the current definitions for sarcopenia and provides an overview of the state of the evidence for protein supplementation to prevent and/or mitigate sarcopenia
+3) Carla Task Force on Sarcopenia propositions for clinical trials
+4) Protein supplements vary widely in their composition and small trials of heterogeneous study designs have made it difficult to extrapolate findings to develop data-driven evidence-based recommendations for protein supplementation in sarcopenia prevention
+5) Future research should consider long-term clinical trials of with adequate sample size advanced imaging technology and omics approaches to investigate underlying mechanisms and assess clinically meaningful parameters such as muscle strength physical performance and muscle mass in sarcopenia prevention and/or treatment
+6) Integrated therapies for osteoporosis and sarcopenia from signaling pathways to clinical trials
+7) For this reason the Sarcopenia and Physical fRailty IN older people multi-componenT Treatment strategies SPRINTT project is conducting a randomized controlled trial RCT to test a multicomponent intervention MCI specifically designed to prevent mobility disability in high-risk older persons
+8) Further development of novel sarcopenia therapies is hindered not only due to the difficulty in identifying participants for clinical trials and but also because there are no validated clinically appropriate endpoints for assessment of treatment efficacy
+9) Sarcopenia and osteoporosis are two sides of the same coin
+--------------------
+Are there interactomes available for POU5F1 and SOX2 ?
+0) Binding sites for multiple DNA binding proteins , including ATF3 , CTCF , GABPA , JUND , NANOG , RAD21 and YY1 , are enriched in both interactomes .
+1) The RARG locus , frequently interacting with the POU5F1 locus , has abundant RAD21 binding sites co-localized with other protein binding sites .
+2) The interactomes are associated with active histone marks and enriched with 5-hydroxymethylcytosine sites .
+--------------------
+Give an overview of visualizing genomes with oligopaint FISH probes .
+0) Visualizing genomes with Oligopaint FISH probes
+1) Versatile design and synthesis platform for visualizing genomes with Oligopaint FISH probes
+2) Oligopaint probes are fluorescently labeled single-stranded DNA oligonucleotides that can be used to visualize genomic regions ranging in size from tens of kilobases to many megabases
+3) Due to its speed and ease of use fluorescence in situ hybridization FISH with whole chromosome painting WCP probes has become a method of choice to visualize SCAs
+4) Here we describe an oligonucleotide and PCR-based strategy for fluorescence in situ hybridization FISH and a bioinformatic platform that enables this technology to be extended to any organism whose genome has been sequenced
+5) The recent introduction of two genome-wide screening techniques in tumor research i.e. Spectral Karyotyping SKY and multicolor FISH mFISH now allows the detection of translocations involving any two non-homologous chromosomes
+6) By using fluorescently labeled peptide nucleic acid PNA and digoxigenin-dUTP-labeled probe we were able to visualize two different repetitive sequences telomere repeats and template of ALT TALT in C. elegans embryos and gonads
+7) To address this concern we established a robust high-resolution fluorescence in situ hybridization FISH method that utilizes probes derived from high complexity libraries of long oligonucleotides 150 mers synthesized in massively parallel reactions
+8) As the product of interspecific hybridization between its two ancestral octoploid 2n 8x 56 species Fragaria chiloensis and F. virginiana the cultivated strawberry F. ananassa is among the most genomically complex of crop plants harboring subgenomic components derived from as many as four different diploid ancestors
+9) Observation and Quantification of Telomere and Repetitive Sequences Using Fluorescence In Situ Hybridization FISH with PNA Probes in Caenorhabditis elegans
+--------------------
+Which gene has been implicated in Majeed Syndrome ?
+0) Although most cases of CRMO are sporadic , there is an autosomal recessive syndromic form of the disease , called Majeed syndrome , which is due to homozygous mutations in LPIN2 .
+1) Two inborn errors of glycerol metabolism are known : glycerol kinase ( GK , causing pseudohypertriglyceridemia ) and glycerol-3-phosphate dehydrogenase ( GPD1 , childhood hepatic steatosis ) .
+2) Mutations in PSTPIP1 have been shown to cause the autoinflammatory disorder PAPA syndrome ( pyogenic arthritis , pyoderma gangrenosum and acne ) .
+3) A novel mutation of interleukin-1 receptor antagonist ( IL1RN ) in a DIRA patient from Turkey : Diagnosis and treatment .
+4) We discuss known inborn errors of CTGM , including deficiencies of : AGPAT2 ( a form of generalized lipodystrophy ) , LPIN1 ( childhood rhabdomyolysis ) , LPIN2 ( an inflammatory condition , Majeed syndrome , described elsewhere in this issue ) , DGAT1 ( protein loosing enteropathy ) , perilipin 1 ( partial lipodystrophy ) , CGI-58 ( gene ABHD5 , neutral lipid storage disease ( NLSD ) with ichthyosis and `` Jordan 's anomaly '' of vacuolated polymorphonuclear leukocytes ) , adipose triglyceride lipase ( ATGL , gene PNPLA2 , NLSD with myopathy , cardiomyopathy and Jordan 's anomaly ) , hormone-sensitive lipase ( HSL , gene LIPE , hypertriglyceridemia , and insulin resistance ) .
+5) We sequenced FBLIM1 in 96 CRMO subjects and found a second proband with a novel frameshift mutation in exon 6 and a rare regulatory variant .
+6) Our data implicate FBLIM1 in the pathogenesis of sterile bone inflammation and our findings suggest CRMO is a disorder of chronic inflammation and imbalanced bone remodeling .
+7) Triglyceride ( TG ) synthesis , storage , and degradation together constitute cytoplasmic TG metabolism ( CTGM ) .
+8) Via whole-exome sequencing , we detected a homozygous mutation in the filamin-binding domain of FBLIM1 in an affected child with consanguineous parents .
+9) Recessive coding and regulatory mutations in FBLIM1 underlie the pathogenesis of chronic recurrent multifocal osteomyelitis ( CRMO ) .
+--------------------
+What histone trimethylation has been associated to RNA splicing ?
+0) Taken together our study identifies an H3.3K36me3-specific reader and a regulator of IR and reveals that BS69 connects histone H3 .3 K36me3 to regulated RNA splicing providing significant important insights into chromatin regulation of pre-mRNA processing
+1) Histone H3 lysine 4 trimethylation H3K4me3 is often stated as a mark of transcriptionally active promoters
+2) SETD2 loss of methyltransferase activity leads to regional alterations of H3K36me3 associated with aberrant RNA splicing in a SETD2 mutant RCC and SETD2 knockout cell line
+3) Here we find that elevated levels of trimethylation of histone H3 on Lys9 H3K9me3 are a characteristic of the alternative exons of several genes including CD44
+4) These results suggest that small RNAs targeting TSS can induce TGS of heparanase via interference with transcription initiation and significantly suppress the tumor growth invasion metastasis and angiogenesis of cancer cells
+5) The H3K4me3 mark is recognized by several proteins readers including lysine acetyltransferase complexes chromatin remodelers and RNA bound proteins involved in pre-mRNA splicing
+6) On this gene the chromodomain protein HP1γ frequently defined as a transcriptional repressor facilitates inclusion of the alternative exons via a mechanism involving decreased RNA polymerase II elongation rate
+7) However recent evidence from a number of studies have shown that CDK9 plays an important role in regulating not only RNAPII activity but also co-transcriptional histone modification and mRNA processing events such as splicing and 3 end processing
+8) We further identify BS69 association with RNA splicing regulators including the U5 snRNP components of the spliceosome such as EFTUD2
+9) Mutations in SETD2 a histone H3 lysine trimethyltransferase have been identified in clear cell renal cell carcinoma ccRCC however it is unclear if loss of SETD2 function alters the genomic distribution of histone 3 lysine 36 trimethylation H3K36me3 in ccRCC
+--------------------
+Which is the main regulatory molecule of SERCA2A function in the cardiac muscle ?
+0) The phosphorylation of the cardiac muscle isoform of the sarcoplasmic reticulum SR Ca 2 ATPase SERCA2a on serine 38 has been described as a regulatory event capable of very significant enhancement of enzyme activity Hawkins C. Xu A. and Narayanan N. 1994 J. Biol
+1) SERCA2a is the primary isoform expressed in cardiac tissue whereas SERCA1a is the predominant isoform expressed in fast-twitch skeletal muscle
+2) Calcium Ca 2 ions are the currency of heart muscle activity
+3) In cardiac muscle the release of calcium ions from the sarcoplasmic reticulum through ryanodine receptor ion channels RyR2s leads to muscle contraction
+4) The present study shows that a CaM kinase regulatory system capable of modulating SR Ca2 pump activity through direct phosphorylation of the Ca 2 ATPase is functional in slow twitch but not fast twitch skeletal muscle
+5) These regulatory proteins can dramatically affect RyR2 function e.g. over-expression of the accessory protein FK 506-binding protein 12.6 FKBP12 .6 has recently been shown to reduce SR Ca 2 leak
+6) Chronic excitation at 2 Hz for 6-7 weeks of the predominantly fast-twitch canine latissimus dorsi muscle promoted the expression of phospholamban a protein found in sarcoplasmic reticulum SR from slow-twitch and cardiac muscle but not in fast-twitch muscle
+7) In the failing human heart changes in activity and expression profile of Ca 2 handling proteins in particular the SR Ca 2 ATPase SERCA2a are thought to cause an overall reduction in the amount of SR-Ca 2 available for contraction
+8) Antibodies against Ca 2 ATPase SERCA2a and phospholamban were used to assess the relative amounts of the slow-twitch/cardiac isoform of the Ca 2 ATPase and phospholamban which were found to be virtually the same in SR vesicles from the slow-twitch muscle vastus intermedius cardiac muscle and the chronically stimulated fast-twitch muscle latissimus dorsi
+9) To test the cellular function of CaMKII in cardiac hypertrophy mutant mice were crossed with mice expressing the CaMKII inhibitory AC3-I peptide or the control AC3-C peptide in the myocardium
+--------------------
+Are thyroid hormone receptors implicated in arterial hypertension ?
+0) Insulin resistance is defined as a glucose homeostasis disorder involving a decreased sensitivity of muscles , adipose tissue , liver and other body tissues to insulin , despite its normal or increased concentration in blood .
+1) Replacement estrogen therapy protects the bone by reducing bone resorption and activating osteoblasts , as well as by promoting absorption of calcium and production of calcitonin .
+2) Emphasis has recently been put on the role of concomitant progestagen therapy which may promote the formation of bone , probably by competing for glucocorticoid receptors in bone .
+3) Thyroid hormone is highly permissive in angioproliferative pulmonary hypertension in rats .
+4) Experimental data say on the important role of endothelin ETA-receptor in the formation of cold hypertrophy of heart and cardiofibrosis .
+5) Thyroid hormones play substantial role in the development of cold hypertension and cardiac hypertrophy .
+6) Whether and how gender , obesity and the metabolic syndrome modify PAH and associated right heart failure is under intense investigation .
+7) Thyroid hormones have a significant effect on glucose metabolism and the development of insulin resistance .
+8) Estrogens may enhance the process of pulmonary angioproliferation , but may also protect the right ventricle under pressure .
+9) Signaling via the integrin αvβ3 and FGF receptors may participate in the formation of the lung vascular lesions in this model of PAH .
+--------------------
+What type of cancers and inherited diseases have been associated to mutations in the Notch pathway ?
+0) Inherited or sporadic mutations in components of the Notch signaling pathway are associated with spondylocostal dysostosis , spondylothoracic dysostosis and recessive brachydactyly , diseases characterized by skeletal patterning defects .
+1) NOTCH is activated in selected tumors , such as osteosarcoma , and in breast cancer cells that form osteolytic bone metastases .
+2) Additionally , CPGs showed a higher mutation rate in both inherited diseases and cancer , and were enriched in drug targets .
+3) Individuals affected by HCS exhibit osteolysis in distal phalanges and osteoporosis .
+--------------------
+Against which organisms has reverse vaccinology been used ?
+0) In 2005 , a novel Deltaproteobacterium was discovered as the etiologic agent of EBA ( aoEBA ) , recently namedThis organism can not be grown in culture using traditional microbiological techniques ; it can only be grown in experimentally-infected severe combined immunodeficient ( SCID ) mice .
+1) Epizootic bovine abortion ( EBA ) , or `` foothill abortion , '' is the leading cause of beef cattle abortion in California and has also been reported in Nevada and Oregon .
+2) Ticks are ectoparasites of wild and domestic animals and humans , and are considered to be the most important arthropod vector of pathogens in North America .
+3) Histophilosis of cattle is caused by the Gram negative bacterial pathogen Histophilus somni ( H. somni ) which is also associated with the bovine respiratory disease ( BRD ) complex .
+4) Leishmaniasis is a group of diseases with a spectrum of clinical manifestations ranging from cutaneous ulcers to visceral leishmaniasis , which results from the bite of an infected sandfly to human .
+5) Cancer Immunoinformatics : A Promising Era in the Development of Peptide Vaccines for Human Papillomavirus induced Cervical cancer .
+6) Vaccination is a promising strategy to protect human population .
+7) Herein , we describe the screening of Ixodes scapularis cDNAs for identification of tick protective antigens using RNA interference ( RNAi ) .
+8) Human papillomavirus ( HPV ) has been taken as model microbial strain for peptide vaccine design and discussed their sensitization against HPV induced cervical cancer significantly .
+9) Vaccination remains the most effective measure to lessen this burden on the human population .
+--------------------
+Which mitochondrial genes are regulated by thyroid hormone ?
+0) Thyroid hormone receptor β1 ( THRB1 ) and estrogen-related receptor α ( ESRRA ; also known as ERRα ) both play important roles in mitochondrial activity .
+1) The discovery of mitochondrial uncoupling protein 3 ( UCP3 ) , its homology to UCP1 , and regulation by T ( 3 ) rendered it a possible molecular determinant of the action of T ( 3 ) on energy metabolism , but data are controversial .
+2) Adrenergic regulation of the mitochondrial uncoupling protein gene in brown fat tumor cells .
+3) Feeding previously fasted animals high-carbohydrate , low-fat diets causes a dramatic induction of enzymes-such as fatty acid synthase ( FAS ) and mitochondrial glycerol-3-phosphate acyltransferase ( GPAT ) - involved in fatty acid and triacylglycerol synthesis .
+4) An important candidate gene responsible for thyroid hormone induced thermogenesis was identified in 1997 with the discovery of skeletal muscle-uncoupling protein 3 ( UCP3 ) , a protein with approximately 60 % homology to the brown adipose tissue uncoupling protein 1 ( UCP1 ) .
+5) We targeted three unlinked genetic loci : the mitochondrial control region , a gene associated with yellow skin color ( β-carotene dioxygenase 2 ) , and a putative domestication gene thought to be linked to photoperiod and reproduction ( thyroid-stimulating hormone receptor , TSHR ) .
+6) Such regulation suggests a link between UCP3 gene expression and the effects of thyroid hormone on mitochondrial function in skeletal muscle .
+7) Amphipathic carboxylates , of varying hydrophobic backbones , which act as peroxisomal proliferators ( aryloxyalkanoic acids , methyl-substituted dicarboxylic acid ) induce in euthyroid or thyroidectomized rats , as well as in rat hepatocytes cultured in 3,5,3 ' - tri-iodo-L-thyronine ( T3 ) - free media , liver enzyme activities that are classically considered to be thyroid-hormone-dependent ( malic enzyme , mitochondrial alpha-glycerophosphate dehydrogenase , glucose-6-phosphate dehydrogenase and S14 ) .
+8) The recent discovery of uncoupling proteins ( UCPs ) ( in addition to UCP1 in brown adipose tissue ) in almost all tissues in animals , including humans , has opened new perspectives on the understanding of the mechanisms involved in the regulation of energy metabolism by thyroid hormones .
+9) Hamster 's food intake , basal metabolic rate ( BMR ) , non-shivering thermogenesis ( NST ) , thyroid hormones , body fat content , mitochondrial state-4 respiration , cytochrome c oxidase , and uncoupling protein 1 ( UCP1 ) gene expression in brown adipose tissue ( BAT ) , were measured .
+--------------------
+Is Alpers disease inherited in an autosomal recessive mode ?
+0) The six leading disorders caused by POLG mutations are Alpers-Huttenlocher syndrome which is one of the most severe phenotypes childhood myocerebrohepatopathy spectrum which presents within the first 3 years of life myoclonic epilepsy myopathy sensory ataxia ataxia neuropathy spectrum autosomal recessive progressive external ophthalmoplegia and autosomal dominant progressive external ophthalmoplegia
+1) Twinkle is a mitochondrial replicative helicase the mutations of which have been associated with autosomal dominant progressive external ophthalmoplegia adPEO and recessively inherited infantile onset spinocerebellar ataxia IOSCA
+2) Twenty-one had Alpers syndrome the commonest severe POLG1 autosomal recessive phenotype comprising hepatoencephalopathy and often mtDNA depletion
+3) Mutations in POLG can cause early childhood mitochondrial DNA mtDNA depletion syndromes or later-onset syndromes arising from mtDNA deletions
+4) Recently mutations in FARS2 which encodes for mitochondrial phenylalanyl-tRNA synthetase have been implicated in autosomal recessive combined oxidative phosphorylation deficiency 14
+5) We show here that recessive mutations of the close functional partner of the polymerase the Twinkle helicase can also manifest as early encephalopathy with liver involvement a phenotype reminiscent of Alpers syndrome and are a new genetic cause underlying tissue-specific mtDNA depletion
+6) Mutations in the POLG gene have emerged as one of the most common causes of inherited mitochondrial disease in children and adults
+7) In conclusion sequence analysis allows the identification of mutations responsible for POLG-related disorders and in most of the autosomal recessive cases where two mutant alleles are found in trans finding deleterious mutations can provide an unequivocal diagnosis of the disease
+8) They are responsible for a heterogeneous group of at least 6 major phenotypes of neurodegenerative disease that include 1 childhood Myocerebrohepatopathy Spectrum disorders MCHS 2 Alpers syndrome 3 Ataxia Neuropathy Spectrum ANS disorders 4 Myoclonus Epilepsy Myopathy Sensory Ataxia MEMSA 5 autosomal recessive Progressive External Ophthalmoplegia arPEO and 6 autosomal dominant Progressive External Ophthalmoplegia adPEO
+9) We report here a new phenotype in two siblings with compound heterozygous Twinkle mutations A318T and Y508C characterized by severe early onset encephalopathy and signs of liver involvement
+--------------------
+Which packages are used for performing overlap analysis of genomic regions in R / bioconductor ?
+0) Both methods are implemented in the R package ddgraph available as part of Bioconductor http://bioconductor.org/packages/2.11/bioc/html/ddgraph.html
+1) Here we develop a novel computational method the Neighbourhood Consistent PC NCPC algorithms which deal with these scenarios much more effectively than existing methods do
+2) Clustered occurrence of multiple TFs at genomic sites may arise from chromatin accessibility and local cooperation between TFs or binding sites may simply appear clustered if the profiles are generated from diverse cell populations
+3) Inferring the combinatorial regulatory code of transcription factors TFs from genome-wide TF binding profiles is challenging
+4) It is thus of great interest to distinguish TFs that directly regulate gene expression from those that are indirectly associated with gene expression
+5) Graphical models in particular Bayesian networks provide a powerful mathematical framework to infer different types of dependencies
+6) Applied to real data our method identified TFs that specify different classes of cis-regulatory modules CRMs in Drosophila mesoderm differentiation
+7) A major reason is that TF binding profiles significantly overlap and are therefore highly correlated
+8) Our analysis also found depletion of the early transcription factor Twist binding at the CRMs regulating expression in visceral and somatic muscle cells at later stages which suggests a CRM-specific repression mechanism that so far has not been characterised for this class of mesodermal CRMs
+9) Overlaps in TF binding profiles may also result from measurements taken at closely related time intervals
+--------------------
+What are the reported adverse effects of topical minoxidil ?
+0) Topical minoxidil is the only US FDA approved drug for the treatment of female pattern hair loss ( FPHL ) .
+1) Topical minoxidil is a trichogenic agent that stimulates the hair follicle via the vasoactive metabolite minoxidil sulfate without any evidence of antiandrogen activity or an effect on the immune system .
+2) Nine healthy men with type IVa or Va male pattern baldness completed a 4-month single-blinded controlled pilot study designed to assess the effect of ultraviolet light ( UVL ) on topical minoxidil-induced hair growth .
+3) Topical 2,4-diamino-6-piperidinopyrimidine-3-oxide ( minoxidil ) solution has been widely used for the treatment of androgenetic alopecia for over 15 years now and the substance is currently approved for this indication in 2 % and 5 % formulation .
+4) The effect on hair growth was assessed as improved or better by 36.5 % ( 50/137 ) of the patients themselves in the 1 % topical minoxidil group compared to 23.5 % ( 32/136 ) in the placebo group ( p = 0.019 versus placebo ) .
+5) Side effects associated with oral finasteride ( FT ) ( 1 mg/d ) and topical 5 % minoxidil ( M5 ) have been previously described .
+6) Finasteride at 1 mg/day and 5 % topical minoxidil are effective in male androgenetic alopecia ( MAGA ) .
+7) Currently , there are only two approved drugs for the treatment of male AGA : topical minoxidil and oral finasteride .
+8) Minoxidil , a vasodilator medication known for its ability to slow or stop hair loss and promote hair regrowth , was first introduced , exclusively as an oral drug , to treat high blood pressure .
+9) This trial included 280 Japanese female patients aged 20 years or older with androgenetic alopecia who were administered either 1 % topical minoxidil ( n = 140 ) or placebo ( n = 140 ) for 24 weeks .
+--------------------
+Which cellular processes are regulated by Nanog ?
+0) Ancillary to BMP4 and BMP7 classical stem cell proteins e.g. SOX2 NANOG OCT3/4 and GBX2 are regulated by LIF
+1) NANOG one of homeobox proteins plays a crucial role in regulating self-renewal and pluripotency for embryonic stem cells ESCs
+2) We suggest that BRACHYURY may regulate NANOG in mesenchymal-like CRC cells to impose a plastic-state allowing competence of cells to respond to signals prompting invasion or metastasis
+3) BRACHYURY itself regulated by the oncogene β-catenin influences NANOG and other stemness markers including a panel of markers defining CRC-CSC whose presence has been linked to poor patient prognosis
+4) We have recently employed a proteomics approach to explore the regulatory protein networks in which Nanog a fundamental ES cell transcription factor operates and have constructed the first protein interaction network in mouse ES cells
+5) Understanding molecular mechanisms by which Nanog functions should illuminate fundamental properties of stem cells and the process of cellular reprogramming
+6) Here we identified that lysine demethylase KDM3A as a critical regulator of ovarian cancer stemness and cisplatin resistance by inducing the expressions of pluripotent molecules Sox2 and Nanog and anti-apoptotic B-cell lymphoma 2 Bcl-2 respectively
+7) An application of D-NEMs to embryonic stem cell development in mice reveals a feed-forward loop dominated network which stabilizes the differentiated state of cells and points to Nanog as the key sensitizer of stem cells for differentiation stimuli
+8) The generation of induced pluripotent stem cells iPSCs from somatic cells by expressing ectopic reprogramming transcriptional factors such as Oct3/4 Sox2 Klf4 c-Myc and Nanog is one of the cutting-edge discoveries in stem cell and cancer research
+9) In this way we established pluripotency-differentiation boundaries between Nanog expressing cells pluripotency zone and Nanog suppressed cells early differentiation zone within the same cell population with a gradient of Nanog expression across the individual cell colonies to serve as a mimic of the developmental process
+--------------------
+What is the treatment of Riedel disease ( thyroiditis ) ?
+0) The fibrosclerosing disorders of retroperitoneal fibrosis , sclerosing mediastinitis , sclerosing cholangitis , orbital pseudotumor , and Riedel thyroiditis are seemingly related in a clinical sense because there are well-documented cases of patients with two or more of these conditions and reports of these disorders presenting in family members .
+1) Clinically it is impossible to distinguish between Riedel 's / thyroiditis and other diseases as undifferentiated carcinoma , Hashimoto 's disease etc. .
+2) Lesions of the thyroid with infiltrating plasma cells include HT , fibrous variant of HT , plasmacytoma , plasma cell myeloma , Riedel thyroiditis , IgG4 ( immunoglobulin G4 ) - related disease , IMT , and PCG .
+3) This new disease entity includes a wide variety of diseases such as Mikulicz disease , autoimmune pancreatitis , Riedel thyroiditis , interstitial nephritis and retroperitoneal fibrosis .
+4) The term autoimmune pancreatitis ( AIP ) was first used in Japan in 1995 to describe a newly recognized form of chronic pancreatitis , after the description of Yoshida and colleagues .
+5) Recently published International Consensus Diagnostic Criteria for Autoimmune Pancreatitis include Guidelines of the International Association of Pancreatology , classifying AIP into types 1 and 2 , using five cardinal features of AIP , namely imaging of pancreatic parenchyma and duct , serology , other organ involvement , pancreatic histology , and an optional criterion of response to steroid therapy .
+6) Although sclerosing mesenteritis is often associated with other idiopathic inflammatory disorders such as retroperitoneal fibrosis , sclerosing cholangitis , Riedel thyroiditis , and orbital pseudotumor , its exact cause is unknown .
+7) CT plays an important role in suggesting the diagnosis in the proper clinical setting and can be useful in distinguishing sclerosing mesenteritis from other mesenteric diseases with similar CT features such as carcinomatosis , carcinoid tumor , lymphoma , desmoid tumor , and mesenteric edema .
+8) [ Invasive fibrous thyroiditis -- Riedel 's goiter .
+9) A Case of Concurrent Riedel 's , Hashimoto 's and Acute Suppurative Thyroiditis .
+--------------------
+Which post-translational histone modifications are characteristic of facultative heterochromatin ?
+0) Key epigenetic players are DNA methylation and histone post-translational modifications which interplay with each other with regulatory proteins and with non-coding RNAs to remodel chromatin into domains such as euchromatin constitutive or facultative heterochromatin and to achieve nuclear compartmentalization
+1) Post-translational modifications of histone amino termini are an important regulatory mechanism that induce transitions in chromatin structure thereby contributing to epigenetic gene control and the assembly of specialized chromosomal subdomains
+2) Besides epigenetic mechanisms such as imprinting chromosome X inactivation or mitotic bookmarking which establish heritable states other rapid and transient mechanisms such as histone H3 phosphorylation allow cells to respond and adapt to environmental stimuli
+3) Epigenetics refers to mitotically and/or meiotically heritable variations in gene expression that are not caused by changes in DNA sequence
+4) Specifically H3 .3 contains marks associated with transcriptionally active chromatin whereas H3 .2 in contrast contains mostly silencing modifications that have been associated with facultative heterochromatin
+5) Here we show that mammalian cell lines can be separated into two different groups based on their expression of H3 .1 H3 .2 and H3 .3 at both mRNA and protein levels
+6) Interest in non-allelic histone variants has been renewed in part because of recent work on H3 and other histone variants
+7) Histone H3 lysine 9 methylation is an epigenetic imprint of facultative heterochromatin
+8) Epigenetic mechanisms regulate all biological processes from conception to death including genome reprogramming during early embryogenesis and gametogenesis cell differentiation and maintenance of a committed lineage
+9) Although the biological significance as to why mammalian cells differentially employ three highly similar H3 variants remains unclear our results underscore potential functional differences between them and reinforce the general view that H3 .1 and H3 .2 in mammalian cells should not be treated as equivalent proteins
+--------------------
+Which cyclin- dependent kinase inhibitor is regulated by Bmi-1 ?
+0) In the absence of Bmi-1 the cyclin-dependent kinase inhibitor gene p16Ink4a is upregulated in neural stem cells reducing the rate of proliferation
+1) The genetic hallmark of MCL is the chromosomal translocation t 11 14 q13 q32 that leads to deregulation and upregulation of Cyclin D1 an important regulator of the G1 phase of the cell cycle
+2) A recent gene expression profiling study defined the proliferation signature a quantitative measure of gene expression of proliferation-associated genes as the strongest survival predictor available to date allowing the definition of prognostic MCL subgroups that differ in median survival by more than 5 years
+3) B cell CLL/lymphoma 11B Bcl11b a C2H2 zinc finger transcription factor not only serves as a critical regulator in development but also plays the controversial role in T cell acute lymphoblastic leukemia T-ALL
+4) Cdk2 interacted with Myc at promoters where it affected Myc-dependent regulation of genes including Bmi-1 p16 p21 and hTERT which encode proteins known to control senescence
+5) Finally our findings highlight that pharmacological inhibition of Cdk2 activity is a potential therapeutical principle for cancer therapy in particular for tumors with activated Myc or Ras
+6) Together this is the first study to show that the inhibition of Bcl11b suppresses glioma cell growth by regulating the expression of the cell cycle regulator p21 and stemness-associated genes Sox-2 Bmi-1
+7) The phosphatidylinositol 3-kinase inhibitor LY294002 and the agonist IGF-1 were employed to suppress or induce the phosphorylation of Akt to determine whether BMI-1 induces radioresistance in ESCC cells via activation of the PI3K/Akt pathway
+8) Repression of senescence by Myc was abrogated by the Cdk inhibitor p27Kip1 which is induced by antiproliferative signals like IFN-gamma or by pharmacological inhibitors of Cdk2 but not by inhibitors of other Cdks
+9) Bmi-1 prevents stem cell aging at least partly by blocking expression of the cyclin-dependent kinase inhibitor p16 Ink4a
+--------------------
+Can RNAPolII function as an RNA-dependent RNA-polymerase ?
+0) DNA-dependent RNA polymerases RNApol are Zn2 metalloproteins where the Zn2 ion plays both catalytic and structural roles
+1) Lentivirus-based gene delivery vectors carrying multiple gene cassettes are powerful tools in gene transfer studies and gene therapy allowing coexpression of multiple therapeutic factors and if desired fluorescent reporters
+2) We show that RNA polymerase II RNAPolII preinitiation complex recruitment and H3 Lys 4 H3-K4 methylation at the Xist promoter form the basis of the Xist expression profiles that drives both imprinted and random XCI
+3) In this study we describe a novel vector design that facilitates combined expression of therapeutic RNA and protein-based antiangiogenic factors as well as a fluorescent reporter from back-to-back RNApolII-driven expression cassettes
+4) RNApolII-dependent transcription is repressed in primordial germ cells of many animals during early development and is thought to be important for maintenance of germline fate by preventing somatic differentiation
+5) As such RNAa can be a valuable approach for therapeutic treatment of the FOXG1-haploinsufficiency-linked variant of the Rett syndrome
+6) Enhancing Neuronogenesis and Counteracting Neuropathogenic Gene Haploinsufficiencies by RNA Gene Activation
+7) A noncoding RNA is required for the repression of RNApolII-dependent transcription in primordial germ cells
+8) Purified EAP showed a histone H3 lysine 79-specific methylase activity displayed a robust RNAPolII CTD kinase function and counteracted the effect of the pTEFb inhibitor 5,6-dichloro-benzimidazole-riboside
+9) In order to check whether the presence of Zn2 ions has any effect on substrate recognition we followed the binding of gamma-AmNS UTP a fluorescent substrate analog to RNApolII
+--------------------
+List proteins of lipids droplets
+0) Most mammalian cells package neutral lipids into droplets that are surrounded by a monolayer of phospholipids and a specific set of proteins including the adipose differentiation-related protein ADRP also called adipophilin which is found in a wide array of cell types and the perilipins which are restricted to adipocytes and steroidogenic cells
+1) The cell death-inducing DFF45-like effector CIDE family has been characterized as the lipid droplet proteins involved in the metabolism of lipid storage droplets
+2) In mammalian cells lipid storage droplets contain a triacylglycerol and cholesterol ester core surrounded by a phospholipid monolayer into which a number of proteins are imbedded
+3) The major cAMP-dependent protein kinase A-kinase substrate in adipocytes is perilipin a protein found exclusively at the surface of the lipid storage droplets
+4) Cytoskeletal proteins found on CE droplets influence droplet lipid composition and maturation in model foam cells
+5) The perilipins are a family of polyphosphorylated proteins found exclusively surrounding neutral lipid storage droplets in adipocytes and steroidogenic cells
+6) The droplets consist of neutral lipids mostly triacylglycerides and cholesterol esters
+7) Intracellular neutral lipid storage droplets are essential organelles of eukaryotic cells yet little is known about the proteins at their surfaces or about the amino acid sequences that target proteins to these storage droplets
+8) Perilipins are a family of unique proteins intimately associated with the limiting surface of neutral lipid storage droplets in adipocytes and in steroidogenic cells
+9) Although a link between excess lipid storage and aberrant glucose metabolism has been recognized for many years little is known what role lipid storage droplets and associated proteins such as Plin2 play in managing cellular glucose levels
+--------------------
+Is Calcium homeostasis important in cardiac physiology and pathophysiology ?
+0) Both RyR2 and calsequestrin are important participants in the cardiac cellular calcium homeostasis
+1) Transmembrane sodium Na fluxes and intracellular sodium homeostasis are central players in the physiology of the cardiac myocyte since they are crucial for both cell excitability and for the regulation of the intracellular calcium concentration
+2) This calcium-activated monovalent selective cation channel also plays a key role in cardiovascular pathophysiology for example a mutation in the TRPM4 channel leads to cardiac conduction disease
+3) In the cardiovascular system T-type calcium channels play an important role for the intracellular calcium homeostasis and spontaneous pacemaker activity and are involved in the progression of structural heart diseases
+4) The possibility of modulating Na inward fluxes and Na i with specific INaL inhibitors such as ranolazine has made Na a novel suitable target for cardiac therapy potentially capable of addressing arrhythmogenesis and diastolic dysfunction in severe conditions such as heart failure and hypertrophic cardiomyopathy
+5) Ca2 homeostasis is maintained by proteins of the outer cell membrane or sarcolemma and the sarcoplasmic reticulum which is the major intracellular Ca2 storage organelle
+6) Increased heart rate and hyperdynamic circulation are hallmarks of hyperthyroidism while bradycardia and decreased contractility characterize hypothyroidism
+7) Peroxisome proliferator-activated receptor gamma coactivator 1 alpha PGC-1 alpha is a multi-functional coactivator that is involved in the regulation of cardiac mitochondrial functional capacity and cellular energy metabolism
+8) Therefore sarco/endoplasmic reticulum-mitochondria coupling and mitochondrial dynamics are now viewed as relevant factors in the pathogenesis of cardiac and vascular diseases including coronary artery disease heart failure and pulmonary arterial hypertension
+9) To test the chronic effect of testosterone on the cardiac I Ca T cultured neonatal rat ventricular cardiomyocytes were treated with testosterone 1 nM-10 microM for 24-30 h. Current measurements were performed after testosterone washout to exclude any acute testosterone effects
+--------------------
+Do proton pump inhibitors affect thyroxine absorption ?
+0) Proton-pump inhibitors antacids and a long list of drugs may decrease thyroxine absorption
+1) Other drugs can alter T4 absorption T4 and T3 transport in serum and metabolism of T4 and T3 such as proton-pump inhibitors and antacids estrogens mitotane and fluorouracil phenobarbital and rifampin
+2) Other medications that may affect TSH levels are metformin antiepileptic medications lithium carbonate and iodine-containing medications
+3) A correct diagnosis of thyroid diseases in the elderly is crucial for proper treatment which consists in the removal of medications that may alter thyroid function in the use of levo-thyroxine in case of hypothyroidism anti-thyroid drugs in case of hyperthyroidism and use of surgery radioiodine therapy and percutaneous ablative procedures in selected cases
+4) In addition a series of diseases including celiac disease and chronic inflammatory intestinal diseases as well as nutritional habits may be important in patient control
+5) Many commonly used drugs such as bile acid sequestrants ferrous sulphate sucralfate calcium carbonate aluminium-containing antacids phosphate binders raloxifene and proton-pump inhibitors have also been shown to interfere with the absorption of levothyroxine
+6) Malabsorptive disorders reported to affect the absorption of levothyroxine include coeliac disease inflammatory bowel disease lactose intolerance as well as Helicobacter pylori H. pylori infection and atrophic gastritis
+7) Although autoimmune thyroiditis is the most common cause of hypothyroidism in elderly subjects other causes such as drugs neck radiotherapy thyroidectomy or radioiodine therapy are frequently observed among these subjects
+8) Thyroid diseases are the commonest endocrine disorders in the general population
+9) Most subjects with thyroid nodules have few or no symptoms
+--------------------
+Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome ?
+0) Since no patient with a mutant TRalpha has been identified we introduced a point mutation into the mouse thyroid hormone receptor TRalpha1 locus originally found in the TRbeta gene that reduces ligand binding 10-fold
+1) Our results indicate that TRalpha1 is involved in the regulation of hippocampal structure and function and raise the possibility that deletions or mutations of this receptor isoform may lead to behavioral changes or even psychiatric syndromes in humans
+2) T3 receptors TRs are transcription factors that activate or suppress target gene expression in a hormone-dependent or independent fashion
+3) Brain development and function are dependent on thyroid hormone T3 which acts through nuclear hormone receptors
+4) Mutations in the TRbeta gene cause the syndrome of peripheral resistance to thyroid hormone however no alterations of the TRalpha gene have been described in humans
+5) Lack of thyroid hormone receptor alpha1 is associated with selective alterations in behavior and hippocampal circuits
+6) Two distinct genes TRalpha and TRbeta encode several receptor isoforms with specific functions defined in many tissues but not in the brain
+7) These findings correlated with fewer GABAergic terminals on the CA1 pyramidal neurons in the mutant mice
+8) In the contextual fear conditioning test mutant mice showed a significantly higher freezing response than wild-type controls when tested 1 week after training
+9) In the open field test mutant mice revealed less exploratory behavior than wild-type mice
+--------------------
+The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies . Which protein are they targeting ?
+0) The PD-1 / PD-L1 axis modulates the natural killer cell versus multiple myeloma effect : a therapeutic target for CT-011 , a novel monoclonal anti-PD-1 antibody .
+1) Agents currently in active clinical development for lung cancer include ipilimumab , which modulates the cytotoxic T-lymphocyte-associated antigen 4 pathway , and multiple agents targeting the programmed death protein 1 ( PD-1 ) pathway , both anti-PD-1 compounds ( nivolumab , pembrolizumab [ MK-3475 ] ) and those that target programmed death ligand 1 ( PD-L1 ) , a key ligand for PD-1 ( BMS-936559 , MPDL3280A ) .
+2) Pembrolizumab ( MK-3475 ) is a potent and highly selective humanized monoclonal antibody of the immunoglobulin G4κ class directed against the immune checkpoint programmed cell death protein-1 ( PD-1 ) .
+3) This has led to the development of pembrolizumab ( MK-3475 ) , a highly selective , humanized monoclonal IgG4-kappa isotype antibody against PD-1 .
+4) Pembrolizumab ( MK-3475 ) is a monoclonal antibody that binds to the PD-1 receptor on T cells and prevents binding to its ligands PD-L1 and PD-L2 .
+5) In Phase I clinical trials , two anti-PD1 therapies , Nivolumab and MK-3475 , that block the PD-1 receptor to enable T cell killing have demonstrated objective tumor responses in patients with advanced melanoma .
+6) Pembrolizumab ( MK-3475 , lambrolizumab , Keytruda ( ® ) ) is a PD-1 inhibitor that has shown clinical activity in a variety of solid tumors and is currently approved for the second-line treatment of PD-L1-positive non-small-cell lung cancer and for unresectable/metastatic melanoma .
+7) Finally , the impact of pembrolizumab in NSCLC is growing as evidenced by the numerous , ongoing trials open for combinations with chemotherapy , chemoradiation , other immunotherapeutics , immunomodulators , tyrosine kinase inhibitors , PI3K inhibitors , MEK inhibitors , hypomethylating agents , and histone deacetylase inhibitors .
+8) Programmed cell death protein 1 ( PD-1 ) and its ligands , programmed cell death 1 ligand 1 ( PD-L1 ) and 2 ( PD-L2 ) play an important role in regulating immune response through various mechanisms .
+9) Here , we report on a patient with advanced mucosal melanoma who received four doses of MK-3475 , a fully human monoclonal antibody against PD1 , and experienced a durable near-complete response but developed severe hypothyroidism , rhabdomyolysis , and acute kidney injury .
+--------------------
+From which sequence does the Alu repeat originate from ?
+0) Some of the Alu sequences are arranged in tandems of two or three which seem to originate from insertions of younger Alu sequences into the poly A region of previously integrated Alu sequences as indicated by flanking direct repeats
+1) The analysis of the Alu sequences and their flanking direct repeat sequences suggest that an ancestral genomic structure has been maintained in the GPA gene whereas the GPB gene has arisen from the acquisition of 3 sequences different from those of the GPA gene by homologous recombination at the Alu repeats during or after gene duplication
+2) This suggests that a recombination event took place here and that an Alu repeat sequence that is known to have characteristics of transposable elements played some role in a recombination or gene conversion event
+3) There are several sequence similarities between the dhfr rhodopsin origin regions including common transcription promoter consensus sequences rodent Alu repeats with their 3 A+T rich flanking sequences A+T rich yeast ARS and Drosophila SAR consensus sequences and simple GA n repeats but there are no extended regions of direct similarity
+4) The conservation of this novel arrangement among the higher primates suggests that an inserted Alu family repeat and its flanking genomic sequence have co-evolved for at least 30 million years to provide the canonical CCAAT and TATA promoter elements of the theta 1 globin genes in higher primates
+5) Based on the finding from bioinformatic analysis that Alu repeats represent 85 of LDLR intronic sequences outside exon-intron junctions we designed a strategy to improve the exploration of genomic regions in the vicinity of exons in 110 FH subjects from an admixed population
+6) With a probe containing Alu repeat sequences Pääbo isolated a 3.4-kilobase DNA fragment from a 2,400-year-old Egyptian mummy which was subsequently shown to contain an intron of the nuclear gene HLA-DQA ref
+7) An Alu repeat sequence was identified in the first intron of the human D4 gene but is not present in the rat D4 gene
+8) piBLUR clones are able to retrieve human clones from such libraries because at least one Alu family repeat is present on most 15 to 20 kb fragments of human DNA and because of the relative species-specificity of the sequences comprising the Alu family
+9) The most 3 splice donor site of exon 1A is found within an Alu repeat sequence
+--------------------
+How is mTORC1 involved in the regulation of heat stress ?
+0) Our findings imply a plausible mechanism for how persistent PI3K-mTORC1 signaling favors the development of age-related pathologies by attenuating stress resistance
+1) Inhibition of both mTOR and PIM counteracted induction of heat-shock family proteins uncovering the master negative regulation of heat shock factor 1 HSF1 the dominant transcription factor controlling cellular stress responses
+2) The combination of AZD1208 and AZD2014 rapidly activated AMPKα a negative regulator of translation machinery through mTORC1/2 signaling in AML cells profoundly inhibited AKT and 4EBP1 activation and suppressed polysome formation
+3) Under heat-stress conditions mTORC1-mediated phosphorylation of PGL-1 -3 is elevated and PGL-1 -3 undergo accelerated phase separation forming PGL granules that are resistant to autophagic degradation
+4) As HSP transcription is regulated by heat shock transcription factor 1 HSF1 we examined whether mTOR could directly phosphorylate this factor
+5) Here we have shown that mTOR in human tissue culture cells plays a key role in responses to proteotoxic stress and that reduction in mTOR levels by RNA interference leads to increase sensitivity to heat shock
+6) The simultaneous inhibition of the PIM kinase by pan-PIM inhibitor AZD1208 and of mTOR by selective mTORC1/2 dual inhibitor AZD2014 exerted anticancer properties in AML cell lines and in cells derived from primary AML samples with or without supportive stromal cell co-culture leading to suppressed proliferation and increased apoptosis
+7) Here we show that the stress-induced preferential translation of Hsp70 mRNA is negatively regulated by PI3K-mTORC1 signaling
+8) As mTOR is known to exist in at least two intracellular complexes mTORC1 and mTOR2 we examined which complex might interact with HSF1
+9) Mammalian target of rapamycin mTOR signaling is a critical pathway in the biology of acute myeloid leukemia AML
+--------------------
+Which myosin isozymes are located within the pericuticular necklace of the hair cell ?
+0) The myosin isozymes expressed in the hair cell all have unique domains of expression and in some areas such as the pericuticular necklace several domains overlap
+1) Substantial amounts of myosins-Ibeta VI and VIIa are located in a pericuticular necklace that is largely free of F-actin squeezed between but not associated with actin of the cuticular plate and the circumferential belt
+2) To understand how cells differentially use the dozens of myosin isozymes present in each genome we examined the distribution of four unconventional myosin isozymes in the inner ear a tissue that is particularly reliant on actin-rich structures and unconventional myosin isozymes
+3) As suggested previously myosin-Ibeta probably plays a role in adaptation concentration of myosin-VI in cuticular plates and association with stereociliary rootlets suggest that this isozyme participates in rigidly anchoring stereocilia and finally colocalization with cross-links between adjacent stereocilia indicates that myosin-VIIa is required for the structural integrity of hair bundles
+4) This suggests that these myosins all have unique functions and that all are individually targeted within the hair cell
+5) Our localization results suggest specific functions for three hair-cell myosin isozymes
+6) Myosin 1 beta VI VIIa and probably XV are all expressed within a single cell in the inner ear the hair cell
+7) In stereocilia constructed of cross-linked F-actin filaments myosin-Ibeta is found mostly near stereociliary tips myosin-VI is largely absent and myosin-VIIa colocalizes with crosslinks that connect adjacent stereocilia
+8) These three myosin isozymes are excluded from other actin-rich domains including the circumferential actin belt and the cortical actin network
+9) A member of a fourth class myosin-V is not expressed in hair cells but is present at high levels in afferent nerve cells that innervate hair cells
+--------------------
+Are nucleosomes positioned at DNA replication origins ?
+0) Together our data provide a comprehensive genome-wide view of chromatin structure at replication origins and suggest a model of nucleosome positioning at replication origins in which the underlying sequence occludes nucleosomes to permit binding of the origin recognition complex which then likely in concert with nucleosome modifiers and remodelers positions nucleosomes adjacent to the origin to promote replication origin function
+1) The availability of genome-wide maps of nucleosome positions has led to an explosion of information about how nucleosomes are assembled at transcription start sites but no similar maps exist for DNA replication origins
+2) Recent genome-wide mapping of nucleosome positions revealed that well-positioned nucleosomes are pervasive across eukaryotic genomes especially in important regulatory regions such as promoters or origins of replication
+3) We have asked where the nucleosomes are located with respect to the replication origin and regulatory region of simian virus 40 DNA what would be the possible functional consequences of the identified locations and to what extent these locations correlate with the current views on mechanisms involved in establishing nucleosome-free regions in chromatin
+4) Three types of DNA regions were defined 1 regions with fixed nucleosome positioning 2 regions lacking regular nucleosome phasing and 3 a region around the replication origin from position 5100 to 600 with no detectable nucleosomes
+5) Positioning of nucleosomes has been proposed as one mechanism whereby the activity of DNA is regulated cis-acting elements located in linker DNA might be more accessible for interaction with trans-acting protein factors than they would be if they were directly associated with histones in nucleosome core particles
+6) Therefore the positions of nucleosomes relative to a DNA sequence feature like a transactivator binding site a transcriptional start site or an origin of replication can have profound effects on nuclear processes like transcription replication recombination and repair
+7) On average replication origins contain a nucleosome depleted region centered next to the ACS element flanked on both sides by arrays of well-positioned nucleosomes
+8) To test whether the initiation of DNA replication from an origin covered by nucleosomes would also benefit from the action of nucleosome remodelling factors we reconstituted SV40 DNA into chromatin in Drosophila embryo extracts
+9) Here we combine high-resolution genome-wide nucleosome maps with comprehensive annotations of DNA replication origins to identify patterns of nucleosome occupancy at eukaryotic replication origins
+--------------------
+Name five programs for transcript quantification from RNASeq experiments
+0) Here we describe a detailed protocol for all stages of RNA CaptureSeq from initial probe design considerations and capture of targeted genes to final assembly and quantification of captured transcripts
+1) Here we present CirComPara http://github.com/egaffo/CirComPara an automated bioinformatics pipeline to detect quantify and annotate circRNAs from RNAseq data using in parallel four different methods for backsplice identification
+2) This chapter provides hand-on tools and a step-by-step procedure to analyze RNASeq data from punctures of two different retinal tissues retina and RPE-choroid-sclera at two different locations periphery and macular region from eight individuals
+3) To handle such information sharing in a rigorous manner we propose an hierarchical empirical Bayes approach R-EBSeq that combines the Cufflinks model for generating relative transcript abundance measurements known as FPKM fragments per kilobase of transcript length per million mapped reads with the EBArrays framework which was previously developed for empirical Bayes analysis of microarray data
+4) The procedure described in this chapter will use various programs from the free open-source Tuxedo Suite software package to analyze sequencing data and to ascertain genes that are differentially expressed between retina and RPE-choroid-sclera
+5) Initially we performed RNAseq from two human mammary epithelial cell lines and evaluated several aspects of the transcriptomes generated by linear amplification of Poly A mRNA species including transcript representation variability and abundance
+6) The recently introduced Kallisto pseudoaligner has radically simplified the quantification of transcripts in RNA-sequencing experiments
+7) RNA sequencing RNAseq is a versatile method that can be utilized to detect and characterize gene expression mutations gene fusions and noncoding RNAs
+8) Targeted sequencing for gene discovery and quantification using RNA CaptureSeq
+9) Ribosome profiling is a highly promising technique that provides mRNA positional information of ribosome occupancy potentially bridging the gap between gene expression i.e. RNAseq and microarray analysis and protein quantification i.e. mass spectrometry
+--------------------
+Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome ?
+0) One producing severe psychomotor defects in 100 males from 26 families is caused by mutations in the cell-membrane transporter of TH MCT8 the second affecting the intracellular metabolism of TH in four individuals from two families is caused by mutations in the SECISBP2 gene which is required for the synthesis of selenoproteins including TH deiodinases
+1) Mutations in the TRbeta gene cell membrane transporter and genes controlling intracellular metabolism of thyroid hormone have been implicated
+2) By dividing a hormone 's receptors into central and peripheral pools the former of which may not be part of the hormone 's negative feed back loop the BBB fosters the development of variable hormone resistance syndromes as exemplified by evidence that altered insulin action in the CNS can contribute to Alzheimer 's disease
+3) The mechanism of thyroid hormone action has been informed by these clinical observations as well as by animal models and has influenced the way we view the role of local ligand availability tissue and cell-specific thyroid hormone transporters corepressors and coactivators thyroid hormone receptor TR isoform-specific action and cross-talk in metabolic regulation and neural development
+4) One of the most effective and specific TH transporters identified to date is monocarboxylate transporter 8 MCT8 the gene of which is located on the X chromosome
+5) Thyroid hormone resistance may course hypotonia in infancy
+6) TDs act at various levels of glucose and lipid metabolism ameliorate some defects in the signalling cascade distal to the insulin receptor and improve glucose uptake in insulin-resistant tissues via increased expression of glucose transporters GLUT1 and GLUT4
+7) Thyroid hormone transporters and resistance
+8) Protein binding brain-to-blood transport and pharmacokinetics modulate BBB penetration
+9) The first recognized defect which causes resistance to TH involves the TH receptor beta gene and has been given the acronym RTH
+--------------------
+What are the Topological Domains ( TADs ) ?
+0) It is now well established that eukaryote genomes have a common architectural organization into topologically associated domains TADs and evidence is accumulating that this organization plays an important role in gene regulation
+1) Topologically associating domains TADs CTCF loop domains and A/B compartments have been identified as important structural and functional components of 3D chromatin organization yet the relationship between these features is not well understood
+2) A fundamental structural unit in the hierarchy is represented by topologically associating domains TADs sub-megabase regions of the genome within which the chromatin fibre preferentially interacts
+3) The pattern of DNA distal interplay form the multiple topological associating domains TADs and further assemble the functional compartmentalization with open and expression-active chromatin A compartments or closed and expression-inactive chromatin B compartments in genome whose boundaries were defined by the high enrichment of CCCTC-binding factor CTCF
+4) Storing information within chromatin allows selective access to specific DNA sequences by regulating the various levels of chromatin structure from nucleosomes to chromatin fibers loops and topological associating domains TADs using mechanisms that are being progressively unravelled
+5) In addition we describe how the alteration of boundaries that mark discrete regions in the genome with high interaction frequencies within them called topological associated domains TADs could lead to various phenotypes including human diseases which we term as TADopathies
+6) Recent insights into the regulatory landscape of the Xic including its partitioning into topological associating domains TADs and its genetic dissection have important implications for the monoallelic regulation of Xist
+7) We propose two sequence-based multiscale models SeqMMs for the study of chromosome hierarchical structures including genomic compartments and topological associated domains TADs
+8) CCCTC binding factor CTCF is involved in organizing chromosomes into mega base-sized topologically associated domains TADs along with other factors that define sub-TAD organization
+9) Increasing evidence demonstrates that the genome is organized non-randomly in a hierarchy of structures within the nuclear space where chromosome territories are segmented into Topologically Associating Domains TADs and sub-domains
+--------------------
+Which molecule is targeted by a monoclonal antibody Secukinumab ?
+0) Secukinumab is a monoclonal antibody targeting IL-17A which has been extensively researched in clinical trials and registered in treating moderate to severe plaque psoriasis .
+1) The family of interleukin 17 receptors ( IL17Rs ) , subtypes IL17RA-IL17RE , is targeted by the group of pro-inflammatory IL17 cytokines ( IL17A-F ) and moreover the newly developed anti-IL17A antibody secukinumab ( AIN457 ) has shown promise in Phase II trials in multiple sclerosis .
+2) Brodalumab is a novel fully human immunoglobulin G2 monoclonal antibody that antagonizes the interleukin ( IL ) -17 pathway by binding with high affinity to human IL-17RA .
+3) Another biologic drug that targets the same molecules , briakinumab ( ABT-874 ) , has recently had its approval application withdrawn in the US and Europe to conduct further analysis and clinical trials .
+4) Biological drugs are pharmaceuticals manufactured using biotechnology methods that may target specific cytokines , cytokine receptors or surface molecules , and modulate the immunological response of the organism .
+5) A newly developed biologic drug , ustekinumab ( CNTO-1275 ) , which targets the p40 subunit of IL-12 and IL-23 , was approved by the US FDA and the European Medicines Agency in 2009 for the treatment of moderate to severe psoriasis .
+6) Interleukin ( IL ) -23 is an important regulator of T helper-17 lymphocytes , which influence the cutaneous immune system by production of IL-17 and several other proinflammatory cytokines .
+7) The increasing insights into the pathogenetic mechanisms of inflammatory autoimmune arthritis and the development of innovative systems of industrial production have led to discover molecules that are able to target/block other molecules that play a critical role in the immune system functioning , and that have been introduced in clinical practice alone and/or in addiction with other `` old '' disease-modifying anti-rheumatic drugs .
+8) Per definition , monoclonal antibodies are recombinant biological compounds with a well defined target , thus carrying the promise of targeting pathogenic cells or molecules with high specificity , avoiding undesired off-target effects .
+9) The selective anti-IL17A monoclonal antibody secukinumab ( AIN457 ) attenuates IL17A-induced levels of IL6 in human astrocytes .
+--------------------
+DX-88 is investigational name of which drug ?
+0) The antifibrinolytic agents aprotinin , tranexamic acid , and epsilon-aminocaproic acid are useful for prophylaxis and treatment of angioedema , likely by inhibiting plasmin .
+1) Treatment with plasma-derived C1 Inhibitor rapidly aborts attacks , and may be lifesaving , but is expensive , requires use of a pooled blood product , may need to be repeated and may not be effective in autoantibody mediated angioedema .
+2) Deficiency of C1 Inhibitor leads to unopposed activation of complement , with localized , unpredictable , and sometimes life-threatening attacks of angioedema .
+--------------------
+Which are the main histone modifications associated with enhancers ?
+0) The coexistence of high mono-methylation and low tri-methylation levels of lysine 4 of histone H3 is considered a signature of enhancers but a comprehensive view of histone modifications associated to enhancers is still lacking
+1) Features that are associated with enhancer activity such as regulatory factor binding or histone modifications can predict the location of enhancers
+2) Based on ChIP-seq analysis of enhancer-associated histone modifications including H3K4 methylation and H3K9 acetylation we discovered several potential enhancers for one of which was located 16kb upstream of the gene 's transcriptional start site
+3) The organization of the genome into functional units such as enhancers and active or repressed promoters is associated with distinct patterns of DNA and histone modifications
+4) Formation of nucleosome free region NFR accompanied by specific histone modifications at flanking nucleosomes is an important prerequisite for enhancer and promoter activity
+5) We propose that both transcription initiation and the H3K4me3 histone modification are among the best hallmarks of active enhancers in several primary tissues and extend the concept of large transcription initiation platforms TIPs
+6) We show further that the ability of YY1 to regulate CPC phenotype is associated with its ability to modulate histone modifications specifically at a developmentally critical enhancer of Nkx2-5 and other key cardiac transcription factor such as Tbx5
+7) Studying levels of H3K4me3 a histone modification at sites such as promoters enhancers and recombination hotspots we found tissue-specific-regulation of H3K4me3 levels in four highly diverse cell types male germ cells embryonic stem cells hepatocytes and cardiomyocytes
+8) Thanks to the recent technological advances to map histone modifications and chromatin-associated factors genome-wide several studies have begun to characterize chromatin signatures of active enhancers
+9) Using PARE on ChIP-seq histone modifications from four ENCODE cell lines and four hematopoietic differentiation stages we identified several enhancers whose regulatory activity is stage specific and correlates positively with the expression of proximal genes in a particular stage
+--------------------
+What is the enzymatic activity of the breast cancer associated gene BRCA1 ?
+0) Cytokines that are up-regulated after ischemia , like interleukin ( IL ) -10 , can induce HO-1 gene expression , which is positively regulated by the transcriptional activator nuclear factor erythroid 2-related factor 2 ( Nrf2 ) and negatively regulated by the transcriptional repressor breast cancer type 1 susceptibility protein ( BRCA1 ) associated C-terminal helicase 1 ( Bach-1 ) .
+1) Telomerase , an enzyme that maintains telomere length , plays major roles in cellular immortalization and cancer progression .
+2) Here , we observe that purified RINGs from a variety of functionally unrelated proteins , including promyelocytic leukemia protein , KAP-1TIF1beta , Z , Mel18 , breast cancer susceptibility gene product 1 ( BRCA1 ) , and BRCA1-associated RING domain ( BARD1 ) , self-assemble into supramolecular structures in vitro that resemble those they form in cells .
+3) Fanconi anemia ( FA ) is an autosomal recessive disorder characterized by multiple congenital anomalies , progressive bone marrow failure , and high cancer risk .
+4) The deleterious effect of inhibiting HO activity in ischemia became apparent in the presence of ZnPP-induced HO-1 , which is known to exert effects independent of its enzymatic activity .
+5) In conclusion , HO-1 induction after ischemia was associated to down-regulation of transcriptional repressor Bach-1 , and induction of HO-1 when HO enzymatic activity was inhibited was related to worst outcome after brain ischemia .
+6) While Nrf2 is activated after ischemia and drugs promoting Nrf2 activation increase HO-1 and are beneficial , the involvement of Bach-1 is unknown .
+7) FANCJ helicase operates in the Fanconi Anemia DNA repair pathway and the response to replicational stress .
+8) Separation of RING bodies from monomers reveals that self-assembly controls and amplifies their specific activities in two unrelated biochemistries : reduction of 5 ' mRNA cap affinity of eIF4E by promyelocytic leukemia protein and Z , and E3 ubiquitin conjugation activity of BARD1 : BRCA1 .
+9) Cells from FA patients exhibit spontaneous chromosomal instability and hypersensitivity to DNA interstrand cross-linking ( ICL ) agents .
+--------------------
+Is there any link between the aurora B kinase and the polycomb protein ring1B ?
+0) We show that the Aurora B kinase and the polycomb protein Ring1B have essential roles in regulating transcriptionally active genes in quiescent lymphocytes
+1) The aurora B kinase and the polycomb protein ring1B combine to regulate active promoters in quiescent lymphocytes
+2) Aurora B phosphorylates histone H3S28 at active promoters in resting B cells as well as inhibiting Ring1B-mediated ubiquitination of histone H2A and enhancing binding and activity of the USP16 deubiquitinase at transcribed genes
+3) Ring1B and Aurora B bind to a wide range of active promoters in resting B and T cells
+4) Our results identify a mechanism for regulating transcription in quiescent cells that has implications for epigenetic regulation of the choice between proliferation and quiescence
+5) Conditional knockout of either protein results in reduced transcription and binding of RNA Pol II to promoter regions and decreased cell viability
+6) Reversible cellular quiescence is critical for developmental processes in metazoan organisms and is characterized by a reduction in cell size and transcriptional activity
+--------------------
+Is insulin-like growth factor-I ( IGF-I ) able to affect tendon protein synthesis in classic Ehlers-Danlos syndrome patients ?
+0) The classic form of Ehlers-Danlos syndrome ( cEDS ) is an inherited connective tissue disorder , where mutations in type V collagen-encoding genes result in abnormal collagen fibrils .
+1) The fractional synthesis rate ( FSR ) of proteins in skin and tendon was measured with the stable isotope technique using a flood-primed continuous infusion over 6 h .
+2) We found similar baseline FSR values in skin and tendon in the cEDS patients and controls [ skin : 0.005 ± 0.002 ( cEDS ) and 0.007 ± 0.002 ( CTRL ) ; tendon : 0.008 ± 0.001 ( cEDS ) and 0.009 ± 0.002 ( CTRL ) % / h , mean ± SE ] .
+3) IGF-I injections significantly increased FSR values in cEDS patients but not in controls ( delta values : cEDS 0.007 ± 0.002 , CTRL 0.001 ± 0.001 % / h ) .
+4) Thus the cEDS patients have pathological connective tissue morphology and low stiffness , but the rate of connective tissue protein turnover is unknown .
+5) Five patients with cEDS and 10 healthy , matched controls ( CTRL ) were included .
+--------------------
+To what extent does HPV vaccination reduce the risk for cervical cancer ?
+0) Since human papillomavirus HPV infection is the main risk factor for cervical cancer HPV vaccination is considered a promising strategy to prevent cervical cancer
+1) We suggest that the recent introduction of voluntary HPV vaccination for girls in North America and elsewhere constitutes a form of neomedicalization Batt Lippman 2010 that links risks for future disease cervical cancer with the transmission of a common sexually transmitted infection HPV
+2) As in other countries the HPV vaccination can be a cost-utility strategy to reduce the high burdens of cervical cancer in Peru a rapid and cheap HPV molecular sub-typification is rapidly required
+3) As Black Hispanic and Asian populations continue to grow in the US over the next 40 y it is imperative that we not only improve HPV vaccination rates overall but focus on high-risk populations to prevent an increase in cervical cancer disparities
+4) Large-scale implementation of HPV vaccination with the vaccines that target the most predominant virus types associated with cervical adenocarcinoma seems to be the most effective way to reduce both the incidence and mortality rates of this cancer
+5) HPV-based prevention tools like HPV vaccination and to a lesser extend screening e.g. for anal cancer can be useful measures for reducing the burden of these anogenital cancers
+6) While the value of HPV vaccination for oral cancer prevention is still controversial some evidence supports the possibility that HPV vaccination may be effective in reducing the incidence of oral cancer
+7) The most common reasons for not accepting HPV vaccination were My daughter is too young to have risk of cervical cancer 30.95 The vaccine has not been widely used and the decision will be made after it is widely used 24.91 Worry about the safety of the vaccine 22.85
+8) HPV vaccination has been shown to be effective for cervical and other anogenital HPV-related cancers and there is significant potential for HPV vaccination to prevent oropharyngeal cancers given that the HPV types implicated in this disease can be protected against by the HPV vaccine
+9) HPV screening starting at age 25 in populations with high vaccination coverage is therefore expected to both improve the benefits further decrease risk of cervical cancer and reduce the harms reduce treatments and possible obstetric complications associated with cervical cancer screening
+--------------------
+Tumor-treating fields are effective for treatment of which cancers ?
+0) Tumor treating fields ( TTFields ) is a therapy that inhibits cell proliferation and has been approved by the U.S Food and Drug Administration ( FDA ) for the treatment of Glioblastoma Multiforme .
+1) Tumor treating fields ( TTFields ) is a noninvasive , regional antimitotic treatment modality that has been approved for the treatment of recurrent glioblastoma by the U.S. FDA and has a CE mark in Europe .
+2) Tumor-Treating Fields : A Fourth Modality in Cancer Treatment .
+3) In the registration Phase III trial for recurrent glioblastoma patients , the efficacy of the tumor treating fields as monotherapy was equivalent to chemotherapy , while scalp irritation was its major adverse event compared with systemic toxicities that were associated with cytotoxic chemotherapies .
+4) Tumor Treating Field ( TTFields ) therapy has demonstrated efficacy in a Phase 3 study of newly diagnosed glioblastoma ( GB ) following radiation ( RT ) and temozolomide ( TMZ ) .
+5) What is the Role of Tumor-treating Fields in Newly Diagnosed Glioblastoma ?
+6) The use of tumor-treating fields ( TTFields ) has revolutionized the treatment of recurrent and newly diagnosed glioblastoma ( GBM ) .
+7) Recently the U.S. Food and Drug Administration approved a novel fourth approach ( in addition to surgery , radiation therapy , and chemotherapy ) to treating glioblastoma ; namely , tumor treating fields ( TTFields ) .
+8) Tumor treating fields ( TTFields ) are increasingly used to treat newly diagnosed and recurrent glioblastoma ( GBM ) .
+9) Alternating electric fields therapy , as delivered by the tumor treating fields device , is a new modality of cancer treatment that has been approved by the US FDA for recurrent glioblastoma .
+--------------------
+What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients ?
+0) To define a mechanism for the pressor effects of thyrotropin-releasing hormone TRH we evaluated changes in mean blood pressure MBP when a synthetic form of TRH 0.1 mg/kg i.v. was injected into two types of comatose patients vegetative and brain dead
+1) Hypotensive and bradycardiac responses to thyrotropin-releasing hormone in a comatose patient
+2) The snapping and catatonia-like symptoms were markedly ameliorated by carbamazepine and the coma by flumazenil and thyrotropin-releasing hormone
+3) Behavioral manifestations electroencephalograms EEGs and visually evoked potentials VEPs were studied in beagles with Eck 's fistula portacaval shunt PCS an established model of hyperammonemia to determine whether they developed CNS disorders characteristic of hepatic encephalopathy
+4) A 46-year-old female motorcyclist who suffered injuries to the brain stem in a traffic accident showed hypotensive and bradycardiac responses to thyrotropin-releasing hormone TRH given to counter consciousness disturbance
+5) After PCS behavioral changes occurred in the form of listlessness sluggishness altered gait snapping and transient catatonia-like symptoms and apparent blindness which appeared in that order and progressed to coma and death in some animals
+6) These findings indicate that Eck 's fistula dogs provide a useful model of hepatic encephalopathy
+7) These results indicate that in comatose patients the hemodynamic effects of TRH may differ depending on impairments in the central nervous system the results support previous reports indicating a mediation of the central sympathetic nervous system in the development of pressor effects of TRH
+8) Thyrotropin-releasing hormone produces different hemodynamic effects in vegetative and brain-dead patients
+9) We thus speculate that the hypotensive and bradycardiac effects of TRH observed in this patient may result from derangements of the sympathetic nervous system caused by the injuries
+--------------------
+Is Crohn 's disease ( CD ) linked to the consumption of refrigerated food ?
+0) Decreased consumption of dietary fibers , such as cellulose , has been proposed to promote the emergence of inflammatory bowel diseases ( IBD : Crohn disease [ CD ] and ulcerative colitis [ UC ] ) where intestinal microbes are recognized to play an etiologic role .
+1) Indigestible dietary fiber is metabolized by gut bacteria , including Faecalibacterium prausnitzii , to butyrate , which has a critical role in colonic homeostasis owing to a variety of functions .
+2) Several bacterial taxa decreased in relative abundance ( e.g. , Coriobacteriaceae [ p = 0.001 ] ) , and other taxa increased in abundance ( e.g. , Peptostreptococcaceae [ p = 0.008 ] and Clostridiaceae [ p = 0.048 ] ) .
+3) There was no untoward effect of the SVD .
+4) Further experiments revealed that anti-chemokine ligand ( Cxcl ) 13 ( the ligand of Cxcr5 ) antibody treatment decreased DSS colitis severity , implicating the importance of the Cxcr5-Cxcl13 pathway in mammalian colitis .
+5) We initiated a semivegetarian diet ( SVD ) , namely a lacto-ovo-vegetarian diet , for patients with inflammatory bowel disease .
+6) Consecutively , we found elevated CXCL13 concentrations ( CD : 1.8-fold , P = 0.0077 ; UC : 1.9-fold , P = 0.056 ) in the serum of untreated pediatric IBD patients .
+7) The fecal bacterial count of F prausnitzii in patients with CD is significantly lower than in healthy controls .
+8) Our SVD contains 32.4 g of dietary fiber in 2000 kcal .
+9) These excellent short - and long-term results can be explained partly by SVD .
+--------------------
+What is needed for MMP proteins to be functional ?
+0) Matrix Metalloproteinases ( MMPs ) are a family of 24 zinc-dependent proteases with the ability to degrade collagen and other extracellular matrix ( ECM ) proteins , which are important components of the cornea .
+1) In our recent study of the functional consequences of matrix metalloproteinase ( MMP ) -9 SNPs , we discovered that expression of a coding exon SNP in the pro-domain of the protein resulted in a profound decrease in the secreted protein .
+2) MMP leads to the functional impairment of mitochondria and to the release into the cytosol of toxic proteins that are normally confined within the mitochondrial intermembrane space .
+3) To better understand the role of subnuclear architecture in collagen and MMP expression , we mapped the osteoblast nuclear distribution of NP/NMP4 proteins and identified the functional motifs necessary for nuclear localization and nuclear matrix targeting .
+4) Jawed vertebrates ( Gnathostomes ) have 4 tissue inhibitors of metalloproteinases ( TIMPs ) , multifunctional proteins that all inhibit members of the large matrix metalloproteinase ( MMP ) family but differ in their other roles , including the regulation of pro-MMP activation , cell growth , apoptosis and angiogenesis , and the structure of extracellular matrices ( ECMs ) .
+5) HSPG degrading enzymes like heparanase , heparitinase , and other enzymes such as hyaluronidase and MMP are also important in tumor metastasis .
+6) These data underline the importance of functional interaction of MMPs with accessory proteins such as integrins during invasion , and the need for further studies to elucidate the molecular underpinnings of this process .
+7) Recent growing evidence has established that MMP not only can degrade a variety of components of extracellular matrix , but also can cleave and activate various non-matrix proteins , including cytokines , chemokines and growth factors , contributing to both physiological and pathological processes .
+8) Increased functional MMP activity , notably MMP-3 and -9 , is present in Crohn 's fistulas and may be inhibited by ramiprilate , a widely available ACE inhibitor .
+9) In the present study , we examined the possibility that MMPs that target critical BBB proteins , including laminin , entactin , and collagen type IV , are elevated in the cerebrospinal fluid ( CSF ) of patients with HIVD .
+--------------------
+What are the skeletal muscle satellite cells ?
+0) Proliferating skeletal muscle satellite cells are the source of additional myonuclei which allow skeletal muscle to grow and regenerate .
+1) Human skeletal muscle satellite cells are activated in response to both resistance and endurance exercise .
+2) Chicken skeletal muscle satellite cells are located between the basement membrane and the sarcolemma of mature muscle fibers .
+3) The authors conclude that skeletal muscle satellite cells are committed to myogenesis and do not spontaneously adopt an adipogenic fate .
+4) A plasma membrane glycoprotein common to embryonic chick myoblasts and adult chicken skeletal muscle satellite cells is the antigen recognized by monoclonal antibody C3/1 .
+5) However , most studies have focused on the ability to transduce mature muscle cells , and have not examined the ability to target myogenic stem cells such as skeletal muscle satellite cells .
+6) The proliferation and differentiation of skeletal muscle satellite cells is regulated by multiple regulatory factors including non-coding RNAs .
+7) The interactions of 125I-multiplication stimulating activity ( MSA ) and 125I-ovine somatomedin with receptors on skeletal muscle satellite cells are described .
+--------------------
+Which is the execution time ( complexity ) of the Smith-Waterman algorithm for the alignment of two sequences
+0) The problem of finding an optimal structural alignment for a pair of superimposed proteins is often amenable to the Smith-Waterman dynamic programming algorithm which runs in time proportional to the product of lengths of the sequences being aligned
+1) While the quadratic running time is acceptable for computing a single alignment of two fixed protein structures the time complexity becomes a bottleneck when running the Smith-Waterman routine multiple times in order to find a globally optimal superposition and alignment of the input proteins
+2) When running on structure-sequence alignment problems without long-range intersections i.e. C 0 the algorithm achieves the same asymptotic computational complexity of the Smith-Waterman sequence-sequence alignment algorithm
+3) Parallel Tiled Codes Implementing the Smith-Waterman Alignment Algorithm for Two and Three Sequences
+4) Searching a database for a local alignment to a query under a typical scoring scheme such as PAM120 or BLOSUM62 with affine gap costs is a computation that has resisted algorithmic improvement due to its basis in dynamic programming and the weak nature of the signals being searched for
+5) While this result is not an asymptotic improvement over the original Smith-Waterman algorithm its complexity is characterized in terms of some sparse features of the matrix and it yields the fastest software implementation to date for such searches
+6) The software is available at http://www.opencb.org exploits a suffix array to rapidly map a large fraction of the RNA fragments reads as well as leverages the accuracy of the Smith-Waterman algorithm to deal with conflictive reads
+7) It is related to conventional gene-expression clustering in a fashion analogous to the way local sequence alignment the Smith-Waterman algorithm is derived from global alignment Needleman-Wunsch
+8) A parallel execution strategy of the MapReduce phases and optimization of Smith-Waterman algorithm are considered
+9) The Smith-Waterman SW algorithm explores all the possible alignments between two or more sequences and as a result it returns the optimal local alignment
+--------------------
+Are adenylyl cyclases always transmembrane proteins ?
+0) In mammalian cells there are many PDE isoforms and two types of adenylyl cyclases the G protein regulated transmembrane adenylyl cyclases tmACs and the CO/HCO/pH calcium and ATP-sensing soluble adenylyl cyclase sAC
+1) The major mediators of CB 1 R are the G proteins of the G i/o family which inhibit adenylyl cyclases in most tissues and cells and regulate ion channels including calcium and potassium ion channels
+2) The family of eukaryotic adenylyl cyclases consists of a very large group of 12 transmembrane adenylyl cyclases and a very small group of soluble adenylyl cyclase sAC
+3) Soluble adenylyl cyclase sAC is a recently recognized source of the signaling molecule cyclic AMP cAMP that is genetically and biochemically distinct from the classic G-protein-regulated transmembrane adenylyl cyclases tmACs
+4) Soluble adenylyl cyclase sAC is a widely expressed source of cAMP in mammalian cells that is evolutionarily structurally and biochemically distinct from the G protein-responsive transmembrane adenylyl cyclases
+5) In mammals cAMP is produced by either the hormonally responsive G protein-regulated transmembrane adenylyl cyclases tmACs or by the bicarbonate and calcium-regulated soluble adenylyl cyclase sAC
+6) The stimulatory alpha-subunit of trimeric G-proteins Galpha s which upon ligand binding to seven-transmembrane receptors activates adenylyl cyclases to produce the second messenger cAMP constitutes one of the archetypal signal transduction molecules that have been studied in much detail
+7) Soluble adenylyl cyclase sAC represents a novel form of mammalian adenylyl cyclase structurally molecularly and biochemically distinct from the G protein-regulated transmembrane adenylyl cyclases tmACs
+8) Corticotropin-releasing hormone receptor 1 CRHR1 activates the atypical soluble adenylyl cyclase sAC in addition to transmembrane adenylyl cyclases tmACs
+9) The HAMP domain is present in a large number of transmembrane proteins in prokaryotes including histidine kinases adenylyl cyclases chemotaxis receptors and phosphatases
+--------------------
+How does thyroid hormone regulate mitochondrial biogenesis in the myocardium ?
+0) Similarities between the changes in cardiac gene expression in pathological hypertrophy leading to heart failure and hypothyroidism prompted scientists to suggest a role for thyroid hormone status in the development of metabolic and functional alterations in this disease
+1) Changes in thyroid status are associated with profound alterations in biochemical and physiological functioning of cardiac muscle although its impact on cardiac energy metabolism is still debated
+2) Mitochondrial utilization of glycerol-3P -70 malate -45 and octanoate -24 but not pyruvate was decreased in HYPO
+3) We examined the effects of hypothyroid state on oxidative capacity and mitochondrial substrate utilization by measuring oxygen consumption of saponin permeabilized cardiac fibers mitochondrial biogenesis by reverse transcription polymerase chain reaction and energy metabolism and energy transfer enzymes by spectrophotometry
+4) These results show that cellular hypothyroidism can hardly account for the specific energetic alterations of heart failure
+5) Besides hypothyroidism decreased the activation of other signaling pathways like p38 mitogen-activated protein kinases AMP-activated protein kinase and calcineurin
+6) The results show that maximal oxidative capacity of the myocardium was decreased from 24.9 0.9 in control CT to 19.3 0.7 micromol O 2 min -1 g dry weight -1 in HYPO
+7) However protein content and messenger RNA mRNA of PGC-1alpha and mRNA of its transcription cascade that is thought to control mitochondrial content in normal myocardium and heart failure were unchanged in HYPO
+8) Mitochondrial and energetic cardiac phenotype in hypothyroid rat
+9) Moreover the creatine kinase system and energy transfer were hardly affected in HYPO
+--------------------
+What is the mechanism of cementogenesis in pulp regeneration ?
+0) The aim of this study was to explore whether dentin formation could be induced using an inductive substrate and whether bioengineered dentin could induce cementum and PDL formation
+1) Stem cell-mediated root regeneration offers opportunities to regenerate a bio-root and its associated periodontal tissues to restore tooth loss
+2) Periodontal ligament PDL and cementum complex and dentin pulp complex have been tissue engineered using human dental pulp stem cells and PDL stem cells respectively
+3) Cementum and periodontal ligament-like tissue formation induced using bioengineered dentin
+4) First dentin was bioengineered from tooth papillae of Sprague-Dawley SD rats with an inductive substrate and its phenotype was characterized then primarily cultured human PDL cells were seeded on the surface of dentin and transplanted under the skin of immunocompromised mice
+5) Histological immunohistochemical and scanning electronic microscopy examinations results showed that bioengineered dentin could induce cementogenesis and PDL formation and condense PDL arranged perpendicularly on the dentin surface via a layer of cementum-like tissue
+6) The results indicated that tissue-engineered dentin could be induced using an inductive substrate and could be used as a further substrate for cementum and PDL tissue engineering
+--------------------
+Which are the subunits of the transcription factor NF-kappaB in the canonical pathway activation ?
+0) Inhibition of NF-kappaB by suppressing the canonical NF-kappaB activation pathway for instance by knockdown of the three subunits of the inhibitor of NF-kappaB I kappaB kinase IKK complex IKK1 IKK2 and NEMO triggers apoptosis in such cells
+1) Here we show that dectin-1 expressed on human dendritic cells activates not only the Syk-dependent canonical NF-kappaB subunits p65 and c-Rel but also the noncanonical NF-kappaB subunit RelB
+2) The NF-κB nuclear factor κ-light-chain-enhancer of activated B cells transcription factor family is a pleiotropic regulator of many cellular signaling pathways providing a mechanism for the cells in response to a wide variety of stimuli linking to inflammation
+3) NF-κB can regulate the transcription of genes such as chemokines cytokines proinflammatory enzymes adhesion molecules proinflammatory transcription factors and other factors to modulate the neuronal survival
+4) Recent molecular dissection of its mechanisms for activation has shown that NF-kappalB can be induced by the so-called canonical and noncanonical pathways leading to distinct patterns in the individual subunits activated and downstream genetic responses produced
+5) Cells lacking IKKi are normal in activation of the canonical NF-kappaB pathway but fail to induce C/EBPdelta activity and transcription of C/EBP and C/EBP-NF-kappaB target genes in response to LPS
+6) Phosphorylation of the inhibitory proteins is mediated by an IkappaB kinase IKK complex which can be composed of two subunits with enzymatic activity IKKalpha and IKKbeta
+7) The canonical activation pathway of NF-kappaB is initiated by phosphorylation of the inhibitor by an IkappaB kinase IKK complex triggering ubiquitination of IkappaB molecules by SCF-type E3-ligase complexes and rapid degradation by 26S-proteasomes
+8) Upon activation of cells with tumour necrosis factor-alpha the CSN complex dissociates from IKK 's allowing full and rapid activation of the NF-kappaB pathway by the concerted action of interacting protein complexes
+9) The C-type lectin dectin-1 activates the transcription factor NF-kappaB through a Syk kinase-dependent signaling pathway to induce antifungal immunity
+--------------------
+Which are the genes thought to be regulated by EWS / FLI ?
+0) In a parallel approach , we found that EWS/FLI uses GGAA microsatellites to regulate the expression of some of its target genes including NR0B1 , a gene required for Ewing 's sarcoma oncogenesis .
+1) We recently showed that EWS/FLI interacts with GGAA-microsatellites to regulate some of its target genes , including NR0B1 , an EWS/FLI-regulated gene that is required for the oncogenic phenotype of Ewing 's sarcoma .
+2) Apart from the chimeric oncoprotein that derives from the fusion of EWS and FLI genes , recent genome-wide association studies have identified susceptibility variants near the EGR2 gene that regulate DNA binding of EWS-FLI .
+3) We used transcriptional profiling and chromatin immunoprecipitation to identify genes that are regulated by NR0B1 , and compared these data to similar data for EWS/FLI .
+4) Although the transcriptional profile overlapped as expected , we also found that the genome-wide localization of NR0B1 and EWS/FLI overlapped as well , suggesting that they regulate some genes coordinately .
+5) Genes up regulated by EWS/FLI1 but not by full-length FLI1 were identified by representational difference analysis ( RDA ) .
+6) Desmoplastic small round cell tumor ( DSRCT ) is defined by a chimeric transcription factor , resulting from fusion of the N-terminal domain of the Ewing 's sarcoma gene EWS to the three C-terminal zinc fingers of the Wilms ' tumor suppressor WT1 .
+7) The findings that high TAF15 levels are needed for rapid cellular proliferation and that endogenous TAF15 levels decrease during differentiation strongly suggest that TAF15 is a key regulator of maintaining a highly proliferative rate of cellular homeostasis .
+8) In this study , we therefore show that miR-30a-5p constitutes a major functional link between EWS-FLI1 and CD99 , two critical biomarkers and therapeutic targets in Ewing sarcoma .
+9) Our present results suggest that BLCAP may play a role not only in regulating cell proliferation but also in coordinating apoptosis through the down-regulation of BCL-2 and EWS-FLI1 in human Ewing 's sarcoma cells .
+--------------------
+Which are the enzymes involved in the addition of 7-methylguanosine in mRNA ?
+0) The creation of translation-competent mRNA is dependent on RNA polymerase II transcripts being modified by addition of the 7-methylguanosine ( m7G ) cap .
+1) At least two decapping enzymes , Dcp2 and Nudt16 , and an array of decapping regulatory proteins remove the m ( 7 ) G cap from an mRNA exposing the 5 ' - end to exonucleolytic decay .
+2) Myc proteins also up-regulate translation by increasing addition of the 7-methylguanosine cap ( methyl cap ) to the 5 ' end of pre-mRNA .
+3) The recent demonstration that the Saccharomyces cerevisiae Rai1 protein selectively hydrolyzes aberrantly capped mRNAs provides new insights into the modulation of mRNA that lack a canonical m ( 7 ) G cap 5 ' - end .
+4) The cap structure is formed by several activities and completed by RNMT ( RNA guanine-7 methyltransferase ) , which catalyzes N7 methylation of the cap guanosine .
+5) Phosphorylation of the CTD recruits RNGTT and RNMT , the enzymes involved in mRNA capping , to the nascent transcript .
+6) Myc induces methyl cap formation by promoting RNA polymerase II phosphorylation which recruits the capping enzymes to RNA , and by up-regulating the enzyme SAHH ( S-adenosylhomocysteine hydrolase ) , which neutralizes the inhibitory by-product of methylation reactions .
+7) The enzyme adds on a 7-methylguanosine cap at the 5 ' end of the RNA using GTP and S-adenosyl methionine as donors ( cap 0 structure ) .
+8) The RNA polymerase II ( RNAP II ) transcription cycle is accompanied by changes in the phosphorylation status of the C-terminal domain ( CTD ) , a reiterated heptapeptide sequence ( Y ( 1 ) S ( 2 ) P ( 3 ) T ( 4 ) S ( 5 ) P ( 6 ) S ( 7 ) ) present at the C terminus of the largest RNAP II subunit .
+9) Modification of the 5 ' terminus of mRNA by an RNA ( guanine-7 - ) - methyltransferase from HeLa cells .
+--------------------
+List all articles on network meta-analysis for smoking cessation
+0) This is clearly highlighted by a number of recent landmark network meta-analyses on smoking cessation therapies coronary stents and management of patent foramen ovale in patients with history of cryptogenic stroke
+1) Effects of different pharmacologic smoking cessation treatments on body weight changes and success rates in patients with nicotine dependence A network meta-analysis
+2) Smoking cessation interventions in COPD a network meta-analysis of randomised trials
+3) Network meta-analysis for evidence synthesis what is it and why is it posed to dominate cardiovascular decision making
+4) Stemming from qualitative reviews systematic reviews of randomized clinical trials typically encompassing statistical pooling with pairwise meta-analysis have been devised and are now considered one of the uppermost ladders in the hierarchy of clinical evidence
+5) A Comparison of Midazolam Lorazepam and Diazepam for the Treatment of Status Epilepticus in Children A Network Meta-analysis
+6) Antifungal prophylaxis in liver transplantation a systematic review and network meta-analysis
+7) In the network meta-analysis an equivalent reduction in the rate of IFI was seen with fluconazole OR 0.21 CI 0.06-0 .57 and L-AmB OR 0.21 CI 0.05-0 .71 compared with placebo
+8) Meta-analyses that simultaneously compare multiple treatments usually referred to as network meta-analyses or mixed treatment comparisons are becoming increasingly common
+9) We recommend that analysts consider using arm-based parameterization when carrying out network meta-analyses
+--------------------
+Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity ?
+0) Mammalian target of rapamycin ( mTOR ) is a serine/threonine kinase that exists in two separate complexes , mTORC1 and mTORC2 , that function to control cell size and growth in response to growth factors , nutrients , and cellular energy levels .
+1) RagA : RagB , active in its GTP-bound form , is inhibited by GATOR1 complex , a GTPase-activating protein , and GATOR1 is in turn negatively regulated by GATOR2 complex .
+2) TBCK is a putative GTPase-activating protein ( GAP ) for small GTPases of the Rab family and has been shown to control cell growth and proliferation , actin-cytoskeleton dynamics , and mTOR signaling .
+3) A number of proteins involved in cell growth control , including members of the Ras family of GTPases , are modified at their C terminus by a three-step posttranslational process termed prenylation .
+4) Also discussed are current findings that have unravelled a series of novel mTORC1-associated proteins that directly control the activity of mTORC1 and include PRAS40 , FKBP38 , Rag GTPases and RalA .
+5) Germline mutations in the novel tumor suppressor gene FLCN are responsible for the autosomal dominant inherited disorder Birt-Hogg-Dubé ( BHD ) syndrome that predisposes to fibrofolliculomas , lung cysts and spontaneous pneumothorax , and an increased risk for developing kidney tumors .
+6) Because sirolimus and everolimus only affect the activity of mTOR complex 1 , therapies targeting RhoA GTPases with simvastatin , which inhibits Rho GTPases and promotes apoptosis , are being investigated .
+7) As one of the key environmental stimuli , amino acids ( AAs ) , especially leucine , glutamine and arginine , play a crucial role in mTORC1 activation , but where and how AAs are sensed and signal to mTORC1 are not fully understood .
+8) Despite a large number of initial reports on the TSC1/TSC2 complex , and the finding that its activity is regulated by protein kinase B ( PKB ) , the direct target of the TSC1/TSC2 inhibitory complex was unknown until recently .
+9) We also show that cAMP inhibits insulin and amino acid-stimulated mTORC1 activation independently of Rheb , Rag GTPases , TSC2 , PKB , MAPK and AMPK , indicating that cAMP may act independently of known regulatory inputs into mTOR .
+--------------------
+How many periods of regulatory innovation led to the evolution of vertebrates ?
+0) Three periods of regulatory innovation during vertebrate evolution
+1) Early vertebrate evolution was characterized by regulatory gains near transcription factors and developmental genes but this trend was replaced by innovations near extracellular signaling genes and then innovations near posttranslational protein modifiers
+2) To investigate the gain of regulatory elements throughout vertebrate evolution we identified genome-wide sets of putative regulatory regions for five vertebrates including humans
+3) Starting even before the end of World War II the discipline of comparative physiology and biochemistry experienced a period of unprecedented growth and development that pioneers in this field thought would never end
+4) We analyse regulatory evolution after whole-genome duplications and find that-in vertebrates-over 80 of broadly expressed gene families with multiple paralogues derived from whole-genome duplications have members that restricted their ancestral expression and underwent specialization rather than subfunctionalization
+5) The breakthrough which gave renewal to the field at this time was the development of microprocessor based monitoring of diving animals in their natural environments which led to a flurry of studies mostly confirming the essential outlines of the diving response based upon laboratory studies and firmly placing it into a proper biological context underlining its plasticity and species specificities
+6) However it is more difficult for molecular evolution theory to explain how complex regulatory systems like those involved in bradycardia and peripheral vasoconstriction remain the same through phylogenetic time than it is to explain physiological change driven by directional natural selection
+7) Features of the structure and the evolution of the system of gene regulation furnish the background necessary for a molecular understanding of parallel evolution
+8) In this work through the characterization of an miRNA super family we studied the evolutionary patterns of miRNAs in vertebrates
+9) These data pave the way for a better understanding of the regulatory principles that underlie key vertebrate innovations
+--------------------
+Which are the state-of-the-art computational tools for the prediction of gene fusion events ?
+0) The discovery of ETS gene fusions as common events in prostate cancer represents a paradigmatic shift in the significance attributed to chromosomal translocations as a key mechanistic player in carcinogenesis
+1) Gene fusions are important genomic events in human cancer because their fusion gene products can drive the development of cancer and thus are potential prognostic tools or therapeutic targets in anti-cancer treatment
+2) INTEGRATE-Vis is the first comprehensive gene fusion visualization tool to help a user infer the potential consequence of a gene fusion event
+3) Despite the increasing quantity of tools for accurately predicting gene fusion candidates from sequencing data we are still faced with the critical challenge of visualizing the corresponding gene fusion products to infer their biological consequence i.e. novel protein and increased gene expression
+4) IDP-fusion is the first method to study gene fusion events by integrating Third Generation Sequencing long reads and Second Generation Sequencing short reads
+5) As a powerful tool for gene function prediction gene fusion has been widely studied in prokaryotes and certain groups of eukaryotes but it has been little applied in studies of mammalian genomes
+6) To address these key issues we developed a genetic tool in mice by introducing a fusion protein of Cre recombinase and estrogen receptor CreER into the calcitonin gene-related peptide CGRP locus that encodes a major peptide in PNECs
+7) Gene fusions are common driver events in leukaemias and solid tumours here we present FusionAnalyser a tool dedicated to the identification of driver fusion rearrangements in human cancer through the analysis of paired-end high-throughput transcriptome sequencing data
+8) The specificity of fusion genes to neoplastic tissues and their diverse functionalities during carcinogenesis foster them as promising tools in the battle against cancer
+9) We have developed a web platform FusionHub which acts as integrated search engine interfacing various fusion gene databases and simplifies large scale annotation of fusion genes in a seamless way
+--------------------
+Which is the definition of pyknons in DNA ?
+0) Our analysis suggests that units of genetic information encoded in the linear sequences of the 3.6 billion bases of human genome are condensed in approximately 200,000 bases 0.006 of 5 UTR pyknons which are represented by hundreds of copies in a genome and utilized to build genome-unique sequences
+1) Because of the association of pyknons with siRNAs and localization to silenced regions of heterochromatin we postulate that RNA-mediated gene silencing leads to the accumulation of gene sequences in non-coding DNA regions
+2) Because the A. thaliana and human genomes have approximately the same number of genes but drastically different amounts of non-coding DNA these data reveal that pyknons represent a biologically important link between coding and non-coding DNA
+3) Discovery of pyknons the most frequent variable-length DNA sequence motifs in the human genomes suggests extensive sequence-based connectivity between non-coding and protein-coding components of human genomes
+4) Allele-specific sequence variations link disease-associated SNPs to distinct sets of pyknons and microRNAs suggesting that increased susceptibility to multiple common human disorders is associated with global alterations of genome-wide regulatory templates affecting the biogenesis and functions of non-coding RNAs
+5) Pyknons are non-random sequence patterns significantly repeated throughout non-coding genomic DNA that also appear at least once among coding genes
+6) Here we report identification of ubiquitous template design sequences templum intentio series templints of human genomes common for disease-associated SNPs microRNAs and pyknons
+7) A. thaliana pyknons exhibit features similar to human pyknons including being distinct sequence patterns having multiple instances in genes and having remarkable similarity to small RNA sequences with roles in gene silencing
+8) Human genome connectivity code links disease-associated SNPs microRNAs and pyknons
+9) We propose the hypothesis that HIV-1 alters the structure-function relationship of chromatin coding DNA and non-coding DNA including RNA transcribed from these regions resulting in pathogenesis in AIDS drug abuse and NeuroAIDS
+--------------------
+Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome ?
+0) The association between nuchal translucency thickness and risk of Down syndrome was firstly observed in high risk populations as an old maternal age or a history of a previous child affected by Down syndrome
+1) On findings of prenatal ultrasonography nuchal translucency thickness was different between twins and suggested that one of the twins was at high risk for having chromosomal abnormalities including Down syndrome
+2) The nuchal translucency is the usual subcutaneous space between the skin and the soft tissues covering the fetus neck spine observed by ultrasound during the first trimester of pregnancy
+3) For an adjusted risk on the maternal age the detection rate increased up to 77
+4) The global sensitivity of this screening was 70 for a false positive rate of 5
+5) The twins were monochorionic-diamniotic therefore chorionic villi sampling of the common placenta was performed
+6) Monozygotic twins with discordant karyotypes are thought to be quite rare
+7) A mitotic nondisjunction followed by the twinning would explain the discordant karyotypes between monozygotic twins
+8) Monozygotic twin discordant for Down syndrome mos 47 XX +21 46 XX and 46 XX
+9) The karyotype of the chorionic villi cells was 46 XX and pregnancy was maintained
+--------------------
+Which molecule is targeted by a monoclonal antibody Mepolizumab ?
+0) This review focuses on the role of mepolizumab , a fully humanized monoclonal antibody against IL-5 molecule that regulates the eosinophil life cycle , in the management of patients with this phenotype of COPD .
+1) Expert commentary : The use of monoclonal antibodies against IL-5 to decrease the eosinophil proliferation and subsequent airway inflammation is a promising therapeutic target for this phenotype of COPD patients .
+2) These include monoclonal antibodies against IL-5 or IL-5 receptor alpha ( mepolizumab , reslizumab , and benralizumab ) , IL-13 ( lebrikizumab and tralokinumab ) , IL-4 receptor alpha ( dupilumab ) , IgE ( omalizumab ) , and anti-thymic stromal lymphopoietin ( tezepelumab ) and small molecule therapies such as prostaglandin Dblockers ( fevipiprant and timapiprant ) .
+3) Benralizumab blocks the receptor for IL-5 ( IL5-Rα ) and has a direct cytotoxic effect on eosinophils , and dupilumab blocks the α-unit of the heterodimeric receptor for IL-4 and IL-13 ( IL-4Rα ) ; as a result , dupilumab can block both IL-4 and IL-13 .
+4) For example , IL-33 is a target for atopic asthma where IL-33 and its receptor complex structure is available in PDB .
+5) Currently , they are being developed some new drugs , such as SB-207499 ( SKB ) and LAS 31025 , which are selective inhibitors of fosfodiesterase .
+6) These new insights have led to both a genetically based ( re ) classification of eosinophilic blood disorders and to effective therapies with targeted agents , such as small-molecule tyrosine kinase inhibitors ( eg , imatinib , nilotinib , PKC412 ) and , more recently , monoclonal antibodies ( eg , mepolizumab , alemtuzumab ) .
+7) Most of the MAbs including Tracolizumab , Lebrikizumab , Anrukinzumab ( Anti IL-13 MAb ) , and Brodalumab ( Anti IL-17 MAb ) are in different phases of clinical trials .
+8) Anti IgE MAb ( Omalizumab ) and Anti IL - 5 MAbs ( Mepolizumab , Reslizumab ) have only been approved by FDA .
+9) IL-2 / IL-2R was targeted with clinically tested small molecule modulators like SP4206 , and IL-2 levels were known to increase in non-atopic asthma .
+--------------------
+Which kinase is inhibited by Tripolin A ?
+0) Tripolin A , a novel small-molecule inhibitor of aurora A kinase , reveals new regulation of HURP 's distribution on microtubules .
+1) Interestingly , Tripolin A affected the gradient distribution towards the chromosomes , but not the MT binding of HURP ( Hepatoma Up-Regulated Protein ) , a MT-associated protein ( MAP ) and substrate of the Aurora A kinase .
+2) In this study , from a panel of 105 potential small-molecule inhibitors , two compounds Tripolin A and Tripolin B , inhibited Aurora A kinase activity in vitro .
+--------------------
+Which are the different proteins / isoforms encoded but the ASPH ( aspartate beta-hydroxylase ) gene in humans ?
+0) EGF upregulates aspartate beta-hydroxylase ( ASPH ) which is influencing CASP3 .
+1) Knockdown of ASPH expression altered CCA development by modulating RB1 phosphorylation , as one of the major factors regulating the growth of these tumors .
+2) Immunoassays were used to clarify how ASPH modulates CCA progression by promoting phosphorylation of the retinoblastoma protein ( RB1 ) .
+3) Aspartate beta-hydroxylase promotes cholangiocarcinoma progression by modulating RB1 phosphorylation .
+4) Treatment with 2-OG-dependent dioxygenase and ASPH inhibitors suppressed the interaction between RB1 and CDK4 as well as RB1 phosphorylation .
+5) Hyper-g induced a significant up-regulation of TUBB1 , VIM , RDX , CAV1 , VEGFA and BCL2 .
+6) Expression of ASPH promoted direct protein interaction between RB1 , cyclin-dependent kinases , and cyclins .
+7) Knockdown of ASPH expression inhibited CCA progression and RB1 phosphorylation in vivo and they were found to be highly expressed in human CCAs .
+8) Pathway analyses revealed central functions of VEGFA and EGF .
+9) Knockdown of ASPH expression inhibited CCA development and growth by reducing RB1 phosphorylation .
+--------------------
+What is known as the cause of subacute thyroiditis ?
+0) Subacute granulomatous thyroiditis ( SAT ) , also known as de Quervain 's thyroiditis or painful subacute thyroiditis , is the commonest thyroid condition responsible for neck tenderness .
+1) As subacute thyroiditis is a common cause of hyperthyroidism in our community , the authors believe all people with hyperthyroidism should have a thyroid scan unless they have distinctive features of Graves ' disease .
+2) Autoimmune postpartum and subacute thyroiditis , tumors that secrete thyrotropin , and drug-induced thyroid dysfunction , are also important causes .
+3) Autoimmune postpartum and subacute thyroiditis , tumours that secrete thyrotropin , and drug-induced thyroid dysfunction , are also important causes .
+4) Silent thyroiditis and subacute thyroiditis are important causes of transient thyrotoxicosis from rapidly progressive tissue injury , followed by the release of thyroid hormone into the circulation .
+5) Although the cause of subacute thyroiditis remains unclear , viral infection has been implicated in the onset of subacute thyroiditis in genetically predisposed individuals .
+6) We speculate that the infection of the thyroid gland may cause subacute thyroiditis , a transient form of thyroiditis causing hyperthyroidism , resulting in changes in adrenocortical activity that could lead to hormonal dysfunction , thereby distinguishing the clinical presentation of rabies in the rabid host .
+7) Iatrogenic thyrotoxicosis may be caused by ( 1 ) subacute thyroiditis ( a result of lymphocytic infiltration , cellular injury , trauma , irradiation ) with release of preformed hormones into circulation ; ( 2 ) excessive ingestion of thyroid hormones ( `` thyrotoxicosis factitia '' ) ; ( 3 ) iodine-induced hyperthyroidism ( radiologic contrast agents , topical antiseptics , other medications ) .
+8) Emergence of subacute thyroiditis in a case with preexisting Hashimoto 's thyroiditis is a quite rare condition , but should be kept in mind along with a painful attack of HT in the differential diagnosis .
+9) While subacute thyroiditis has historically been due to viral causes , rarely do we see this condition associated with an intestinal bacterial source .
+--------------------
+The protein neprilysin has an positive effect on Alzheimer disease , how can it be delivered to the brain ?
+0) AD is primarily a dementia-related disorder from progressive cognitive deterioration and memory impairment , while PD is primarily a movement disorder illness having three major kinesia or movement disorder symptoms , bradykinesia ( slowness of movements ) , hypokinesia ( reduction of movement amplitude ) , and akinesia ( absence of normal unconscious movements ) along with muscle rigidity and tremor at rest .
+1) Brain neprilysin activity and susceptibility to transgene-induced Alzheimer amyloidosis .
+2) Targeting the amyloid ( Aβ ) peptide cascade has been at the heart of therapeutic developments in Alzheimer disease research for more than 25 years yet no successful drugs have reached the marketplace based on this hypothesis .
+3) We have introduced adeno-associated virus ( AAV ) expressing the mouse NEP gene into the hindlimb muscle of 6-month-old human amyloid precursor protein ( hAPP ) ( 3X-Tg-AD ) mice , an age which correlates with early stage AD .
+4) Protein levels of neprilysin were reduced with age in the temporal and frontal cortex of AD and normal brain .
+5) Tissue transglutaminase ( TGase ) has been implicated in neurodegeneration and can cross-link Abeta .
+6) Expression of neprilysin in skeletal muscle reduces amyloid burden in a transgenic mouse model of Alzheimer disease .
+7) Alzheimer disease ( AD ) is characterized by widespread neurodegeneration throughout the association cortex and limbic system , deposition of amyloid-β peptide ( Aβ ) in the neuropil and around the blood vessels , and formation of neurofibrillary tangles .
+8) To investigate the relationship of Abeta APFs to disease and their ultrastructural localization in brain tissue , we conducted a pre-embedding immunoelectron microscopic study using anti-annular protofibril antiserum .
+9) Neprilysin mRNA levels were lowest in the hippocampus and temporal gyrus , which are vulnerable to senile plaque development .
+--------------------
+Which are the bioinformatics tools for gene structure prediction ?
+0) Following the structure used for the YEASTRACT database PathoYeastract makes available bioinformatics tools that enable the user to exploit the existing information to predict the TFs involved in the regulation of a gene or genome-wide transcriptional response while ranking those TFs in order of their relative importance
+1) Predicting protein function has been a major goal of bioinformatics for several decades and it has gained fresh momentum thanks to recent community-wide blind tests aimed at benchmarking available tools on a genomic scale
+2) Bioinformatics tools developed for miRNA study include those for miRNA prediction and discovery structure analysis and target prediction
+3) Hence we developed a bioinformatics pipeline using an in-house PERL script and publicly available structure prediction tools to identify miRNAs and their target genes from publically available Expressed Sequence Tags EST and Genomic Survey Sequence GSS
+4) Methods for the prediction of gene structure are essential components in genomic sequencing projects and provide the key to deriving protein sequence and locating intron/exon junctions
+5) The PathoYeastract database further provides simple tools for the prediction of gene and genomic regulation based on orthologous regulatory associations described for other yeast species a comparative genomics setup for the study of cross-species evolution of regulatory networks
+6) Additionally pyoverdine structures from both literature reports and bioinformatics prediction of the genome sequenced P. putida strains are summarized allowing us to propose a scheme based on pyoverdines structures as tool for the phylogeny of P. putida
+7) We have developed a bioinformatics tool QGRS-H Predictor that can map and analyze conserved putative Quadruplex forming G Rich Sequences QGRS in mRNAs ncRNAs and other nucleotide sequences e.g. promoter telomeric and gene flanking regions
+8) The use of sequence database analysis for large-scale comparative analysis of genome sequence data from model organisms is emerging as the most important recent development in the application of bioinformatics methods for characterizing candidate disease genes
+9) In this research the in silico PCS gene structure SoPCS of sugarcane its secondary and 3D protein structure physicochemical properties cell localization and phylogenetic tree were predicted utilizing bioinformatics tools
+--------------------
+How is myotonic dystrophy inherited ?
+0) myotonic dystrophy also called the Curschmann-Steinert syndrome is an autosomal dominant inherited neuromuscular disorder characterized by progressive muscular dystrophy muscle weakness and myotonia which can affect both mother and child
+1) The most common form of inherited muscular dystrophy in adults is myotonic dystrophy DM an autosomal-dominant disease caused by the expansion of an unstable CTG repeat sequence in the 3 untranslated region of the myotonin protein kinase DMPK gene
+2) Children who inherit the autosomal dominant gene for myotonic dystrophy from their mother rather than their father may develop the severe neonatal type rather than the late onset type
+3) The recent discovery of inherited unstable DNA sequences first in fragile-X mental retardation and now in myotonic dystrophy not only confirms that anticipation indeed has a true biological basis but provides a specific molecular mechanism for it this discovery can explain many of the puzzling anomalies in the inheritance of myotonic dystrophy and may prove relevant to comparable problems in other genetic disorders
+4) Facioscapulohumeral muscular dystrophy FSHD is the third most common inherited neuromuscular disorder after Duchenne muscular dystrophy and myotonic dystrophy
+5) Congenital myotonic dystrophy CMD is an inherited neuromuscular disorder with cardiac rhythm abnormalities that may occur as a child grows
+6) Facioscapulohumeral dystrophy FSHD is the third most common inherited muscular dystrophy after Duchenne dystrophy and myotonic dystrophy
+7) DM myotonic dystrophy is a dominantly inherited genetic disorder that is the most common cause of muscular dystrophy in adults affecting 1 in 8500 individuals worldwide
+8) Fly models of spinal muscular atrophy spinobulbar muscular atrophy myotonic dystrophy dystrophinopathies and other inherited neuromuscular diseases recapitulate many of the key pathologic features of the human disease
+9) Myotonic dystrophy is a progressive multisystem disorder that may be inherited from either parent although only children with affected mothers usually show the more severe congenital form of the condition others are classified as having adult myotonic dystrophy
+--------------------
+Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies ?
+0) Among these proteins are Argonaute 1 ( Ago1 ) and Argonaute 2 ( Ago2 ) , factors that are important for RNA silencing and whose interactions with A3G are resistant to RNase treatment .
+1) We report , for the first time , that hAgo2 is recruited to stress granules as a consequence of its interaction with miRNAs .
+2) Argonaute proteins are the core components of the RNA-induced silencing complex , the central effector of the mammalian RNA interference pathway .
+3) Members of the APOBEC ( apolipoprotein B mRNA-editing enzyme catalytic polypeptide 1-like ) family of cytidine deaminases inhibit host cell genome invasion by exogenous retroviruses and endogenous retrotransposons .
+4) Because these enzymes can edit DNA or RNA and potentially mutate cellular targets , their activities are presumably regulated ; for instance , APOBEC3G ( A3G ) recruitment into high-molecular-weight ribonucleoprotein ( RNP ) complexes has been shown to suppress its enzymatic activity .
+5) In the present study , we show that heat-shock protein ( Hsp ) 90 activity is required for efficient targeting of hAgo2 to PBs and SGs .
+6) We also speculate that the interplay between A3G , RNA-silencing pathways , and cellular sites of RNA metabolism may contribute to A3G 's role as an inhibitor of retroelement mobility and as a possible regulator of cellular RNA function .
+7) Understanding what regulates targeting of Argonautes to RNA granules may provide clues as to their functions at these organelles .
+8) Argonaute proteins are effectors of RNA interference that function in the context of cytoplasmic ribonucleoprotein complexes to regulate gene expression .
+9) To this end , there are a number of conflicting reports that describe the role of small RNAs in targeting Argonaute proteins in mammalian cells .
+--------------------
+Which are the newly identified DNA nucleases that can be used to treat thalassemia ?
+0) Iron chelating agents deferoxamine DFO deferiprone DFP and deferasirox DFX are used to treat chronic iron overload in patients with β-thalassemia in an attempt to reduce morbidity and mortality related to siderosis
+1) Fetal hemoglobin switching agents have been proposed to treat genetic blood disorders such as sickle cell anemia and beta-thalassemia in an effort to compensate for the dysfunctional form of the beta-globin chain in adult hemoglobin
+2) Genome editing using CRISPR-Cas9 to create the HPFH genotype in HSPCs An approach for treating sickle cell disease and β-thalassemia
+3) Thus reactivating the expression of the γ-globin gene in adult patients to ameliorate their clinical symptoms has become one of the best therapeutic strategies to treat β-thalassemia and sickle cell diseases
+4) Although making a sequence-specific nuclease to enhance correction of a specific HBB mutation by homology-directed repair HDR is becoming straightforward targeting various HBB mutations of β-thal is still challenging because individual guide RNA as well as a donor DNA template for HDR of each type of HBB gene mutation have to be selected and validated
+5) Importantly during the last years additional curative options for patients with thalassemia and sickle cell disease are being developed based on the ability to manipulate the genome by employing programmable nucleases and next-generation genome-modifying tools thus providing the exciting prospects of targeted in-situ gene correction
+6) The innovation of reprogramming somatic cells to induced pluripotent stem cells provides a possible new approach to treat beta-thalassemia and other genetic diseases such as sickle cell anemia
+7) Induced pluripotent stem cells offer new approach to therapy in thalassemia and sickle cell anemia and option in prenatal diagnosis in genetic diseases
+8) The fact that currently patients with beta-thalassemia have a longer life expectancy may explain the recent observation of this entity which should become more familiar to orthopedic surgeons who treat thalassemia patients in the future
+9) Although hematopoietic stem cell transplantation HSCT has been widely used to treat pediatric patients with beta-thalassemia major evidence showing whether this treatment improves health-related quality of life HRQoL is lacking
+--------------------
+Which diseases are associated with Alu element insertion ?
+0) Although Alu insertions have been implicated in other diseases , and a closely related AluY element is found as an insert in the C1 inhibitor gene in patients with hereditary angioedema , this is the first case of glycerol kinase deficiency caused by an Alu insertion .
+1) We found a disease-specific SVA ( short interspersed nuclear element , variable number of tandem repeats , and Alu composite ) retrotransposon insertion in an intron of the TATA-binding protein-associated factor 1 gene ( TAF1 ) , which encodes the largest component of the TFIID complex , and significantly decreased expression levels of TAF1 and the dopamine receptor D2 gene ( DRD2 ) in the caudate nucleus .
+2) Mining the databases for putative retroposition-competent elements that share 100 % nucleotide identity to the previously reported de novo Alu insertions linked to human diseases resulted in the retrieval of 13 exact matches to the NF1 Alu repeat , three to the Alu element in BRCA2 , and one to the Alu element in FGFR2 ( Apert syndrome ) .
+3) Ancestral DYT3 haplotype and disease-specific SVA ( short interspersed nuclear element , variable number of tandem repeats , and Alu composite ) retrotransposon insertion were identified in the DYT3 proband and two female unaffected family members .
+4) Over the past decade , the insertion/deletion ( I/D ) polymorphism of a 287-bp Alu element in intron 16 of the ACE gene has attracted significant attention and has been extensively investigated in a spectrum of cardiovascular phenotypes , because of its correlation with serum ACE activity .
+5) Although most of mobile elements are fixed within the human population , some elements ( including ALU , long interspersed elements ( LINE ) 1 ( L1 ) , and SVA ) are still actively duplicating and may result in life-threatening human diseases such as cancer , motivating the need for accurate mobile-element insertion ( MEI ) detection tools .
+6) Mobile element insertions ( MEI ) have been identified as causes for genetic diseases , including hemophilia , neurofibromatosis , and various cancers .
+7) Using the polymerase chain reaction ( PCR ) on genomic DNA isolated from patients with AMD ( n = 173 ) , and an age-matched control population ( n = 189 ) , we amplified a region polymorphic for an Alu element insertion in the ACE gene .
+8) We have found 16 examples of diseases caused by the insertion of Alu elements , suggesting that they may contribute to about 0.1 % of human genetic disorders by this mechanism .
+9) We analyzed 269 Alu Ya5 elements and identified 23 members of a new Alu subfamily termed Ya5a2 with an estimated copy number of 35 members , including the de novo Alu insertion in the NF1 gene .
+--------------------
+Which is the defective protein causing the lysosomal storage disease Fabry ?
+0) Niemann-Pick disease type C ( NPC ) and Wolman disease are two members of a family of storage disorders caused by mutations of genes encoding lysosomal proteins .
+1) The major cellular clearance pathway for organelle and unwanted proteins is the autophagy-lysosome pathway ( ALP ) .
+2) While the last three are caused by defective lysosomal hydrolases , Niemann-Pick type C is caused by the inability to export LDL-derived cholesterol out of the lysosome .
+3) Little is known about ALP pathology and mitochondrial function in patients with Gaucher and Fabry diseases , and the effects of enzyme replacement therapy ( ERT ) .
+4) With recombinant methods of protein synthesis , it is now possible to literally replace the defective enzymes that underlie the basic pathophysiology of many such disorders .
+5) Deficiency in function of either the NPC1 or NPC2 protein in NPC disease or lysosomal acid lipase in Wolman disease results in defective cellular cholesterol trafficking .
+6) In this review we concentrate on four different lysosomal storage disorders : Niemann-Pick type C , Fabry disease , Gaucher disease and Pompe disease .
+7) Herein we present an ionically cross-linked polyelectrolyte complex ( PEC ) composed of trimethyl chitosan ( TMC ) and α-galactosidase A ( GLA ) , the defective enzyme in Fabry disease , with the capability of directly targeting endothelial cells by incorporating peptide ligands containing the RGD sequence .
+8) Lysosomal storage disorders are currently treated by enzyme replacement therapy ( ERT ) through the direct administration of the unprotected recombinant protein to the patients .
+9) Overall , these results highlight the potential of TMC-based PECs as a highly versatile and feasible drug delivery system for improving the ERT of lysosomal storage disorders .
+--------------------
+List packages for transcription factor binding sites' ( TFBS ) analysis available in R / Bioconductor
+0) Chromatin immunoprecipitation followed by genome tiling array hybridization ChIP-chip is a powerful approach to map transcription factor binding sites TFBSs
+1) It is becoming more and more common that scientists can find multiple data sets for the same transcription factor in different biological contexts or data for different transcription factors in the same biological context
+2) ChIP-seq data for mapping transcription factor binding sites TFBSs have a characteristic pattern around each binding site sequence reads aligned to the forward and reverse strands of the reference genome form two separate peaks shifted away from each other and the true binding site is located in between these two peaks
+3) The purpose of this chapter is to describe how the JAMIE package can be used to perform the integrative data analysis
+4) JAMIE A software tool for jointly analyzing multiple ChIP-chip experiments
+5) While it has been shown previously that the accuracy and resolution of binding site detection can be improved by modeling the pattern efficient methods are unavailable to fully utilize that information in TFBS detection procedure
+6) This chapter introduces a computational tool JAMIE for Jointly Analyzing Multiple ChIP-chip Experiments
+7) JAMIE is based on a hierarchical mixture model and it is implemented as an R package
+8) Similar to other high-throughput genomic technologies ChIP-chip often produces noisy data
+9) PolyaPeak detecting transcription factor binding sites from ChIP-seq using peak shape information
+--------------------
+What are the effects of depleting protein km23-1 ( DYNLRB1 ) in a cell ?
+0) Further , we have reported that the TGFβ receptor ( TβR ) - interacting protein km23-1 plays an important role in TGFβ signal transduction ( Jin , Q. , Ding , W. , and Mulder , K. M. ( 2007 ) J. Biol .
+1) Sucrose gradient analyses indicate that km23-1 was present in lipid rafts together with Ras and TβRII after TGFβ treatment .
+--------------------
+Is the gene DUX4 epigenetically regulated in somatic cells ?
+0) For example , HEY1 , a repressor of myogenesis , is activated by DUX4 through a MaLR promoter .
+1) In FSHD , the combination of inefficient chromatin silencing of the D4Z4 repeat and polymorphisms on the FSHD-permissive alleles that stabilize the DUX4 mRNAs emanating from the repeat result in inappropriate DUX4 protein expression in muscle cells .
+--------------------
+Which are the clinical characteristics of isolated Non-compaction cardiomyopathy ?
+0) Isolated left ventricular non-compaction ( LVNC ) is a rare disorder , classified as a primary genetic cardiomyopathy by the American Heart Association or as an unclassified cardiomyopathy by the European Society of Cardiology Working Group on Myocardial and Pericardial Diseases .
+1) Isolated Left Ventricular Non Compaction Cardiomyopathy ( LVNCC ) is a rare genetic cardiomyopathy characterized by a thickened left ventricle with two distinct layers - an inner noncompacted ( spongy ) layer and an outer compact ( dense ) layer .
+2) Isolated left ventricular non-compaction ( LVNC ) is a rare genetic form of cardiomyopathy ( CM ) characterized by prominent left ventricular wall trabeculation and intertrabecular recesses communicating with the ventricular cavity .
+3) Isolated left ventricular non-compaction ( LVNC ) is a rare cardiomyopathy characterized by prominent trabeculations and deep intratrabecular recesses .
+4) Methods and Results We describe , in two separate autosomal-dominant NCCM families , the identification of mutations in the sarcomeric cardiac beta-myosin heavy chain gene ( MYH7 ) , known to be associated with hypertrophic cardiomyopathy ( HCM ) , restricted cardiomyopathy ( RCM ) , and dilated cardiomyopathy ( DCM ) .
+5) Mutations in its encoding gene have been identified in patients with isolated non-compaction of the left ventricular myocardium , dilated cardiomyopathy ( DCM ) and hypertrophic cardiomyopathy .
+6) Isolated left ventricular non-compaction ( LVNC ) is a rare cardiomyopathy that leads to severe clinical complications .
+7) Isolated left ventricular noncompaction ( LVNC ) is a rare cardiomyopathy characterized by excessive and prominent trabeculations associated with deep recesses that communicate with the ventricular cavity .
+8) Left ventricular non-compaction cardiomyopathy ( LVNC ) is a rare disorder characterized by a thick myocardial wall with two distinct layers consisting of compacted and noncompacted myocardium .
+9) Isolated left ventricular non-compaction ( LVNC ) is an uncommon primary cardiomyopathy associated with significant risk of thromboembolic stroke .
+--------------------
+Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema ?
+0) It is suggested that immunological processes and several mediator systems ( bradykinin , histamine , substance P and prostaglandins ) are involved in the pathogenesis of angioedema .
+1) Preclinical and clinical studies for the elucidation of the underlying mechanism ( s ) of ACE inhibitor-associated angioedema have not generated definite conclusions .
+--------------------
+Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes ?
+--------------------
+Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease ?
+0) The findings of the present randomized double-blind placebo-controlled trial clearly support the efficacy of H. persicum fruit extract as a safe antioxidant supplement in subjects with minimal CAD
+1) The current results strongly suggest that Zn may have a protective effect in non-coronary atherosclerosis and indicate that this element may exert its anti-inflammatory and antioxidant functions through interactions with PON1 activity
+2) This study aimed to investigate the efficacy of supplementation with Heracleum persicum fruit-a common dietary spice-in modulating systemic biomarkers of oxidative stress in subjects undergoing coronary angiography
+3) Healthy controls were matched for sex age body weight and relevant genotype variants
+4) Twenty-seven subjects with minimal coronary artery disease CAD defined as 50 obstruction in the coronary arteries were selected for this trial and were randomly allocated to Heracleum persicum hydroalcoholic fruit extract n 15 300 mg/day or placebo n 12 for a period of six months
+5) Oxidative stress is a unifying feature of several cardiometabolic risk factors and has been suggested to be implicated in atherogenesis
+6) Comparison of changes in the evaluated biomarkers of oxidative stress indicated a significantly greater effect of H. persicum extract versus placebo in reducing serum MDA p .001 and elevating GSH p .001 and TAC p .001 concentrations as well as activities of GPx p .001 and CAT p .001
+7) In particular the periodic evaluation of serum trace elements and the prescription of Zn supplements are easy measures to implement and that can improve the treatment of patients with LEAD
+8) The only variable associated with ankle-brachial index was serum Zn
+9) Oxidative stress and inflammation are candidate mechanisms to explain the potential role of exposure to metals and reduced activity of paraoxonase-1 PON1 in age-related diseases
+--------------------
+What is the role of the RUNX1-MYEF2 complex ?
+0) We used a tagging strategy to show that RUNX1 interacts with two novel protein partners LSD1 and MYEF2 in erythroid cells
+1) A novel complex RUNX1-MYEF2 represses hematopoietic genes in erythroid cells
+2) RUNX1 is known to be an essential transcription factor for generating hematopoietic stem cells HSC but much less is known about its role in the downstream process of hematopoietic differentiation
+3) RUNX1 has been shown to be part of a large transcription factor complex together with LDB1 GATA1 TAL1 and ETO2 N. Meier et al. Development 133:4913 -4923 2006 in erythroid cells
+4) Functional analysis shows that a subset of the target genes is suppressed by RUNX1 via the newly identified partner MYEF2
+5) MYEF2 is bound in undifferentiated cells and is lost upon differentiation whereas LSD1 is bound in differentiated cells
+6) Knockdown of Myef2 expression in developing zebrafish results in a reduced number of HSC
+7) Chromatin immunoprecipitation followed by sequencing ChIP-seq and microarray expression analysis were used to show that RUNX1 binds approximately 9,000 target sites in erythroid cells and is primarily active in the undifferentiated state
+--------------------
+Gene silencing can be achieved by RNA interference ( RNAi ) in eukaryotic organisms . What is the name of the analogous process in prokaryotic organisms ?
+0) Presented in this review are novel RNAi therapies based on CRISPR-Cas analogs and the potential for future therapies based on CRISPR-Cas system components
+1) The CRISPR-Cas system is analogous to small RNAs involved in resistance mechanisms throughout the tree of life and a deeper understanding of the evolution of small RNA pathways is necessary before the relationship between these convergent systems is to be determined
+2) Despite the fast evolution that is typical of the cas genes the presence of diverse versions of the RRM in most Cas proteins provides for a simple scenario for the evolution of the three distinct types of CRISPR-cas systems
+3) The majority of the Cas proteins contain diverse variants of the RNA recognition motif RRM a widespread RNA-binding domain
+4) Diversity evolution and therapeutic applications of small RNAs in prokaryotic and eukaryotic immune systems
+5) This suggests that the evolution of the immune system has counterparts among the prokaryotes not exclusively among eukaryotes
+6) Mathematical models have been proposed which simulate the evolutionary patterns of CRISPR however large gaps in our understanding of CRISPR-Cas function and evolution still exist
+7) CRISPR-Cas evolution of an RNA-based adaptive immunity system in prokaryotes
+8) Recent evidence supports that prokaryotes exhibit adaptive immunity in the form of CRISPR Clustered Regularly Interspersed Short Palindromic Repeats and Cas CRISPR associated proteins
+9) The tight association of the CRISPR-Cas immunity systems with predicted toxins that upon activation would induce dormancy or cell death suggests that adaptive immunity and dormancy/suicide response are functionally coupled
+--------------------
+List drugs included in the DHAP-R chemotherapy regiment .
+0) Carboplatin instead of cisplatin in combination with dexamethasone , high-dose cytarabine with or without rituximab ( DHAC + / - R ) is an effective treatment with low toxicity in Hodgkin 's and non-Hodgkin 's lymphomas .
+1) The DHAP regimen ( high-dose cytarabine in combination with dexamethasone and cisplatin ) with or without rituximab ( DHAP + / - R ) is one of the most common regimens in daily practice .
+2) The aim of this study was to evaluate the efficacy and toxicity of two chemotherapy regimens based on platinum and cytarabine in association with etoposide and methylprednisolone ( ESHAP ) or with dexamethasone ( DHAP ) with or without Rituximab ( ± R ) in patients with refractory or a relapsed Primary Central Nervous System Lymphoma ( PCNSL ) .
+3) The Dexamethasone , Cytarabine , Carboplatin ( DHAC ) regimen consisted of carboplatin AUC = 5 mg/ml/min ( targeted area under the curve with Calvert 's formula ) on day 1 , cytarabine 2 g/mtwice a day on day 2 and IV dexamethasone 40 mg from days 1 to 4 .
+4) The purpose was to assess the toxicity of the DHAC + / - R regimen in real-life .
+5) Cisplatin nephrotoxicity is a major concern , and other platinum compounds are being tried .
+6) All consecutive patients from two French centers with refractory or relapsed PCNSL treated with ESHAP/DHAP ± R were included .
+7) Intensive chemotherapy and hematopoietic stem cell rescue ( IC + HCR ) was offered to patients less than 65 years of age and consisted of high-dose thiotepa , busulfan and cyclophosphamide .
+8) Rituximab was administrated at 375 mg/mon day 1 for CD20 + NHL .
+9) These results were compared with two previously reported series of PCNSL patients treated with the CYVE ( high-dose cytarabine and etoposide ) regimen at relapse .
+--------------------
+What is the relationship between TailorX and Oncotype ?
+0) The TAILORx trial uses the Oncotype DX recurrence score to assign estrogen receptor-positive ER node-negative patients to chemotherapy plus hormonal therapy versus hormonal therapy alone
+1) We tested if Oncotype DX and TAILORx risk categories could be predicted by standard pathological features and protein markers corresponding to 10 genes in the assay ER PR Ki67 HER2 BCL2 CD68 Aurora A kinase survivin cyclin B1 and BAG1 on 52 patients who enrolled on TAILORx
+2) Prediction of Oncotype DX and TAILORx risk categories using histopathological and immunohistochemical markers by classification and regression tree CART analysis
+3) In conclusion CART revealed key predictors including proliferation markers PR and nuclear pleomorphism that correctly classified over two thirds of ER-positive NN cancers into Oncotype DX and TAILORx risk categories
+4) In a series of 177 breast carcinomas we found that the Oncotype DX Recurrence Score RS was correlated with six pathobiologic features estrogen receptor progesterone receptor and human epidermal growth factor receptor 2 status and the three components of the Nottingham tumor grade
+5) Oncotype DX PAM50 and MammaPrint are multigene tests that are being used clinically for early-stage breast cancer to predict recurrence risk and guide adjuvant chemotherapy decisions
+6) Oncotype DX is an RT-PCR assay used to predict which patients with ER-positive node-negative NN disease will benefit from chemotherapy
+7) Each patient is stratified into a risk category based on a recurrence score RS and the TAILORx trial is determining the benefit of chemotherapy for patients with mid-range RSs
+8) To evaluate the ability to guide treatment decisions in the group with a mid-range recurrence score the North American Cooperative Groups developed the Trial Assessing IndiviuaLized Options for Treatment for breast cancer a randomized trial of chemotherapy followed by hormonal therapy versus hormonal therapy alone on invasive disease-free survival-ductal carcinoma in situ IDFS-DCIS survival in women with node-negative estrogen-receptor-positive breast cancer with a recurrence score of 11-25
+9) Genome sequencing can potentially identify the molecular abnormalities that underlie the poor risk identified by multigene tests and provide potential new targets for therapy but more clinical trials correlating clinical outcome and somatic DNA changes are needed
+--------------------
+ROSIER scale is used for which disorder ?
+0) In Study 2 , ratings of short - and long-term hedonic loss stemming from paraplegia and chronic back pain showed that neither laypeople nor professionals understood that hedonic loss is domain-specific .
+--------------------
+What is known about MER41 repeat sequences ?
+0) Annotations and the combined previously known and new 5,420 repeat sequences corresponding to 47 of the genome are available for download http://methdb.univ-perp.fr/downloads/
+1) Because non-repetitive sequence including the same sequence as forward primer exists among these repeat sequences a pair of primers for the DYS389 locus give two amplification products DYS389 I and DYS389 II both of which are polymorphic
+2) The dual role of DUS in transformation and as a structural component on RNA affecting transcription makes this a relevant model system for assessing significant roles of repeat sequences in biology
+3) The only known repeat on this paternal sex ratio PSR chromosome is the 45S rDNA which includes here five different internal transcribed spacer 2 ITS2 sequences
+4) A family of related sequences that includes approximately 500,000 members is the most prominent short dispersed repeat family in primate and rodent DNA 's
+5) One of the most compelling reasons for the study of repetitive DNA sequence in the human genome has been the instability of simple repeat sequences associating with a growing and an interesting group of disorders affecting the neurological neuromuscular or developmental processes
+6) Members of the NF-kappa B/rel family of transcription factors are regulated through a trans association with members of a family of inhibitor proteins collectively known as I kappa B proteins that contain five to eight copies of a 33-amino-acid repeat sequence ankyrin repeat
+7) To address the question if plant simple repeat sequences are variable as in mammals GT n and CT n microsatellites were isolated from B.napus
+8) These data argue that genetic variation is not as inhibitory to HIV-1 repeat deletion as it is to the corresponding cellular process and suggest that for sequences that differ by about 25 or more HIV-1 recombination directed by sequence homology may be no more frequent than that which is homology independent
+9) Using biotinylated repeat oligonucleotides coupled with streptavidin-coated magnetic beads and rapid single-pass hybridization we were able to enrich our plasmid library greater than two-fold for repeat sequences and increase the ability to link these ESTs with known sequences greater than six-fold
+--------------------

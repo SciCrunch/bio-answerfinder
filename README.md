@@ -13,8 +13,9 @@ A question answering system for biomedical literature.
 The datasets generated during and/or analysed during the current study are available 
 in the Zenodo repository.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2597595.svg)](https://doi.org/10.5281/zenodo.2597595)
-This includes learned GloVE vectors,
-vocabulary, named entity databases, nominalization, acronym and morphology databases.
+
+
+This includes learned GloVE vectors, vocabulary, named entity databases, nominalization, acronym and morphology databases.
 
 The system is configured by a configuration file. An example configuration file is provided in the project 
 `src/main/resources/bio-answerfinder.properties.example`.
@@ -110,8 +111,8 @@ To be used by the Python 3 script `scripts/show_perfomance.py`
 *  data/evaluation/biobert_perf_records.json
 
 
-Due to its size (over 40GB) Pubmed abstracts ElasticSearch index is not provided. It can be generated using our 
-ETL system Foundry available in GitHub `https://github.com/biocaddie/Foundry-ES`. 
+Due PubMed license restrictions, Pubmed abstracts ElasticSearch index cannot be provided. i
+It can be generated using our ETL system Foundry available in GitHub `https://github.com/biocaddie/Foundry-ES`. 
 
 ## Building
 
@@ -120,6 +121,8 @@ gradle clean war
 ```
 
 Then deploy to Tomcat or any Java web app container.
+
+
 For any questions, please contact iozyurt@ucsd.edu.
 
 

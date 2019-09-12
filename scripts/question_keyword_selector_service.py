@@ -43,15 +43,15 @@ def prep_data(data, max_length, glove_handler, gv_dim=100):
 
 
 class Predictor:
+
     def __init__(self, db_file, model_path, pos_idx_map_json_file, recurrent=True):
         self.max_length = 40
         self.gv_dim = 100
         self.glove_handler = GloveHandler(db_file)
         self.recurrent = recurrent
-        # with open(pos_idx_map_json_file, 'r') as f:
-        #    self.pos_idx_map = json.load(f)
+        with open(pos_idx_map_json_file, 'r') as f:
+            self.pos_idx_map = json.load(f)
         if recurrent:
-            # self.model = self.build_lstm_model(len(self.pos_idx_map))
             self.model = self.build_lstm_model()
         else:
             self.model = self.build_model_v3(len(self.pos_idx_map))
@@ -65,25 +65,26 @@ class Predictor:
             pred_X = pred_X.reshape(1, self.max_length, self.gv_dim)
         print("pred_X.shape:", pred_X.shape)
         y_pred = self.model.predict(pred_X)
-        json_str = json.dumps(y_pred[0].tolist(), separators=(',', ': ') )
-        return  json_str
+        json_str = json.dumps(y_pred[0].tolist(), separators=(',', ': '))
+        return json_str
 
     def predict_v3(self, question, pos_list):
-        pred_pos = utils.prep_pos_data([pos_list], self.max_length, self.pos_idx_map)
+        pred_pos = utils.prep_pos_data([pos_list], self.max_length,
+                                       self.pos_idx_map)
         pred_X = prep_data([question], self.max_length, self.glove_handler)
         if self.recurrent:
             pred_X = pred_X.reshape(1, self.max_length, self.gv_dim)
+            pred_pos = pred_pos.reshape(1, self.max_length,
+                                        len(self.pos_idx_map));
         print("pred_X.shape:", pred_X.shape)
         print('pred_pos:', pred_pos.shape)
         y_pred = self.model.predict([pred_X, pred_pos])
-        json_str = json.dumps(y_pred[0].tolist(), separators=(',', ': ') )
-        return  json_str
-
+        json_str = json.dumps(y_pred[0].tolist(), separators=(',', ': '))
+        return json_str
 
     def close(self):
         if self.glove_handler:
             self.glove_handler.close()
-
 
     def build_model_v3(self, pos_dim, gv_dim=100, max_length=40):
         question_input = Input((gv_dim * max_length,), dtype='float32')
@@ -93,44 +94,30 @@ class Predictor:
         concatenated = layers.concatenate([q_layer, pos_layer], axis=-1)
         out = layers.Dense(max_length, activation='sigmoid')(concatenated)
         model = Model([question_input, pos_input], out)
-        #model.summary()
+        # model.summary()
         sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
         model.compile(loss='binary_crossentropy', optimizer=sgd, metrics=['acc'])
         return model
 
-
-    def build_lstm_model_v3(self, pos_dim, gv_dim=100, max_length=40):
-        question_input = Input((max_length, gv_dim), dtype='float32')
-        pos_input = Input((pos_dim * max_length,), dtype='float32')
-        q_layer = layers.LSTM(max_length, return_sequences=True)(question_input)
-        flattened = layers.Flatten()(q_layer)
-        pos_layer = layers.Dense(10, activation='relu')(pos_input)
-        concatenated = layers.concatenate([flattened, pos_layer], axis=-1)
-        out = layers.Dense(max_length, activation='sigmoid')(concatenated)
-        model = Model([question_input, pos_input], out)
-        #model.summary()
-        model.compile(loss='binary_crossentropy', optimizer="rmsprop",
-                    metrics=['acc'])
-        return model
-
     def build_lstm_model(self, gv_dim=100, max_length=40):
         model = Sequential()
-        model.add(LSTM(max_length, dropout=0.2,
-                    recurrent_dropout=0.2, 
-                    return_sequences=True,
-                    input_shape=(max_length, gv_dim)))
+        model.add(LSTM(40, dropout=0.21,
+                  recurrent_dropout=0.29,
+                  return_sequences=True,
+                  input_shape=(max_length, gv_dim)))
         model.add(Flatten())
         model.add(Dense(max_length, activation='sigmoid'))
 
         model.compile(loss='binary_crossentropy', optimizer="rmsprop",
-                metrics=['acc'])
+                      metrics=['acc'])
         return model
+
 
 def setup():
     home = expanduser("~")
     db_file = home + "/medline_glove_v2.db"
-    model_path = "models/qsc_glove_model.h5"
-    pos_idx_map_json_file = "/tmp/qsc_pos_idx_map.json"
+    model_path = "models/qsc_glove_rank_data_model.h5"
+    pos_idx_map_json_file = "models/qsc_pos_idx_map.json"
     predictor = Predictor(db_file, model_path, pos_idx_map_json_file)
     return predictor
 
@@ -140,9 +127,10 @@ def cleanup():
     if predictor:
         predictor.close()
 
-app = Flask(__name__)
 
+app = Flask(__name__)
 predictor = setup()
+
 
 @app.route('/qks', methods=['POST'])
 def select_search_keywords():

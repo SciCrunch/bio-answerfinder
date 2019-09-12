@@ -59,6 +59,35 @@ public class DependencyTreeFactory {
         }
         return null;
     }
+
+    public enum TriState {
+        YES, NO, UNKNOWN
+    }
+
+    public static TriState isSingularNoun(String token) {
+        try {
+            TermMorphRecord n = lemmanizer.getLemma(token, "N");
+            if (n != null) {
+                return n.isSingular() ? TriState.YES : TriState.NO;
+            }
+        } catch (MorphException e) {
+            e.printStackTrace();
+        }
+        return TriState.UNKNOWN;
+    }
+
+    public static TriState isPluralNoun(String token) {
+        try {
+            TermMorphRecord n = lemmanizer.getLemma(token, "N");
+            if (n != null) {
+                return n.isPlural() ? TriState.YES : TriState.NO;
+            }
+        } catch (MorphException e) {
+            e.printStackTrace();
+        }
+        return TriState.UNKNOWN;
+    }
+
     public static String getLemmaOrToken(String token, String posTag) {
         String lemma = getLemma(token, posTag);
         return lemma != null ? lemma : token;

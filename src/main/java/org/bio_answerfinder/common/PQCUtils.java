@@ -32,6 +32,9 @@ public class PQCUtils {
         }
         return true;
     }
+    public static String prepESTerm(SearchQuery.SearchTerm st) {
+        return prepESTerm(st, true);
+    }
 
     public static String prepTerm(SearchQuery.SearchTerm st) {
         if (st.isPhrase()) {
@@ -57,8 +60,9 @@ public class PQCUtils {
         return st.getTerm() + "[All Fields]";
     }
 
-    public static String prepESTerm(SearchQuery.SearchTerm st) {
-        String suffix = ( new StringBuilder()).append("^").append(NumberUtils.formatDecimal(st.getWeight(), 1)).toString();
+    @SuppressWarnings("Duplicates")
+    public static String prepESTerm(SearchQuery.SearchTerm st, boolean includeWeights) {
+        String suffix = (new StringBuilder()).append("^").append(NumberUtils.formatDecimal(st.getWeight(), 1)).toString();
         if (st.isPhrase()) {
             String phrase = st.getTerm();
             if (phrase.startsWith("most")) {
@@ -76,10 +80,17 @@ public class PQCUtils {
             } else if (phrase.endsWith(" '")) {
                 phrase = phrase.substring(0, phrase.length() - 2).trim();
             }
-
-            return "\"" + phrase + "\"" + suffix;
+            if (includeWeights) {
+                return "\"" + phrase + "\"" + suffix;
+            } else {
+                return "\"" + phrase + "\"";
+            }
         }
-        return st.getTerm() + suffix;
+        if (includeWeights) {
+            return st.getTerm() + suffix;
+        } else {
+            return st.getTerm();
+        }
     }
 
     public static boolean allNonPhrase(SearchQuery.QueryPart qp) {

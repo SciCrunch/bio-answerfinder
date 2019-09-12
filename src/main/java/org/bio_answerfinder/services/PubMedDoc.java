@@ -32,6 +32,12 @@ public class PubMedDoc {
         this.pmid = pmid;
     }
 
+    public PubMedDoc(String pmid, String title, String documentAbstract) {
+        this.pmid = pmid;
+        this.title = title;
+        this.documentAbstract = documentAbstract;
+    }
+
     public String getTitle() {
         return title;
     }

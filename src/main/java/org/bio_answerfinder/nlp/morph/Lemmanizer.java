@@ -141,7 +141,7 @@ public class Lemmanizer implements ILemmanizer {
         int idx = 0;
         while (stok.hasMoreTokens()) {
             String recStr = stok.nextToken();
-            StringTokenizer st = new StringTokenizer(recStr, "\t ");
+            StringTokenizer st = new StringTokenizer(recStr, "\t");
             String baseWord = st.nextToken();
             if (!st.hasMoreTokens()) {
                 System.err.println(recStr);

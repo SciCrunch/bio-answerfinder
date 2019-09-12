@@ -63,7 +63,7 @@ public class QAEngineBase {
         vocabulary = SearchQueryGenErrorAnalyzer.loadVocabularyWithWeights();
         sentencePipeline = new StanfordSentencePipeline();
         // this.ngramSet = SQLiteUtils.loadPhraseSet(HOME_DIR + "/data/medline_index/tv.db");
-        Properties props = FileUtils.loadProperties("/bio-answerfinder.properties");
+        Properties props = FileUtils.loadProperties("bio-answerfinder.properties");
         String dbFile =  FileUtils.adjustPath(props.getProperty("term_vectors.db.file"));
         Assertion.assertExistingPath(dbFile, dbFile);
         this.ngramSet = SQLiteUtils.loadPhraseSet(dbFile);

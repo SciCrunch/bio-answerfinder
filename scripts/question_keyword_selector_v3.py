@@ -16,7 +16,9 @@ import numpy as np
 import utils
 from glove_handler import GloveHandler
 
+from keras_self_attention import SeqSelfAttention
 
+np.random.seed(1337841)
 random.seed(1337841)
 
 
@@ -143,6 +145,7 @@ def train_full(data_map, db_file, recurrent=False):
     if recurrent:
         # for recurrent networks
         train_X = train_X.reshape(len(train_data), max_length, gv_dim)
+        train_pos = train_pos.reshape(len(train_data), max_length, len(pos_idx_map))
 
     print("train_X:", train_X.shape)
     glove_handler.close()
@@ -154,7 +157,7 @@ def train_full(data_map, db_file, recurrent=False):
     history = model.fit([train_X, train_pos], train_labels,
                         epochs=40,
                         batch_size=32)
-    model_path = "/tmp/qsc_glove_model.h5"
+    model_path = "/tmp/qsc_glove_mi_model.h5"
     model.save_weights(model_path)
     print(history.history)
     print("saved model to {}".format(model_path))
@@ -234,28 +237,19 @@ def build_model(pos_dim, gv_dim=100, max_length=40):
 
 def build_lstm_model(pos_dim, gv_dim=100, max_length=40):
     question_input = Input((max_length, gv_dim), dtype='float32')
-    # orig
-    # pos_input = Input((pos_dim * max_length,), dtype='float32')
     pos_input = Input((max_length, pos_dim), dtype='float32')
     q_layer = layers.LSTM(max_length, return_sequences=True,
                           dropout=0.2, 
                           recurrent_dropout=0.2)(question_input)
     flattened = layers.Flatten()(q_layer)
-    # orig
-    # pos_layer = layers.Dense(10, activation='relu')(pos_input)
+    #pos_layer = layers.Dense(10, activation='relu')(pos_input)
     pos_layer = layers.LSTM(10, return_sequences=True)(pos_input)
+    # pos_layer = SeqSelfAttention(attention_activation='sigmoid')(pos_layer)
     pos_layer = layers.Flatten()(pos_layer)
     concatenated = layers.concatenate([flattened, pos_layer],
                                       axis=-1)
     out = layers.Dense(max_length, activation='sigmoid')(concatenated)
     model = Model([question_input, pos_input], out)
-    # model = Sequential()
-    # model.add(Bidirectional(LSTM(max_length, return_sequences=True)))
-    # model.add(LSTM(max_length, return_sequences=True,
-    #               input_shape=(max_length, gv_dim)))
-    # model.add(Flatten())
-    # model.add(Dense(max_length, activation='sigmoid'))
-    # model.add(Dropout(0.1))
     model.summary()
 
     model.compile(loss='binary_crossentropy', optimizer="rmsprop",
@@ -310,6 +304,14 @@ def main():
     pos_file = data_dir + "/qsc_set_pos_tags_train.txt"
     test_file = data_dir + "/qsc_set_test.txt"
     test_pos_file = data_dir + "/qsc_set_pos_tags_test.txt"
+    
+    data_dir = home + "/dev/java/bio-answerfinder/data/rank_test"
+    train_file = data_dir + "/rank_train_data.dat"
+    pos_file = data_dir + "/rank_train_pos_data.dat"
+    test_file = data_dir + "/rank_test_data.dat"
+    test_pos_file = data_dir + "/rank_test_pos_data.dat"
+
+
     db_file = home + "/medline_glove_v2.db"
     data, labels = utils.load_qsc_data(train_file)
     pos_data, _, pos_idx_map = utils.load_qsc_pos_data(pos_file)
@@ -327,8 +329,8 @@ def main():
                 'pos_idx_map': pos_idx_map}
 
     # train(data_map, db_file, recurrent=True)
-    train_cv(data_map, db_file, recurrent=True)
-    #train_full(data_map, db_file, recurrent=True)
+    #train_cv(data_map, db_file, recurrent=True)
+    train_full(data_map, db_file, recurrent=True)
 
 
 if __name__ == '__main__':

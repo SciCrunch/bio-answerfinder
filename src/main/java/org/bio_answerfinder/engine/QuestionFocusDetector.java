@@ -456,7 +456,7 @@ public class QuestionFocusDetector {
 
     public static void main(String[] args) throws Exception {
         // testDriver();
-        prepQuestionTypeAnnotationCSVFile();
-        // showEntityTypes4FocusWords();
+        //prepQuestionTypeAnnotationCSVFile();
+       // showEntityTypes4FocusWords();
     }
 }

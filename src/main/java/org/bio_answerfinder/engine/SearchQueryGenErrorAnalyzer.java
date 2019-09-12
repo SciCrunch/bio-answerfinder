@@ -22,7 +22,7 @@ public class SearchQueryGenErrorAnalyzer {
         double N = 16820914;
         TObjectFloatHashMap<String> vocabulary = new TObjectFloatHashMap<>();
         //String indexSqliteFile = HOME_DIR + "/data/medline_index/tv.db";
-        Properties props = FileUtils.loadProperties("/bio-answerfinder.properties");
+        Properties props = FileUtils.loadProperties("bio-answerfinder.properties");
         String dbFile =  FileUtils.adjustPath(props.getProperty("term_vectors.db.file"));
         Assertion.assertExistingPath(dbFile, dbFile);
         Connection con = DriverManager.getConnection("jdbc:sqlite:" + dbFile);

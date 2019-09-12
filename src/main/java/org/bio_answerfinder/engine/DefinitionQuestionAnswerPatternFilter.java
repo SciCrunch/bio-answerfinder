@@ -3,6 +3,7 @@ package org.bio_answerfinder.engine;
 
 import gnu.trove.map.hash.TObjectFloatHashMap;
 import org.bio_answerfinder.DataRecord;
+import org.bio_answerfinder.engine.query.SearchQueryGenerator;
 import org.bio_answerfinder.services.*;
 import org.bio_answerfinder.common.SearchQuery;
 import org.bio_answerfinder.util.Assertion;

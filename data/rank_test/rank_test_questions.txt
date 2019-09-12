@@ -1,0 +1,100 @@
+What is the association between GERD and gluten ?
+Are genes symmetrically distributed between leading and lagging DNA strand in bacteria ?
+Is there any link between conserved noncoding elements and alternative splicing in vertebrates ?
+Which molecule is targeted by the drug Gevokizumab ?
+Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation ?
+List FDA approved treatments for androgenetic allopecia
+List fluorescent reporter proteins .
+Which protein is affected by dusp8 activation ?
+Is the long non- coding RNA malat-1 up or downregulated in cancer ?
+In which cells are gasdermins expressed ?
+Which proteins act as factors that promote transcription-coupled repair in bacteria ?
+In which diseases have electronic patient diaries been applied ?
+Is COL5A2 gene associated to ischemic heart disease ?
+Does thyroid hormone receptor beta1 affect insulin secretion ?
+What are the mobile applications fields of use for patients ?
+What types of DNA mutations are induced by 2-hydroxy-dATP ( 2-OH-dATP ) ?
+Can botulism poisoning of a pregnant woman harm her fetus ?
+Has silicon been used in treatment of incontinence ?
+List human proteins that are subject to a dimer-to-tetramer transition .
+What is the incidence of Edwards syndrom in the european population ?
+Which genes are regulated by MEF-2 in the heart ?
+List clinical trials for prevention of sarcopenia
+Are there interactomes available for POU5F1 and SOX2 ?
+Give an overview of visualizing genomes with oligopaint FISH probes .
+Which gene has been implicated in Majeed Syndrome ?
+What histone trimethylation has been associated to RNA splicing ?
+Which is the main regulatory molecule of SERCA2A function in the cardiac muscle ?
+Are thyroid hormone receptors implicated in arterial hypertension ?
+What type of cancers and inherited diseases have been associated to mutations in the Notch pathway ?
+Against which organisms has reverse vaccinology been used ?
+Which mitochondrial genes are regulated by thyroid hormone ?
+Is Alpers disease inherited in an autosomal recessive mode ?
+Which packages are used for performing overlap analysis of genomic regions in R / bioconductor ?
+What are the reported adverse effects of topical minoxidil ?
+Which cellular processes are regulated by Nanog ?
+What is the treatment of Riedel disease ( thyroiditis ) ?
+Which post-translational histone modifications are characteristic of facultative heterochromatin ?
+Which cyclin- dependent kinase inhibitor is regulated by Bmi-1 ?
+Can RNAPolII function as an RNA-dependent RNA-polymerase ?
+List proteins of lipids droplets
+Is Calcium homeostasis important in cardiac physiology and pathophysiology ?
+Do proton pump inhibitors affect thyroxine absorption ?
+Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome ?
+The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies . Which protein are they targeting ?
+From which sequence does the Alu repeat originate from ?
+How is mTORC1 involved in the regulation of heat stress ?
+Which myosin isozymes are located within the pericuticular necklace of the hair cell ?
+Are nucleosomes positioned at DNA replication origins ?
+Name five programs for transcript quantification from RNASeq experiments
+Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome ?
+What are the Topological Domains ( TADs ) ?
+Which molecule is targeted by a monoclonal antibody Secukinumab ?
+DX-88 is investigational name of which drug ?
+Which are the main histone modifications associated with enhancers ?
+What is the enzymatic activity of the breast cancer associated gene BRCA1 ?
+Is there any link between the aurora B kinase and the polycomb protein ring1B ?
+Is insulin-like growth factor-I ( IGF-I ) able to affect tendon protein synthesis in classic Ehlers-Danlos syndrome patients ?
+To what extent does HPV vaccination reduce the risk for cervical cancer ?
+Tumor-treating fields are effective for treatment of which cancers ?
+What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients ?
+Is Crohn 's disease ( CD ) linked to the consumption of refrigerated food ?
+What is needed for MMP proteins to be functional ?
+What are the skeletal muscle satellite cells ?
+Which is the execution time ( complexity ) of the Smith-Waterman algorithm for the alignment of two sequences
+Are adenylyl cyclases always transmembrane proteins ?
+How does thyroid hormone regulate mitochondrial biogenesis in the myocardium ?
+What is the mechanism of cementogenesis in pulp regeneration ?
+Which are the subunits of the transcription factor NF-kappaB in the canonical pathway activation ?
+Which are the genes thought to be regulated by EWS / FLI ?
+Which are the enzymes involved in the addition of 7-methylguanosine in mRNA ?
+List all articles on network meta-analysis for smoking cessation
+Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity ?
+How many periods of regulatory innovation led to the evolution of vertebrates ?
+Which are the state-of-the-art computational tools for the prediction of gene fusion events ?
+Which is the definition of pyknons in DNA ?
+Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome ?
+Which molecule is targeted by a monoclonal antibody Mepolizumab ?
+Which kinase is inhibited by Tripolin A ?
+Which are the different proteins / isoforms encoded but the ASPH ( aspartate beta-hydroxylase ) gene in humans ?
+What is known as the cause of subacute thyroiditis ?
+The protein neprilysin has an positive effect on Alzheimer disease , how can it be delivered to the brain ?
+Which are the bioinformatics tools for gene structure prediction ?
+How is myotonic dystrophy inherited ?
+Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies ?
+Which are the newly identified DNA nucleases that can be used to treat thalassemia ?
+Which diseases are associated with Alu element insertion ?
+Which is the defective protein causing the lysosomal storage disease Fabry ?
+List packages for transcription factor binding sites' ( TFBS ) analysis available in R / Bioconductor
+What are the effects of depleting protein km23-1 ( DYNLRB1 ) in a cell ?
+Is the gene DUX4 epigenetically regulated in somatic cells ?
+Which are the clinical characteristics of isolated Non-compaction cardiomyopathy ?
+Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema ?
+Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes ?
+Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease ?
+What is the role of the RUNX1-MYEF2 complex ?
+Gene silencing can be achieved by RNA interference ( RNAi ) in eukaryotic organisms . What is the name of the analogous process in prokaryotic organisms ?
+List drugs included in the DHAP-R chemotherapy regiment .
+What is the relationship between TailorX and Oncotype ?
+ROSIER scale is used for which disorder ?
+What is known about MER41 repeat sequences ?

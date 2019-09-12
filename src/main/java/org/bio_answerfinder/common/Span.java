@@ -25,4 +25,14 @@ public class Span {
     public int getEndIdx() {
         return endIdx;
     }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Span{");
+        sb.append("token='").append(token).append('\'');
+        sb.append(", startIdx=").append(startIdx);
+        sb.append(", endIdx=").append(endIdx);
+        sb.append('}');
+        return sb.toString();
+    }
 }

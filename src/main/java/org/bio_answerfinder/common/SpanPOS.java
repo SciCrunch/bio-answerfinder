@@ -36,4 +36,15 @@ public class SpanPOS {
     public void setLemma(String lemma) {
         this.lemma = lemma;
     }
+
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("SpanPOS{");
+        sb.append("posTag='").append(posTag).append('\'');
+        sb.append(", span=").append(span);
+        sb.append(", lemma='").append(lemma).append('\'');
+        sb.append('}');
+        return sb.toString();
+    }
 }

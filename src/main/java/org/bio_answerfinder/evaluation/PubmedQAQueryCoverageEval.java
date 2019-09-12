@@ -7,8 +7,10 @@ import org.bio_answerfinder.bioasq.QuestionRecord;
 import org.bio_answerfinder.bioasq.QuestionRecordReader;
 import org.bio_answerfinder.common.*;
 import org.bio_answerfinder.common.QueryCoveragePerfUtil.Coverage;
-import org.bio_answerfinder.common.types.ParseTreeManagerException;
 import org.bio_answerfinder.engine.*;
+import org.bio_answerfinder.engine.query.QuestionKeywordSelectionServiceClient;
+import org.bio_answerfinder.engine.query.SearchQueryGenerator;
+import org.bio_answerfinder.engine.query.SearchQueryOptions;
 import org.bio_answerfinder.kb.LookupUtils2;
 import org.bio_answerfinder.nlp.morph.ILemmanizer;
 import org.bio_answerfinder.services.ElasticSearchService;
@@ -153,7 +155,7 @@ public class PubmedQAQueryCoverageEval {
         QuestionKeywordSelectionServiceClient client = new QuestionKeywordSelectionServiceClient();
         StringBuilder questionBuf = new StringBuilder();
         StringBuilder posTagsBuf = new StringBuilder();
-        prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
+        EngineUtils.prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
         List<String> selectedQueryTerms = client.getSelectedQueryTerms(questionBuf.toString().trim(), posTagsBuf.toString().trim());
         SearchQuery sq = sqGen.generatePubmedQuery(vocabulary, selectedQueryTerms);
         PubmedQueryConstructor2 pqc = new PubmedQueryConstructor2(sq, lemmanizer, lookupUtils);
@@ -172,7 +174,7 @@ public class PubmedQAQueryCoverageEval {
             QuestionKeywordSelectionServiceClient client = new QuestionKeywordSelectionServiceClient();
             StringBuilder questionBuf = new StringBuilder();
             StringBuilder posTagsBuf = new StringBuilder();
-            prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
+            EngineUtils.prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
             List<String> selectedQueryTerms = client.getSelectedQueryTerms(questionBuf.toString().trim(), posTagsBuf.toString().trim());
             if (selectedQueryTerms != null && !selectedQueryTerms.isEmpty()) {
                 sq = sqGen.generatePubmedQuery(vocabulary, selectedQueryTerms, searchQueryOptions);
@@ -243,7 +245,7 @@ public class PubmedQAQueryCoverageEval {
         QuestionKeywordSelectionServiceClient client = new QuestionKeywordSelectionServiceClient();
         StringBuilder questionBuf = new StringBuilder();
         StringBuilder posTagsBuf = new StringBuilder();
-        prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
+        EngineUtils.prepareQuestion4Prediction(dataRecords, questionBuf, posTagsBuf);
         List<String> selectedQueryTerms = client.getSelectedQueryTerms(questionBuf.toString().trim(), posTagsBuf.toString().trim());
         if (selectedQueryTerms != null && !selectedQueryTerms.isEmpty()) {
             sq = sqGen.generatePubmedQuery(vocabulary, selectedQueryTerms, SearchQueryOptions.FILTER);
@@ -326,17 +328,7 @@ public class PubmedQAQueryCoverageEval {
         return pubMedDocs;
     }
 
-    private void prepareQuestion4Prediction(List<DataRecord> dataRecords, StringBuilder questionBuf, StringBuilder posTagsBuf) throws ParseTreeManagerException {
-        for (DataRecord dr : dataRecords) {
-            DataRecord.ParsedSentence ps = dr.getSentences().get(0);
-            List<String> posTags = ps.getPosTags();
-            List<SpanPOS> spList = Utils.tokenizeWithPOS(ps.getSentence(), posTags);
-            for (SpanPOS sp : spList) {
-                questionBuf.append(sp.getToken()).append(' ');
-                posTagsBuf.append(sp.getPosTag()).append(' ');
-            }
-        }
-    }
+
 
     /**
      * read questions from question keyword selector classifier training/testing file
@@ -400,7 +392,10 @@ public class PubmedQAQueryCoverageEval {
         eval.initialize();
 
         //eval.evaluate(qscTestFile, false, SearchQueryOptions.HYBRID_FILTER, false);
-        eval.evaluate(qscTestFile, false, SearchQueryOptions.NONE, false);
+
+        //eval.evaluate(qscTestFile, false, SearchQueryOptions.NONE, false);
+
+        eval.evaluate("/tmp/no_results_qsc_set.txt", false, SearchQueryOptions.HYBRID_FILTER,false);
 
         //eval.checkESSCoverage(qscTestFile);
     }

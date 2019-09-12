@@ -169,9 +169,20 @@ public class FileUtils {
         InputStream is = FileUtils.class.getClassLoader().getResourceAsStream(
                 propsFilename);
         if (is == null) {
-            throw new IOException(
-                    "Cannot find properties file in the classpath:"
-                            + propsFilename);
+            if (!propsFilename.startsWith("/")) {
+                is = FileUtils.class.getClassLoader().getResourceAsStream(
+                        "/" + propsFilename);
+                if (is == null) {
+                    throw new IOException(
+                            "Cannot find properties file in the classpath:"
+                                    + propsFilename + " or /" + propsFilename);
+                }
+
+            } else {
+                throw new IOException(
+                        "Cannot find properties file in the classpath:"
+                                + propsFilename);
+            }
         }
         Properties props = new Properties();
         props.load(is);
