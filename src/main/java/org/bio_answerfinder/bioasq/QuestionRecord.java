@@ -245,5 +245,12 @@ public class QuestionRecord {
             return ai;
         }
 
+        @Override
+        public String toString() {
+            final StringBuilder sb = new StringBuilder("AnswerItem{");
+            sb.append("answers=").append(answers);
+            sb.append('}');
+            return sb.toString();
+        }
     }
 }

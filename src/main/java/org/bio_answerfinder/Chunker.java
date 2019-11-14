@@ -11,6 +11,7 @@ import org.bio_answerfinder.util.SRLUtils;
 import org.bio_answerfinder.util.TagSetUtils;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
@@ -22,6 +23,9 @@ public class Chunker {
 
     public static List<Chunk> extractNPChunks(ParsedSentence parsedSentence) throws ParseTreeManagerException {
         Node root = ParseTreeManager.asParseTree(parsedSentence.getPt());
+        if (root == null) {
+            return Collections.emptyList();
+        }
         String sentence = parsedSentence.getSentence();
         List<Span> spanList = Utils.tokenize(sentence);
 

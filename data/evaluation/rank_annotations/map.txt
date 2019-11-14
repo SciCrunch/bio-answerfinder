@@ -1,0 +1,6 @@
+baseline_kw_retrieval_results.txt - method1_results.txt
+kw_iterative_retrieval_results.txt - method2_results.txt
+rank_retrieval_results.txt -  method3_results.txt
+ensemble_retrieval_results.txt - method4_results.txt
+aknn_retrieval_results.txt - method5_results.txt
+ensemble2_retrieval_results.txt - method6_results.txt

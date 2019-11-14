@@ -10,6 +10,7 @@ import org.jdom2.Element;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * Created by bozyurt on 6/2/17.
@@ -189,6 +190,15 @@ public class DataRecord implements Serializable {
                 prepPosTags();
             }
             return posTags;
+        }
+
+        public List<String> getTokens() throws ParseTreeManagerException {
+            Node root = ParseTreeManager.asParseTree(pt);
+            List<Node> leafNodes = root.getAllLeafNodesBelow();
+            List<String> tokens = new ArrayList<>(leafNodes.size());
+            tokens.addAll(leafNodes.stream().map(n -> ConstituenParserUtils.normalizeSentence(n.getToken()))
+                    .collect(Collectors.toList()));
+            return tokens;
         }
 
         public void addDependency(String dep) {

@@ -146,6 +146,54 @@ public class TagSetUtils {
         return false;
     }
 
+    public static boolean isPronoun(String tag) {
+        int tagCode = posTagSetMap.get(tag);
+        if (tagCode > 0) {
+            return (tagCode == POSTagSet.PP || tagCode == POSTagSet.PRP);
+        }
+        return false;
+    }
+
+    public static boolean isPredeterminer(String tag) {
+        int tagCode = posTagSetMap.get(tag);
+        if (tagCode > 0) {
+            return (tagCode == POSTagSet.PDT);
+        }
+        return false;
+    }
+
+    public static boolean isComparativeOrSuperlativeAdjective(String tag) {
+        int tagCode = posTagSetMap.get(tag);
+        if (tagCode > 0) {
+            return (tagCode == POSTagSet.JJR || tagCode == POSTagSet.JJS);
+        }
+        return false;
+    }
+
+    public static boolean isCardinalNumber(String tag) {
+        int tagCode = posTagSetMap.get(tag);
+        if (tagCode > 0) {
+            return (tagCode == POSTagSet.CD);
+        }
+        return false;
+    }
+
+    public static boolean isAdverb(String tag) {
+        int tagCode = posTagSetMap.get(tag);
+        if (tagCode > 0) {
+            return (tagCode == POSTagSet.RB || tagCode == POSTagSet.RBR || tagCode == POSTagSet.RBS);
+        }
+        return false;
+    }
+
+    public static boolean isConjunction(String tag) {
+        int tagCode = posTagSetMap.get(tag);
+        if (tagCode > 0) {
+            return (tagCode == POSTagSet.CC);
+        }
+        return false;
+    }
+
     public static boolean isAuxOrModal(String tag) {
         int tagCode = posTagSetMap.get(tag);
         if (tagCode > 0) {

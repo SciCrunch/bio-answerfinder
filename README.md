@@ -110,6 +110,20 @@ To be used by the Python 3 script `scripts/show_perfomance.py`
 *  data/evaluation/bert_biobert_comparison.csv
 *  data/evaluation/biobert_perf_records.json
 
+## Datasets for AKTS workshop paper 
+
+Ibrahim Burak Ozyurt, Jeffrey S. Grethe. Iterative Document Retrieval via Deep Learning Approaches for Biomedical Question Answering 
+ in 15th International Conference on eScience (2019). (doi: 10.1109/eScience.2019.00072 )
+
+* data/rank_test (training/testing datasets for NN models)
+* data/rank_annotations (curator rankings for each method tested)
+
+## Exact answers for factoid question evaluation
+
+* data/evaluation/bert_factoid_test_perf.csv
+* data/evaluation/rank_test_factoid_perf.csv
+
+
 
 Due PubMed license restrictions, Pubmed abstracts ElasticSearch index cannot be provided. i
 It can be generated using our ETL system Foundry available in GitHub `https://github.com/biocaddie/Foundry-ES`. 
