@@ -125,8 +125,34 @@ Ibrahim Burak Ozyurt, Jeffrey S. Grethe. Iterative Document Retrieval via Deep L
 
 
 
-Due PubMed license restrictions, Pubmed abstracts ElasticSearch index cannot be provided. i
-It can be generated using our ETL system Foundry available in GitHub `https://github.com/biocaddie/Foundry-ES`. 
+Due PubMed license restrictions, Pubmed abstracts ElasticSearch index cannot be provided.  It can be generated using our ETL system Foundry available in GitHub `https://github.com/biocaddie/Foundry-ES`. 
+
+## Tips for generating ElasticSearch Index from Scratch
+
+* You need about 500GB available space for the processing.
+* Install Elasticsearch (`https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html`)
+* Download PubMed baseline from PubMed FTP site `ftp://ftp.ncbi.nlm.nih.gov/pubmed/baseline` (all files ending with `xml.gz`). 
+* The gzipped XML files contain multiple records for abstracts which needs to be expanded and parsed. The top element of each file is `PubmedArticleSet`. Each abstract record starts with the XML tag `PubmedArticle`. 
+* From each `PubmedArticle` tag, you need to extract the PMID, title and abstract text from the following nested XML tags, 
+    - PMID `MedlineCitation/PMID`
+    - title `MedlineCitation/Article/ArticleTitle`
+    - abstract `MedlineCitation/Article/Abstract/AbstractText`
+* To index the PMID, title and abstract text for each PubMed abstract to Elasticsearch, generate a JSON object of the following form
+```json
+{
+"dc": {
+   "identifier": "<PMID>",
+   "title": "<title>",
+   "description": "<description>"
+ }
+}
+```
+* The JSON objects for the PubMed abstracts can be indexed by using Elasticsearch bulk indexing web API (`https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html`)
+* Assuming the index is generated at the local ES endpoint `http://localhost:9200/pubmed/abstracts`, you need to update your `bio-answerfinder.properties` file to include the line
+```
+elasticsearch.url=http://localhost:9200/pubmed/abstracts
+```
+
 
 ## Building
 
